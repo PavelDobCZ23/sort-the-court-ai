@@ -1,0 +1,18 @@
+{
+  "name": "sort-the-court-ai",
+  "version": "1.0.0",
+  "description": "Interacting with Sort the court using Character.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env --watch index.js"
+  },
+  "author": "PavelDobCZ23",
+  "license": "ISC",
+  "dependencies": {
+    "node_characterai": "^1.2.7",
+    "puppeteer": "^22.11.0",
+    "sharp": "^0.33.4",
+    "tesseract.js": "^5.1.0"
+  }
+}
