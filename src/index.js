@@ -61,6 +61,7 @@ async function main() {
 
 	const roleSelection = (await readInput(`What role do you wanna start? (communist/capitalist)\n`)).toLowerCase();
 	const aiSelection = (await readInput(`What AI do you wanna use? (character/gemini)\n`)).toLowerCase();
+	const sendEventsResponses = (await readInput(`Do you want the AI to recieve events and responses? (y/n)\n`)).toLowerCase();
 
 	console.log(`Starting AI Chatbot(${roleSelection}): ${aiSelection}.`);
 	const bot = BOTS[aiSelection];
