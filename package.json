@@ -2,14 +2,15 @@
   "name": "sort-the-court-ai",
   "version": "1.0.0",
   "description": "Interacting with Sort the court using Character.ai",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env --watch index.js"
+    "start": "node --env-file=.env --watch src/index.js"
   },
   "author": "PavelDobCZ23",
-  "license": "ISC",
+  "license": "GPL v3",
   "dependencies": {
+    "@google/generative-ai": "^0.12.0",
     "node_characterai": "^1.2.7",
     "puppeteer": "^22.11.0",
     "sharp": "^0.33.4",

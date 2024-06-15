@@ -1,0 +1,29 @@
+{
+    "responses-gemini": {
+        "person": {
+            "question": {
+                "communist": {
+                    "y": 3,
+                    "n": 0
+                },
+                "capitalist": {
+                    "y": 1,
+                    "n": 1
+                }
+            }
+        }
+    },
+    "runs": {
+        "id": {
+            "role": "communist",
+            "ai": "gemini",
+            "days": [
+                {
+                    "population": 100,
+                    "hapiness": 100,
+                    "money": 0
+                }
+            ]
+        }
+    }
+}
