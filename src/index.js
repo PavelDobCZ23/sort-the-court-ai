@@ -130,7 +130,6 @@ async function main() {
 	while (true) {
 		const previousStats = Object.assign({},gameStats);
 		const court = await readCourtQuestion(page,ocrWorker,gameStats);
-		console.log(JSON.stringify(court));
 		if (APPEARENCE[court.person] != null) {
 			court.person = `${court.person}(${APPEARENCE[court.person]})`;
 		}
@@ -161,7 +160,6 @@ async function main() {
 			continue;
 		}
 		if (court.event) {
-			console.log('EVENT!!');
 			const eventInfo = await processEvent(page,ocrWorker,gameStats);
 			await page.keyboard.press("Space");
 			
@@ -353,7 +351,7 @@ async function readCourtQuestion(page,ocrWorker,gameStats) {
 		}
 
 		if (VALID_CONTROLS.includes(eventControls)) {
-			console.log("Event controls valid, returning as event!");
+			finished = true;
 			response.event = true;
 			continue;
 		}
