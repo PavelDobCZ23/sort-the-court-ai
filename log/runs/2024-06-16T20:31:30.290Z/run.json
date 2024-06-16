@@ -1,0 +1,44 @@
+{
+  "id": "2024-06-16T20:31:30.290Z",
+  "ai": "gemini",
+  "role": "communist",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 14,
+      "happiness": 99,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": 116,
+      "happiness": 96,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": 123,
+      "happiness": 109,
+      "money": 80,
+      "events": []
+    },
+    {
+      "population": 157,
+      "happiness": 117,
+      "money": 130,
+      "events": []
+    },
+    {
+      "population": 149,
+      "happiness": 107,
+      "money": 130,
+      "events": []
+    },
+    {
+      "population": 153,
+      "happiness": 105,
+      "money": 130,
+      "events": []
+    }
+  ]
+}

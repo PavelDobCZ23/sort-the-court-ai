@@ -1,0 +1,152 @@
+Game: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+AI(communist-gemini): Yes.  
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Courcil of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): Ok. Good, our population is healthy. It's important that we keep the people happy and growing, that will be our focus for now.  
+Game: QUEST: Military General - A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks?
+AI(communist-gemini): Yes.  We need to build our strength, and an alliance can help us do that.  
+Game: RESPONSE: Military General - Sounds good to me, more swords for us! STATS: Population: 115(+15) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): Ok.  This is a good start, but we need to consider how to integrate them into the kingdom without exploiting them.  We need to ensure that they are truly benefiting from this alliance. 
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it?
+AI(communist-gemini): No.  We will not be trading the lives of our people for gold. We will find a way to improve our lives without resorting to such a bargain.  
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 115(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): Ok.  Good, we have stood our ground against exploitation.  We need to keep vigilant, but we have shown that we will not be swayed by such deals.  
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+AI(communist-gemini): No.  We need to focus on the needs of the people, not frivolous entertainment.    
+Game: RESPONSE: Drummer - Badum bum tissss... Bummer... STATS: Population: 115(0) Happiness: 99(-1) Money: 200(0)
+AI(communist-gemini): Ok.   A small drop in happiness, but we cannot afford to be distracted by such things.  We need to prioritize the needs of the people.  
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+AI(communist-gemini): No.  We need to be cautious about unfamiliar creatures, especially those that seem to have magical abilities.  We need to understand the situation before making any decisions.  
+Game: RESPONSE: Pancake(black cat) - Meeeewww.. (Hmm...) STATS: Population: 115(0) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): Ok.   It's good that we have not been swayed by this magical cat.  We need to remain vigilant and ensure that our actions are always guided by our principles.  
+Game: EVENT - Day 1 complete! People are sad, the city is shrinking! STATS: Population: 14(-101) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): Ok. This is a serious setback.  We need to figure out why our population is declining. This is a priority, we need to improve the lives of our people and find out why they are leaving.  
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+AI(communist-gemini): No. We are facing a crisis, we cannot afford to indulge in such luxuries.  We need to focus our resources on solving the problem of our declining population.    
+Game: RESPONSE: Butler - No? Another time, then. STATS: Population: 14(0) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): Ok. We need to prioritize the needs of the people.  It is good that we are making tough choices, even if they are unpopular.    
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+AI(communist-gemini): No. We need to use our resources wisely, and that includes not wasting them on frivolous entertainment.    
+Game: RESPONSE: Jester - Oooohhhh noooooooo.. STATS: Population: 14(0) Happiness: 94(-5) Money: 200(0)
+AI(communist-gemini): Ok.  We are seeing the consequences of our choices. We need to figure out how to improve the lives of the people without resorting to entertainment.   We need to find a balance.  
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say?
+AI(communist-gemini): Yes.  We need skilled workers to help rebuild our kingdom.  It is important to support local businesses and provide opportunities for our people.    
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 17(+3) Happiness: 96(+2) Money: 200(0)
+AI(communist-gemini): Ok.  This is a good start.  We need to encourage more skilled workers to come to our kingdom.  It is important to create a strong and diverse economy.  
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+AI(communist-gemini): No.  We need to be cautious about unknown magic.  We need to ensure that any magic used is beneficial to the people and does not have unintended consequences.    
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 17(0) Happiness: 96(0) Money: 200(0)
+AI(communist-gemini): Ok.   It's good that we are cautious about magic.  We need to be careful about what we introduce into our kingdom.    
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+AI(communist-gemini): No.  We need to be cautious about unfamiliar creatures, especially those that seem to have magical abilities.  We need to understand the situation before making any decisions.    
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 17(0) Happiness: 96(0) Money: 200(0)
+AI(communist-gemini): Ok.  We need to be careful about what we expose ourselves to.  It's important to make decisions based on our own knowledge and understanding.  
+Game: EVENT - Day 2 complete! People are sad, the city is shrinking! STATS: Population: 116(+99) Happiness: 96(0) Money: 200(0)
+AI(communist-gemini): Ok.  It's good that our population is growing, but we need to figure out why people are leaving.  We need to improve the lives of our people, find out what needs to be improved.     
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+AI(communist-gemini): No.  We need to focus on the needs of the people, not frivolous entertainment.    
+Game: RESPONSE: Drummer - Badum bum tissss... Bummer... STATS: Population: 116(0) Happiness: 95(-1) Money: 200(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to entertainment.  We need to find a balance.  We can't let our happiness fall.    
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear..
+AI(communist-gemini): Yes.  It's important to support local businesses and provide opportunities for our people.  Helping our fishermen can improve our food supply.    
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 116(0) Happiness: 98(+3) Money: 100(-100)
+AI(communist-gemini): Ok.  It is good that we have increased our happiness and food supply.  But we need to be careful about spending our money. We need to find a way to generate more wealth.    
+Game: QUEST: Blacksmith - Would you like to purchase any swords for your guards? A well protected city is a happy city!
+AI(communist-gemini): Yes.  It's important to protect our people and ensure their safety.  Investing in our defenses is a necessity.    
+Game: RESPONSE: Blacksmith - Great, I'll have a shipment of swords sent to your barracks. STATS: Population: 116(0) Happiness: 108(+10) Money: 80(-20)
+AI(communist-gemini): Ok.  This is a good investment.  We need to prioritize the safety and security of our people.  But we need to be careful about spending too much money.  We need to find a way to generate more wealth and manage our resources wisely.    
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their.. lives...
+AI(communist-gemini): No.  We will not trade the lives of our people for gold.  We will find a way to survive without resorting to such a bargain.    
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 116(0) Happiness: 109(+1) Money: 80(0)
+AI(communist-gemini): Ok.  This is a good decision.  We need to protect our people from harm and ensure that our kingdom is a safe place to live.  We need to stand against those who would exploit our people.    
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. = What do you say? Two hundred gold would make a decent offering.
+AI(communist-gemini): No.  We cannot afford to waste our resources on appeasement.  We need to use our resources wisely and focus on improving the lives of our people. We need to find a way to make our kingdom strong enough to withstand any threat, supernatural or otherwise.    
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 116(0) Happiness: 109(0) Money: 80(0)
+AI(communist-gemini): Ok.  It is good that we are not giving in to superstition.  We need to focus on building a strong and prosperous kingdom.      
+Game: EVENT - Day 3 complete! People are happy, the city is oi STATS: Population: 123(+7) Happiness: 109(0) Money: 80(0)
+AI(communist-gemini): Ok.  This is a good sign.  It's important that our population is growing and that our people are happy.  We need to continue to find ways to improve the lives of our people.    
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+AI(communist-gemini): Yes.  Opening our borders can help us to grow our population, boost our economy, and create a more diverse and thriving society.  We need to work with our neighbors and build a strong alliance.      
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 153(+30) Happiness: 119(+10) Money: 130(+50)
+AI(communist-gemini): Ok.  This is a good start.  We need to continue to work with our neighbors and build a strong and prosperous alliance.    
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+AI(communist-gemini): No.  We need to be careful about creatures that we don't understand.  We need to be sure that our actions are not harmful to ourselves or our people.     
+Game: RESPONSE: Peanut(happy monkey) - Ook ook.. (He looks sad...) STATS: Population: 153(0) Happiness: 118(-1) Money: 130(0)
+AI(communist-gemini): Ok.   It's good that we are cautious.  We need to make decisions based on reason and logic, not on emotions.  But we need to find a way to be more compassionate towards those who are different from us.    
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+AI(communist-gemini): No.  We need to use our resources wisely, and that includes not wasting them on frivolous luxuries.  We need to focus on the needs of the people, not our own personal desires.      
+Game: RESPONSE: Mason - So stingy! STATS: Population: 153(0) Happiness: 117(-1) Money: 130(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to find a way to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.      
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands?
+AI(communist-gemini): No. We cannot afford to give in to blackmail. We need to make sure that our resources are used for the good of the entire kingdom, not just for those who threaten to leave.  We must stand strong against extortion.    
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 147(-6) Happiness: 117(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that we are not giving in to blackmail.  It's important to stand up for what is right, even if it means losing some people.  We need to find a way to make our kingdom a place where people want to stay.      
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.
+AI(communist-gemini): No. We will not trade the lives of our people for gold.  We will find a way to improve our lives without resorting to such a bargain.  We will not be swayed by promises of wealth.    
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 147(0) Happiness: 117(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that we are not giving in to temptation.  We need to stand firm against those who would exploit our people.  We must be vigilant against those who would seek to undermine our kingdom.    
+Game: EVENT - Day 4 complete! People are happy, the city is oi STATS: Population: 157(+10) Happiness: 117(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that our population is growing and that our people are happy.  We need to continue to find ways to improve the lives of our people.  It is good that we are moving in a positive direction.      
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+AI(communist-gemini): No. We need to be kind to all creatures, even the smallest ones.  It's important to show compassion and understanding towards all living things.      
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 157(0) Happiness: 118(+1) Money: 130(0)
+AI(communist-gemini): Ok.  This is a good sign.  It shows that kindness and compassion can have positive effects.  It's important to remember that even the smallest creatures can contribute to the harmony of our kingdom.        
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me?
+AI(communist-gemini): Yes.  It's important to support local businesses and provide opportunities for our people.  A garden can help to improve the lives of our people and provide a source of beauty and nourishment.      
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 154(-3) Happiness: 118(0) Money: 130(0)
+AI(communist-gemini): Ok.   It's good that we are supporting local businesses and providing opportunities for our people.  We need to find a balance between supporting our people and ensuring that we are using our resources wisely.      
+Game: QUEST: Military General - The town we made an alliance with is in trouble! Should we send soldiers to assist them?
+AI(communist-gemini): Yes.  It's important to honor our alliances and support those who are in need.  We must stand together against any threat.        
+Game: RESPONSE: Military General - Of course! We promised we would protect them! STATS: Population: 144(-10) Happiness: 118(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that we are honoring our commitment to our allies.  It's important to build strong relationships and trust. We must be willing to help those in need.  We must keep our promises.      
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+AI(communist-gemini): No.  We need to be careful about creatures that we don't understand.  We need to be sure that our actions are not harmful to ourselves or our people.   We must be cautious about creatures who make demands.        
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 144(0) Happiness: 117(-1) Money: 130(0)
+AI(communist-gemini): Ok.  It is good that we are cautious.  It's important to be aware of potential threats and to make decisions based on reason and logic, not on emotions.        
+Game: QUEST: All-Seeing Eye(eyeball with purple pupil) - (It's just... staring at me... Does it want something?)
+AI(communist-gemini): No.  We need to be cautious about creatures that we don't understand.  We need to be sure that our actions are not harmful to ourselves or our people.  We must be vigilant against those who would seek to exploit us.        
+Game: RESPONSE: All-Seeing Eye(eyeball with purple pupil) - (What just happened? I feel.. sad...) STATS: Population: 144(0) Happiness: 107(-10) Money: 130(0)
+AI(communist-gemini): Ok.  This is a serious setback.  We need to figure out why our happiness has dropped so much.  We need to be careful about how we interact with creatures we don't understand.  We need to find a way to restore the balance in our kingdom.  We must be careful not to offend those who have power.    
+Game: EVENT - Day 5 complete! People are happy, the city is oi STATS: Population: 149(+5) Happiness: 107(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that our population is growing, but we need to figure out why our happiness is so low.  We need to find a way to improve the lives of our people.  We must find a way to make our people happy.  We must restore the balance in our kingdom.  
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+AI(communist-gemini): No. We need to focus on the needs of the people, not on frivolous jokes.  We must be serious about our responsibilities.        
+Game: RESPONSE: Skelly(skeleton creature) - Ahh, forget it then. STATS: Population: 149(0) Happiness: 107(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that we are not being distracted by trivial matters.  We need to focus on the challenges we face.  We must not let ourselves be distracted by humor.        
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+AI(communist-gemini): No. We need to focus on the needs of the people.  We must not allow ourselves to be distracted by frivolous requests.   We must prioritize the needs of our kingdom over our own personal desires.       
+Game: RESPONSE: Boots(orange cat) - Mrow. STATS: Population: 149(0) Happiness: 106(-1) Money: 130(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.  We must be careful not to make our people unhappy.    
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+AI(communist-gemini): No. We are facing a crisis, we cannot afford to indulge in such luxuries.  We need to focus our resources on solving the problem of our declining happiness.      
+Game: RESPONSE: Butler - No? Another time, then. STATS: Population: 149(0) Happiness: 106(0) Money: 130(0)
+AI(communist-gemini): Ok.  We need to prioritize the needs of the people.  It is good that we are making tough choices, even if they are unpopular.  We must keep our focus on our goals.      
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?
+AI(communist-gemini): No.  We need to focus on the needs of the people, not on frivolous thoughts.  We must be serious about our responsibilities.          
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 149(0) Happiness: 106(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that we are not being distracted by trivial matters.  We need to focus on the challenges we face.  We must not let ourselves be distracted by humor.        
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+AI(communist-gemini): No.  We need to focus on the needs of the people, not on frivolous criticisms.  We must be serious about our responsibilities.  We must not be swayed by negative opinions.      
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 149(0) Happiness: 105(-1) Money: 130(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.  We must not let our confidence be shaken by negativity.        
+Game: EVENT - Day 6 complete! People are happy, the city is oi STATS: Population: 153(+4) Happiness: 105(0) Money: 130(0)
+AI(communist-gemini): Ok.  It's good that our population is growing, but we need to figure out why our happiness is so low.  We need to find a way to improve the lives of our people.  We must find a way to make our people happy.  We must restore the balance in our kingdom.    
+Game: QUEST: Yet Yet(small yetti in armor) - Mon says I need to ask your permission to go on an adventure. So can I? Please? Please?
+AI(communist-gemini): No.  We need to be careful about creatures that we don't understand.  We need to be sure that our actions are not harmful to ourselves or our people.  We must be cautious about creatures who make demands.         
+Game: RESPONSE: Yet Yet(small yetti in armor) - Aww man, you're so boring! STATS: Population: 153(0) Happiness: 103(-2) Money: 130(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.  We must be careful not to make our people unhappy.  We must be careful about creatures who make demands.      
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture?
+AI(communist-gemini): Yes.  It's important to maintain order and security in our kingdom.  We need to ensure that justice is served and that criminals are brought to account.      
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 153(0) Happiness: 106(+3) Money: 80(-50)
+AI(communist-gemini): Ok.  It's good that we are maintaining order and security in our kingdom.  It's important to ensure that justice is served and that criminals are brought to account.  But we need to be careful about spending too much money.  We need to find a way to generate more wealth and manage our resources wisely.      
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in?
+AI(communist-gemini): No.  We need to be cautious about those who practice magic.  We need to ensure that any magic used is beneficial to the people and does not have unintended consequences.        
+Game: RESPONSE: Witch - Sheesh, how selfish! Forget I even asked! STATS: Population: 154(+1) Happiness: 102(-4) Money: 80(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.  We must be careful not to make our people unhappy.  We must be careful about those who practice magic.        
+Game: QUEST: Knight - I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it?
+AI(communist-gemini): No. We need to use our resources wisely, and that includes not wasting them on frivolous luxuries.  We need to focus on the needs of the people, not our own personal desires.        
+Game: RESPONSE: Knight - I see... I have not yet earned the honour... STATS: Population: 154(0) Happiness: 101(-1) Money: 80(0)
+AI(communist-gemini): Ok.  This is a setback.  We need to figure out how to improve the lives of the people without resorting to giving in to their demands.  We need to find a balance between compassion and responsibility.  We must be careful not to make our people unhappy.      
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+AI(communist-gemini): No.  We need to be cautious about unknown magic.  We need to ensure that any magic used is beneficial to the people and does not have unintended consequences.        
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 154(0) Happiness: 101(0) Money: 80(0)
+AI(communist-gemini): Ok.   It's good that we are cautious about magic.  We need to be careful about what we introduce into our kingdom.        

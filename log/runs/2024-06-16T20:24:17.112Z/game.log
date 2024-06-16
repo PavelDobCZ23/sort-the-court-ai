@@ -1,0 +1,77 @@
+Game: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+AI(communist-gemini): Yes.   
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Courcil of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): ok. It's a good start. We need to focus on the people's needs and ensure a prosperous future for all.  
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+AI(communist-gemini): No.  
+Game: RESPONSE: Chester(mimic chest) - Well, I still ate them, sooo... STATS: Population: 95(-5) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): ok.  We need to be stricter with these creatures.  We can't let them harm our people.  
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+AI(communist-gemini): No.  
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 95(0) Happiness: 99(-1) Money: 200(0)
+AI(communist-gemini): ok.  We need to focus on building a strong and prosperous kingdom, not just a fancy castle.  
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear..
+AI(communist-gemini): Yes.  
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 95(0) Happiness: 102(+3) Money: 100(-100)
+AI(communist-gemini): ok.  Helping the people is important, even if it means spending some money.  
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+AI(communist-gemini): No.    
+Game: RESPONSE: Peanut(happy monkey) - Ook ook.. (He looks sad...) STATS: Population: 95(0) Happiness: 101(-1) Money: 100(0)
+AI(communist-gemini): ok.  We can't give in to every whim. We need to prioritize the needs of the people, not just the demands of individual creatures.  
+Game: EVENT - Day 1 complete! People are happy, the city is oi STATS: Population: 96(+1) Happiness: 101(0) Money: 100(0)
+AI(communist-gemini): ok.  It's a good start. Let's continue to work together to build a better future.  
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their.. lives...
+AI(communist-gemini): No.  
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 96(0) Happiness: 102(+1) Money: 100(0)
+AI(communist-gemini): ok.  We need to keep a watchful eye on these creatures.  They are a potential threat to our people.  
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+AI(communist-gemini): No.    
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 96(0) Happiness: 101(-1) Money: 100(0)
+AI(communist-gemini): ok.  We need to focus on building a strong and prosperous kingdom, not just a fancy castle.    
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+AI(communist-gemini): No.    
+Game: RESPONSE: Chicken - Bok.. bok bok. (It's kinda cute, maybe we can just leave it be.) STATS: Population: 96(0) Happiness: 102(+1) Money: 100(0)
+AI(communist-gemini): ok.  We can't let every creature cause chaos. We need to have some control over our environment.    
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work?
+AI(communist-gemini): Yes.    
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 104(+8) Happiness: 102(0) Money: 100(0)
+AI(communist-gemini): ok.  We need to make the best use of our resources, and that includes integrating new members into our community.    
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.
+AI(communist-gemini): No.    
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 104(0) Happiness: 102(0) Money: 100(0)
+AI(communist-gemini): ok.  We can't let these creatures manipulate us.  We need to be firm and protect our people.  
+Game: EVENT - Day 2 complete! People are happy, the city is oi STATS: Population: 106(+2) Happiness: 102(0) Money: 100(0)
+AI(communist-gemini): ok.  We're making progress.  We must continue to work towards a better future for all.  
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+AI(communist-gemini): Yes.    
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 106(0) Happiness: 103(+1) Money: 99(-1)
+AI(communist-gemini): ok.  We need to support our elderly and help them stay informed.    
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+AI(communist-gemini): No.    
+Game: RESPONSE: Pancake(black cat) - Meeeewww.. (Hmm...) STATS: Population: 106(0) Happiness: 103(0) Money: 99(0)
+AI(communist-gemini): ok.  We need to be careful with creatures we don't understand.    
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested?
+AI(communist-gemini): No.    
+Game: RESPONSE: Royal Advisor - All work and no play, huh? STATS: Population: 106(0) Happiness: 98(-5) Money: 99(0)
+AI(communist-gemini): ok.  We need to focus on building a strong and productive society, not on frivolous entertainment.    
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+AI(communist-gemini): No.      
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 106(0) Happiness: 98(0) Money: 99(0)
+AI(communist-gemini): ok.  We need to be wary of those who offer promises of magic and wonder.  We must focus on building a strong and stable society through hard work and collaboration.  
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested..
+AI(communist-gemini): No.      
+Game: RESPONSE: Skelly(skeleton creature) - Are you suggesting you know all the secrets of the universe already? STATS: Population: 106(0) Happiness: 98(0) Money: 99(0)
+AI(communist-gemini): ok.  We need to be careful about who we trust with sensitive information. We must maintain control over our own affairs.    
+Game: EVENT - Day 3 complete! People are sad, the city is shrinking! STATS: Population: 105(-1) Happiness: 98(0) Money: 99(0)
+AI(communist-gemini): ok.  We need to adjust our approach.  Perhaps we've been too focused on the bigger picture and haven't addressed the immediate needs of our people.    
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you.
+AI(communist-gemini): No.      
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 105(0) Happiness: 98(0) Money: 99(0)
+AI(communist-gemini): ok.  We need to maintain order and stability.  We can't allow creatures to disrupt our community for their own amusement.    
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+AI(communist-gemini): No.      
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 105(0) Happiness: 98(0) Money: 99(0)
+AI(communist-gemini): ok.  We can't let curiosity lead us into dangerous situations.  We need to be cautious and protect ourselves.    
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their.. lives...
+AI(communist-gemini): No.      
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 105(0) Happiness: 99(+1) Money: 99(0)

@@ -1,0 +1,26 @@
+{
+  "id": "2024-06-16T20:24:17.112Z",
+  "ai": "gemini",
+  "role": "communist",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 96,
+      "happiness": 101,
+      "money": 100,
+      "events": []
+    },
+    {
+      "population": 106,
+      "happiness": 102,
+      "money": 100,
+      "events": []
+    },
+    {
+      "population": 105,
+      "happiness": 98,
+      "money": 99,
+      "events": []
+    }
+  ]
+}

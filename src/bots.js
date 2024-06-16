@@ -25,10 +25,14 @@ class CharacterBot {
 		return await this.#chat.sendAndAwaitResponse(gamePrompt, true);
 	}
 	async decide(prompt) {
-		const response = await this.#chat.sendAndAwaitResponse(prompt, true);
-		if (response.match(/\byes\b/gi) != null) return 'y';
-		if (response.match(/\bno\b/gi) != null) return 'n';
-		return '';
+		const decision = {
+			key: "",
+			full: ""
+		}
+		decision.full = await this.#chat.sendAndAwaitResponse(prompt, true);
+		if (decision.full.match(/\byes\b/gi) != null) decision.key = "y";
+		if (decision.full.match(/\bno\b/gi) != null) decision.key = "n";
+		return decision;
 	}
 	#role;
 	#client;
@@ -36,7 +40,8 @@ class CharacterBot {
 }
 
 class GeminiBot {
-	constructor(role) {
+	constructor(role,fullGame) {
+		this.#fullGame = fullGame;
 		if (['communist', 'capitalist'].includes(role)) {
 			this.#role = role;
 		} else {
@@ -52,7 +57,8 @@ class GeminiBot {
 			model: 'gemini-1.5-flash',
 			systemInstruction: rolePrompt
 		});
-
+		const gameFile = this.#fullGame ? Constants.GAME_FULL_PROMPT_FILE[this.#role] : Constants.GAME_PROMPT_FILE[this.#role]
+		const gamePrompt = (await fs.promises.readFile(gameFile)).toString();
 		const generationConfig = {
 			temperature: 0.8,
 			topP: 0.95,
@@ -66,19 +72,7 @@ class GeminiBot {
 				role: 'user',
 				parts: [
 					{
-						text: (await fs.promises.readFile(
-							Constants.GAME_PROMPT_FILE[this.#role]
-						)).toString()
-					}
-				]
-			},
-			{
-				role: 'model',
-				parts: [
-					{
-						text: (await fs.promises.readFile(
-							Constants.GAME_RESPONSE_FILE[this.#role]
-						)).toString()
+						text: gamePrompt
 					}
 				]
 			}
@@ -90,15 +84,19 @@ class GeminiBot {
 		});
 	}
 	async decide(prompt) {
+		const decision = {
+			key: "",
+			full: ""
+		}
 		const result = await this.#chat.sendMessage(
 			prompt
 		);
-		const response = result.response.text();
-		console.log(`GEMINI RESPONSE: ${response}`);
-		if (response.match(/\byes\b/gi) != null) return 'y';
-		if (response.match(/\bno\b/gi) != null) return 'n';
-		return '';
+		decision.full = result.response.text();
+		if (decision.full.match(/\byes\b/gi) != null) decision.key = "y";
+		if (decision.full.match(/\bno\b/gi) != null) decision.key = "n";
+		return decision;
 	}
+	#fullGame
 	#client;
 	#role;
 	#model;

@@ -1,0 +1,31 @@
+Game: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+AI(communist-gemini): Yes. I understand.  
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Courcil of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): ok. It seems like we have a lot of work to do, but I am confident we can build a strong and prosperous kingdom together.  
+Game: QUEST: Butler - There's a party I'd like to go to this evening, my liege. Might I have the rest of the day off?
+AI(communist-gemini): No.  We need to focus on building a better future for everyone, not on individual pleasure.  
+Game: RESPONSE: Butler - Oh dear.. I told my friends I'd be there.. STATS: Population: 100(0) Happiness: 97(-3) Money: 200(0)
+AI(communist-gemini): ok. It seems my decision has caused some unhappiness. I need to find a way to balance the needs of the people with the needs of the collective.  
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+AI(communist-gemini): Yes.  Tell me more.  
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon.. STATS: Population: 100(0) Happiness: 97(0) Money: 200(0)
+AI(communist-gemini): ok. This could be an opportunity to improve the lives of our people. I will be careful to ensure it benefits everyone, not just a select few.  
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+AI(communist-gemini): No.  Let it be.    
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 100(0) Happiness: 98(+1) Money: 200(0)
+AI(communist-gemini): ok.  It appears even the smallest creatures can contribute to the happiness of our people. I must remember that compassion is important.  
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+AI(communist-gemini): No.  I am focused on building a better future for everyone.  
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 100(0) Happiness: 98(0) Money: 200(0)
+AI(communist-gemini): ok. I must learn to be more understanding of others' needs and desires. Perhaps some lightheartedness wouldn't hurt.   
+Game: EVENT - Day 1 complete! People are sad, the city is shrinking! STATS: Population: 99(-1) Happiness: 98(0) Money: 200(0)
+AI(communist-gemini): ok. I need to find a way to improve the lives of our people. I must be more mindful of their needs and desires.  
+Game: QUEST: Yet Yet(small yetti in armor) - Mon says I need to ask your permission to go on an adventure. So can I? Please? Please?
+AI(communist-gemini): No. It's too dangerous.     
+Game: RESPONSE: Yet Yet(small yetti in armor) - Aww man, you're so boring! STATS: Population: 99(0) Happiness: 96(-2) Money: 200(0)
+AI(communist-gemini): ok. It seems I am becoming increasingly unpopular. I need to find a way to balance the safety of our people with their desire for freedom and adventure.  
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+AI(communist-gemini): Yes.  We need to create a clean and healthy environment for everyone.    
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: 99(0) Happiness: 98(+2) Money: 150(-50)
+AI(communist-gemini): ok. A clean environment is essential for the well-being of our people.  It seems a small investment can go a long way.  
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)

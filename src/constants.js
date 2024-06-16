@@ -3,9 +3,9 @@ const GAME_PROMPT_FILE = {
     capitalist: "./config/game-capitalist-prompt.txt"
 }
 
-const GAME_RESPONSE_FILE = {
-    communist: "./config/game-communist-response.txt",
-    capitalist: "./config/game-capitalist-response.txt"
+const GAME_FULL_PROMPT_FILE = {
+    communist: "./config/game-full-communist-prompt.txt",
+    capitalist: "./config/game-full-capitalist-prompt.txt"
 }
 
 const ROLE_PROMPT_FILE = {
@@ -19,4 +19,4 @@ const CHARACTER_AI_IDS = {
     testSocialist: "79uuEVuQrD4v6Dfcgi-HWs9MmdmFazreiqIOv4hRGIo"
 }
 
-module.exports = { GAME_PROMPT_FILE, ROLE_PROMPT_FILE, CHARACTER_AI_IDS, GAME_RESPONSE_FILE };
+module.exports = { GAME_PROMPT_FILE, ROLE_PROMPT_FILE, CHARACTER_AI_IDS, GAME_FULL_PROMPT_FILE };
