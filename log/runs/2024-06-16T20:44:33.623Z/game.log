@@ -8,3 +8,5 @@ Game: RESPONSE: Peanut(happy monkey) - Ook ook.. (He looks sad...) STATS: Popula
 AI(communist-gemini): OK.    It seems a single monkey's happiness is not the most important thing. We must make decisions based on the greater good.  
 Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?
 AI(communist-gemini): No.    Such metaphysical questions are irrelevant to our collective goals. We must focus on the material world and the needs of the people.  
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 100(0) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): OK.    It seems this creature is not interested in contributing to society. We should focus our efforts elsewhere.   
