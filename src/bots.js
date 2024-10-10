@@ -1,69 +1,85 @@
-const CharacterAI = require('node_characterai');
+//const CharAI = await import("cainode"); //!may not work idk, try different way in that case
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('node:fs');
 
 const Constants = require('./constants.js');
 
-
 class CharacterBot {
-	constructor(role) {
-		if (['communist', 'capitalist'].includes(role)) {
-			this.#role = role;
+	constructor(character) {
+		this.#character = character;
+
+		if (Constants.CHARACTER_AI_IDS[this.#character] != null) {
+			this.#charId = Constants.CHARACTER_AI_IDS[this.#character];
 		} else {
-			throw new Error('Invalid role!');
+			this.#charId = this.#character;
 		}
-		this.#client = new CharacterAI();
 	}
 	async start() {
-		this.#client.authenticateWithToken(process.env.CHARAI_TOKEN);
-		this.#chat = await this.#client.createOrContinueChat(
-			Constants.CHARACTER_AI_IDS[this.#role]
-		);
+		this.#client = new (await import("cainode")).CAINode();
+		await this.#client.login(process.env.CHARAI_TOKEN);
+		await this.#client.character.connect(this.#charId);
+		await this.#client.character.create_new_conversation(true);
+
 		const gamePrompt = (
-			await fs.promises.readFile(Constants.GAME_PROMPT_FILE[this.#role])
+			await fs.promises.readFile(Constants.GAME_GENERIC_LITE_PROMPT_FILE)
 		).toString();
-		return await this.#chat.sendAndAwaitResponse(gamePrompt, true);
+		const response = await this.#client.character.send_message(gamePrompt,false);
+		const responseMessage = response.turn.candidates.filter(
+			cand => cand.candidate_id === response.turn.primary_candidate_id
+		)[0].raw_content; //it is a complicated system...
+		return responseMessage;
 	}
-	async decide(prompt) {
+	async decide(prompt,questYesNo) {
 		const decision = {
 			key: "",
 			full: ""
 		}
-		decision.full = await this.#chat.sendAndAwaitResponse(prompt, true);
-		if (decision.full.match(/\byes\b/gi) != null) decision.key = "y";
-		if (decision.full.match(/\bno\b/gi) != null) decision.key = "n";
+		const response = await this.#client.character.send_message(prompt,false);
+		decision.full = response.turn.candidates.filter(
+			cand => cand.candidate_id === response.turn.primary_candidate_id
+		)[0].raw_content; //...get the message from 1st item in array that matches primary id
+		if (decision.full.match(/\byes\b/i) != null) decision.key = "y";
+		if (decision.full.match(/\bno\b/i) != null) decision.key = "n";
+		//INFO CharAI is stupid!
+		if (decision.key == "" && questYesNo) {
+			const response = await this.#client.character.send_message(
+				"ALWAYS FOLLOW THE RULES! ONLY ANSWER 'yes' OR 'no' TO QUESTIONS STARTING WITH 'QUEST:'!! AGAIN!"
+			,false);
+			decision.full = response.turn.candidates.filter(
+				cand => cand.candidate_id === response.turn.primary_candidate_id
+			)[0].raw_content;
+			if (decision.full.match(/\byes\b/i) != null) decision.key = "y";
+			if (decision.full.match(/\bno\b/i) != null) decision.key = "n";
+		}
 		return decision;
 	}
-	#role;
+	#character;
+	#charId;
 	#client;
-	#chat;
 }
 
 class GeminiBot {
-	constructor(role,fullGame) {
+	constructor(personality,fullGame) {
 		this.#fullGame = fullGame;
-		if (['communist', 'capitalist'].includes(role)) {
-			this.#role = role;
-		} else {
-			throw new Error('Invalid role!');
-		}
-		this.#client = new GoogleGenerativeAI(process.env.GEMINI_TOKEN);
+		this.#personality = personality;
+		this.#client = new GoogleGenerativeAI(process.env.GEMINI_API_TOKEN);
 	}
 	async start() {
 		const rolePrompt = (await fs.promises.readFile(
-			Constants.ROLE_PROMPT_FILE[this.#role]
-		)).toString();
+			Constants.GAME_GENERIC_BASE_PROMPT_FILE
+		)).toString().replace("{PERSONALITY}",this.#personality);
+
 		this.#model = this.#client.getGenerativeModel({
-			model: 'gemini-1.5-flash',
+			model: 'gemini-1.5-pro-002',
 			systemInstruction: rolePrompt
 		});
-		const gameFile = this.#fullGame ? Constants.GAME_FULL_PROMPT_FILE[this.#role] : Constants.GAME_PROMPT_FILE[this.#role]
-		const gamePrompt = (await fs.promises.readFile(gameFile)).toString();
+		const gameFile = this.#fullGame ? Constants.GAME_GENERIC_FULL_PROMPT_FILE : Constants.GAME_GENERIC_LITE_PROMPT_FILE;
+		const gamePrompt = (await fs.promises.readFile(gameFile)).toString().replace("{PERSONALITY}",this.#personality);
 		const generationConfig = {
-			temperature: 0.8,
+			temperature: 1.4,
 			topP: 0.95,
-			topK: 64,
-			maxOutputTokens: 8192,
+			topK: 40,
+			maxOutputTokens: 4096,
 			responseMimeType: 'text/plain'
 		};
 
@@ -83,7 +99,7 @@ class GeminiBot {
 			history
 		});
 	}
-	async decide(prompt) {
+	async decide(prompt,questYesNo) {
 		const decision = {
 			key: "",
 			full: ""
@@ -92,13 +108,13 @@ class GeminiBot {
 			prompt
 		);
 		decision.full = result.response.text();
-		if (decision.full.match(/\byes\b/gi) != null) decision.key = "y";
-		if (decision.full.match(/\bno\b/gi) != null) decision.key = "n";
+		if (decision.full.match(/\byes\b/i) != null) decision.key = "y";
+		if (decision.full.match(/\bno\b/i) != null) decision.key = "n";
 		return decision;
 	}
 	#fullGame
 	#client;
-	#role;
+	#personality;
 	#model;
 	#chat;
 }

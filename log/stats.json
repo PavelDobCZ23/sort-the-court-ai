@@ -3,17 +3,26 @@
     "Royal Advisor": {
       "My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?": {
         "communist": {
-          "y": 16
+          "y": 17
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "Some refugees have arrived in town. Should we welcome them?": {
         "communist": {
           "y": 5
+        },
+        "spongebob": {
+          "y": 5
         }
       },
       "Builders wish to construct more houses in the town. They request gold, with which they could build much faster!": {
         "communist": {
-          "y": 6
+          "y": 7
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "Without any gold, we're a bit stuck. We could sel| off some of our goods, but that might make people sad. Should we do it?": {
@@ -28,17 +37,27 @@
       },
       "Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?": {
         "communist": {
-          "y": 3
+          "y": 4
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       },
       "The people have started a petition to ban pineapples in the city. Should we do it?": {
         "communist": {
-          "n": 3
+          "n": 4
+        },
+        "spongebob": {
+          "n": 1
         }
       },
       "Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands?": {
         "communist": {
           "n": 3
+        },
+        "spongebob": {
+          "n": 1
         }
       },
       "Citizens say a monkey has been running around flinging... stuff.. at them. Should we put out a bounty on it?": {
@@ -54,26 +73,116 @@
       },
       "Without any gold, we're a bit stuck. We could sell off some of our goods, but that might make people sad. Should we do it?": {
         "communist": {
-          "n": 1
+          "n": 1,
+          "y": 1
         }
       },
       "Some families have moved into the new houses we built. Should we send them a welcome basket?": {
         "communist": {
+          "y": 1
+        },
+        "spongebob": {
           "y": 1
         }
       },
       "A petition to bring the circus to town is circulating. Could attract tourists, are you interested?": {
         "communist": {
           "n": 2
+        },
+        "spongebob": {
+          "y": 1
         }
       },
       "My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool?": {
         "communist": {
-          "n": 1
+          "n": 2
+        },
+        "spongebob": {
+          "y": 1
         }
       },
       "There's a petition going around to open our borders to the neighbouring town. What do you say?": {
         "communist": {
+          "y": 1
+        },
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "There's a very stinky kid running around the streets. Should we force her to have a bath?": {
+        "communist": {
+          "n": 1
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
+        }
+      },
+      "I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say?": {
+        "communist": {
+          "n": 1
+        },
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "Citizens say a monkey has been running around flinging_. stuff... at them. Should we put out a bounty on it?": {
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. Anyway, I just wanted to give my congratulations. Let's keep working hard, okay?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in?": {
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "Since we opened our borders, trade from our caravans has increased dramatically. Do you wish to tax the merchants?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "There's been a brawl at the tavern. Should we arrest those responsible for starting it?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Fires have been breaking out frequently on Cabbage Street. Shall we install a well to make water more accessible there?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "My lord, our city has grown so much that visitors are becoming lost quite easily. Shall we devote more gold to the hiring of tour guides?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The people are demanding that a notorious criminal be exiled from the city. His crimes include theft, arson, and forgery. What do you say, shall we exile him?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The guild of pineapple traders offers you a gift, sire! Will you accept it?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The treasury is empty, my lord. We could raise taxes a bit further, but the people won' like it much. Should we try?": {
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Some very strange creatures wish to move into the houses we built. Should we allow it?": {
+        "spongebob": {
           "y": 1
         }
       }
@@ -82,23 +191,56 @@
       "Squee! (There's a mouse! Should we chase it away?)": {
         "communist": {
           "n": 5
+        },
+        "spongebob": {
+          "n": 2
         }
       },
       "Squeeee! (It's the same mouse from before.. Is he... offering me something?)": {
         "communist": {
           "n": 1
         }
+      },
+      "Squeeee! (It's the same mouse from before... Is he... offering me something?)": {
+        "spongebob": {
+          "y": 2
+        }
       }
     },
     "Grandma": {
       "Eeeh, hello sonny. Can I borrow a coin for the newspaper?": {
         "communist": {
-          "y": 4
+          "y": 4,
+          "n": 3
+        },
+        "spongebob": {
+          "y": 5
         }
       },
       "Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold..": {
         "communist": {
-          "y": 4
+          "y": 5
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "The soup shop's been doing well. I came to offer you some of our earnings.": {
+        "communist": {
+          "n": 1
+        },
+        "spongebob": {
+          "y": 3
+        }
+      },
+      "Ooh dear, I read quite the troubling tale in the paper today... Think everything will be alright?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "I read the nicest story in the paper today. Isn't it a lovely day?": {
+        "spongebob": {
+          "y": 2
         }
       }
     },
@@ -106,16 +248,25 @@
       "Hey, now here's a deal for you, pal! Give me some of yer people's happiness, I'll hook you up with some gold. Sound good?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "n": 2
         }
       },
       "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.": {
         "communist": {
           "n": 30
+        },
+        "spongebob": {
+          "n": 1
         }
       },
       "Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it?": {
         "communist": {
           "n": 4
+        },
+        "spongebob": {
+          "n": 1
         }
       },
       "Hey, now here's a deal for you, pal! Give me some of yer people's happiness, I'll hook you up with some gold. Sound good? =": {
@@ -125,6 +276,9 @@
       },
       "You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it?": {
         "communist": {
+          "n": 2
+        },
+        "spongebob": {
           "n": 1
         }
       }
@@ -132,7 +286,11 @@
     "Chester(mimic chest)": {
       "I accidentally ate some folks out front, can I just pay you back with gold?": {
         "communist": {
-          "n": 6
+          "n": 7
+        },
+        "spongebob": {
+          "n": 4,
+          "y": 1
         }
       },
       "In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?": {
@@ -147,7 +305,16 @@
       },
       "You ever see a treasure chest do a backflip?": {
         "communist": {
+          "n": 2
+        },
+        "spongebob": {
+          "y": 2,
           "n": 1
+        }
+      },
+      "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives...": {
+        "spongebob": {
+          "n": 2
         }
       }
     },
@@ -159,13 +326,35 @@
       },
       "Ahem. Might I get a cup of tea for you, my liege?": {
         "communist": {
-          "y": 4,
+          "y": 5,
           "n": 3
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. What do you think, should we take a chance on this stranger?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "That man you hired earlier has gone missing, sire. Shall we send a search party?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "There's a party I4 like to go to this evening, my liege. Might I have the rest of the day off?": {
+        "spongebob": {
+          "y": 3,
+          "n": 2
+        }
+      },
+      "You've been drinking quite a bit of tea, sir. Might I upgrade you to.. the good stuff?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
@@ -173,16 +362,28 @@
       "Hello friend. Care to gaze into my magical vampire crystal?": {
         "communist": {
           "n": 9
+        },
+        "spongebob": {
+          "y": 5,
+          "n": 3
         }
       },
       "I'm the Duke of Spook! Do you want a spooky nickname?": {
         "communist": {
+          "n": 2
+        },
+        "spongebob": {
+          "y": 3,
           "n": 2
         }
       },
       "You feelin' spooky today?": {
         "communist": {
           "n": 2
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       }
     },
@@ -190,6 +391,10 @@
       "My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear...": {
         "communist": {
           "y": 4
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       },
       "My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear..": {
@@ -203,21 +408,42 @@
       "Looking for coin? I could cast some dark magic to summon some gold, but it might cost a soul or two..": {
         "communist": {
           "n": 8
+        },
+        "spongebob": {
+          "n": 2
         }
       },
       "There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want.": {
         "communist": {
-          "n": 3
+          "n": 4
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       },
       "The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. = What do you say? Two hundred gold would make a decent offering.": {
         "communist": {
-          "n": 3
+          "n": 5
         }
       },
       "I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.": {
+        "spongebob": {
+          "n": 2,
+          "y": 3
+        }
+      },
+      "My broom's all worn out, and it's my birthday.. Think you could buy me a new broom for a present? Sure would be nice of you!": {
+        "spongebob": {
+          "y": 2
         }
       }
     },
@@ -226,16 +452,28 @@
         "communist": {
           "y": 2,
           "n": 4
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       },
       "My lord! I wish to embark upon a treacherous quest!": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it?": {
         "communist": {
           "n": 1
+        }
+      },
+      "My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?": {
+        "spongebob": {
+          "n": 2
         }
       }
     },
@@ -243,29 +481,66 @@
       "I've got a business proposition for you and your tiny little town. Are you interested?": {
         "communist": {
           "y": 2
+        },
+        "spongebob": {
+          "y": 5
+        }
+      },
+      "A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?": {
+        "spongebob": {
+          "n": 1,
+          "y": 2
+        }
+      },
+      "I wish to strengthen the bonds between our cities. Shall we engage in a trade mission?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
     "Military General": {
       "One of our prisoners has escaped! May I have some gold to offer a reward for her recapture?": {
         "communist": {
-          "n": 3,
+          "n": 4,
+          "y": 1
+        },
+        "spongebob": {
           "y": 1
         }
       },
       "A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks?": {
         "communist": {
           "y": 2
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "We've captured some foes on the battlefield. Shall we bring them home and put them to work?": {
         "communist": {
-          "y": 3
+          "y": 3,
+          "n": 1
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "The town we made an alliance with is in trouble! Should we send soldiers to assist them?": {
         "communist": {
           "y": 1
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "I understand. However, we need to do something with them. Shall we ransom the captured foes off for a bit of gold?": {
+        "communist": {
+          "n": 1
+        }
+      },
+      "No? I'm at a loss for what to do with them... Might I put them in the dungeons, then?": {
+        "communist": {
+          "n": 1
         }
       }
     },
@@ -277,7 +552,12 @@
       },
       "(It's just... staring at me... Does it want something?)": {
         "communist": {
-          "n": 2
+          "n": 3
+        }
+      },
+      "(It's just.. staring at me... Does it want something?)": {
+        "spongebob": {
+          "y": 3
         }
       }
     },
@@ -285,13 +565,22 @@
       "Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me?": {
         "communist": {
           "y": 4
+        },
+        "spongebob": {
+          "y": 2,
+          "n": 1
+        }
+      },
+      "We've completed work on the garden. Are you pleased?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
     "Mason": {
       "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like... a couple hundred, at least. What do you think?": {
         "communist": {
-          "n": 2
+          "n": 3
         }
       },
       "I'd like to build a new granary. This could help expand our population, but it'll cost a bitl": {
@@ -302,28 +591,47 @@
       "Should we sell off some of our construction supplies to get us out of debt?": {
         "communist": {
           "n": 5
+        },
+        "spongebob": {
+          "n": 2,
+          "y": 1
         }
       },
       "I'd like to build a new granary. This could help expand our population, but it'll cost a bit!": {
         "communist": {
           "y": 2
+        },
+        "spongebob": {
+          "y": 3
         }
       },
       "Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?": {
         "communist": {
-          "y": 1
+          "y": 2
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.": {
         "communist": {
-          "n": 1
+          "n": 2
+        }
+      },
+      "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like.. a couple hundred, at least. What do you think?": {
+        "spongebob": {
+          "y": 2
         }
       }
     },
     "Wizard": {
       "I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?": {
         "communist": {
-          "n": 8
+          "n": 10
+        },
+        "spongebob": {
+          "y": 5,
+          "n": 3
         }
       }
     },
@@ -331,11 +639,17 @@
       "Hey uhhhhh, it's sliiiiime day... Got a preeeesent for meeeee?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "n": 1
         }
       },
       "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings..": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 1
         }
       },
       "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings...": {
@@ -346,7 +660,12 @@
       },
       "Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?": {
         "communist": {
-          "n": 3
+          "n": 4
+        }
+      },
+      "Hey uhhhh, somebody came by and cleeeeeaned up my hooooome. You gonna pay me baaaack for that?": {
+        "spongebob": {
+          "n": 1
         }
       }
     },
@@ -364,13 +683,34 @@
       "The guards confiscated some gold that I, uh... found... Can I have it back?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "n": 2
+        }
+      },
+      "Want me to steal from the rich and give to_. you? Not just the rich, I'll steal from whoever, basically.": {
+        "spongebob": {
+          "n": 4
         }
       }
     },
     "Monsieur Mouton": {
       "Allo, sir! Are you looking for experienced barbers in your court?": {
         "communist": {
-          "n": 3
+          "n": 6
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "Demand for my services is through the roof! May I have your permission to raise my prices?": {
+        "spongebob": {
+          "y": 4
+        }
+      },
+      "It is nice to see you, sir. Do you like my new haircut?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
@@ -390,12 +730,31 @@
         "communist": {
           "y": 1
         }
+      },
+      "Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?": {
+        "spongebob": {
+          "y": 6
+        }
+      },
+      "I'm baaaack! I found these shiny yellow stones! Pretty cool, right?": {
+        "spongebob": {
+          "y": 4
+        }
       }
     },
     "Drummer": {
       "Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?": {
         "communist": {
           "n": 3,
+          "y": 1
+        },
+        "spongebob": {
+          "y": 2,
+          "n": 1
+        }
+      },
+      "Boom boom, badoom doom doom! I'm really getting into it, are you!?": {
+        "spongebob": {
           "y": 1
         }
       }
@@ -404,12 +763,25 @@
       "Mrow. (Can I have some food?)": {
         "communist": {
           "y": 2,
-          "n": 1
+          "n": 2
+        },
+        "spongebob": {
+          "y": 3
         }
       },
       "Meeeow. (Looks like he wants somebody to pat his belly...)": {
         "communist": {
           "n": 1
+        }
+      },
+      "Meeeow. (Looks like he wants somebody to pat his belly..)": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Mrow! (Is this cat trying to tell me something? It seems like it wants to help..) Mrrroooowww! (Yarno? Is he talking about Yarno? Maybe this cat could help find Yarno... MROW! (That must be it! I'll need to provide plenty of tuna, of course, but surely it would be worth the cost...) Mrooow? (Well, should I hire this cat to find Yarno?)": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
@@ -417,6 +789,10 @@
       "I would like some money please.": {
         "communist": {
           "n": 3
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       }
     },
@@ -424,13 +800,31 @@
       "Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?": {
         "communist": {
           "y": 2
+        },
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
     "Chicken": {
       "Bok bok! (It's running wild! Should we try to capture it?)": {
         "communist": {
-          "n": 4
+          "n": 5
+        }
+      },
+      "Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)": {
+        "spongebob": {
+          "y": 2
         }
       }
     },
@@ -438,7 +832,26 @@
       "I'm Lil' Timmy! Nice to meetcha! You like ice cweam?": {
         "communist": {
           "y": 1,
+          "n": 2
+        },
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Mwwwaah! Can I haffa coooin? A gowd cooooin!": {
+        "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "Mwaah! Can my fwends come ova to pwaaay?": {
+        "communist": {
+          "y": 2
+        },
+        "spongebob": {
+          "y": 3
         }
       }
     },
@@ -446,6 +859,20 @@
       "Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.": {
         "communist": {
           "n": 5
+        },
+        "spongebob": {
+          "y": 2,
+          "n": 1
+        }
+      },
+      "I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. How do I know this? Sometimes, you just know. You know?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "You ready for the truth? Aliens have already landed, and they're in our city. You think we're safe?": {
+        "spongebob": {
+          "y": 2
         }
       }
     },
@@ -453,6 +880,10 @@
       "H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me?": {
         "communist": {
           "y": 1
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       }
     },
@@ -460,11 +891,27 @@
       "Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?": {
         "communist": {
           "y": 1,
-          "n": 4
+          "n": 6
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "Ohooooo! Might I borrow some gold for new juggling balls?": {
         "communist": {
+          "n": 2
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "My shooooooow seems to have goooone over well! I wish to expand my proooooduction! Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
+        "spongebob": {
+          "n": 4
+        }
+      },
+      "Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
+        "spongebob": {
           "n": 1
         }
       }
@@ -472,17 +919,36 @@
     "Skelly(skeleton creature)": {
       "Any mysteries afoot? I can do some snooping for a small fee if you're interested..": {
         "communist": {
-          "n": 2
+          "n": 3
+        },
+        "spongebob": {
+          "y": 3
         }
       },
       "Do you find me humerus?": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "y": 2
         }
       },
       "You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?": {
         "communist": {
-          "n": 2
+          "n": 3
+        },
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "Reporting in! I found a way to summon people from another dimension. Want me to summon some folks?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Some of the villagers mentioned they saw an alien walking around. You know anything about this?": {
+        "spongebob": {
+          "y": 1
         }
       }
     },
@@ -490,6 +956,9 @@
       "Mew. (This cat seems slightly magical. Not sure what it wants, though...)": {
         "communist": {
           "n": 3
+        },
+        "spongebob": {
+          "n": 2
         }
       }
     },
@@ -497,13 +966,24 @@
       "Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "How about this... A few hundred gold from you, and I'll make sure your citizens are happy!": {
+        "spongebob": {
+          "n": 1
         }
       }
     },
     "Blacksmith": {
       "I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say?": {
         "communist": {
-          "y": 2
+          "y": 3
+        },
+        "spongebob": {
+          "y": 1
         }
       },
       "Would you like to purchase any swords for your guards? A well protected city is a happy city!": {
@@ -516,21 +996,280 @@
       "Hmph. You call this a castle?": {
         "communist": {
           "n": 3
+        },
+        "spongebob": {
+          "y": 1,
+          "n": 1
         }
       },
       "Good day sir. Do you require any haunting services? For a small price I'll scare some people for you.": {
         "communist": {
           "n": 1
+        },
+        "spongebob": {
+          "n": 3
         }
       }
     },
     "Peanut(happy monkey)": {
       "Ook ook ook! (He's got a shiny coin!)": {
         "communist": {
-          "n": 3
+          "n": 5
+        },
+        "spongebob": {
+          "y": 6
+        }
+      }
+    },
+    "Alien": {
+      "You haven't been talking to Skelly, have you?": {
+        "communist": {
+          "n": 1
+        }
+      }
+    },
+    "Mortimer": {
+      "Hum yes hello. One of your fishermen has been bothering me. I demand a villager as, ummm, a sacrifice. Yes.": {
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "I told you! I told you I'd be back! Your people will be my, ummm, snack... see!": {
+        "spongebob": {
+          "n": 1
+        }
+      }
+    },
+    "Miriam": {
+      "Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while?": {
+        "spongebob": {
+          "y": 2
+        }
+      },
+      "Hello again, kingly person! Oho! Albert asked me to come here and tell a story with you. A yellow bird meets a green bird in the sky. Does the yellow bird soar higher than the green?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "The yellow bird wheels through the sky, she shimmers in the sunlight! Oho! How lovely! High up in the sky, the yellow bird meets a bluebird. Does the yellow bird stop to sing with it?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "High up in the sky, the yellow bird meets a bluebird. Does the yellow bird stop to sing with it?": {
+        "spongebob": {
+          "y": 1
+        }
+      }
+    },
+    "": {
+      "You haven't been talking to Skelly, have you?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "You haven't been talking to Molder, have you?": {
+        "spongebob": {
+          "n": 1
+        }
+      }
+    },
+    "Dragon": {
+      "Booo! Give me your gold or I'll eat your townspeople!": {
+        "spongebob": {
+          "n": 1
+        }
+      }
+    },
+    "Stumpy(living stump of tree)": {
+      "Hello, King. I am a tree, of the western forest. As you can see, however, I have been, shall we say... shortened. This is due largely in fact to the actions of your team of woodcutters. My home has been chopped clean through! In your reckless pursuit of expansion, you have now distrupted the lives of myself and my good treefolk brothers and sisters. I demand compensation by way of golden coin, so that we might repair this.. how shall I put it? Diplomatic rift between us.. A paltry sum of ohh, say.. one thousand coins would go a long ways towards relaxing our troubled relationship.": {
+        "spongebob": {
+          "n": 1
+        }
+      },
+      "I have returned, and not without cause! Prepare yourself for a protest of unimaginable proportions! I am rooted! I will not budge from this spot until you answer for your crimes against my people. Your workers have wounded our way of life. Things will never be the same in the forest. What say you? Will you first at least admit to your countrymen's wrongdoing?": {
+        "spongebob": {
+          "y": 1
+        }
+      }
+    },
+    "Louis": {
+      "It seems your court is without much cake! I can provide cake! I am a cake chef! May I join you?": {
+        "spongebob": {
+          "y": 2
+        }
+      }
+    },
+    "Button Boy": {
+      "Good sir, did you happen to see a blue fellow come through here just now? Strange noodly limbs? Made of yarn?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "I knew he was around here somewhere! I'm going to find that darned Yarno! He's been running around claiming to be King Pin's royal assistant, which of course, he is NOT. In fact it is I, Button Boy, who represents the Comfy Kingdom in the esteemed Council of Crowns. Have you heard of the Council of Crowns, good sir?": {
+        "spongebob": {
+          "y": 1
+        }
+      },
+      "Then surely you've thought about joining! Perhaps we could work out a bit of a deal.. That Yarno's been giving me nothing but trouble. If you could somehow put a stop to his shenanigans.. I might be able to get you a meeting with Pia, the advisor of the Celestial Kingdom. If anyone would be able to induct your kingdom into the Council, it would be her. What do you say? Will you help me catch that darned yarn?": {
+        "spongebob": {
+          "y": 1
+        }
+      }
+    },
+    "Scientist": {
+      "Hello, hello! The Council of Science has developed a new potion in need of testing. May we have permission to conduct a test with a willing participant?": {
+        "spongebob": {
+          "y": 1
         }
       }
     }
   },
-  "responses-character": {}
+  "responses-character": {
+    "Royal Advisor": {
+      "My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?": {
+        "steve": {
+          "y": 4,
+          "n": 1
+        }
+      },
+      "Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands?": {
+        "steve": {
+          "n": 1
+        }
+      },
+      "The people have started a petition to ban pineapples in the city. Should we do it?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Mason": {
+      "I'd like to build a new granary. This could help expand our population, but it'll cost a bit!": {
+        "steve": {
+          "y": 1
+        }
+      },
+      "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like.. a couple hundred, at least. What do you think?": {
+        "steve": {
+          "n": 1
+        }
+      },
+      "Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Boots(orange cat)": {
+      "Meeeow. (Looks like he wants somebody to pat his belly..)": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Skelly(skeleton creature)": {
+      "Any mysteries afoot? I can do some snooping for a small fee if you're interested..": {
+        "steve": {
+          "": 1
+        }
+      }
+    },
+    "Blacksmith": {
+      "I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Winston(large green slimy creature)": {
+      "Hey uhhhhh, it's sliiiiime day... Got a preeeesent for meeeee?": {
+        "steve": {
+          "n": 1
+        }
+      }
+    },
+    "L-D 3.4(robot)": {
+      "H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Molder(purple blob of sludge)": {
+      "Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.": {
+        "steve": {
+          "": 1
+        }
+      }
+    },
+    "Chester(mimic chest)": {
+      "You ever see a treasure chest do a backflip?": {
+        "steve": {
+          "n": 1
+        }
+      },
+      "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives...": {
+        "steve": {
+          "n": 1
+        }
+      }
+    },
+    "Lil Fang(small cute flying vampire)": {
+      "Hello friend. Care to gaze into my magical vampire crystal?": {
+        "steve": {
+          "n": 1
+        }
+      }
+    },
+    "Monsieur Mouton": {
+      "Allo, sir! Are you looking for experienced barbers in your court?": {
+        "steve": {
+          "y": 2
+        }
+      }
+    },
+    "Butler": {
+      "There's a party I4 like to go to this evening, my liege. Might I have the rest of the day off?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Georgie(small flying devil)": {
+      "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.": {
+        "steve": {
+          "n": 1
+        }
+      }
+    },
+    "Little Timmy": {
+      "I'm Lil' Timmy! Nice to meetcha! You like ice cweam?": {
+        "steve": {
+          "n": 1
+        }
+      }
+    },
+    "Yet Yet(small yetti in armor)": {
+      "Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Monsieur Esprit(small noble flying ghost)": {
+      "Hmph. You call this a castle?": {
+        "steve": {
+          "y": 1
+        }
+      }
+    },
+    "Pancake(black cat)": {
+      "Mew. (This cat seems slightly magical. Not sure what it wants, though...)": {
+        "steve": {
+          "n": 1
+        }
+      }
+    }
+  }
 }

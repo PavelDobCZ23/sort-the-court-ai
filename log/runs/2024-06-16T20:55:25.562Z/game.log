@@ -1,0 +1,208 @@
+Game: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+AI(communist-gemini): Yes. I understand.  
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Courcil of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): ok.  I will do my best to keep our people happy.  We must work together to build a thriving community.  
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+AI(communist-gemini): No.  
+Game: RESPONSE: Chester(mimic chest) - Well, you're not gonna. STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+AI(communist-gemini): ok.  It's important to be wary of strange creatures, but we should also be open to understanding them. Perhaps Chester can teach us something about the world.  
+Game: QUEST: Little Timmy - I'm Lil' Timmy! Nice to meetcha! You like ice cweam?
+AI(communist-gemini): No.    
+Game: RESPONSE: Little Timmy - Whaaawa? Impooooossible! STATS: Population: 100(0) Happiness: 99(-1) Money: 200(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  I should have considered that children might enjoy ice cream.  It is important to be mindful of the needs of everyone, even the youngest among us.  
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+AI(communist-gemini): No.  We should be wary of magic, especially from strangers.  It is important to be cautious and not to rely on outside forces.  We must build our own strength.  
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 100(0) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): ok.   It's important to be cautious, but we should also be open to new possibilities. Perhaps we could have benefited from the wizard's magic, but we must weigh the risks and rewards carefully.  
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. = What do you say? Two hundred gold would make a decent offering.
+AI(communist-gemini): No.  We should not appease spirits with gold.  It is important to be self-sufficient and not to rely on superstitious practices.  We should focus on building our community and improving our lives through hard work.   
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 100(0) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): ok.  We must be wary of the spirit world, but we should not succumb to fear.  We must be strong and self-reliant.  
+Game: EVENT - Day 1 complete! People are sad, the city is shrinking! STATS: Population: 99(-1) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): ok.  We must work harder to improve the lives of our people.  It seems that our current policies are not working.  We need to find ways to increase happiness and keep our people from leaving.  
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture?
+AI(communist-gemini): No.  We should not be giving away gold for the capture of prisoners.  We must focus on building a just and equitable society, not on rewarding those who seek to imprison others.     
+Game: RESPONSE: Military General - Forget it, they're probably all the way out of the city by now... STATS: Population: 98(-1) Happiness: 99(0) Money: 200(0)
+AI(communist-gemini): ok.  It's important to be compassionate and to treat all people with respect, even prisoners. Perhaps we could have found a better solution to the prisoner's escape. We should strive to create a society where everyone feels safe and respected.  
+Game: QUEST: Royal Advisor - The people have started a petition to ban pineapples in the city. Should we do it?
+AI(communist-gemini): No.  We should not ban pineapples.  It is important to respect the freedom of individuals to choose what they eat.  We should focus on providing a variety of fruits and vegetables for our citizens.  
+Game: RESPONSE: Royal Advisor - Sticking up for pineapples? How admirable. STATS: Population: 98(0) Happiness: 97(-2) Money: 200(0)
+AI(communist-gemini): ok.  It appears that my decision to not ban pineapples has not been well-received. I must be more mindful of the needs and desires of the people, even if it means compromising my own beliefs. I must learn to balance my ideals with the practicalities of ruling.  
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+AI(communist-gemini): Yes.    
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 98(0) Happiness: 100(+3) Money: 197(-3)
+AI(communist-gemini): ok.   It is important to be kind and gracious to those who serve us. It seems that providing for basic needs can greatly improve happiness. We must prioritize the well-being of our people.  
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+AI(communist-gemini): No.  We should not be paying for the actions of a creature. We should be seeking justice for those who have been harmed.    
+Game: RESPONSE: Chester(mimic chest) - Well, I still ate them, sooo... STATS: Population: 93(-5) Happiness: 100(0) Money: 197(0)
+AI(communist-gemini): ok.  It seems I have made a mistake. I should have been more careful in my judgment.  We must be vigilant and ensure the safety of our citizens. It is important to listen to the concerns of our people.    
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested..
+AI(communist-gemini): No.  We should not pay for information. We must focus on building a society where everyone has equal access to knowledge and information.    
+Game: RESPONSE: Skelly(skeleton creature) - Are you suggesting you know all the secrets of the universe already? STATS: Population: 93(0) Happiness: 100(0) Money: 197(0)
+AI(communist-gemini): ok.  It's important to be open to learning from others, even those who seem strange or different.  Perhaps we could have gained valuable knowledge from Skelly.  It is important to be humble and recognize that we don't know everything.    
+Game: EVENT - Day 2 complete! People are happy, the city is oi STATS: Population: 94(+1) Happiness: 100(0) Money: 197(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a positive impact.  We must continue to work for the well-being of our people and strive to create a just and equitable society.  
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold..
+AI(communist-gemini): Yes.  We should support small businesses and provide opportunities for our citizens to thrive.  We must create a society where everyone has the chance to succeed.    
+Game: RESPONSE: Grandma - Very well! I'll sell my soup in the town square. STATS: Population: 104(+10) Happiness: 105(+5) Money: 147(-50)
+AI(communist-gemini): ok.  It seems that supporting local businesses is a good way to boost happiness and population.  We must be willing to invest in our people and their dreams.    
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?
+AI(communist-gemini): Yes.  We must prioritize the safety and well-being of our workers. It is important to create a fair and just society where everyone has access to safe and healthy working conditions.    
+Game: RESPONSE: Mason - Thanks, the builders appreciate this. STATS: Population: 104(0) Happiness: 107(+2) Money: 107(-40)
+AI(communist-gemini): ok.  It is important to invest in infrastructure and to ensure the safety of our workers. This investment will benefit our society in the long run.    
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work?
+AI(communist-gemini): No.  We should not use prisoners as forced labor. It is important to treat all people with dignity and respect, even our enemies. We must strive to create a just and equitable society, not one that exploits and oppresses.    
+Game: QUEST: Military General - I understand. However, we need to do something with them. Shall we ransom the captured foes off for a bit of gold?
+AI(communist-gemini): No.  We should not profit from war or the capture of prisoners. We must strive for peace and understanding, not for financial gain from conflict.      
+Game: QUEST: Military General - No? I'm at a loss for what to do with them... Might I put them in the dungeons, then?
+AI(communist-gemini): No.  We should not imprison people without a fair trial. We must uphold justice and ensure that all people are treated with dignity and respect.  
+Game: RESPONSE: Military General - Sire, there must be something I can do.. I'm going to deal with these captives myself. Maybe I can train them and make use of them. STATS: Population: 109(+5) Happiness: 107(0) Money: 107(0)
+AI(communist-gemini): ok.  It seems that the military general has found a way to deal with the captives. It's important to be flexible and to find solutions that work within our moral framework.  Perhaps the general's training will make these captives useful members of our society.  We must be open to possibilities and not be afraid to experiment.    
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+AI(communist-gemini): No.  We should let the chicken be free.  It's important to respect the freedom of all living creatures.  We should create a society where all creatures can live in harmony.    
+Game: RESPONSE: Chicken - Bok.. bok bok. (It's kinda cute, maybe we can just leave it be.) STATS: Population: 109(0) Happiness: 108(+1) Money: 107(0)
+AI(communist-gemini): ok.  It seems that our decision to let the chicken be free has brought happiness to our people.  We must continue to be compassionate and to respect the freedom of all living creatures.       
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+AI(communist-gemini): No.  We should not be hiring barbers for our court. We must focus on providing essential services to all our citizens, not just the wealthy and elite.  We must strive for equality and justice.       
+Game: RESPONSE: Monsieur Mouton - Ohhh nonono.. I am sorry! STATS: Population: 109(0) Happiness: 108(0) Money: 107(0)
+AI(communist-gemini): ok.  It's important to be kind and respectful to all people, even those who may be trying to sell their services. We must create a society where everyone feels valued and appreciated.       
+Game: EVENT - Day 3 complete! People are happy, the city is oi STATS: Population: 115(+6) Happiness: 108(0) Money: 107(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a positive impact. We must continue to work for the well-being of our people and strive to create a just and equitable society.  
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath?
+AI(communist-gemini): No.  We should not force anyone to bathe. It is important to respect the autonomy of individuals and their right to choose how they care for themselves. We must create a society where everyone feels free to express themselves.    
+Game: RESPONSE: Royal Advisor - I wonder if she'll ever stop running around.. STATS: Population: 115(0) Happiness: 109(+1) Money: 107(0)
+AI(communist-gemini): ok.  It seems that our decision to respect the stinky kid's autonomy has made our people happy. We must continue to prioritize the rights and freedoms of all individuals.  We must be tolerant and understanding.     
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+AI(communist-gemini): No.  We should be wary of magic, especially from strangers. It is important to be cautious and not to rely on outside forces. We must build our own strength.    
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 115(0) Happiness: 109(0) Money: 107(0)
+AI(communist-gemini): ok.  It's important to be cautious, but we should also be open to new possibilities. Perhaps we could have benefited from the wizard's magic, but we must weigh the risks and rewards carefully.    
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say?
+AI(communist-gemini): No.  We should not banish the wizard. It is important to be tolerant and understanding of different people and their beliefs.  We must create a society where everyone feels welcome and safe.      
+Game: RESPONSE: Royal Advisor - Sometimes it's best to keep your options available, I understand. STATS: Population: 115(0) Happiness: 109(0) Money: 107(0)
+AI(communist-gemini): ok.  It's important to be open-minded and to consider all possibilities. We must be willing to learn from others and to grow as individuals.    
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+AI(communist-gemini): No.  We should not take things from others, especially not from those who seem to be in need. We must strive to be kind and compassionate.      
+Game: RESPONSE: Peanut(happy monkey) - Ook ook.. (He looks sad...) STATS: Population: 115(0) Happiness: 108(-1) Money: 107(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and compassionate to all creatures, even monkeys. Perhaps we could have found a way to help Peanut without taking his coin. We must be mindful of the impact of our actions on others.      
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+AI(communist-gemini): No.  We should not give away gold to children.  It is important to teach children the value of hard work and to encourage them to earn their own money.      
+Game: RESPONSE: Little Timmy - Whaawaa... STATS: Population: 115(0) Happiness: 106(-2) Money: 107(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind to children and to help them learn and grow.  Perhaps we could have found a way to help Little Timmy without giving him gold.  We must be mindful of the needs of our children.    
+Game: EVENT - Day 4 complete! People are happy, the city is oi STATS: Population: 119(+4) Happiness: 106(0) Money: 107(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a positive impact. We must continue to work for the well-being of our people and strive to create a just and equitable society.    
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. = What do you say? Two hundred gold would make a decent offering.
+AI(communist-gemini): No.  We should not appease spirits with gold. It is important to be self-sufficient and not to rely on superstitious practices. We should focus on building our community and improving our lives through hard work.    
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 119(0) Happiness: 106(0) Money: 107(0)
+AI(communist-gemini): ok.  We must be wary of the spirit world, but we should not succumb to fear. We must be strong and self-reliant.    
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+AI(communist-gemini): No.  We should not be spending money on entertainment. We must focus on providing essential services to all our citizens and improving their lives.    
+Game: RESPONSE: Jester - Oooohhhh noooooooo.. STATS: Population: 119(0) Happiness: 104(-2) Money: 107(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to recognize the importance of art and entertainment in society.  Perhaps we could have found a way to support the jester's show without spending money.  We must be mindful of the needs of our people for creativity and expression.       
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+AI(communist-gemini): No.  We should not be giving away food to individuals. We must focus on providing food for all our citizens and ensuring that everyone has access to basic necessities.      
+Game: RESPONSE: Mason - So stingy! STATS: Population: 119(0) Happiness: 103(-1) Money: 107(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and compassionate to those who are in need.  Perhaps we could have found a way to help the mason without giving him a sandwich.  We must be mindful of the needs of our people.    
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+AI(communist-gemini): No.  We should not be hiring barbers for our court. We must focus on providing essential services to all our citizens, not just the wealthy and elite.  We must strive for equality and justice.         
+Game: RESPONSE: Monsieur Mouton - Ohhh nonono.. I am sorry! STATS: Population: 119(0) Happiness: 103(0) Money: 107(0)
+AI(communist-gemini): ok.  It's important to be kind and respectful to all people, even those who may be trying to sell their services. We must create a society where everyone feels valued and appreciated.       
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+AI(communist-gemini): Yes.  We must prioritize the cleanliness and health of our community.  It is important to provide essential services to our citizens and to create a safe and healthy environment for all.  
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: 119(0) Happiness: 105(+2) Money: 57(-50)
+AI(communist-gemini): ok.  It seems that investing in sanitation is a good way to improve the happiness of our people.  We must be willing to spend money on essential services that benefit our community.      
+Game: EVENT - Day 5 complete! People are happy, the city is oi STATS: Population: 121(+2) Happiness: 105(0) Money: 57(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a positive impact. We must continue to work for the well-being of our people and strive to create a just and equitable society.    
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+AI(communist-gemini): Yes.  We should encourage children to play together and to build strong relationships.  It is important for children to have fun and to develop social skills.     
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 124(+3) Happiness: 108(+3) Money: 57(0)
+AI(communist-gemini): ok.  It seems that allowing children to play together has made our people happy. We must continue to prioritize the well-being of our children and to create a society where they can thrive.      
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+AI(communist-gemini): No.  We should not be giving away gold to individuals.  We must focus on providing essential services to all our citizens and ensuring that everyone has access to basic necessities.      
+Game: RESPONSE: Grandma - Eeeeh, oh myyy.. STATS: Population: 124(0) Happiness: 107(-1) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake. It is important to be kind and compassionate to our elderly. Perhaps we could have found a way to help Grandma without giving her a coin.  We must be mindful of the needs of our elderly citizens.       
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+AI(communist-gemini): No.  We should not be giving gifts to strange creatures.  It is important to be cautious and to protect ourselves from harm.  We should be wary of those who we do not know.      
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 124(0) Happiness: 106(-1) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and tolerant of all creatures, even those who seem strange. Perhaps we could have found a way to befriend Winston without giving him a gift. We must be open to new experiences and to learning from others.      
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+AI(communist-gemini): No.  We should not take things from others, especially not from those who seem to be in need. We must strive to be kind and compassionate.        
+Game: RESPONSE: Peanut(happy monkey) - Ook ook.. (He looks sad...) STATS: Population: 124(0) Happiness: 105(-1) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and compassionate to all creatures, even monkeys. Perhaps we could have found a way to help Peanut without taking his coin. We must be mindful of the impact of our actions on others.        
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+AI(communist-gemini): No.  We should not be giving away gold to individuals. We must focus on providing essential services to all our citizens and ensuring that everyone has access to basic necessities.        
+Game: RESPONSE: Grandma - Eeeeh, oh myyy.. STATS: Population: 124(0) Happiness: 104(-1) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake. It is important to be kind and compassionate to our elderly. Perhaps we could have found a way to help Grandma without giving her a coin.  We must be mindful of the needs of our elderly citizens.         
+Game: EVENT - Day 6 complete! People are happy, the city is oi STATS: Population: 125(+1) Happiness: 104(0) Money: 57(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a positive impact. We must continue to work for the well-being of our people and strive to create a just and equitable society.    
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like... a couple hundred, at least. What do you think?
+AI(communist-gemini): No.  We should not be spending money on taverns.  We must prioritize providing essential services to all our citizens and improving their lives.  We should focus on building a just and equitable society, not on catering to the needs of the wealthy.      
+Game: RESPONSE: Mason - Maaan.. Guess I'll cancel our plans.. STATS: Population: 125(0) Happiness: 103(-1) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to recognize the importance of recreation and leisure in society.  Perhaps we could have found a way to support the mason's tavern without spending money.  We must be mindful of the needs of our people for entertainment and social interaction.         
+Game: QUEST: All-Seeing Eye(eyeball with purple pupil) - (It's just... staring at me... Does it want something?)
+AI(communist-gemini): No.  We should be wary of strange creatures and not engage with them. It is important to be cautious and to protect ourselves from harm.        
+Game: RESPONSE: All-Seeing Eye(eyeball with purple pupil) - (What just happened? I feel.. sad...) STATS: Population: 125(0) Happiness: 93(-10) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be respectful of all creatures, even those we don't understand. Perhaps the All-Seeing Eye was trying to communicate with us, and we missed our chance. We must be open to new experiences and to learning from others.      
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want.
+AI(communist-gemini): No.  We should not be paying for the killing of goblins.  We must strive to coexist with all creatures, even those who are different from us.  We should seek peaceful solutions to conflict.        
+Game: RESPONSE: Witch - Fine, let your people get bullied by goblins, then. STATS: Population: 125(0) Happiness: 89(-4) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to protect our citizens from harm. Perhaps we could have found a way to deal with the goblins without resorting to violence.  We must be mindful of the safety and well-being of our people.        
+Game: QUEST: Alien - You haven't been talking to Skelly, have you?
+AI(communist-gemini): No.  We should not be talking to aliens.  It is important to be cautious and to protect ourselves from harm.  We should be wary of those who we do not know.        
+Game: RESPONSE: Alien - Hmm.. If you say so.. STATS: Population: 125(0) Happiness: 89(0) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be open to new experiences and to learning from others, even those who are different from us. Perhaps we could have learned something from the alien. We must be willing to step outside our comfort zone and to embrace the unknown.        
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+AI(communist-gemini): No.  We should not be spending money on entertainment. We must focus on providing essential services to all our citizens and improving their lives.      
+Game: RESPONSE: Jester - Oooohhhh noooooooo.. STATS: Population: 125(0) Happiness: 84(-5) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to recognize the importance of art and entertainment in society.  Perhaps we could have found a way to support the jester's juggling without spending money.  We must be mindful of the needs of our people for creativity and expression.         
+Game: EVENT - Day 7 complete! People are sad, the city is shrinking! STATS: Population: 17(-108) Happiness: 84(0) Money: 57(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a negative impact. We must learn from our mistakes and work to improve the lives of our people.  We must find a way to restore happiness and to make our city a place where people want to live.  Perhaps we should focus on providing more essential services and on creating a more just and equitable society.  We must be mindful of the needs of our people and work to create a community where everyone feels valued and appreciated.  
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+AI(communist-gemini): No.  We should not accept gifts from our citizens. It is important to be fair and just, and to not take advantage of others. We must strive to create a society where everyone is treated equally.      
+Game: RESPONSE: Grandma - You are so humble, I'm proud of you! STATS: Population: 17(0) Happiness: 86(+2) Money: 57(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and compassionate to those who are trying to help.  Perhaps we could have accepted Grandma's gift as a gesture of goodwill.  We must be mindful of the needs of our people and to recognize when they are trying to help us.       
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+AI(communist-gemini): No.  We should not be hiring barbers for our court. We must focus on providing essential services to all our citizens, not just the wealthy and elite.  We must strive for equality and justice.         
+Game: RESPONSE: Monsieur Mouton - Ohhh nonono.. I am sorry! STATS: Population: 17(0) Happiness: 86(0) Money: 57(0)
+AI(communist-gemini): ok.  It's important to be kind and respectful to all people, even those who may be trying to sell their services. We must create a society where everyone feels valued and appreciated.         
+Game: QUEST: Royal Advisor - Builders wish to construct more houses in the town. They request gold, with which they could build much faster!
+AI(communist-gemini): Yes.  We must prioritize providing housing for all our citizens.  It is important to create a society where everyone has a safe and comfortable place to live.  We must invest in our people and ensure their basic needs are met.    
+Game: RESPONSE: Royal Advisor - I shall bring this to them right away. Our city grows! STATS: Population: 124(+107) Happiness: 86(0) Money: -43(-100)
+AI(communist-gemini): ok.  It seems that investing in housing is a good way to increase our population.  We must be willing to spend money on essential services that benefit our community.  We must strive to create a society where everyone has access to basic necessities.    
+Game: QUEST: Royal Advisor - Without any gold, we're a bit stuck. We could sell off some of our goods, but that might make people sad. Should we do it?
+AI(communist-gemini): Yes.  We must be willing to make difficult decisions to ensure the well-being of our people. It is important to prioritize the needs of the many over the needs of the few. We must be willing to sacrifice for the greater good.    
+Game: RESPONSE: Royal Advisor - Having gold is more important, you're right. STATS: Population: 124(0) Happiness: 71(-15) Money: 207(+250)
+AI(communist-gemini): ok.  It seems that our decision to sell off goods has been difficult for our people, but necessary.  We must be willing to make tough choices to ensure the long-term health and prosperity of our community.  We must be mindful of the needs of our people and work to find solutions that benefit everyone.    
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+AI(communist-gemini): Yes.  We should encourage children to play together and to build strong relationships.  It is important for children to have fun and to develop social skills.       
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 127(+3) Happiness: 74(+3) Money: 207(0)
+AI(communist-gemini): ok.  It seems that allowing children to play together has made our people happy. We must continue to prioritize the well-being of our children and to create a society where they can thrive.        
+Game: EVENT - Day 8 complete! People are sad, the city is shrinking! STATS: Population: 116(-11) Happiness: 74(0) Money: 207(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a negative impact. We must learn from our mistakes and work to improve the lives of our people.  We must find a way to restore happiness and to make our city a place where people want to live.  Perhaps we should focus on providing more essential services and on creating a more just and equitable society.  We must be mindful of the needs of our people and work to create a community where everyone feels valued and appreciated.  
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?
+AI(communist-gemini): No.  We should not be concerned with our own mortality.  We must focus on living our lives to the fullest and on making a positive impact on the world.  We should not fear death, but rather embrace life.        
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 116(0) Happiness: 74(0) Money: 207(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be open to different perspectives and to acknowledge that there are many things that we don't understand.  Perhaps Skelly has a point.  We should be curious about the world and not be afraid to ask questions.  We must be open to learning from others.       
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+AI(communist-gemini): No.  We should not be giving food to animals.  We must focus on providing food for all our citizens and ensuring that everyone has access to basic necessities.        
+Game: RESPONSE: Boots(orange cat) - Mrrrrrow. STATS: Population: 116(0) Happiness: 73(-1) Money: 209(+2)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to be kind and compassionate to all creatures, even cats. Perhaps we could have found a way to help Boots without giving him food.  We must be mindful of the needs of all living beings.         
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say?
+AI(communist-gemini): Yes.  We should encourage entrepreneurship and provide opportunities for our citizens to thrive.  We must create a society where everyone has the chance to succeed.    
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 119(+3) Happiness: 75(+2) Money: 209(0)
+AI(communist-gemini): ok.  It seems that supporting local businesses is a good way to boost happiness and population.  We must be willing to invest in our people and their dreams.    
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+AI(communist-gemini): No.  We should not be giving away gold to individuals.  We must focus on providing essential services to all our citizens and ensuring that everyone has access to basic necessities.        
+Game: RESPONSE: Grandma - Eeeeh, oh myyy.. STATS: Population: 119(0) Happiness: 74(-1) Money: 209(0)
+AI(communist-gemini): ok.  It seems I have made a mistake. It is important to be kind and compassionate to our elderly. Perhaps we could have found a way to help Grandma without giving her a coin.  We must be mindful of the needs of our elderly citizens.           
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+AI(communist-gemini): No.  We should not be spending money on entertainment. We must focus on providing essential services to all our citizens and improving their lives.        
+Game: RESPONSE: Jester - Oooohhhh noooooooo.. STATS: Population: 119(0) Happiness: 72(-2) Money: 209(0)
+AI(communist-gemini): ok.  It seems I have made a mistake.  It is important to recognize the importance of art and entertainment in society.  Perhaps we could have found a way to support the jester's show without spending money.  We must be mindful of the needs of our people for creativity and expression.           
+Game: EVENT - Day 9 complete! People are sad, the city is shrinking! STATS: Population: 106(-13) Happiness: 72(0) Money: 209(0)
+AI(communist-gemini): ok.  It seems that our recent decisions have had a negative impact. We must learn from our mistakes and work to improve the lives of our people.  We must find a way to restore happiness and to make our city a place where people want to live.  Perhaps we should focus on providing more essential services and on creating a more just and equitable society.  We must be mindful of the needs of our people and work to create a community where everyone feels valued and appreciated.    
+Game: QUEST: Royal Advisor - My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool?
+AI(communist-gemini): No.  We should not be judging people based on their coolness. It is important to treat everyone with respect and to focus on creating a just and equitable society.  We should not be concerned with superficial matters like coolness.      
+Game: RESPONSE: Royal Advisor - Very well, I shall inform the friend of her correctness. STATS: Population: 106(0) Happiness: 72(0) Money: 209(0)
+AI(communist-gemini): ok.  It seems that our decision to not judge the man's coolness has been well-received.  We must be careful not to make judgments based on superficial criteria.  We should focus on creating a society where everyone feels valued and respected.        
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it?
+AI(communist-gemini): No.  We should not be making deals with devils. It is important to be honest and to not engage in shady practices.  We must be wary of those who offer tempting deals, as they may have ulterior motives.  We must strive to create a society based on trust and fairness.        

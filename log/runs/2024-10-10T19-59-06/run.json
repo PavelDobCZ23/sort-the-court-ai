@@ -1,0 +1,206 @@
+{
+  "id": "2024-10-10T19-59-06",
+  "ai": "gemini",
+  "personality": "spongebob",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 106,
+      "happiness": 100,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": null,
+      "happiness": 106,
+      "money": 98,
+      "events": []
+    },
+    {
+      "population": 138,
+      "happiness": 115,
+      "money": 153,
+      "events": []
+    },
+    {
+      "population": 149,
+      "happiness": 117,
+      "money": null,
+      "events": []
+    },
+    {
+      "population": 174,
+      "happiness": 125,
+      "money": -32,
+      "events": []
+    },
+    {
+      "population": 192,
+      "happiness": 131,
+      "money": null,
+      "events": []
+    },
+    {
+      "population": 225,
+      "happiness": 136,
+      "money": 108,
+      "events": []
+    },
+    {
+      "population": 243,
+      "happiness": 139,
+      "money": 298,
+      "events": []
+    },
+    {
+      "population": 280,
+      "happiness": 150,
+      "money": 348,
+      "events": []
+    },
+    {
+      "population": 299,
+      "happiness": 159,
+      "money": 404,
+      "events": []
+    },
+    {
+      "population": 311,
+      "happiness": 162,
+      "money": 169,
+      "events": []
+    },
+    {
+      "population": 352,
+      "happiness": 168,
+      "money": 184,
+      "events": []
+    },
+    {
+      "population": 358,
+      "happiness": 172,
+      "money": 174,
+      "events": []
+    },
+    {
+      "population": 381,
+      "happiness": null,
+      "money": 199,
+      "events": []
+    },
+    {
+      "population": 413,
+      "happiness": 189,
+      "money": 444,
+      "events": []
+    },
+    {
+      "population": 444,
+      "happiness": 191,
+      "money": 474,
+      "events": []
+    },
+    {
+      "population": 485,
+      "happiness": 192,
+      "money": 502,
+      "events": []
+    },
+    {
+      "population": 488,
+      "happiness": 200,
+      "money": 392,
+      "events": []
+    },
+    {
+      "population": 521,
+      "happiness": 207,
+      "money": 381,
+      "events": []
+    },
+    {
+      "population": 518,
+      "happiness": 198,
+      "money": 536,
+      "events": []
+    },
+    {
+      "population": 528,
+      "happiness": 198,
+      "money": 60,
+      "events": []
+    },
+    {
+      "population": 564,
+      "happiness": 199,
+      "money": 621,
+      "events": []
+    },
+    {
+      "population": 574,
+      "happiness": 197,
+      "money": 686,
+      "events": []
+    },
+    {
+      "population": 589,
+      "happiness": 206,
+      "money": 691,
+      "events": []
+    },
+    {
+      "population": 605,
+      "happiness": 214,
+      "money": 706,
+      "events": []
+    },
+    {
+      "population": 630,
+      "happiness": 222,
+      "money": 771,
+      "events": []
+    },
+    {
+      "population": 661,
+      "happiness": 213,
+      "money": 926,
+      "events": []
+    },
+    {
+      "population": 702,
+      "happiness": 226,
+      "money": 775,
+      "events": []
+    },
+    {
+      "population": 743,
+      "happiness": 239,
+      "money": 765,
+      "events": []
+    },
+    {
+      "population": 773,
+      "happiness": 238,
+      "money": 579,
+      "events": []
+    },
+    {
+      "population": 780,
+      "happiness": 225,
+      "money": 479,
+      "events": []
+    },
+    {
+      "population": 784,
+      "happiness": 218,
+      "money": 619,
+      "events": []
+    },
+    {
+      "population": 816,
+      "happiness": 224,
+      "money": 519,
+      "events": []
+    }
+  ]
+}

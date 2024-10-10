@@ -1,4 +1,7 @@
 /node_modules/**/*
 /package-lock.json
 .env
+/old
+/node_modules
+/temp
 /temp/**/*

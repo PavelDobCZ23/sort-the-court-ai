@@ -4,9 +4,8 @@ const sharp = require('sharp');
 
 const readline = require('readline');
 const fs = require('fs');
-const crypto = require("crypto");
 
-const { CharacterBot, GeminiBot } = require('./bots.js');
+const { CharacterBot, GeminiBot } = require('./bots-new.js');
 
 const BOTS = {
 	gemini: GeminiBot,
@@ -23,7 +22,7 @@ const AREA = {
 	DECISION_CONTROLS: 	{ left: 1023*2, top: 196*2, width: 65 *2, height: 20 *2 },
 	STATS_POPULATION: 	{ left: 235 *2, top: 438*2, width: 88 *2, height: 38 *2 },
 	STATS_HAPPINESS: 	{ left: 235 *2, top: 473*2, width: 88 *2, height: 38 *2 },
-	STATS_MONEY: 		{ left: 235 *2, top: 509*2, width: 88 *2, height: 38 *2 },
+	STATS_MONEY: 		{ left: 236 *2, top: 509*2, width: 87 *2, height: 38 *2 },
 	END_DAY_TITLE:		{ left: 477 *2, top: 96 *2, width: 331*2, height: 48 *2 },
 	END_DAY_RESULT:		{ left: 478 *2, top: 388*2, width: 332*2, height: 80 *2 },
 	EVENT_INFO :		{ left: 427 *2, top: 335*2, width: 434*2, height: 117*2 },
@@ -34,7 +33,7 @@ const VALID_CONTROLS = ['Y/N','SPACE'];
 const APPEARENCE = JSON.parse(fs.readFileSync(`./config/appearence.json`).toString());
 
 const STATS_LOG_FILE = "./log/stats.json";
-const RUN_ID = new Date().toISOString();
+const RUN_ID = new Date().toISOString().replace(/:/g,"-").slice(0,19);
 const RUN_LOG_DIR = `./log/runs/${RUN_ID}`
 
 function sleep(ms) {
@@ -65,9 +64,9 @@ async function main() {
 		await fs.promises.mkdir(RUN_LOG_DIR);
 	}
 	//## Init OCR
-	const ocrWorker = await Tesseract.createWorker('Chewy');
+	const ocrWorker = await Tesseract.createWorker('Chewy',Tesseract.OEM.LSTM_ONLY);
 
-	const roleSelection = (await readInput(`What role do you wanna start? (communist/capitalist)\n`)).toLowerCase();
+	const personality = (await readInput(`What personality do you want to use?\n`)).toLowerCase();
 	const aiSelection = (await readInput(`What AI do you wanna use? (character/gemini)\n`)).toLowerCase();
 	const fullGameSelection = (await readInput(`Do you want the AI to recieve events and responses? (Y/n)\n`)).toLowerCase() !== "n";
 	const headlessBrowser = (await readInput(`Do you want the browser to be headless? (y/N)\n`)).toLowerCase() === "y";
@@ -78,11 +77,11 @@ async function main() {
 			AREA[areaId].left += 14;
 		}
 	}
-
+	// Prepares object for logging
 	const runLog = {
 		id: RUN_ID,
 		ai: aiSelection,
-		role: roleSelection,
+		personality: personality,
 		fullGame: fullGameSelection,
 		days: []
 	};
@@ -90,9 +89,10 @@ async function main() {
 
 	const statsLog = JSON.parse((await fs.promises.readFile(STATS_LOG_FILE)).toString());
 
-	console.log(`Starting AI Chatbot(${roleSelection}): ${aiSelection}.`);
+	console.log(`AI ChatBot (${aiSelection}) with personality: ${personality}`);
+	await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`AI ChatBot (${aiSelection}) with personality: ${personality}`);
 	const bot = BOTS[aiSelection];
-	const chatBot = new bot(roleSelection,fullGameSelection);
+	const chatBot = new bot(personality,fullGameSelection);
 	await chatBot.start();
 	console.log(`Starting the browser.`);
 	//## Prepare the browser
@@ -127,6 +127,7 @@ async function main() {
 			[]
 		]
 	}
+	// Main game loop
 	while (true) {
 		const previousStats = Object.assign({},gameStats);
 		const court = await readCourtQuestion(page,ocrWorker,gameStats);
@@ -154,8 +155,8 @@ async function main() {
 			await sleep(1500);
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
-			console.log(`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}\n`);
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
 			await sleep(500);
 			continue;
 		}
@@ -164,17 +165,20 @@ async function main() {
 			await page.keyboard.press("Space");
 			
 			const prompt = `EVENT: ${eventInfo} STATS: ${getStatsString(gameStats,previousStats)}`;
+			//log
 			console.log(`Game: ${prompt}`);
 			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
-			gameStats.lastPerson = "";
 
+			gameStats.lastPerson = "";
 			gameStats.events[gameStats.day-1].push(eventInfo);
 
 			await sleep(1500);
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
-			console.log(`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}\n`);
+			//log
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			
 			await sleep(500);
 			continue;
 		}
@@ -184,31 +188,35 @@ async function main() {
 				? `EVENT: ${court.person} - ${court.dialog} STATS: ${getStatsString(gameStats,previousStats)}`
 				: `RESPONSE: ${court.person} - ${court.dialog} STATS: ${getStatsString(gameStats,previousStats)}`
 			);
+			gameStats.lastPerson = court.person;
+			//log
 			console.log(`Game: ${prompt}`);
 			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
-			gameStats.lastPerson = court.person;
 
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
-			console.log(`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}\n`);
+			//log
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			
 			await sleep(1500);
 		}
 		if (court.question) {
 			const prompt = `QUEST: ${court.person} - ${court.dialog}`;
+			gameStats.lastPerson = court.person;
+			//log
 			console.log(`Game: ${prompt}`);
 			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
-			gameStats.lastPerson = court.person;
 
-			const response = await chatBot.decide(prompt);
-			console.log(`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`AI(${roleSelection}-${aiSelection}): ${response.full.replace(/\n/g, ' ')}\n`);
+			const response = await chatBot.decide(prompt,true);
+			//log
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
 			statsLog[`responses-${aiSelection}`][court.person] ??= {};
 			statsLog[`responses-${aiSelection}`][court.person][court.dialog] ??= {};
-			statsLog[`responses-${aiSelection}`][court.person][court.dialog][roleSelection] ??= {};
-			statsLog[`responses-${aiSelection}`][court.person][court.dialog][roleSelection][response.key] ??= 0;
-			statsLog[`responses-${aiSelection}`][court.person][court.dialog][roleSelection][response.key]++;
-
+			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality] ??= {};
+			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality][response.key] ??= 0;
+			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality][response.key]++;
 			await fs.promises.writeFile(STATS_LOG_FILE,JSON.stringify(statsLog,null,2));
 
 			await page.keyboard.press(response.key);
@@ -258,6 +266,7 @@ function ensureNumber(numberText) {
 	);
 }
 
+// Performs optimisations needed for better OCR results
 async function getOptimisedScreenshot(page) {
 	const screenshotBuffer = await page.screenshot();
 	const metadata = await sharp(screenshotBuffer).metadata()
@@ -265,10 +274,12 @@ async function getOptimisedScreenshot(page) {
 	.resize(
 		metadata.width*2, metadata.height*2, {
 			fit: 'inside',
-			kernel: sharp.kernel.cubic
+			kernel: sharp.kernel.mitchell
 		}
 	)
+    .sharpen()
 	.greyscale(true)
+	.normalise()
 	.linear(2,-128)
 	.toBuffer();
 		
@@ -302,9 +313,11 @@ async function readCourtQuestion(page,ocrWorker,gameStats) {
 		const endDayTitle = await textFromImage(screenshotBuffer,AREA.END_DAY_TITLE,ocrWorker);
 		let controls = await textFromImage(screenshotBuffer,AREA.DECISION_CONTROLS,ocrWorker);
 		let eventControls = await textFromImage(screenshotBuffer,AREA.EVENT_CONTROLS,ocrWorker);
+		await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
 		const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 		const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 		const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);
+		await ocrWorker.setParameters({tessedit_char_whitelist: ''});
 
 		await sharp(screenshotBuffer)
 			.extract(AREA.EVENT_CONTROLS)
@@ -327,9 +340,10 @@ async function readCourtQuestion(page,ocrWorker,gameStats) {
 		gameStats.population = ensureNumber(statsPopulation);
 		gameStats.happiness = ensureNumber(statsHappiness);
 		gameStats.money = ensureNumber(statsMoney);
-		//INFO Controls use some hand-made font that's hard to recoginze, this fixes that
-		controls = controls.replace('X','Y').replace('€','E');
-		eventControls = eventControls.replace('X','Y').replace('€','E').replace(/CC/,'CE');
+		//INFO Controls use some hand-made font that's hard to recoginse, this fixes that
+		controls = controls.replace('X','Y').replace(/[€&¢]/ig,'E').replace(/\s/ig,"");
+		eventControls = eventControls.replace('X','Y').replace(/[€&¢]/ig,'E').replace(/CC/,'CE').replace(/\s/ig,"");
+		console.log(`GC:'${controls}' EC: '${eventControls}'`)
 
 		if (questionStarted && person != response.person) {
 			response.question = false;
@@ -372,9 +386,12 @@ async function processEndDay(page,ocrWorker,gameStats) {
 	await sharp(screenshotBuffer).toFile(`./log/runs/${RUN_ID}/stats-day-${gameStats.day}.png`);
 
 	const endDayResult = await textFromImage(screenshotBuffer,AREA.END_DAY_RESULT,ocrWorker);
+	endDayResult.replace("1mmi","growing!"); //idk whyyy, but it needs to be done
+	await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
 	const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 	const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 	const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);
+	await ocrWorker.setParameters({tessedit_char_whitelist: ''});
 
 	await sharp(screenshotBuffer)
 	.extract(AREA.END_DAY_RESULT)
@@ -395,9 +412,11 @@ async function processEvent(page,ocrWorker,gameStats) {
 	await sleep(1500);
 	const screenshotBuffer = await getOptimisedScreenshot(page);
 
+	await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
 	const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 	const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 	const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);
+	await ocrWorker.setParameters({tessedit_char_whitelist: ''});
 	const eventInfo = await textFromImage(screenshotBuffer,AREA.EVENT_INFO,ocrWorker);
 
 	gameStats.population = ensureNumber(statsPopulation);

@@ -11,7 +11,7 @@
   "license": "GPL v3",
   "dependencies": {
     "@google/generative-ai": "^0.12.0",
-    "node_characterai": "^1.2.7",
+    "cainode": "^1.1.7",
     "puppeteer": "^22.11.0",
     "sharp": "^0.33.4",
     "tesseract.js": "^5.1.0"

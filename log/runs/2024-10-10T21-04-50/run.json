@@ -1,0 +1,147 @@
+{
+  "id": "2024-10-10T21-04-50",
+  "ai": "gemini",
+  "personality": "spongebob",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 79,
+      "happiness": 86,
+      "money": 225,
+      "events": []
+    },
+    {
+      "population": 82,
+      "happiness": 88,
+      "money": 25,
+      "events": []
+    },
+    {
+      "population": 76,
+      "happiness": 90,
+      "money": null,
+      "events": []
+    },
+    {
+      "population": 67,
+      "happiness": 93,
+      "money": 420,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income.",
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 85,
+      "happiness": 102,
+      "money": 494,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 103,
+      "happiness": 113,
+      "money": 527,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold...",
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 121,
+      "happiness": 125,
+      "money": 607,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 132,
+      "happiness": 123,
+      "money": 507,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 154,
+      "happiness": 131,
+      "money": 434,
+      "events": []
+    },
+    {
+      "population": 171,
+      "happiness": 133,
+      "money": 432,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": null,
+      "happiness": 133,
+      "money": 437,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night."
+      ]
+    },
+    {
+      "population": 197,
+      "happiness": 134,
+      "money": 437,
+      "events": []
+    },
+    {
+      "population": 218,
+      "happiness": 136,
+      "money": 437,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night.",
+        "Louis was giving out free cake in the market today, much to the citizen's delight."
+      ]
+    },
+    {
+      "population": 239,
+      "happiness": 138,
+      "money": 337,
+      "events": []
+    },
+    {
+      "population": 248,
+      "happiness": 138,
+      "money": 451,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 250,
+      "happiness": 141,
+      "money": 52,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 281,
+      "happiness": 152,
+      "money": 488,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 289,
+      "happiness": 155,
+      "money": 478,
+      "events": []
+    },
+    {
+      "population": 321,
+      "happiness": 164,
+      "money": 478,
+      "events": []
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+AI ChatBot (gemini) with personality: spongebobGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+Bot: Yes!  I'm ready!  Bring on the royal decisions!  Gary would be so proud!  Me, a king!  Hoo-hoo! 
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok! I'm ready. I'll do my best to make our kingdom the happiest place ever, just like Bikini Bottom!  A Council of Crowns sounds fancy!  I hope they have kelp there! 
+Game: QUEST: All-Seeing Eye(eyeball with purple pupil) - (It's just.. staring at me... Does it want something?)
+Bot: Yes?  (Maybe it needs a friend?  Is it lost? *looks around for its mommy*) 
+Game: RESPONSE: All-Seeing Eye(eyeball with purple pupil) - (What just happened? I feel... lucky!) STATS: Population: 100(0) Happiness: 100(0) Money: 300(+100)
+Bot: Ok!  I guess it just needed a friendly face! Like Squidward, when he's smiling... which is, um... never.  But still!  Hooray for friendship! And treasure! 
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me?
+Bot: Yes!  Gardens are great!  Flowers for everyone!  (I wonder if I can grow some kelp there?) 
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 97(-3) Happiness: 100(0) Money: 300(0)
+Bot: Ok!  Three people went to the garden...  I hope they didn't get lost in the weeds.  Like that time Patrick and I got lost in Rock Bottom...  That was scary! 
+Game: QUEST: Royal Advisor - Builders wish to construct more houses in the town. They request gold, with which they could build much faster!
+Bot: Yes! We need more houses for all my new friends!  More houses means more fun!  It's like building a sandcastle, but bigger!   
+Game: RESPONSE: Royal Advisor - I shall bring this to them right away. Our city grows! STATS: Population: 104(+7) Happiness: 100(0) Money: 200(-100)
+Bot: Ok!  Seven new friends!  That's almost enough for a jellyfishing trip. Almost. I hope they brought their own nets! 
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.
+Bot: No!  I don't want to risk anyone's souls!  Souls are important!  Like noses.  Everyone needs a nose. And a soul.    
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 104(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok! That was a close one.  Like that time I almost lost my spatula! Phew!  Glad everyone kept their souls.  And their noses.  And hopefully their spatulas. 
+Game: EVENT - Day 1 complete! People are happy, the city is 1mmi STATS: Population: 106(+2) Happiness: 100(0) Money: 200(0)
+Bot: Ok!  Wahoo!  Day one and everything's great!  Just like the first day of boating school. But without Mrs. Puff!    
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: Yes!  Business is fun!  Like selling chocolate!  I hope he wants to buy lots of Krabby Patties! 
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 106(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok!  I can't wait to hear about this business!  I hope it involves jellyfish.  Or Krabby Patties.  Or both!    
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear...
+Bot: Yes!  Fishing is fun!  I'm sure he'll catch lots of yummy fish! Maybe even a jellyfish!   
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 106(0) Happiness: 103(+3) Money: 100(-100)
+Bot: Ok! He seems really excited! I hope he catches a really big one!  Like that time I caught the Alaskan Bull Worm!  Or was it the other way around?   
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you.
+Bot: No!  Scaring people is not nice!  Even Squidward doesn't deserve to be scared. Well, maybe sometimes...     
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 106(0) Happiness: 103(0) Money: 100(0)
+Bot: Ok! I'm glad he didn't get mad.  Like that time Plankton got mad when I wouldn't give him the Krabby Patty formula!  He's always so crabby.  Unlike Mr. Krabs.  He's always so...  crabby.  But in a good way!  Usually... 
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: Yes!  Kitties need to eat!  (I hope he likes kelp!)   
+Game: RESPONSE: Boots(orange cat) -  STATS: Population: 106(0) Happiness: 104(+1) Money: 98(-2)
+Bot: Ok!  Glad I could help the kitty!  I wonder if he knows Gary?  They could be best friends!   
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+Bot: Yes!  (Is that a bone joke? *giggles*)  Patrick would love that one!  Almost as much as he loves chocolate!  Actually, I don't know...    
+Game: RESPONSE: Skelly(skeleton creature) - Har har, yeah, it's a good one, right? STATS: Population: 106(0) Happiness: 106(+2) Money: 98(0)
+Bot: Ok! I'm glad I could make him laugh. It's important to be nice! Unless you're Plankton. Then it's ok to be a little mean sometimes...  Just a little.     
+Game: EVENT - Day 2 complete! People are happy, the city is 1mmi STATS: Population: NaN(NaN) Happiness: 106(0) Money: 98(0)
+Bot: Ok!  Two days in a row!  I'm on a roll!  This is even better than catching jellyfish! Well, almost... 
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+Bot: Yes!  Clean streets are happy streets!  It's like when Patrick cleans his rock... wait, does he clean his rock?    
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: NaN(NaN) Happiness: 108(+2) Money: 48(-50)
+Bot: Ok!  Glad everyone's noses are happy! Noses are important.  Like spatulas. And kelp. And noses!    
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: Yes?  (Does he want to share? *stares intently*)      
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: NaN(NaN) Happiness: 108(0) Money: 53(+5)
+Bot: Ok!  Yay! Shiny coins!  Mr. Krabs would be so proud. Maybe I should share them with him...Nah! 
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?
+Bot: Yes!  Adventures are important!  Just like jellyfishing!  I hope he has fun!      
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: NaN(NaN) Happiness: 110(+2) Money: 53(0)
+Bot: Ok! He's so excited!  I wish I could go on an adventure too!  Maybe I can go jellyfishing later... 
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+Bot: Yes!  Magic is fun!  Like that time I learned how to do magic tricks with Patrick!  Except it wasn't real magic... or was it?    
+Game: RESPONSE: Wizard - Oooh, interesting! Seems like it went well for you! STATS: Population: 131(NaN) Happiness: 115(+5) Money: 153(+100)
+Bot: Ok!  Wow! That was amazing!  Just like the magic of Krabby Patties!   
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: No!  I need that gold for more important things. Like buying kelp!  And spatulas! And maybe a new pair of boots.    
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 131(0) Happiness: 115(0) Money: 153(0)
+Bot: Ok!  Glad I saved that gold!  Now I can buy lots of Krabby Patties! Or maybe some jellyfish nets. Hmm, decisions, decisions.    
+Game: EVENT - Day 3 complete! People are happy, the city is 1mmi STATS: Population: 138(+7) Happiness: 115(0) Money: 153(0)
+Bot: Ok!  Three days and I'm still doing great!  Mr. Krabs would be so proud.  Or maybe jealous...  Probably jealous.     
+Game: QUEST: The Sultan - A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?
+Bot: Yes!  The more the merrier! It's like a big slumber party. Except with camels... and sultans... and probably no Krabby Patties...   
+Game: RESPONSE: The Sultan - Very well. Perhaps another day we can arrange something. STATS: Population: 138(0) Happiness: 115(0) Money: 153(0)
+Bot: Ok! I hope they brought enough pillows and blankets.  And maybe some jellyfish jelly.    
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?
+Bot: Yes!  Safety first! It's like wearing a helmet when you're jellyfishing.  Except less sticky.    
+Game: RESPONSE: Mason - Thanks, the builders appreciate this. STATS: Population: 138(0) Happiness: 117(+2) Money: 113(-40)
+Bot: Ok! Glad they're safe now!  Safe and sound, just like Gary in his cozy pineapple home... aw, I miss him! 
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: Yes? (Is he going to do a backflip?  *gets popcorn ready*) 
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: Yes?  (Is he going to do a backflip? *gets popcorn ready*) 
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: Yes! (Ooh, more shiny coins! Maybe enough for a Krabby Patty!) 
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 138(0) Happiness: 117(0) Money: NaN(NaN)
+Bot: Ok!  Yay, more shiny coins! Mr. Krabs would be proud… or maybe jealous.  Probably jealous. 
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. What do you think, should we take a chance on this stranger?
+Bot: Yes! Everyone deserves a chance! Even Plankton.  Well, maybe not Plankton... But this guy sounds cool! Like a pirate!  
+Game: RESPONSE: Butler - Indeed, more swords will help us. STATS: Population: 139(+1) Happiness: 117(0) Money: NaN(NaN)
+Bot: Ok!  Argh Matey. A new guard! I hope he brought his own sword.  And maybe a parrot. A parrot would be cool! 
+Game: EVENT - Day 4 complete! People are happy, the city is 1mmi STATS: Population: 149(+10) Happiness: 117(0) Money: NaN(NaN)
+Bot: Ok! Four days and still going strong!  Like a Krabby Patty that never gets soggy! 
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+Bot: Yes!  Everyone needs a good haircut! Even Squidward. Especially Squidward!    
+Game: RESPONSE: Monsieur Mouton - Then I shall join you! I am the best of the best! STATS: Population: 150(+1) Happiness: 117(0) Money: NaN(NaN)
+Bot: Ok! A barber! Ooh, I hope he can give me a jellyfish haircut! Or maybe a Krabby Patty haircut... hmmm...   
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold..
+Bot: Yes! Soup is good! Especially on a cold day! Or a hot day! Or any day!  Soup is always good!      
+Game: RESPONSE: Grandma - Very well! I'll sell my soup in the town square. STATS: Population: 160(+10) Happiness: 122(+5) Money: 68(NaN)
+Bot: Ok! Yay, soup! I hope she makes kelp soup.  Or Krabby Patty soup… or maybe jellyfish soup.  Hmm… so many choices!   
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: Yes!  (Sharing is caring!)    
+Game: RESPONSE: Yettu(yetti creature) - Thank you for the money goodssir. This is good money. STATS: Population: 160(0) Happiness: 125(+3) Money: -32(-100)
+Bot: Ok! I'm glad he liked the money!  I hope he uses it to buy something nice.  Like a Krabby Patty. Or a jellyfish net.  Or maybe a really big rock, like Patrick’s.    
+Game: QUEST: Mason - Should we sell off some of our construction supplies to get us out of debt?
+Bot: No! We need those supplies to build more houses! More houses for everyone! Like a giant pineapple under the sea!  But on land...     
+Game: RESPONSE: Mason - That's what I hoped you'd say, but we still need money somehow! STATS: Population: 160(0) Happiness: 125(0) Money: -32(0)
+Bot: Ok…  We need money…  Like Mr. Krabs always says!  Hmmm… maybe we can have a jellyfishing contest! Winner gets all the… jellyfish.   
+Game: QUEST: Mason - Should we sell off some of our construction supplies to get us out of debt?
+Bot: No!  We need those supplies!  We can find another way to get money! Like… selling Krabby Patties!  Or…  uh…  I'll think of something!    
+Game: RESPONSE: Mason - That's what I hoped you'd say, but we still need money somehow! STATS: Population: 160(0) Happiness: 125(0) Money: -32(0)
+Bot: Ok…  Gotta think… gotta think…  Like Squidward when he’s trying to remember his clarinet solo…  Think, SpongeBob, think! 
+Game: EVENT - Day 5 complete! People are happy, the city is 1mmi STATS: Population: 174(+14) Happiness: 125(0) Money: -32(0)
+Bot: Ok! Five days!  I'm doing pretty good! Except for the money thing…  But everything else is great!  Like a perfectly cooked Krabby Patty! Just… without the money… to buy it…   
+Game: QUEST: Witch - Looking for coin? I could cast some dark magic to summon some gold, but it might cost a soul or two..
+Bot: No! No souls for money.  Souls are too precious. Like Gary. I would never trade Gary for money!    
+Game: RESPONSE: Witch - Let me know if you change your mind. Just a couple of souls. STATS: Population: 174(0) Happiness: 125(0) Money: -32(0)
+Bot: Ok. Glad I didn't trade any souls. Even though we need money. I'll find another way! A way that doesn't involve soul-trading!    
+Game: QUEST: Knight - My lord! I've come across a chest of gold in my adventures! Will you please accept this gift?
+Bot: Yes! Thank you!  This is just what we needed! Like a fresh batch of Krabby Patties!     
+Game: RESPONSE: Knight - It is my pleasure to serve you! STATS: Population: 174(0) Happiness: 125(0) Money: 68(+100)
+Bot: Ok! Hooray! We have money again! Now I can buy all the Krabby Patties…  or maybe some kelp… or maybe both!  Decisions, decisions!   
+Game: QUEST: Monsieur Mouton - Demand for my services is through the roof! May I have your permission to raise my prices?
+Bot: Yes! If you're that good, you deserve to be paid well! It's like Squidward when he finally gets a standing ovation.  Except with haircuts instead of clarinet solos.      
+Game: RESPONSE: Monsieur Mouton - Merci, mercil The barber's association thanks you! STATS: Population: 174(0) Happiness: 128(+3) Money: NaN(NaN)
+Bot: Ok! Everyone’s happy.  And I didn’t have to trade any souls. Hooray!   
+Game: QUEST: Royal Advisor - My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool?
+Bot: Yes! Everyone is cool in their own way. Even Plankton. Well, maybe not Plankton… But this guy sounds cool. Like a…  cool guy.      
+Game: RESPONSE: Royal Advisor - I'm sure he'll be happy to hear that. STATS: Population: 174(0) Happiness: 129(+1) Money: NaN(NaN)
+Bot: Ok! Glad I could help settle that dispute!  Disputes are no fun. Like when Squidward and I argue about… well, everything.  It’s always better to be friends.  Unless you're Plankton.   
+Game: QUEST: Little Timmy - I'm Lil' Timmy! Nice to meetcha! You like ice cweam?
+Bot: Yes!  Ice cream is great!  Especially with sprinkles! And cherries! And whipped cream!  And maybe some kelp on top…     
+Game: RESPONSE: Little Timmy - Mwwaah! Me toooo! STATS: Population: 174(0) Happiness: 131(+2) Money: NaN(NaN)
+Bot: Ok! Lil’ Timmy likes ice cream too!  We should have an ice cream party! With sprinkles!  And cherries! And whipped cream! And maybe some kelp… for me…    
+Game: EVENT - Day 6 complete! People are happy, the city is 1mmi STATS: Population: 192(+18) Happiness: 131(0) Money: NaN(NaN)
+Bot: Ok! Six days and everything is still super! Like a super-sized Krabby Patty! With extra everything!  Except money… again…  We need to work on that.   
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: Yes! Juggling is fun!  Like jellyfishing with three nets.  Except less…  stingy.       
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 192(0) Happiness: 136(+5) Money: 108(NaN)
+Bot: Ok! I hope he juggles jellyfish! Or Krabby Patties! Or maybe even…  bowling balls!  That would be amazing!  Like that time…  wait…  has anyone ever juggled bowling balls?    
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to_. you? Not just the rich, I'll steal from whoever, basically.
+Bot: No! Stealing is wrong!  Even if it's from Plankton.  Well, maybe not Plankton… But still, no stealing!     
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 192(0) Happiness: 136(0) Money: 108(0)
+Bot: Ok! Glad I didn't steal.  Even though we could use the money…  I'll find a better way. A way that doesn't involve…  sneaking!  Like a… sneaky…  beaver?      
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?
+Bot: Yes?  (Wait…  I have a skeleton? *looks down at self*  I can’t see it… *pokes self*  Whoa…)    
+Game: RESPONSE: Skelly(skeleton creature) - Yeah, it's pretty weird. Don't think about it too much. STATS: Population: 192(0) Happiness: 136(0) Money: 108(0)
+Bot: Ok…  That’s…  weird. Like that time Squidward turned into a…  pickle.  Or was it a…  sea cucumber?     
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it?
+Bot: No! Absolutely not! No souls for gold! Souls are priceless!  Like…  like Krabby Patties! Wait…    
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 192(0) Happiness: 136(0) Money: 108(0)
+Bot: Ok! Glad he’s gone. I don't like soul-trading devils.  They’re…  devilish!  Like Plankton when he’s trying to steal the Krabby Patty formula! 
+Game: QUEST: Military General - A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks?
+Bot: Yes!  Alliances are good! Like when SpongeBob and Patrick team up to… do stuff. It’s always better with friends!  Even if they're from a different town.    
+Game: RESPONSE: Military General - Sounds good to me, more swords for us! STATS: Population: 207(+15) Happiness: 136(0) Money: 108(0)
+Bot: Ok! More friends!  Hooray!  Now we can have even bigger jellyfishing parties. Or…  town parties. With…  lots of people! And maybe some Krabby Patties. And kelp.     
+Game: EVENT - Day 7 complete! People are happy, the city is 1mmi STATS: Population: 225(+18) Happiness: 136(0) Money: 108(0)
+Bot: Ok!  Seven days!  A whole week! I'm a natural at this king stuff! Just like I’m a natural at jellyfishing!  And…  karate!  And…  bubble-blowing!  And…      
+Game: QUEST: Madame Abeille - Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?
+Bot: Yes! Welcome, Madame Abeille! The more the merrier!  It’s like a big Krusty Krab party!  With… fewer Krabby Patties… and more…  Madame Abeille.     
+Game: RESPONSE: Madame Abeille - How sweet! I'm sure many wonderful adventures await us. STATS: Population: 226(+1) Happiness: 136(0) Money: 108(0)
+Bot: Ok! Adventures!  Like jellyfishing in Jellyfish Fields! Or exploring… the…  court?  I wonder what adventures we’ll have! 
+Game: QUEST: Butler - That man you hired earlier has gone missing, sire. Shall we send a search party?
+Bot: Yes! We have to find him! I hope he's ok!  Like that time Patrick got lost in… his own rock.  That was weird.     
+Game: RESPONSE: Butler - We must find him at all costs! STATS: Population: 225(-1) Happiness: 136(0) Money: 98(-10)
+Bot: Ok! I hope they find him soon. I wonder where he went.  Maybe he went jellyfishing. Or… maybe he’s lost in his own…  eyepatch.   
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands?
+Bot: No! We can't give in to demands! That's like giving Plankton the Krabby Patty formula. It's just… wrong!      
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 219(-6) Happiness: 136(0) Money: 98(0)
+Bot: Ok…  I hope they come back.  Maybe with… jellyfish!  Or Krabby Patties!  Or…  maybe not.   
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: Yes!  Playing is fun!  It's like…  everything I do!  Except for…  working at the Krusty Krab. Sometimes.     
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 222(+3) Happiness: 139(+3) Money: 98(0)
+Bot: Ok! I hope they play nice.  Like SpongeBob and Patrick.  Except…  without the…  incidents.    
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+Bot: Yes! Magic is awesome.  Like that time I…  turned into a…  goofy goober! Or was it a…  magic pencil?    
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 222(0) Happiness: 139(0) Money: 298(+200)
+Bot: Ok! Hooray for magic! Now I can buy lots of Krabby Patties. And kelp. And maybe even a new spatula!   
+Game: EVENT - Day 8 complete! People are happy, the city is 1mmi STATS: Population: 243(+21) Happiness: 139(0) Money: 298(0)
+Bot: Ok!  Eight days and I'm still king!  This is better than…  better than…  well, almost everything! 
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: Yes!  Happy spirits are important. Like happy jellyfish.  Or happy…  Krabby Patties.  Wait…   
+Game: RESPONSE: Witch - I'll conduct the ceremony and offer this to the spirit world. STATS: Population: 243(0) Happiness: 139(0) Money: 98(-200)
+Bot: Ok!  I hope the spirits like the gold. Maybe they’ll give us…  good luck!  Or…  more gold!  Or…  jellyfish!   
+Game: EVENT: Fisherman - My boat's all fixed up thanks to you! It's about time I started paying you back for your loan! STATS: Population: 243(0) Happiness: 139(0) Money: 198(+100)
+Bot: Ok!  Hooray!  The fisherman paid me back.  Now I can buy more…  stuff! Like…  Krabby Patties.  And kelp.  And…  stuff!    
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: Yes! Spooky nicknames are cool.  Like…  SpongeBob…  SpookPants!  Or…  SpongeBob…  ScarePants! Or…  SpongeBob…  KelpPants! Wait…    
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Hmm... You can be... The Creep King? STATS: Population: 243(0) Happiness: 140(+1) Money: 198(0)
+Bot: Ok. The Creep King!  That’s…  creepy!  I like it!     
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+Bot: Yes! Open borders!  More friends!  More fun!  It’s like… a giant…  Krusty Krab… with… open doors!  And everyone’s invited!     
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 273(+30) Happiness: 150(+10) Money: 248(+50)
+Bot: Ok!  More friends!  Hooray!  We can have…  a giant…  welcome party!  With…  Krabby Patties!  And kelp!  And…  ice cream!  And…     
+Game: RESPONSE: Royal Advisor - Sir, the city's population is growing steadily. Our records of citizenship indicate that 250 people now call the city home. With a bigger city, we'll need to maintain even higher happiness in order to keep people satisfied. Make sure you pay attention to the citizens and their issues to raise our happiness! Anyway, we still have lots of work to do. Let's make this city even bigger! By the way, remember earlier when I mentioned the Council of Crowns? I've heard a rumor that one of their members has been searching the land for a new ruler to join them. Perhaps they are aware of our progress.. STATS: Population: 273(0) Happiness: 150(0) Money: 348(+100)
+Bot: Ok!  A Council of Crowns?  That sounds important!  Like…  the…  Jellyfish Convention!  But with…  crowns!  I hope they have kelp there. And Krabby Patties.  And maybe a jellyfish petting zoo! 
+Game: EVENT - Day 9 complete! People are happy, the city is 1mmi STATS: Population: 280(+7) Happiness: 150(0) Money: 348(0)
+Bot: Ok!  Nine days! I'm almost at… ten!  That's a lot!  Like… the number of jellyfish in…  Jellyfish Fields! Or… the number of Krabby Patties I can eat in…  one sitting!  Maybe… 
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work?
+Bot: Yes! Working is good! Even if you're a…  foe.  Unless you're Plankton. Then you should just…  go away.      
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 288(+8) Happiness: 150(0) Money: 348(0)
+Bot: Ok! More workers!  We can build more… stuff!  Like… houses! And…  Krusty Krabs!  And…  jellyfish…  farms?     
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found these shiny yellow stones! Pretty cool, right?
+Bot: Yes! Shiny stones are cool!  Like… shiny jellyfish!  Or…  shiny Krabby Patties! Wait…      
+Game: RESPONSE: Yet Yet(small yetti in armor) - Soooo cool! STATS: Population: 288(0) Happiness: 155(+5) Money: 408(+60)
+Bot: Ok! I wonder what kind of stones they are.  Maybe they’re magic! Or… maybe they’re…  jellyfish…  stones?   
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in?
+Bot: Yes!  Friends are important!  Even witch friends. Unless they’re… evil witch friends. Like…  Plankton’s…  witchy…  cousin? Wait… does Plankton have a witchy cousin?    
+Game: RESPONSE: Witch - Thanks, this'll help her get settled. STATS: Population: 289(+1) Happiness: 158(+3) Money: 405(-3)
+Bot: Ok. A new witch!  I hope she’s a nice witch.  And not a…  Plankton-loving witch.  I wonder if she can make… Krabby Patty potions!  Or… jellyfish…  spells!      
+Game: QUEST: Mortimer - Hum yes hello. One of your fishermen has been bothering me. I demand a villager as, ummm, a sacrifice. Yes.
+Bot: No! No sacrifices! That’s…  bad!  Like…  really bad!  Like…  Plankton bad!  We don’t sacrifice people! We…  give them Krabby Patties! And…  kelp!     
+Game: RESPONSE: Mortimer - Hohoho hum! You've angered me now, sir! Watch your back... STATS: Population: 289(0) Happiness: 158(0) Money: 405(0)
+Bot: Ok… He sounds angry. Like…  Squidward when I…  accidentally…  pop his…  bubble…  collection.  Uh oh.     
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: Yes!  Newspapers are important! Like…  knowing where the jellyfish are! Or… knowing when the Krusty Krab is having a…  Krabby Patty…  sale!    
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: Yes! Newspapers are important! Like knowing where the jellyfish are migrating! Or when the Krusty Krab is having a sale!   
+Game: EVENT - Day 10 complete! People are happy, the city is 1mmi STATS: Population: 299(+10) Happiness: 159(0) Money: 404(0)
+Bot: Ok! Ten days! Double digits!  That's…  amazing! Like…  a double…  Krabby Patty! With… double kelp! And…  double…  everything! 
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath?
+Bot: Yes! Baths are important. Even for stinky kids. Everyone needs to be clean! Like… a freshly scrubbed…  Krabby Patty!  Wait…    
+Game: RESPONSE: Royal Advisor - Glad you agree! She won't be happy, though. STATS: Population: 299(0) Happiness: 158(-1) Money: 404(0)
+Bot: Ok. She’s not happy. But she’s clean.  Cleanliness is important! Like… keeping your spatula clean.  Or your…  jellyfish net.  Or your…  pineapple…  house!     
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: No!  Mice are cute. Like…  Gary.  Well, Gary’s a snail, but they're both small and cute!     
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 299(0) Happiness: 159(+1) Money: 404(0)
+Bot: Ok!  A happy mouse! Hooray!  Maybe it’s Gary’s cousin!  Or…  maybe it likes Krabby Patties!     
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: Yes! Shows are fun! Like…  Squidward’s…  plays! Except…  fun.     
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 299(0) Happiness: 159(0) Money: 354(-50)
+Bot: Ok. I hope it’s a good show. With… jellyfish! And… Krabby Patties!  And…  lots of…  laughs!    
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like.. a couple hundred, at least. What do you think?
+Bot: Yes! Taverns are…  fun!  Like…  the Krusty Krab! But…  with…  more…  tavern…  stuff.       
+Game: RESPONSE: Mason - The townsfolk will be happy to have a place to drink! STATS: Population: 299(0) Happiness: 162(+3) Money: 154(-200)
+Bot: Ok! A tavern.  I hope they serve…  kelp juice. And…  Krabby Patty…  smoothies.    
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: Yes!  Thank you, Grandma!  Sharing is caring.  Like when Patrick shares his…  chocolate!  Or… his…  rocks!       
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 299(0) Happiness: 162(0) Money: 169(+15)
+Bot: Ok. More money!  Hooray. I can buy…  more stuff. Like Krabby Patties.  And kelp.  And maybe… a new…  bubble wand!     
+Game: EVENT - Day 11 complete! People are happy, the city is 1mmi STATS: Population: 311(+12) Happiness: 162(0) Money: 169(0)
+Bot: Ok! Eleven days! I'm on a roll! Like… a…  jellyfish… rolling down… a…  hill?     
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, somebody came by and cleeeeeaned up my hooooome. You gonna pay me baaaack for that?
+Bot: No!  Being clean is good.  Everyone should be clean. Like… a… clean…  Krabby Patty! Wait…         
+Game: RESPONSE: Winston(large green slimy creature) - You're a reeeeeaal meanie! STATS: Population: 311(0) Happiness: 157(-5) Money: 169(0)
+Bot: Ok. He's mad.  But he’s clean.  Cleanliness is important!  Even if it makes…  slimy creatures…  mad.      
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 311(0) Happiness: 157(0) Money: 184(+15)
+Bot: Ok!  More money!  Hooray! I can buy more Krabby Patties! And…  kelp! And…  maybe a new pair of…  square pants! 
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: Yes! Refugees need help.  We should help them. Like… when Patrick helps me…  find… my…  spatula!  Or… when Sandy helps me…  karate…  Plankton!   
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 326(+15) Happiness: 160(+3) Money: 184(0)
+Bot: Ok!  More friends.  Hooray!  We can all…  eat Krabby Patties together. And…  jellyfish!  Wait…    
+Game: EVENT: Butler - Our search party has turned up the missing man, sire - and nine of his new friends! STATS: Population: 336(+10) Happiness: 160(0) Money: 184(0)
+Bot: Ok! They found him!  And he brought friends! Hooray!  Now we can have an even bigger… Krabby Patty… party!     
+Game: QUEST: Miriam - Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while?
+Bot: Yes! Everyone is welcome!  It’s like…  Bikini Bottom! But… bigger. And… on land. And… with…  fewer…  pineapples.       
+Game: RESPONSE: Miriam - How nice... Albert and I shall find an inn to stay at. I'm sure I will see you again. Albert seems to like you. STATS: Population: 337(+1) Happiness: 160(0) Money: 184(0)
+Bot: Ok!  Albert likes me! Hooray! I wonder if Albert likes Krabby Patties.  Or…  jellyfish.  Or…  kelp.     
+Game: EVENT - Day 12 complete! People are happy, the city is 1mmi STATS: Population: 352(+15) Happiness: 168(+8) Money: 184(0)
+Bot: Ok! Twelve days!  I'm a super king!  Like…  King Neptune! But… less…  angry. And… more…  SpongeBob! 
+Game: QUEST: Military General - The town we made an alliance with is in trouble! Should we send soldiers to assist them?
+Bot: Yes! We have to help our friends. Like…  when Sandy helps me… breathe… underwater!  Or… when Patrick helps me… tie my… shoes!       
+Game: RESPONSE: Military General - Of course! We promised we would protect them! STATS: Population: 342(-10) Happiness: 168(0) Money: 184(0)
+Bot: Ok! I hope our soldiers are ok. I hope they have enough… Krabby Patties.  And… kelp.  And…  spatulas. To…  fight with!     
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested..
+Bot: Yes! Mysteries are fun.  Like… when SpongeBob and Patrick try to find…  the…  missing…  pickle!  Or… the… missing…  spatula!  Or… the…  missing…  Krabby Patty formula!     
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 342(0) Happiness: 168(0) Money: 174(-10)
+Bot: Ok! I wonder what mysteries he’ll uncover. Maybe he’ll find…  a secret… jellyfish…  hideout! Or… a…  secret… Krabby Patty… recipe!     
+Game: QUEST: Grandma - Ooh dear, I read quite the troubling tale in the paper today... Think everything will be alright?
+Bot: Yes! Everything will be alright. I’m the king!  And…  kings…  fix things.  Like… when Mr. Krabs fixes…  the…  broken…  Krabby Patty…  machine!       
+Game: RESPONSE: Grandma - I hope you're right.. STATS: Population: 342(0) Happiness: 169(+1) Money: 174(0)
+Bot: Ok! I hope I’m right too. I’m the king! I can handle anything!  Like… a…  jellyfish… invasion!  Or…  a…  Krabby Patty… shortage!     
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: Yes! Quests are fun.  Like when SpongeBob and Patrick quest for…  the…  magic…  pencil! Or… the…  perfect…  jellyfish…  net!        
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 342(0) Happiness: 169(0) Money: 174(0)
+Bot: Ok!  I hope he’s ok. I hope he has enough… Krabby Patties. And… kelp.  And…  spatulas!  For the quest!     
+Game: QUEST: Butler - There's a party I4 like to go to this evening, my liege. Might I have the rest of the day off?
+Bot: Yes! Parties are fun.  Everyone deserves a party.  Even Squidward.  Well, maybe not Squidward…  But the butler!       
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 342(0) Happiness: 172(+3) Money: 174(0)
+Bot: Ok! I hope they have…  Krabby Patties…  at the party.  And… kelp. And…  jellyfish…  punch!       
+Game: EVENT - Day 13 complete! People are happy, the city is 1mmi STATS: Population: 358(+16) Happiness: 172(0) Money: 174(0)
+Bot: Ok! Thirteen days!  Lucky thirteen!  Just like… the number of…  jellyfish…  I caught… that one time!  Or was it…  thirteen hundred?    
+Game: QUEST: Petite Souris(tiny mouse) - Squeeee! (It's the same mouse from before... Is he... offering me something?)
+Bot: Yes? (What is it, little mousey?  *leans in closer*) 
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Oh! He found a coin!) STATS: Population: 358(0) Happiness: 172(0) Money: 179(+5)
+Bot: Ok! The mouse gave me money! Hooray! Maybe he found it… in…  a…  Krabby Patty!  Or… maybe he… stole it from… Plankton!      
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: Yes!  Magical crystals are cool!  Like…  magic… jellyfish!  Or… magic… Krabby Patties!  Wait…     
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 358(0) Happiness: 177(+5) Money: 229(+50)
+Bot: Ok! Fame and fortune!  Hooray!  Just like…  Mr. Krabs!  Except… with… less…  greed.  And more… SpongeBob!       
+Game: QUEST: Monsieur Mouton - It is nice to see you, sir. Do you like my new haircut?
+Bot: Yes! It looks…  fantastic!  Like…  Squidward’s…  hair! When it’s…  not…  a mess.       
+Game: RESPONSE: Monsieur Mouton - Ah yes! Thank you, thank you! STATS: Population: 358(0) Happiness: 184(+7) Money: 229(0)
+Bot: Ok. Glad he likes his haircut. Haircuts are important! Like…  keeping your…  spatula…  sharp! Or… your…  jellyfish net…  untangled!       
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: Yes? (Is it not a castle?  *looks around confused*)       
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Indeed, it is! Trick question! STATS: Population: 358(0) Happiness: 185(+1) Money: 229(0)
+Bot: Ok!  That was a trick question!  Like… when Patrick asks…  “Is mayonnaise an instrument?”  Tricky!         
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture?
+Bot: Yes!  We need to find her! Like… when I need to find… Gary! When he… slimes… away!        
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 358(0) Happiness: NaN(NaN) Money: 179(-50)
+Bot: Ok!  I hope they find her soon.  And I hope she’s ok.  Like…  when Patrick gets lost in… his own… rock.    
+Game: EVENT - Day 14 complete! People are happy, the city is 1mmi STATS: Population: 381(+23) Happiness: NaN(NaN) Money: 199(+20)
+Bot: Ok! Fourteen days! Two whole weeks! I'm a kingly king!  Like…  King Neptune! But… less…  shouty.  And…  more…  SpongeBob!   
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: Yes!  Granaries are good! Like… a giant… Krabby Patty… vault!  But with… grains… instead of… Krabby Patties…     
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: Yes! Granaries are good! Like… giant… Krabby Patty… storehouses! But with grains.   
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly..)
+Bot: Yes! (Belly rubs for everyone! *rubs Boots' belly gently*) 
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 388(0) Happiness: 189(NaN) Money: 129(0)
+Bot: Ok! Happy kitty!  Just like… Gary!  But orange.  And… a cat.     
+Game: EVENT: Knight - I have returned from my quest! A great bounty of treasure is ours, my lord! STATS: Population: 388(0) Happiness: 189(0) Money: 379(+250)
+Bot: Ok!  Treasure!  Hooray!  Like…  finding a…  lost…  spatula!  Or… a…  giant…  pearl! Or…  a…  Krabby Patty…  shaped…  gold…  nugget!     
+Game: QUEST:  - You haven't been talking to Skelly, have you?
+Bot: Yes? (I talk to everyone! Even…  Skelly!  He’s funny!)     
+Game: RESPONSE:  - Here, take this. I was never here, ok? STATS: Population: 388(0) Happiness: 189(0) Money: 429(+50)
+Bot: Ok…  That was…  weird.  Like…  Squidward…  when he…  tries to…  smile.     
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 388(0) Happiness: 189(0) Money: 444(+15)
+Bot: Ok!  More money! Hooray!  Like…  finding… a…  dollar…  on the…  ground!  Or…  a…  Krabby Patty…  under…  my…  pillow!   
+Game: EVENT - Day 15 complete! People are happy, the city is 1mmi STATS: Population: 413(+25) Happiness: 189(0) Money: 444(0)
+Bot: Ok! Fifteen days!  I'm…  amazing!  Like…  Sandy…  when she…  karate-kicks…  a…  giant…  clam!    
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?
+Bot: Yes! Adventures are important!  Like… exploring… Jellyfish Fields!  Or…  exploring…  the…  Krusty Krab…  kitchen!  Wait…        
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 413(0) Happiness: 191(+2) Money: 444(0)
+Bot: Ok! I hope he has fun! And I hope he finds…  treasure!  Or…  jellyfish!  Or…  Krabby Patties!     
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: No!  That's too much gold!  Like… paying… a… million dollars…  for… a…  Krabby Patty!     
+Game: QUEST: Jester - Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: No!  That’s way too much gold! Like… a million dollars for a Krabby Patty!    
+Game: QUEST: Miriam - Hello again, kingly person! Oho! Albert asked me to come here and tell a story with you. A yellow bird meets a green bird in the sky. Does the yellow bird soar higher than the green?
+Bot: Yes! (Yellow birds are faster!  Like…  a…  yellow…  jellyfish!)      
+Game: QUEST: Miriam - The yellow bird wheels through the sky, she shimmers in the sunlight! Oho! How lovely! High up in the sky, the yellow bird meets a bluebird. Does the yellow bird stop to sing with it?
+Bot: Yes! (Singing is fun! Like… singing… the… Krabby Patty… song!)      
+Game: QUEST: Miriam - High up in the sky, the yellow bird meets a bluebird. Does the yellow bird stop to sing with it?
+Bot: Yes!  Singing is fun! Like… the Krabby Patty song! Or…  the…  jellyfishing…  song! 
+Game: RESPONSE: Miriam - The singing attracts a flock of nearby birds, of all shapes and colours. The sky is filled with song, oho! Whata lovely ending to the story, don't you think? Albert liked it! I will have to come visit you again sometime, kingly person. It's fun to tell stories with you. STATS: Population: 416(+3) Happiness: NaN(NaN) Money: 474(+10)
+Bot: Ok! I like stories! Especially stories about… jellyfish! Or…  Krabby Patties!  Or…  singing sponges!     
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: Yes!  Spooky nicknames are cool!  Like…  SpongeBob…  SpookPants! Or… SpongeBob… ScarePants!  Or… SpongeBob… KelpPants!  Wait…    
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Hmm... You can be... The Creep King? STATS: Population: 416(0) Happiness: 189(NaN) Money: 474(0)
+Bot: Ok! The Creep King! That’s… creepy! I like it!     
+Game: EVENT: Skelly(skeleton creature) - Reporting in! I managed to catch the necromancer behind a recent string of possessions. She's behind bars now, at least until she learns her lesson. STATS: Population: 416(0) Happiness: 191(+2) Money: 474(0)
+Bot: Ok! Glad the necromancer is gone!  Necromancers are…  spooky!  Like…  a…  haunted…  Krusty Krab! Or… a… haunted… pineapple… under… the… sea!     
+Game: EVENT - Day 16 complete! People are happy, the city is 1mmi STATS: Population: 444(+28) Happiness: 191(0) Money: 474(0)
+Bot: Ok! Sixteen days!  I'm a really good king!  Like…  King…  Krabs!  But… with…  less…  money-obsession. And…  more…  SpongeBob!     
+Game: QUEST: Royal Advisor - Citizens say a monkey has been running around flinging_. stuff... at them. Should we put out a bounty on it?
+Bot: No! Monkeys are funny. Unless they are flinging…  poisonous jellyfish.  Or…  rotten Krabby Patties.  Then… maybe…      
+Game: RESPONSE: Royal Advisor - The citizens aren't going to be happy.. STATS: Population: 444(0) Happiness: 189(-2) Money: 474(0)
+Bot: Ok. They’re not happy. But the monkey is… free.  Free to…  fling… stuff!  Like… bananas. And… coconuts.  And… maybe…  Krabby Patties! Wait…      
+Game: QUEST: Georgie? - Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!
+Bot: No! Happiness can't be bought.  Like… true…  friendship!  Or… a… genuine…  love…  of… Krabby Patties!       
+Game: QUEST: Georgie? - How about this... A few hundred gold from you, and I'll make sure your citizens are happy!
+Bot: No! Happiness can’t be bought!  Like… true friendship.  Or a genuine love of… Krabby Patties!   
+Game: QUEST: Chicken - Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)
+Bot: Yes! Chickens are…  interesting. Like…  Squidward… when he…  tries to…  be…  nice.      
+Game: RESPONSE: Chicken - Bok. (It left behind an egg!!) STATS: Population: 444(0) Happiness: 189(0) Money: 477(+3)
+Bot: Ok. An egg!  Hooray!  I can make… a… Krabby Patty… omelet! Or…  a…  jellyfish…  soufflé!      
+Game: QUEST: Sneaky Girl - The guards confiscated some gold that I, uh... found... Can I have it back?
+Bot: No! Stealing is wrong!  Even if it’s from… Plankton. Well… maybe not Plankton… But still!       
+Game: RESPONSE: Sneaky Girl - You're keeping it, eh? But I sto- I mean... found it.. STATS: Population: 444(0) Happiness: 189(0) Money: 502(+25)
+Bot: Ok!  More money! I can buy… more Krabby Patties.  And… kelp!  And… maybe…  a new…  karate… uniform!        
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: Yes! Refugees need help. Like… when Patrick needs help… opening a…  jar of… mayonnaise.  Or… when Squidward needs help…  escaping…  a…  swarm of…  jellyfish!       
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 459(+15) Happiness: 192(+3) Money: 502(0)
+Bot: Ok! More friends!  Hooray! We can all…  eat Krabby Patties together! And…  sing… the… Krabby Patty… song!       
+Game: EVENT - Day 17 complete! People are happy, the city is 1mmi STATS: Population: 485(+26) Happiness: 192(0) Money: 502(0)
+Bot: Ok! Seventeen days! I’m a… super-duper… king!  Like…  King Neptune…  riding… a…  giant…  sea horse!  But… with…  less…  yelling. And… more… SpongeBob! 
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: Yes! Truth is important.  Like…  knowing… the… secret… Krabby Patty… formula!  Or…  knowing…  where…  the… jellyfish…  are hiding!          
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go.. investigate something. STATS: Population: 485(0) Happiness: 192(0) Money: 492(-10)
+Bot: Ok!  I hope he finds… the truth! About… everything! Like…  why is… Squidward…  so…  grumpy? Or…  where do…  Krabby Patties…  come from?        
+Game: EVENT: Miriam - Oho! Good day, kingly person friend of mine. Albert wished for me to stop by and say hello. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. So.. hello! Thank you for letting us stay in your wonderful city. STATS: Population: 485(0) Happiness: 192(0) Money: 492(0)
+Bot: Ok! Hello, Miriam!  And hello, Albert! I’m glad you like my city. I hope you like… Krabby Patties!  And… jellyfish!  And… kelp! 
+Game: QUEST: Dragon - Booo! Give me your gold or I'll eat your townspeople!
+Bot: No!  You can’t eat my townspeople! They’re…  my friends! Like… Patrick! And… Sandy! And…  Mr. Krabs! Well… sometimes…       
+Game: RESPONSE: Dragon - Ooohoho, I'm gonna go eat some folks then! STATS: Population: 455(-30) Happiness: 192(0) Money: 492(0)
+Bot: Ok… That’s… bad.  Like… really bad. Like… when Plankton steals… the Krabby Patty… formula. We need to stop him!       
+Game: QUEST: L-D 3.4(robot) - H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me?
+Bot: Yes! Fixing things is good! Like… when Sandy fixes… her…  spacesuit!  Or…  when Mr. Krabs fixes… the… broken… cash register!         
+Game: RESPONSE: L-D 3.4(robot) - T- T- T- Thanks. Friend. I. Am. Become. Fixed. STATS: Population: 455(0) Happiness: 197(+5) Money: 392(-100)
+Bot: Ok!  A robot!  Cool! Like…  Robot…  Krabs!  But… less…  crabby.  And…  more…  robot-y.       
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: Yes! Playing is fun!  Like…  jellyfishing!  Or…  karate!  Or…  bubble blowing!          
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 458(+3) Happiness: 200(+3) Money: 392(0)
+Bot: Ok! I hope they have fun! And I hope they don’t… break… anything. Like… Squidward’s… clarinet. Or… Mr. Krabs’… money… vault!         
+Game: EVENT - Day 18 complete! People are happy, the city is 1mmi STATS: Population: 488(+30) Happiness: 200(0) Money: 392(0)
+Bot: Ok! Eighteen days!  Almost…  twenty!  Like… the number of… jellyfish…  I can…  juggle!  Or… the number of…  Krabby Patties… I can… eat…  in… one…  sitting!  Maybe…      
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: Yes! Newspapers are important!  Like… knowing… when… the… jellyfish… are migrating! Or…  knowing… when… the… Krusty Krab…  is having… a… sale!            
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 488(0) Happiness: 201(+1) Money: 391(-1)
+Bot: Ok!  Glad to help, Grandma!  Everyone deserves…  news! Even…  Squidward. Well… maybe not Squidward… 
+Game: QUEST: Butler - There's a party I4 like to go to this evening, my liege. Might I have the rest of the day off?
+Bot: Yes! Parties are fun! Everyone deserves a party. Even Squidward. Well, maybe not Squidward... But the butler!    
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 488(0) Happiness: 204(+3) Money: 391(0)
+Bot: Ok! I hope they have Krabby Patties at the party. And...kelp. And... jellyfish punch!     
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to_. you? Not just the rich, I'll steal from whoever, basically.
+Bot: No! Stealing is wrong! Even if it’s from Plankton. Well… maybe not Plankton… But still!      
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 488(0) Happiness: 204(0) Money: 391(0)
+Bot: Ok! Glad I didn’t steal. Even though… we could use the money…  I’ll find a better way! A way that doesn’t involve… sneaking! Like a… sneaky… beaver.         
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested..
+Bot: Yes! Mysteries are fun! Like… when SpongeBob and Patrick try to find… the missing pickle! Or the missing spatula! Or the missing… Krabby Patty formula!         
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 488(0) Happiness: 204(0) Money: 381(-10)
+Bot: Ok! I wonder what mysteries he’ll uncover! Maybe he’ll find a secret jellyfish hideout! Or a secret Krabby Patty recipe!     
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+Bot: Yes! Rhythm is important.  Like…  the rhythm of…  the…  Krabby Patty…  flipping…  song!       
+Game: RESPONSE: Drummer - Yeeaaah! Badadadadabrap brap! I'm in the groove! STATS: Population: 488(0) Happiness: 207(+3) Money: 381(0)
+Bot: Ok! Groovy!  Like…  a… groovy… jellyfish!  Or… a…  groovy…  Krabby Patty!     
+Game: EVENT - Day 19 complete! People are happy, the city is 1mmi STATS: Population: 521(+33) Happiness: 207(0) Money: 381(0)
+Bot: Ok! Nineteen days!  Almost… twenty!  Like…  the number of…  times… I’ve… accidentally…  popped…  Squidward’s…  bubble… collection!  Uh oh… 
+Game: QUEST: Royal Advisor - I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. Anyway, I just wanted to give my congratulations. Let's keep working hard, okay?
+Bot: Yes!  Celebrations are fun! Like… a… Krabby Patty… festival!  With…  lots of…  Krabby Patties!  And… kelp! And…  jellyfish…  jelly!       
+Game: RESPONSE: Royal Advisor - I wonder just how big this city will grow under your rule, sir... STATS: Population: 521(0) Happiness: 207(0) Money: 53(0)
+Bot: Ok! I hope it gets really big!  Like… Bikini Bottom! But… bigger!  And… on…  land! And…  with… more…  Krabby Patties! 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: Yes! Magical crystals are cool!  Like…  magic… jellyfish!  Or…  magic… Krabby Patties! Wait…        
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... death, and misery! STATS: Population: 506(-15) Happiness: 192(-15) Money: 53(0)
+Bot: Ok…  Death and misery? That’s…  not good. Like… when Plankton…  takes over… the Krusty Krab!  We need to…  do something!       
+Game: QUEST: Molder(purple blob of sludge) - I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. How do I know this? Sometimes, you just know. You know?
+Bot: Yes? (Alien conspirators?  That’s… weird.  Like…  Squidward… when he…  tries to…  be…  funny.)        
+Game: RESPONSE: Molder(purple blob of sludge) - Yeah, I know you know. You're a knower. STATS: Population: 506(0) Happiness: 193(+1) Money: 53(0)
+Bot: Ok. I’m a knower.  I know.  Like…  I know… how to… make… Krabby Patties!  Or…  I know…  how to…  catch…  jellyfish!          
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 506(0) Happiness: 193(0) Money: 546(+493)
+Bot: Ok!  More money! Hooray! Like… winning… the…  jellyfishing…  contest!  Or…  finding…  a…  treasure…  chest…  full of… Krabby Patties!          
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor?
+Bot: Yes! Doctors are important!  Like…  when Sandy…  gives me…  a…  checkup!  Or…  when…  Dr. Gill…  gives…  Patrick…  a…  checkup!  For…  his…  rock…  rash!        
+Game: RESPONSE: Madame Abeille - I never thought I could eat too many Sweets.. STATS: Population: 506(0) Happiness: 193(0) Money: 536(-10)
+Bot: Ok.  Too many sweets! That’s…  bad. Like…  eating…  too many… Krabby Patties!  Or… too many… jellyfish… jellies!  Wait…      
+Game: EVENT - Day 20 complete! People are happy, the city is 1mmi STATS: Population: 518(+12) Happiness: 198(+5) Money: 536(0)
+Bot: Ok! Twenty days!  I’m a…  twenty…  out of…  ten…  king!  Like…  a…  Krabby Patty…  that’s…  twenty times…  more…  delicious!  Or…  a… jellyfish…  that’s… twenty times… more…  jellyfish-y!  Wait… 
+Game: QUEST: Monsieur Mouton - Demand for my services is through the roof! May I have your permission to raise my prices?
+Bot: Yes! If you’re that good, you deserve to be paid well!  Like… Squidward when he… finally… gets a…  standing ovation!  Except…  with haircuts… instead of… clarinet solos.      
+Game: RESPONSE: Monsieur Mouton - Merci, mercil The barber's association thanks you! STATS: Population: 518(0) Happiness: 201(+3) Money: 586(+50)
+Bot: Ok! Everyone’s happy! And… I didn’t have to… trade any souls!  Hooray!  
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: Yes! Thank you, Grandma!  Sharing is caring! Like… when Patrick shares his… chocolate! Or… his… rocks!       
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 518(0) Happiness: 198(0) Money: 55(-481)
+Bot: Ok. More money! Hooray! I can buy… more stuff!  Like… Krabby Patties. And… kelp. And maybe… a new… bubble wand! 
+Game: QUEST: Stumpy(living stump of tree) - Hello, King. I am a tree, of the western forest. As you can see, however, I have been, shall we say... shortened. This is due largely in fact to the actions of your team of woodcutters. My home has been chopped clean through! In your reckless pursuit of expansion, you have now distrupted the lives of myself and my good treefolk brothers and sisters. I demand compensation by way of golden coin, so that we might repair this.. how shall I put it? Diplomatic rift between us.. A paltry sum of ohh, say.. one thousand coins would go a long ways towards relaxing our troubled relationship.
+Bot: No!  That's too much gold! Like… paying a million dollars… for a…  Krabby Patty! We need that gold for… more important things! Like…  buying more…  wood!  Wait…          
+Game: RESPONSE: Stumpy(living stump of tree) - This is a development which will surely be met with distaste in the community of treefolk. Your refusal to cooperate, compounded with your woodcutter's aggression, has driven me to the peak of anger! Rest assurred, King. I will not be silent! This destruction you have wrought on my kin will be known to all! STATS: Population: 518(0) Happiness: 195(-3) Money: 55(0)
+Bot: Ok…  He’s mad. Like… Squidward… when I… accidentally…  flood…  his… house… with… jellyfish. Uh oh.  We need to… fix this!  Like… fixing… a… broken…  spatula!  Or…  a…  ripped…  jellyfish net! 
+Game: QUEST: Monsieur Mouton - Demand for my services is through the roof! May I have your permission to raise my prices?
+Bot: Yes! If you're that good, you deserve to be paid well! Like Squidward, when he *finally* gets a standing ovation! Except with haircuts, instead of clarinet solos.    
+Game: RESPONSE: Monsieur Mouton - Merci, mercil The barber's association thanks you! STATS: Population: 518(0) Happiness: 198(+3) Money: 60(+5)
+Bot: Ok! Everyone’s happy!  And I didn't have to trade any souls! Hooray!    
+Game: QUEST: Royal Advisor - The people have started a petition to ban pineapples in the city. Should we do it?
+Bot: No! Pineapples are…  the best!  Like…  my house!  And…  Gary’s…  food bowl!  We can’t ban pineapples!         
+Game: RESPONSE: Royal Advisor - Sticking up for pineapples? How admirable. STATS: Population: 518(0) Happiness: 196(-2) Money: 60(0)
+Bot: Ok!  Pineapples are important!  Like…  spatulas!  And…  jellyfish!  And…  Krabby Patties!     
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: Yes! Spooky is fun! Like…  Halloween!  Or…  Squidward’s…  haunted…  clarinet!         
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Heck yeah! Let the blood flow! STATS: Population: 517(-1) Happiness: 196(0) Money: 60(0)
+Bot: Ok…  Blood flow? That’s…  not…  very… SpongeBob. But…  spooky!      
+Game: EVENT - Day 21 complete! People are happy, the city is 1mmi STATS: Population: 528(+11) Happiness: 198(+2) Money: 60(0)
+Bot: Ok! Twenty-one days! I'm a… super… fantastic… ultra… king!  Like… King Neptune… riding a…  giant… seahorse…  while eating… a… Krabby Patty!  Wait…   
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: Yes! Thank you, Grandma!  Sharing is caring. Like… when Patrick… shares his…  chocolate!  Or… his… rocks!      
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 528(0) Happiness: 198(0) Money: 616(+556)
+Bot: Ok! More money! Hooray! I can buy… more stuff! Like… Krabby Patties. And… kelp. And maybe… a… new…  pineapple! For… Gary!      
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: Yes!  (Ooh, shiny coins!  Maybe enough for…  a Krabby Patty!)          
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 528(0) Happiness: 198(0) Money: 621(+5)
+Bot: Ok! Yay! More shiny coins!  Mr. Krabs would be…  proud! Or… maybe… jealous… probably jealous.         
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I found a way to summon people from another dimension. Want me to summon some folks?
+Bot: Yes! New people are fun. Like…  meeting… a… new… jellyfish!  Or…  a… new…  Krabby Patty…  chef! Wait…         
+Game: RESPONSE: Skelly(skeleton creature) - Woohoo! Magic of questionable origins! STATS: Population: 548(+20) Happiness: 198(0) Money: 621(0)
+Bot: Ok! I hope they’re nice people. And not…  like… Plankton.  Or…  Squidward… on a… Monday.    
+Game: QUEST: Louis - It seems your court is without much cake! I can provide cake! I am a cake chef! May I join you?
+Bot: Yes! Cake is great. Like… a… Krabby Patty… cake.  Or…  a…  jellyfish…  cake! Wait…            
+Game: RESPONSE: Louis - Thank you! I am grateful! I am cakeful! I will make you cakes! See you later! STATS: Population: 549(+1) Happiness: 198(0) Money: 621(0)
+Bot: Ok! Cake!  Hooray! I hope he makes… a… triple-layer… Krabby Patty… cake!  With… extra… kelp… frosting!     
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in?
+Bot: Yes!  More settlers are good!  Like…  more…  Krabby Patty…  customers!  Or…  more… jellyfish… enthusiasts! Wait…      
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 554(+5) Happiness: 199(+1) Money: 621(0)
+Bot: Ok!  More friends! Hooray! We can all…  eat…  Krabby Patties… together. And…  sing… the…  Krabby Patty… song!       
+Game: EVENT - Day 22 complete! People are happy, the city is 1mmi STATS: Population: 564(+10) Happiness: 199(0) Money: 621(0)
+Bot: Ok! Twenty-two days!  I’m a… really… really… really… good… king! Like…  King Neptune…  giving…  everyone…  free… Krabby Patties!  Wait…   
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: No!  That’s too much gold. Like… paying a… million dollars… for… a… Krabby Patty! We need that gold… for more… important things.  Like… buying… more… kelp!    
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 564(0) Happiness: 196(-3) Money: 621(0)
+Bot: Ok… He’s sad. But we still have…  lots of gold! For…  important… things.  Like…  Krabby Patties! And… kelp!  And… maybe… a… new…  spatula! 
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you.
+Bot: No! Scaring people is not nice! Even Squidward doesn't deserve to be scared.  Well, maybe sometimes…      
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 564(0) Happiness: 196(0) Money: 621(0)
+Bot: Ok! I’m glad he didn’t get mad. Like…  Plankton when I… won’t give him… the…  Krabby Patty formula!   
+Game: QUEST: Witch - My broom's all worn out, and it's my birthday.. Think you could buy me a new broom for a present? Sure would be nice of you!
+Bot: Yes! Birthdays are important! Like… my birthday!  Everyone deserves… a…  present… on their birthday. Even Squidward!  Well… maybe not… Squidward…       
+Game: RESPONSE: Witch - Thank you so much! You're the best. STATS: Population: 564(0) Happiness: 199(+3) Money: 571(-50)
+Bot: Ok. A new broom.  I hope it… flies fast!  Like… a… jellyfish… with… wings! Or…  a… Krabby Patty… on… a… rocket!  Wait…       
+Game: QUEST: Royal Advisor - Since we opened our borders, trade from our caravans has increased dramatically. Do you wish to tax the merchants?
+Bot: Yes! Taxes are important! Like… paying for… Krabby Patties!  Or…  paying for… kelp! Or… paying for… new… spatulas!         
+Game: RESPONSE: Royal Advisor - I will collect a fee from the traders. STATS: Population: 564(0) Happiness: 197(-2) Money: 671(+100)
+Bot: Ok! More money!  Hooray! I can buy… more… stuff. Like…  Krabby Patties.  And kelp.  And maybe… a…  new…  pair of… square… pants!      
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 564(0) Happiness: 197(0) Money: 686(+15)
+Bot: Ok! More money! Hooray!  Like… finding… a…  dollar…  on the… ground!  Or… a… Krabby Patty… under…  my…  pillow!    
+Game: EVENT - Day 23 complete! People are happy, the city is 1mmi STATS: Population: 574(+10) Happiness: 197(0) Money: 686(0)
+Bot: Ok! Twenty-three days! I'm a…  super-duper…  fantastic…  king!  Like…  King Neptune… riding…  a…  giant…  seahorse… while… juggling…  Krabby Patties!   
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: No! That’s still too much gold. Like…  paying a…  million… dollars…  for… a… Krabby Patty! We… need that… gold for… more… important things! Like… buying… more… kelp!    
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 574(0) Happiness: 194(-3) Money: 686(0)
+Bot: Ok… He’s sad.  But we still have… lots of gold! For…  important…  things! Like… Krabby Patties!  And kelp! And maybe… a new… spatula!    
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to_. you? Not just the rich, I'll steal from whoever, basically.
+Bot: No! Stealing is wrong! Even if it’s from… Plankton. Well… maybe not… Plankton. But still!       
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 574(0) Happiness: 194(0) Money: 686(0)
+Bot: Ok!  Glad I didn’t steal! Even though we…  could use… the money. I’ll find a better way! A way that doesn’t involve… sneaking! Like a… sneaky… beaver.     
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 574(0) Happiness: 194(0) Money: 70(-616)
+Bot: Ok! More money! Hooray! Like… finding… a dollar… on the ground!  Or… a… Krabby Patty… under… my… pillow! Wait… how did we lose so much money?      
+Game: EVENT: Military General - The escaped prisoner has been recaptured thanks to the bounty you offered. Our citizens can rest easier knowing that she's been put away again. STATS: Population: 574(0) Happiness: 197(+3) Money: 70(0)
+Bot: Ok! Glad she’s back!  I hope she’s ok. Like… when Patrick… gets lost… in… his own… rock. 
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want.
+Bot: Yes! Goblins are…  bad. Like… Plankton… when he…  tries to… steal… the Krabby Patty… formula! We need to stop… the goblins!         
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 574(0) Happiness: 201(+4) Money: 691(+621)
+Bot: Ok!  I hope the witch is…  ok.  And I hope she doesn’t…  turn the…  goblins…  into… Krabby Patties!  Wait…          
+Game: EVENT - Day 24 complete! People are happy, the city is 1mmi STATS: Population: 589(+15) Happiness: 206(+5) Money: 691(0)
+Bot: Ok! Twenty-four days! I'm a… super… mega… ultra… fantastic… king! Like…  King Neptune… riding… a giant… seahorse… juggling… Krabby Patties… while wearing… squarepants! 
+Game: EVENT: Scientist - Hello, hello! I am, well, I am the Scientist! I do science, for you, King! You see, the city has grown, and we have grown, too. The science community, that is! We now have our very own Counci| of Science, of which I am the leader. Today, I simply wish to introduce myself. And now I have, I have. I will visit you again in the future, regarding our projects. Science projects! STATS: Population: 589(0) Happiness: 206(0) Money: 691(0)
+Bot: Ok! Science is cool! Like… Sandy’s… inventions!  Or…  Plankton’s…  experiments!  Well…  sometimes…    
+Game: QUEST: Drummer - Boom boom, badoom doom doom! I'm really getting into it, are you!?
+Bot: Yes!  Music is fun!  Like… Squidward’s… clarinet playing. When it’s… not…  terrible.         
+Game: RESPONSE: Drummer - That's what I thought! BadabadabadaBOOSH! So into it! STATS: Population: 589(0) Happiness: 211(+5) Money: 691(0)
+Bot: Ok! He’s really into it!  Like… SpongeBob… when he’s…  jellyfishing! Or… making… Krabby Patties!    
+Game: EVENT: Royal Advisor - The owners of the tavern are making piles of gold, and wish to share some with you! STATS: Population: 589(0) Happiness: 211(0) Money: 706(+15)
+Bot: Ok!  More money! Hooray!  Like…  finding a…  dollar… on the ground!  Or… a Krabby Patty… under my…  pillow!    
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: Yes! Quests are fun! Like… when SpongeBob and Patrick quest for… the magic pencil! Or… the perfect… jellyfish net!          
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 589(0) Happiness: 211(0) Money: 706(0)
+Bot: Ok. I hope he’s ok!  And I hope he has… enough… Krabby Patties!  And… kelp! And… spatulas!  For the quest!      
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings..
+Bot: Yes!  We shouldn’t hurt people’s feelings! Even…  slimy… creatures’… feelings.  Like… when Squidward’s feelings get hurt because…  I…  accidentally…  destroy… his…  art…  project!           
+Game: RESPONSE: Winston(large green slimy creature) - Thaaaanks boooosssssss... STATS: Population: 589(0) Happiness: 214(+3) Money: 706(0)
+Bot: Ok! I’m glad he’s not… slimey…  anymore!  Wait…     
+Game: EVENT - Day 25 complete! People are happy, the city is 1mmi STATS: Population: 605(+16) Happiness: 214(0) Money: 706(0)
+Bot: Ok! Twenty-five days!  That’s…  a lot! Like…  the number of…  jellyfish…  in…  Jellyfish Fields!  Or… the number of…  Krabby Patties… I can… eat… in… one… sitting!  Maybe…    
+Game: EVENT: Yarno - Allo! Allo! I am Yarno, of the Comfy Kingdom! You may not believe this, but I am the royal assistant of King Pin himself. Indeed, the very same! I've been noodling around this kingdom of yours and I - oh, wait! What's that over there! STATS: Population: 605(0) Happiness: 214(0) Money: 706(0)
+Bot: Ok…  King Pin.  That sounds…  important. Like…  King Neptune! Or…  King…  Krabs!  Wait…     
+Game: QUEST: Button Boy - Good sir, did you happen to see a blue fellow come through here just now? Strange noodly limbs? Made of yarn?
+Bot: Yes! (Was he…  a…  talking…  ball of… yarn?)        
+Game: QUEST: Button Boy - I knew he was around here somewhere! I'm going to find that darned Yarno! He's been running around claiming to be King Pin's royal assistant, which of course, he is NOT. In fact it is I, Button Boy, who represents the Comfy Kingdom in the esteemed Council of Crowns. Have you heard of the Council of Crowns, good sir?
+Bot: Yes!  (A Council of Crowns!  That sounds important! Like… the…  Jellyfish… Convention! But…  with… crowns!)        
+Game: QUEST: Button Boy - Then surely you've thought about joining! Perhaps we could work out a bit of a deal.. That Yarno's been giving me nothing but trouble. If you could somehow put a stop to his shenanigans.. I might be able to get you a meeting with Pia, the advisor of the Celestial Kingdom. If anyone would be able to induct your kingdom into the Council, it would be her. What do you say? Will you help me catch that darned yarn?
+Bot: Yes! I want to join the…  Council of Crowns.  It sounds… important.  Like…  the…  Jellyfish…  Hall…  of… Fame! But with… crowns!       
+Game: RESPONSE: Button Boy - Very good. I'll leave the details up to your discretion. Once Yarno is out of the way, I'll set up a meeting with Pia. Thank you for your assistance in this matter, good sir. I'm sure we will meet again soon. STATS: Population: 605(0) Happiness: 214(0) Money: 706(0)
+Bot: Ok!  I’m going to catch… Yarno!  And join…  the Council… of Crowns!  Hooray!  This is…  better than…  catching… a…  giant… jellyfish!  Or…  eating…  a…  triple… Krabby Patty!   
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: Yes! Playing is fun!  Like…  jellyfishing! Or…  karate! Or…  bubble-blowing!         
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 608(+3) Happiness: 217(+3) Money: 706(0)
+Bot: Ok! I hope they have fun!  And I hope they don't… break anything. Like… Squidward’s… clarinet! Or…  Mr. Krabs’… money vault!       
+Game: QUEST: Petite Souris(tiny mouse) - Squeeee! (It's the same mouse from before... Is he... offering me something?)
+Bot: Yes? (What is it, little mousey?  *leans in closer*)         
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Oh! He found a coin!) STATS: Population: 608(0) Happiness: 217(0) Money: 711(+5)
+Bot: Ok! The mouse gave me… money! Hooray! Maybe he found it… in… a… Krabby Patty! Or…  maybe he… stole it… from… Plankton!          
+Game: QUEST: Madame Abeille - Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person?
+Bot: Yes! Assistants are helpful! Like… when Patrick… helps me…  make…  Krabby Patties!  Or… when… Gary… helps me…  find… my…  spatula!        
+Game: RESPONSE: Madame Abeille - Thank you, my sweet! STATS: Population: 607(-1) Happiness: 217(0) Money: 711(0)
+Bot: Ok!  I hope they’re… a good… assistant!  Like…  Potty the Parrot!  But… less…  talkative.        
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found these shiny yellow stones! Pretty cool, right?
+Bot: Yes!  Shiny stones are… cool! Like… shiny… jellyfish!  Or… shiny… Krabby Patties! Wait…         
+Game: RESPONSE: Yet Yet(small yetti in armor) - Soooo cool! STATS: Population: 607(0) Happiness: 222(+5) Money: 771(+60)
+Bot: Ok. I wonder what kind of… stones…  they are.  Maybe they're magic!  Or…  maybe they're… jellyfish… stones!        
+Game: EVENT - Day 26 complete! People are happy, the city is 1mmi STATS: Population: 630(+23) Happiness: 222(0) Money: 771(0)
+Bot: Ok! Twenty-six days! I'm a…  super…  duper…  extra…  special…  awesome…  king! Like…  King Neptune…  riding a… giant… seahorse…  juggling… Krabby Patties… while wearing… squarepants… and… singing… the… Krabby Patty… song! 
+Game: QUEST: Royal Advisor - There's been a brawl at the tavern. Should we arrest those responsible for starting it?
+Bot: Yes! Brawling is bad. Like… when SpongeBob and… Patrick… brawl… over… the last… Krabby Patty!  We need to… stop the brawling!          
+Game: RESPONSE: Royal Advisor - I shall have them arrested at once! STATS: Population: 630(0) Happiness: 223(+1) Money: 771(0)
+Bot: Ok! I hope they learn… their lesson.  Like… when Plankton learns… his lesson… about… stealing… the… Krabby Patty… formula!  Which he… never does…    
+Game: EVENT: Military General - Our soldiers are coming home, and our assistance in defending our allies has not gone unnoticed. We've been offerred a bounty of gold by the captain of their military. A good fellow. STATS: Population: 638(+8) Happiness: 223(0) Money: 821(+50)
+Bot: Ok! More gold.  Hooray. I can buy… more stuff. Like… Krabby Patties!  And…  kelp! And… maybe a… new…  pineapple…  for…  Gary!   
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: Yes!  Magical crystals are… cool! Like… magic… jellyfish! Or… magic… Krabby Patties! Wait…            
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... death, and misery! STATS: Population: 623(-15) Happiness: 208(-15) Money: 821(0)
+Bot: Ok… Death and misery?  That’s… not good. Like… when Plankton takes over… the Krusty Krab.  We need to… do something! Like… when SpongeBob… saves the Krusty Krab… from… Plankton!            
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: Yes! (Ooh… shiny… coins! Maybe enough for… a… Krabby Patty!)             
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 623(0) Happiness: 208(0) Money: 826(+5)
+Bot: Ok! Yay! More shiny coins! Mr. Krabs would be… proud! Or… jealous… probably jealous.      
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+Bot: Yes! Magic is awesome! Like… that time… I turned into a… goofy goober! Or was it a… magic pencil?         
+Game: RESPONSE: Wizard - Oooh, interesting! Seems like it went well for you! STATS: Population: 643(+20) Happiness: 213(+5) Money: 926(+100)
+Bot: Ok! Wow! That was amazing!  Like…  the magic… of… Krabby Patties!      
+Game: EVENT - Day 27 complete! People are happy, the city is 1mmi STATS: Population: 661(+18) Happiness: 213(0) Money: 926(0)
+Bot: Ok! Twenty-seven days!  I'm a… super…  duper…  extra… special…  awesome…  amazing… king!  Like… King Neptune…  riding a…  giant… seahorse…  juggling…  Krabby Patties…  while wearing… squarepants… singing the… Krabby Patty… song… and… doing… karate!     
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: Yes! Business is fun! Like… selling chocolate!  I hope he wants to… buy… lots of…  Krabby Patties!        
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 661(0) Happiness: 213(0) Money: 926(0)
+Bot: Ok! I can’t wait to… hear about… this business! I hope it involves… jellyfish! Or… Krabby Patties! Or… both!          
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: Yes! Refugees need help. Like… when Patrick needs… help… opening… a jar of… mayonnaise.  Or… when Squidward needs… help… escaping a… swarm of… jellyfish!        
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 676(+15) Happiness: 216(+3) Money: 926(0)
+Bot: Ok! More friends! Hooray!  We can all… eat… Krabby Patties…  together!  And… sing…  the…  Krabby Patty… song!      
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: Yes! (Sharing is caring! Like… when… Mr. Krabs… shares… his… money!  Wait…)          
+Game: RESPONSE: Little Timmy - Ywaah! Tankya! STATS: Population: 676(0) Happiness: 219(+3) Money: 925(-1)
+Bot: Ok. He seems… happy! I hope he uses the… gold coin… to… buy… a… Krabby Patty! Or… a… jellyfish… net!       
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?
+Bot: Yes! Adventures are important! Like…  exploring… Jellyfish Fields!  Or… exploring… the… Krusty Krab… kitchen! Wait…            
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 676(0) Happiness: 221(+2) Money: 925(0)
+Bot: Ok. I hope he has… fun. And I hope he… finds… treasure!  Or… jellyfish!  Or… Krabby Patties!       
+Game: QUEST: Royal Advisor - Fires have been breaking out frequently on Cabbage Street. Shall we install a well to make water more accessible there?
+Bot: Yes!  Fires are…  bad. Like… when…  Plankton… sets fire to…  the…  Krusty Krab! We need to…  stop…  the fires!          
+Game: RESPONSE: Royal Advisor - I will instruct the mason to proceed with construction. STATS: Population: 676(0) Happiness: 226(+5) Money: 775(-150)
+Bot: Ok! I hope the… well…  works!  Like… Sandy’s…  treedome…  water…  recycler! But… less…  science-y.     
+Game: EVENT - Day 28 complete! People are happy, the city is 1mmi STATS: Population: 702(+26) Happiness: 226(0) Money: 775(0)
+Bot: Ok! Twenty-eight days! I'm a… super…  duper… extra… special… awesome… amazing…  spectacular…  king! Like… King Neptune… riding a… giant… seahorse…  juggling… Krabby Patties…  while wearing… squarepants… singing… the Krabby Patty song… doing karate… and…  blowing bubbles! 
+Game: QUEST: The Sultan - I wish to strengthen the bonds between our cities. Shall we engage in a trade mission?
+Bot: Yes! Trade missions are…  fun! Like… when… Mr. Krabs… trades… Krabby Patties… for… money!  Or… when… SpongeBob… trades… jellyfish…  for…  smiles!      
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 712(+10) Happiness: 226(0) Money: 875(+100)
+Bot: Ok! More friends!  And more money!  Hooray!  Like…  finding… a… treasure chest… full of… Krabby Patties… and…  gold coins!         
+Game: EVENT: Witch - My friend from witch school wanted to thank you for your help, so we made you some magical cookies! STATS: Population: 712(0) Happiness: 232(+6) Money: 875(0)
+Bot: Ok!  Magic cookies!  Cool! I hope they taste… like… Krabby Patties!  Or… jellyfish… jelly!          
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found these shiny yellow stones! Pretty cool, right?
+Bot: Yes! Shiny stones are… cool! Like… shiny jellyfish!  Or… shiny… Krabby Patties!  Wait…          
+Game: RESPONSE: Yet Yet(small yetti in armor) - Soooo cool! STATS: Population: 712(0) Happiness: 237(+5) Money: 935(+60)
+Bot: Ok! I wonder… what kind… of stones… they are. Maybe they’re… magic!  Or… maybe… they’re… jellyfish… stones!     
+Game: QUEST: Royal Advisor - My lord, our city has grown so much that visitors are becoming lost quite easily. Shall we devote more gold to the hiring of tour guides?
+Bot: Yes! Tour guides are… helpful!  Like… when… Patrick… guides me…  through…  his… rock!  Or…  when…  Sandy… guides me…  through…  her…  treedome!         
+Game: RESPONSE: Royal Advisor - The tourists will thank you, I'm sure! STATS: Population: 712(0) Happiness: 240(+3) Money: 865(-70)
+Bot: Ok. I hope the…  tour guides…  are…  good! Like…  a…  tour guide…  who knows…  where all the… jellyfish…  are! Or… a tour guide… who knows…  where… all the… Krabby Patties…  are!    
+Game: QUEST: Scientist - Hello, hello! The Council of Science has developed a new potion in need of testing. May we have permission to conduct a test with a willing participant?
+Bot: Yes!  Science is… cool! Like… Sandy’s…  inventions! Or… Plankton’s…  experiments!  Well…  sometimes…           
+Game: RESPONSE: Scientist - Very good, yes, yes! I will report back to you with news of the potion's effects! STATS: Population: 712(0) Happiness: 240(0) Money: 865(0)
+Bot: Ok! I hope the… potion…  works! Like…  a…  potion… that… turns…  Squidward… into… a…  happy…  Squidward!  Or…  a… potion… that… gives… me…  infinite…  Krabby Patties!           
+Game: EVENT - Day 29 complete! People are happy, the city is 1mmi STATS: Population: 743(+31) Happiness: 239(-1) Money: 765(-100)
+Bot: Ok! Twenty-nine days! Almost… thirty!  Like… the number of… times…  I’ve…  tried to…  teach…  Gary…  karate!   
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: Yes! (Sharing is caring! Like… when… Mr. Krabs… shares… his… money!  Wait…)         
+Game: RESPONSE: Little Timmy - Ywaah! Tankya! STATS: Population: 743(0) Happiness: 242(+3) Money: 764(-1)
+Bot: Ok! He seems happy.  I hope he uses… the gold coin… to… buy…  a… Krabby Patty!  Or… a… jellyfish… net! 
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in?
+Bot: Yes! More settlers are good.  Like…  more… Krabby Patty… customers!  Or… more… jellyfish… enthusiasts!  Wait…      
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 748(+5) Happiness: 243(+1) Money: 764(0)
+Bot: Ok! More friends! Hooray!  We can all…  eat Krabby Patties… together! And… sing… the… Krabby Patty… song!        
+Game: QUEST: Mortimer - I told you! I told you I'd be back! Your people will be my, ummm, snack... see!
+Bot: No! You can’t eat my…  townspeople! They’re my…  friends! Like… Patrick! And… Sandy! And… Mr Krabs! Well…  sometimes…          
+Game: RESPONSE: Mortimer - Hummm, you dare to defy me? I'll eat you all! STATS: Population: 743(-5) Happiness: 238(-5) Money: 764(0)
+Bot: Ok… That’s bad.  Like…  really bad. Like… when Plankton… steals… the… Krabby Patty…  formula! We need to… stop him! Like…  when SpongeBob… saves… the Krusty Krab…  from… Plankton!            
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: Yes! Happy spirits are important! Like… happy… jellyfish! Or… happy… Krabby Patties!  Wait…           
+Game: RESPONSE: Witch - I'll conduct the ceremony and offer this to the spirit world. STATS: Population: 743(0) Happiness: 238(0) Money: 564(-200)
+Bot: Ok! I hope the… spirits…  like the gold! Maybe they’ll give us… good luck!  Or… more gold!  Or… jellyfish!          
+Game: EVENT: Royal Advisor - The owners of the tavern are making piles of gold, and wish to share some with you! STATS: Population: 743(0) Happiness: 238(0) Money: 579(+15)
+Bot: Ok! More money! Hooray! Like…  finding… a… dollar on the… ground.  Or… a… Krabby Patty… under… my… pillow!     
+Game: EVENT - Day 30 complete! People are happy, the city is 1mmi STATS: Population: 773(+30) Happiness: 238(0) Money: 579(0)
+Bot: Ok! Thirty days! A whole month! I’m a… super…  duper… extra… special…  awesome… amazing… spectacular…  wonderful… king! Like… King Neptune… riding a… giant… seahorse… juggling… Krabby Patties… while wearing… squarepants…  singing the… Krabby Patty… song…  doing karate… blowing bubbles… and…  eating… kelp! 
+Game: QUEST: Boots(orange cat) - Mrow! (Is this cat trying to tell me something? It seems like it wants to help..) Mrrroooowww! (Yarno? Is he talking about Yarno? Maybe this cat could help find Yarno... MROW! (That must be it! I'll need to provide plenty of tuna, of course, but surely it would be worth the cost...) Mrooow? (Well, should I hire this cat to find Yarno?)
+Bot: Yes! Cats are smart! Like… Gary!  He can… find…  Krabby Patties…  anywhere!  Even… under…  Squidward’s…  bed!     
+Game: RESPONSE: Boots(orange cat) - Mrow! (I hope he understands what I want... Oh well, nothing to do now but wait.) STATS: Population: 773(0) Happiness: 238(0) Money: 479(-100)
+Bot: Ok! I hope the cat… finds Yarno! And I hope he likes… tuna!  Like…  Gary!  But… orange.  And… a… cat.   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+Bot: Yes! Magic is… awesome! Like…  that time… I…  turned into… a…  goofy… goober! Or… was it… a magic pencil?          
+Game: RESPONSE: Wizard - Aaah, my apologies. I guess the spell turned out to be evil. STATS: Population: 763(-10) Happiness: 223(-15) Money: 479(0)
+Bot: Ok… Evil magic. That’s…  not good. Like… when… Plankton uses…  magic… to… steal… the… Krabby Patty… formula. We need to… be careful…  with magic. Like…  when SpongeBob… is careful…  with…  jellyfish!          
+Game: QUEST: Stumpy(living stump of tree) - I have returned, and not without cause! Prepare yourself for a protest of unimaginable proportions! I am rooted! I will not budge from this spot until you answer for your crimes against my people. Your workers have wounded our way of life. Things will never be the same in the forest. What say you? Will you first at least admit to your countrymen's wrongdoing?
+Bot: Yes!  We were wrong…  to… hurt the trees.  Trees are important. Like…  kelp forests!  We need to…  protect the trees.  Like… we protect…  Gary!         
+Game: RESPONSE: Stumpy(living stump of tree) - You.. you will? As you should! Wrongdoings indeed... To be perfectly transparent, I must admit I did not expect you to say that. I'm not really sure where to go from here. Perhaps I will.. leave... I mean... leaf.. STATS: Population: 763(0) Happiness: 225(+2) Money: 479(0)
+Bot: Ok. He’s gone. Like…  Squidward… when I… accidentally…  pop… his… bubble…  collection.  I’m glad he’s not… mad anymore.  We need to be… nicer to… the trees. Like…  we’re nice to… Gary!       
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: No!  Eating people is… wrong!  Like… eating… Gary!  Or… eating… Mr. Krabs!  Well…  maybe not Mr. Krabs…       
+Game: RESPONSE: Chester(mimic chest) - Wel|, I still ate them, sooo... STATS: Population: 758(-5) Happiness: 225(0) Money: 479(0)
+Bot: Ok…  That’s bad. Like… when… Plankton… eats… a…  Krabby Patty!  We need to… do something! Like… when… SpongeBob… saves the… Krusty Krab… from… Plankton… and his… patty-eating… ways!          
+Game: QUEST: Skelly(skeleton creature) - Some of the villagers mentioned they saw an alien walking around. You know anything about this?
+Bot: Yes? (Aliens? That’s…  weird! Like… Squidward… when he… tries to…  be…  funny.)          
+Game: RESPONSE: Skelly(skeleton creature) - I knew it! I need to go find Molder! STATS: Population: 758(0) Happiness: 225(0) Money: 479(0)
+Bot: Ok.  Molder. The…  purple… blob. He knows about… aliens.  Like…  Sandy!  But less… science-y. And… more…  blobby.         
+Game: EVENT - Day 31 complete! People are happy, the city is 1mmi STATS: Population: 780(+22) Happiness: 225(0) Money: 479(0)
+Bot: Ok. Thirty-one days!  A whole month… and a day!  I’m a… super… duper… extra… special… awesome… amazing… spectacular…  wonderful…  fantastic…  king! Like…  King Neptune…  riding… a giant… seahorse… juggling Krabby Patties…  while… wearing… squarepants… singing… the… Krabby Patty… song… doing karate…  blowing bubbles… eating kelp… and…  tap-dancing! 
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: Yes!  Truth is important! Like… knowing… the… secret… Krabby Patty… formula! Or… knowing… where… the… jellyfish…  are hiding!            
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go.. investigate something. STATS: Population: 780(0) Happiness: 225(0) Money: 469(-10)
+Bot: Ok. I hope he… finds the… truth. About… everything. Like… why is… Squidward… so grumpy.  Or… where do…  Krabby Patties… come from?           
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: Yes. Magical crystals are… cool.  Like… magic… jellyfish! Or… magic… Krabby Patties! Wait…           
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... death, and misery! STATS: Population: 765(-15) Happiness: 210(-15) Money: 469(0)
+Bot: Ok… Death and misery. That’s… not good. Like… when… Plankton… takes… over… the… Krusty Krab! We need to… do something!  Like…  when… SpongeBob…  saves… the… Krusty Krab… from…  Plankton!          
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try?
+Bot: Yes! Magic is… awesome!  Like… that time I… turned into… a… goofy… goober! Or… was it…  a… magic… pencil?              
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 765(0) Happiness: 210(0) Money: 669(+200)
+Bot: Ok!  Hooray for magic! Now I can buy…  lots of…  Krabby Patties! And kelp!  And maybe… even… a… new…  spatula!        
+Game: EVENT: Scientist - The potion test was a great success! We've imbued one lucky citizen with the power of super strength! STATS: Population: 765(0) Happiness: 215(+5) Money: 669(0)
+Bot: Ok! Super strength! Cool! Like…  Sandy…  when she… karate-kicks… a… giant… clam!     
+Game: QUEST: Royal Advisor - The people are demanding that a notorious criminal be exiled from the city. His crimes include theft, arson, and forgery. What do you say, shall we exile him?
+Bot: Yes! Criminals are… bad! Like… Plankton.  We need to…  stop… the criminals! Like… when… SpongeBob… stops… Plankton… from… stealing…  the…  Krabby Patty… formula!            
+Game: RESPONSE: Royal Advisor - I'll have the guards do so at once. STATS: Population: 765(0) Happiness: 218(+3) Money: 619(-50)
+Bot: Ok. I hope he… learns… his… lesson! Like… when… Plankton… learns his… lesson…  about… stealing… the…  Krabby Patty… formula!  Which… he… never… does…       
+Game: EVENT - Day 32 complete! People are happy, the city is 1mmi STATS: Population: 784(+19) Happiness: 218(0) Money: 619(0)
+Bot: Ok! Thirty-two days! That’s…  a lot of days!  Like… the number of…  jellyfish… in… Jellyfish Fields! Multiplied… by…  ten!  Or…  the number of…  Krabby Patties…  I can eat…  in… a week! Maybe…    
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: Yes. Happy spirits are important! Like… happy jellyfish!  Or… happy… Krabby Patties! Wait…           
+Game: RESPONSE: Witch - I'll conduct the ceremony and offer this to the spirit world. STATS: Population: 784(0) Happiness: 218(0) Money: 419(-200)
+Bot: Ok. I hope the…  spirits… like… the gold! Maybe they’ll give us…  good luck!  Or… more gold! Or…  jellyfish!          
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please?
+Bot: Yes!  Adventures are…  important! Like… exploring… Jellyfish Fields!  Or… exploring… the… Krusty Krab… kitchen!  Wait…         
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 784(0) Happiness: 220(+2) Money: 419(0)
+Bot: Ok! I hope he has… fun! And I hope he finds… treasure! Or… jellyfish! Or… Krabby Patties!         
+Game: QUEST: Grandma - I read the nicest story in the paper today. Isn't it a lovely day?
+Bot: Yes!  Lovely days are… the best!  Like…  jellyfishing… on a… sunny day! Or…  eating a…  Krabby Patty…  on a…  sunny day!               
+Game: RESPONSE: Grandma - Very good, dearie! STATS: Population: 784(0) Happiness: 221(+1) Money: 419(0)
+Bot: Ok. Glad Grandma’s happy.  Happy grandmas are… important.  Like…  happy… jellyfish.  Or… happy… Krabby Patties. Wait… 
+Game: QUEST: Royal Advisor - The guild of pineapple traders offers you a gift, sire! Will you accept it?
+Bot: Yes! Pineapples are… the best! Like…  my house! And… Gary’s food bowl! We… can’t have… too many… pineapples!          
+Game: RESPONSE: Royal Advisor - They are very happy with your decision about the petition! STATS: Population: 784(0) Happiness: 221(0) Money: 519(+100)
+Bot: Ok! More pineapples! Hooray! Now I can build… a… pineapple… kingdom! Like… Bikini Bottom! But… bigger! And… with… more… pineapples!          
+Game: QUEST: Molder(purple blob of sludge) - You ready for the truth? Aliens have already landed, and they're in our city. You think we're safe?
+Bot: Yes? (Aliens?  In our city?  That’s…  weird. Like… Squidward…  when… he tries… to… be…  funny.  Again.)          
+Game: QUEST: Molder(purple blob of sludge) - You ready for the truth? Aliens have already landed, and they're in our city. You think we're safe?
+Bot: Yes? (Aliens?  In our city? That’s… weird! Like…  Squidward… when…  he… tries to… be… funny.)        
+Game: EVENT - Day 33 complete! People are happy, the city is 1mmi STATS: Population: 816(+32) Happiness: 224(+3) Money: 519(0)
+Bot: Ok! Thirty-three days.  That’s… a lot!  Like… the number of times… I’ve… annoyed… Squidward!  Or… the number of… Krabby Patties… I’ve… flipped!     
+Game: QUEST: Knight - My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?
+Bot: No! Everyone makes mistakes! Even… knights!  Like… when… SpongeBob… makes a mistake… on his…  boating… test!  Or when… Patrick… makes a mistake…  counting… to… five!       
+Game: QUEST: Knight - My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?
+Bot: No! Everyone makes mistakes! Even knights! Like when SpongeBob makes a mistake on his boating test. Or when Patrick makes a mistake counting to five!    
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
