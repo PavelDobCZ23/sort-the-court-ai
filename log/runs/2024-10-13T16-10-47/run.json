@@ -1,0 +1,111 @@
+{
+  "id": "2024-10-13T16-10-47",
+  "ai": "gemini",
+  "personality": "Darth Vader\n",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 100,
+      "happiness": 101,
+      "money": 150,
+      "events": []
+    },
+    {
+      "population": 120,
+      "happiness": 116,
+      "money": 100,
+      "events": []
+    },
+    {
+      "population": 157,
+      "happiness": 126,
+      "money": 118,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 167,
+      "happiness": 114,
+      "money": 15,
+      "events": []
+    },
+    {
+      "population": 179,
+      "happiness": 127,
+      "money": 5,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 165,
+      "happiness": null,
+      "money": 385,
+      "events": []
+    },
+    {
+      "population": 181,
+      "happiness": 113,
+      "money": 390,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 245,
+      "happiness": 122,
+      "money": 455,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 256,
+      "happiness": 123,
+      "money": 475,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 255,
+      "happiness": 137,
+      "money": 550,
+      "events": []
+    },
+    {
+      "population": 255,
+      "happiness": 139,
+      "money": 500,
+      "events": []
+    },
+    {
+      "population": 255,
+      "happiness": 140,
+      "money": 700,
+      "events": []
+    },
+    {
+      "population": 264,
+      "happiness": 150,
+      "money": 670,
+      "events": []
+    },
+    {
+      "population": 269,
+      "happiness": 145,
+      "money": 870,
+      "events": []
+    },
+    {
+      "population": 276,
+      "happiness": 153,
+      "money": 920,
+      "events": [
+        "The plant people are hosting a party at the garden tonight, sharing their fresh fruits and vegetables with the villagers."
+      ]
+    }
+  ]
+}

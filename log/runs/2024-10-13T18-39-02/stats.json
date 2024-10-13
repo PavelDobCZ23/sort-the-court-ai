@@ -1,0 +1,647 @@
+{
+  "responses-gemini": {
+    "Royal Advisor": {
+      "My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Some refugees have arrived in town. Should we welcome them?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "The people have started a petition to ban pineapples in the city. Should we do it?": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "There's a petition going around to open our borders to the neighbouring town. What do you say?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "There's a very stinky kid running around the streets. Should we force her to have a bath? H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      },
+      "My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "The guild of pineapple traders offers you a gift, sire! Will you accept it?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it? H": {
+        "Joe Biden\n": {
+          "y": 3
+        }
+      },
+      "Since we opened our borders, trade from our caravans has increased dramatically. Do you wish to tax the merchants? H": {
+        "Joe Biden\n": {
+          "y": 1,
+          "n": 1
+        }
+      },
+      "I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. H Anyway, I just wanted to give my congratulations. Let's keep working hard, okay? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Builders wish to construct more houses in the town. They request gold, with which they could build much faster! H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "My lord, our city has grown so much that visitors are becoming lost quite easily. Shall we devote more gold to the hiring of tour guides?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "The prison is in need of repairs. Might there be room in the budget to devote a few hundred gold to it? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Since we opened our borders, travellers from all around are joining our city. Doesn't it just warm your heart? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Witch": {
+      "I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      },
+      "The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      },
+      "My broom's all worn out, and it's my birthday.. Think you could buy me a new broom for a present? Sure would be nice of you!": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Pancake(black cat)": {
+      "Mew. (This cat seems slightly magical. Not sure what it wants, though...)": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Mew. (It's that slightly magical cat from before. Does this mean we're friends now?)": {
+        "Joe Biden\n": {
+          "y": 4
+        }
+      }
+    },
+    "Chicken": {
+      "Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Bok bok! (It's running wild! Should we try to capture it?)": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Georgie(small flying devil)": {
+      "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Hey, now here's a deal for you, pal! Give me some of yer people's happiness, I'll hook you up with some gold. Sound good?": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Butler": {
+      "My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "That man you hired earlier has gone missing, sire. Shall we send a search party?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Fisherman": {
+      "My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear_. H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Lil Fang(small cute flying vampire)": {
+      "Hello friend. Care to gaze into my magical vampire crystal?": {
+        "Joe Biden\n": {
+          "y": 2,
+          "n": 1
+        }
+      },
+      "You feelin' spooky today?": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      },
+      "I'm the Duke of Spook! Do you want a spooky nickname?": {
+        "Joe Biden\n": {
+          "n": 4
+        }
+      }
+    },
+    "Monsieur Esprit(small noble flying ghost)": {
+      "Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Hmph. You call this a castle?": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      }
+    },
+    "Wizard": {
+      "Have you seen my magical cat, Pancake?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H": {
+        "Joe Biden\n": {
+          "y": 3,
+          "n": 3
+        }
+      }
+    },
+    "Military General": {
+      "We've captured some foes on the battlefield. Shall we bring them home and put them to work? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Peanut(happy monkey)": {
+      "Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Ook ook ook! (He's got a shiny coin!)": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Yettu(yetti creature)": {
+      "I would like some money please.": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Hello good sir I have returned. Will you give me some money this time?": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      }
+    },
+    "Winston(large green slimy creature)": {
+      "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings.. H": {
+        "Joe Biden\n": {
+          "n": 1,
+          "y": 1
+        }
+      },
+      "Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Hey uhhhh, somebody came by and cleeeeeaned up my hooooome. You gonna pay me baaaack for that? H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Sneaky Girl": {
+      "Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      }
+    },
+    "Mason": {
+      "Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.": {
+        "Joe Biden\n": {
+          "n": 4
+        }
+      },
+      "I'd like to build a new granary. This could help expand our population, but it'll cost a bit!": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Grandma": {
+      "Eeeh, hello sonny. Can I borrow a coin for the newspaper?": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      },
+      "Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I read the nicest story in the paper today. Isn't it a lovely day?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "The soup shop's been doing well. I came to offer you some of our earnings.": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Blacksmith": {
+      "I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      },
+      "Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Would you like to purchase any swords for your guards? A well protected city is a happy city!": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Boots(orange cat)": {
+      "Meeeow. (Looks like he wants somebody to pat his belly...)": {
+        "Joe Biden\n": {
+          "y": 3
+        }
+      },
+      "Mrow. (Can I have some food?)": {
+        "Joe Biden\n": {
+          "n": 2,
+          "y": 1
+        }
+      },
+      "Mrow! (Is this cat trying to tell me something? It seems like it wants to help..) Mrrroooowww! (Yarno? Is he talking about Yarno? Maybe this cat could help find Yarno... H MROW! (That must be it! I'll need to provide plenty of tuna, of course, but surely it would be worth the cost...) = Mrooow? (Well, should I hire this cat to find Yarno?)": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Chester(mimic chest)": {
+      "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      },
+      "I accidentally ate some folks out front, can I just pay you back with gold?": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      }
+    },
+    "Jester": {
+      "Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Ohooooo! Might I borrow some gold for new juggling balls?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
+        "Joe Biden\n": {
+          "n": 2
+        }
+      }
+    },
+    "Knight": {
+      "My lord! I wish to embark upon a treacherous quest!": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      },
+      "I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it? H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Petite Souris(tiny mouse)": {
+      "Squee! (There's a mouse! Should we chase it away?)": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "The Sultan": {
+      "I've got a business proposition for you and your tiny little town. Are you interested?": {
+        "Joe Biden\n": {
+          "y": 3
+        }
+      },
+      "How about this... Give me 200 gold, and I'l provide a large shipment of luxury goods.": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Skelly(skeleton creature)": {
+      "You've got a skeleton of your own, you know. Don't you find it weird that you can' see it?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      },
+      "Reporting in! I figured out a mysterious new way to make gold. Want to know how? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Reporting in! I solved the mystery about who stole Mrs. Pumpkin's baking pan. Want me to turn him in? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Do you find me humerus?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Mortimer": {
+      "Hum yes hello. One of your fishermen has been bothering me. I demand a villager as, ummm, a sacrifice. Yes.": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Yet Yet(small yetti in armor)": {
+      "Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I'm baaaack! I found these shiny yellow stones! Pretty cool, right?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Louis": {
+      "It seems your court is without much cake! I can provide cake! I am a cake chef! May I join you? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Little Timmy": {
+      "I'm Lil' Timmy! Nice to meetcha! You like ice cweam?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Mwaah! Can my fwends come ova to pwaaay?": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "Mwwwaah! Can I haffa coooin? A gowd cooooin!": {
+        "Joe Biden\n": {
+          "n": 1,
+          "y": 1
+        }
+      }
+    },
+    "All—Seeing Eye": {
+      "(It's just.. staring at me... Does it want something?)": {
+        "Joe Biden\n": {
+          "y": 2
+        }
+      }
+    },
+    "Dragon": {
+      "Booo! Give me your gold or I'll eat your townspeople!": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Drummer": {
+      "Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Boom boom, badoom doom doom! I'm really getting into it, are you!?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Want me to do a drumroll?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Alright, here we go... Brm brm brm brm brm brm brm brm brm brm brm brm brm brm...": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Monsieur Mouton": {
+      "Allo, sir! Are you looking for experienced barbers in your court?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Stumpy(living stump of tree)": {
+      "Hello, King. I am a tree, of the western forest. As you can see, however, I have been, shall we say... shortened. H This is due largely in fact to the actions of your team of woodcutters. My home has been chopped clean through! H In your reckless pursuit of expansion, you have now distrupted the lives of myself and my good treefolk brothers and sisters. I demand compensation by way of golden coin, so that we might repair this... how shall I put it? Diplomatic rift between us... A paltry sum of ohh, say... one thousand coins would go a long ways towards relaxing our troubled relationship.": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      },
+      "I have returned, and not without cause! Prepare yourself for a protest of unimaginable proportions! H I am rooted! I will not budge from this spot until you answer for your crimes against my people. Your workers have wounded our way of life. Things will never be the same in the forest. H What say you? Will you first at least admit to your countrymen's wrongdoing?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Button Boy": {
+      "Good sir, did you happen to see a blue fellow come through here just now? Strange noodly limbs? Made of yarn?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I knew he was around here somewhere! I'm going to find that darned Yarno! He's been running around claiming to be King Pin's royal assistant, which of course, he is NOT. H In fact it is I, Button Boy, who represents the Comfy Kingdom in the esteemed Council of Crowns. Have you heard of the Council of Crowns, good sir?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Then surely you've thought about joining! Perhaps we could work out a bit of a deal.. That Yarno's been giving me nothing but trouble. If you could somehow put a stop to his shenanigans... I might be able to get you a meeting with Pia, the advisor of the Celestial Kingdom. If anyone would be able to induct your kingdom into the Council, it would be her. What do you say? Will you help me catch that darned yarn?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "L-D 3.4(robot)": {
+      "H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I am truly sorry about earlier. My circuits were quite fried. I offer my thanks for your help. H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "I've been working on a video game. It's this new thing I came up with. Think it will catch on? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Me too, I'm excited about the possibilities. Anyway, it's a game you play with others and go around killing monsters. You get a sword. H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      },
+      "Yeah swords are great, right? So when you slay a monster you get experience points and... Hey, are you still listening? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Molder(purple blob of sludge)": {
+      "Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Scientist": {
+      "Hello, hello! The Council of Science has devised a blueprint for a gold-generating machine! H It will take some time to construct, yes, yes, and many resources.. But, if my calculations are correct, at least, it will produce gold steadily for the rest of eternity! H Perhaps you might initiate this project with a small research grant of five hundred gold?": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Gardener": {
+      "Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    },
+    "Madame Abeille": {
+      "Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Mercury": {
+      "Hello, I am from the neighbouring ocean kingdom. What a lovely castle you have! Although, it is quite dry... Have you ever been to the ocean kingdom?": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Miriam": {
+      "Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while? H": {
+        "Joe Biden\n": {
+          "y": 1
+        }
+      }
+    },
+    "Georgie?": {
+      "Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! H Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!": {
+        "Joe Biden\n": {
+          "n": 1
+        }
+      }
+    }
+  },
+  "responses-character": {}
+}

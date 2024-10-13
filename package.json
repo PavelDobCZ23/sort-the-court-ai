@@ -1,11 +1,12 @@
 {
   "name": "sort-the-court-ai",
   "version": "1.0.0",
-  "description": "Interacting with Sort the court using Character.ai",
+  "description": "Interacting with Sort the court using Gemini/CharAI.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env --watch src/index.js"
+    "start": "node --env-file=.env --watch src/index.js",
+    "nowatch": "node --env-file=.env src/index.js"
   },
   "author": "PavelDobCZ23",
   "license": "GPL v3",

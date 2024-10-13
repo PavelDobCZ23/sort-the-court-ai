@@ -1,0 +1,207 @@
+{
+  "id": "2024-10-13T17-30-11",
+  "ai": "gemini",
+  "personality": "Donald Trump",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 109,
+      "happiness": 107,
+      "money": 380,
+      "events": []
+    },
+    {
+      "population": 79,
+      "happiness": 89,
+      "money": 400,
+      "events": []
+    },
+    {
+      "population": 85,
+      "happiness": 101,
+      "money": 299,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 125,
+      "happiness": 120,
+      "money": 339,
+      "events": []
+    },
+    {
+      "population": 138,
+      "happiness": 128,
+      "money": 386,
+      "events": []
+    },
+    {
+      "population": 142,
+      "happiness": 114,
+      "money": 286,
+      "events": []
+    },
+    {
+      "population": 162,
+      "happiness": 120,
+      "money": 311,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 180,
+      "happiness": 131,
+      "money": 271,
+      "events": []
+    },
+    {
+      "population": 210,
+      "happiness": 133,
+      "money": 426,
+      "events": []
+    },
+    {
+      "population": 232,
+      "happiness": 142,
+      "money": 313,
+      "events": []
+    },
+    {
+      "population": 253,
+      "happiness": 146,
+      "money": 283,
+      "events": []
+    },
+    {
+      "population": 268,
+      "happiness": 154,
+      "money": 353,
+      "events": []
+    },
+    {
+      "population": 277,
+      "happiness": 156,
+      "money": 283,
+      "events": []
+    },
+    {
+      "population": 282,
+      "happiness": 161,
+      "money": 233,
+      "events": []
+    },
+    {
+      "population": 319,
+      "happiness": 172,
+      "money": 273,
+      "events": []
+    },
+    {
+      "population": 338,
+      "happiness": 178,
+      "money": 263,
+      "events": []
+    },
+    {
+      "population": 364,
+      "happiness": 191,
+      "money": 293,
+      "events": [
+        "A wave of dark magical energy passed through the city during the night, causing spooky nightmares for many citizens."
+      ]
+    },
+    {
+      "population": 390,
+      "happiness": 211,
+      "money": 258,
+      "events": []
+    },
+    {
+      "population": 426,
+      "happiness": 224,
+      "money": 518,
+      "events": []
+    },
+    {
+      "population": 443,
+      "happiness": 233,
+      "money": 478,
+      "events": []
+    },
+    {
+      "population": 496,
+      "happiness": 233,
+      "money": 173,
+      "events": []
+    },
+    {
+      "population": 549,
+      "happiness": 238,
+      "money": 161,
+      "events": []
+    },
+    {
+      "population": 588,
+      "happiness": 252,
+      "money": 271,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 623,
+      "happiness": 259,
+      "money": 271,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives."
+      ]
+    },
+    {
+      "population": 679,
+      "happiness": 273,
+      "money": 381,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 723,
+      "happiness": 280,
+      "money": 546,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 773,
+      "happiness": 281,
+      "money": 396,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 828,
+      "happiness": 286,
+      "money": 226,
+      "events": []
+    },
+    {
+      "population": 871,
+      "happiness": 286,
+      "money": 396,
+      "events": []
+    },
+    {
+      "population": 926,
+      "happiness": 286,
+      "money": 351,
+      "events": [
+        "The plant people are hosting a party at the garden tonight, sharing their fresh fruits and vegetables with the villagers.",
+        "a tree trunk led a protest in the square against woodland destruction. Guards had to be called in to settle things, and they demanded overtime Pay."
+      ]
+    }
+  ]
+}

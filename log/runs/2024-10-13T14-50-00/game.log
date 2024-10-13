@@ -1,0 +1,282 @@
+AI ChatBot (gemini) with personality: Darth VaderGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H
+Bot: Yes.  The Empire will be ruled decisively.   
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! H For now all you need to concern yourself with is keeping the citizens happy and growing our population. H Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok.  An efficient Empire must start somewhere. 
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: No.  Such methods are beneath the Empire. We shall acquire wealth through strength and efficient governance, not petty thievery. 
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok.  Order and discipline are essential. 
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: No. The Empire does not reward... slimes.  We must prioritize the needs of our citizens. 
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 100(0) Happiness: 99(-1) Money: 200(0)
+Bot: Ok.  A small price to pay for maintaining order.  We will address this discontent later. 
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: No.  Amusement is secondary to the expansion and security of the Empire.   
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 100(0) Happiness: 94(-5) Money: 200(0)
+Bot: Ok. Frivolity will not be tolerated. However, this drop in happiness is concerning. Perhaps a more measured approach is required in the future. 
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: Yes. The Empire will use all means necessary to grow stronger. 
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 100(0) Happiness: 94(0) Money: 400(+200)
+Bot: Ok.  Excellent.  Power grows. 
+Game: EVENT - Day 1 complete! People are sad, the city is shrinking! STATS: Population: 97(-3) Happiness: 94(0) Money: 400(0)
+Bot: Ok.  Unacceptable. The Empire must learn to balance strength with the needs of its citizens.  This weakness will be rectified. 
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: No. The citizens of the Empire are not fodder for... creatures.  We will find a more sustainable solution.    
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 97(0) Happiness: 95(+1) Money: 400(0)
+Bot: Ok. A small victory, but a necessary one. Protecting the populace is paramount, even from unusual threats. 
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: Yes.  Maintaining order requires addressing the concerns of all subjects… even… slimes.   
+Game: RESPONSE: Winston(large green slimy creature) - Thaaaanks boooosssssss... STATS: Population: 97(0) Happiness: 98(+3) Money: 400(0)
+Bot: Ok.  A surprisingly effective tactic. Appeasing even the… less conventional… subjects can yield positive results.  Perhaps there is more to learn from this… Winston. 
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: Yes. Knowledge is power.  The Empire will benefit from… insights. 
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go... investigate something. STATS: Population: 97(0) Happiness: 98(0) Money: 390(-10)
+Bot: Ok.  A small expense for potential intelligence.  We shall see what… Molder… uncovers. 
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+Bot: No.  Such… levity… is inappropriate. The Empire demands focus.   
+Game: RESPONSE: Skelly(skeleton creature) - Ahh, forget it then. STATS: Population: 97(0) Happiness: 98(0) Money: 390(0)
+Bot: Ok.  Maintaining discipline is essential. However, perhaps some… controlled… amusement could improve morale. This requires further consideration.   
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+Bot: No. Such… chaotic noise… is disruptive.  The Empire requires order.   
+Game: RESPONSE: Drummer - Badum bum tissss... Bummer... STATS: Population: 97(0) Happiness: 97(-1) Money: 390(0)
+Bot: Ok.  Focus and discipline are key.  Still, this continued decline in happiness is… troubling.  Perhaps a recalibration of our approach is in order.  The Empire must find a way to maintain order while also fostering… contentment… amongst its subjects.  This will require further consideration.   
+Game: EVENT - Day 2 complete! People are sad, the city is shrinking! STATS: Population: 96(-1) Happiness: 97(0) Money: 390(0)
+Bot: Ok. This… stagnation… is unacceptable. The Empire must adapt. A more nuanced approach is clearly required.  We must find a way to inspire growth and loyalty. 
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: Yes.  Eliminating threats to the Empire is a priority.     
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 96(0) Happiness: 101(+4) Money: 380(-10)
+Bot: Ok. A necessary expense.  Security is paramount. And the increase in happiness suggests the populace approves of decisive action against threats.  Good. 
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: No.  Such… gambles… are too risky for the Empire.  We cannot jeopardize the well-being of our citizens.   
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 96(0) Happiness: 101(0) Money: 380(0)
+Bot: Ok.  A wise decision.  The stability of the Empire must not be left to chance.  We will acquire power through more… reliable… means. 
+Game: QUEST: Molder(purple blob of sludge) - I... couldn't uncover anything. I was being followed. Too risky. Did you see anyone follow me out of the castle? H
+Bot: No.  The Empire does not engage in… surveillance… of its own agents. …Yet.    
+Game: RESPONSE: Molder(purple blob of sludge) - I suspected as much. Very suspicious.. STATS: Population: 96(0) Happiness: 101(0) Money: 380(0)
+Bot: Ok. Maintaining a semblance of trust is… advantageous… for now. However, vigilance is key. We will need to address this… suspicion… later.  Perhaps… Molder… can be a useful tool in uncovering the source of these… shadows.   
+Game: QUEST: Dragon - Booo! Give me your gold or I'll eat your townspeople!
+Bot: No. The Empire will not yield to threats. We will find a way to defeat this… dragon. 
+Game: RESPONSE: Dragon - Ooohoho, I'm gonna go eat some folks then! STATS: Population: 66(-30) Happiness: 101(0) Money: 380(0)
+Bot: Ok. A grave miscalculation.  This loss is… unacceptable. Strength alone is not enough.  The Empire must learn to strategize, to negotiate, to compromise when necessary.  This defeat… will be avenged. We must find a way to protect our citizens from such… overwhelming force. This requires… immediate attention. 
+Game: QUEST: Sneaky Girl - The guards confiscated some gold that I, uh... found... Can I have it back?
+Bot: Yes.  Perhaps… unconventional methods… can be useful in these dire times. Rebuilding the Empire requires… flexibility.    
+Game: RESPONSE: Sneaky Girl - Thanks! I knew you'd... understand. STATS: Population: 66(0) Happiness: 101(0) Money: 355(-25)
+Bot: Ok. A small price to pay for… resourcefulness. The Empire must recover its losses.  We will explore all available avenues to rebuild our strength. 
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 66(0) Happiness: 106(+5) Money: 355(0)
+Bot: Ok.  Interesting.  This… witch… could be a valuable asset to the Empire. We must find a way to… leverage… this newfound popularity. Perhaps… an alliance… could be forged.   
+Game: EVENT - Day 3 complete! People are happy, the city is ii1? STATS: Population: 68(+2) Happiness: 106(0) Money: 355(0)
+Bot: Ok.  A small improvement, but not enough. The Empire is still weakened. We must continue to adapt, to strategize, to rebuild.  This… witch… and her popularity warrant further consideration. 
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work? H
+Bot: Yes. The Empire requires labor to rebuild.    
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 76(+8) Happiness: 106(0) Money: 355(0)
+Bot: Ok. A necessary measure. Expanding the Empire's workforce, even through… unconventional means, is essential for our recovery. 
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: Yes.  Bold action is required to restore the Empire's strength.    
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 76(0) Happiness: 106(0) Money: 355(0)
+Bot: Ok.  Such… loyalty… could prove useful. We will observe the outcome of this… quest… with… great interest.  Perhaps this… knight… can become a valuable asset.  The Empire must cultivate such… dedication. 
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+Bot: Yes.  Even small resources can be… beneficial… to the Empire.     
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 75(-1) Happiness: 106(0) Money: 355(0)
+Bot: Ok. A minor setback.  We must learn to… manage… even seemingly insignificant… resources… more effectively.  Still, even small gains can contribute to the Empire's recovery.   
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: No. The Empire's resources are… limited. We must prioritize… essential expenditures.     
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 75(0) Happiness: 105(-1) Money: 355(0)
+Bot: Ok.  A calculated risk. Maintaining financial stability is… crucial… for the Empire’s recovery.  However, this continued decline in happiness must be addressed.  We need to find a way to… balance… fiscal responsibility with the… needs… of our subjects.  Perhaps… targeted investments… in… morale-boosting initiatives… could be beneficial. This requires further analysis.    
+Game: QUEST: Royal Advisor - My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool? H
+Bot: No.  Such… subjective matters… are irrelevant to the Empire.  We must focus on… objective goals.    
+Game: RESPONSE: Royal Advisor - Very well, I shall inform the friend of her correctness. STATS: Population: 75(0) Happiness: 105(0) Money: 355(0)
+Bot: Ok.  Maintaining a position of… neutrality… in such matters is… prudent. The Empire must avoid entanglement in… trivial disputes.  Our focus must remain on… rebuilding and strengthening… our position. 
+Game: EVENT - Day 4 complete! People are happy, the city is ii1? STATS: Population: 79(+4) Happiness: 105(0) Money: 355(0)
+Bot: Ok. Slow but… steady… progress.  The Empire is recovering, albeit gradually. We must continue to implement strategies that promote both growth and stability.  This requires constant vigilance and… adaptation.   
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: Yes. Eliminating threats and bolstering public morale is a sound investment. 
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 79(0) Happiness: 109(+4) Money: 345(-10)
+Bot: Ok.  A worthwhile expenditure. Security and public approval are essential for the Empire's continued growth.  The… witch… continues to prove a… useful asset. Perhaps a more… formal arrangement… could be beneficial. This requires further consideration. 
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: Yes. Maintaining access to information, even through… seemingly mundane… channels, could prove… advantageous. Small investments in… intelligence gathering… can yield significant returns.     
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 79(0) Happiness: 110(+1) Money: 344(-1)
+Bot: Ok. A negligible expense for potential… insights.  We must remain informed of all developments within the Empire and beyond. Knowledge is power.    
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: Yes.  Boosting morale is a worthwhile investment.  A… contented populace… is a… productive populace.    
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 79(0) Happiness: 110(0) Money: 294(-50)
+Bot: Ok. A significant expenditure, but potentially justifiable.  We must carefully monitor the impact of such… investments… on the overall morale and productivity of the Empire.  Further analysis is required.     
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: Yes. Expanding the Empire's infrastructure is essential for long-term growth.  Increasing our capacity to… sustain… a larger population is a strategic priority.      
+Game: RESPONSE: Mason - You got it, this will help our city grow! STATS: Population: 86(+7) Happiness: 110(0) Money: 224(-70)
+Bot: Ok. A substantial investment, but one with significant potential returns.  Expanding the Empire's infrastructure and population are key to our long-term… prosperity. We must continue to prioritize such… strategic initiatives.   
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: No. The Empire does not concern itself with… frivolous matters… such as… spookiness.  Our focus remains on… growth, stability, and power.        
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 86(0) Happiness: 110(0) Money: 224(0)
+Bot: Ok.  Maintaining a position of… detached authority… is essential.  The Empire must project an image of… strength and unwavering focus.  …Frivolity… has no place in our grand design.       
+Game: EVENT: The jester's show was loved by the court, and put everybody into a happy mood. STATS: Population: 86(0) Happiness: 118(+8) Money: 224(0)
+Bot: Ok.  A… surprising… but welcome development.  It appears that even… seemingly frivolous… activities can have a positive impact on morale.  This warrants further consideration. Perhaps… strategic deployment… of such… entertainments… could be a useful tool for maintaining order and… contentment… within the Empire. We will monitor this closely.     
+Game: EVENT - Day 5 complete! People are happy, the city is ii1? STATS: Population: 98(+12) Happiness: 118(0) Money: 224(0)
+Bot: Ok.  Good.  The Empire is steadily regaining its strength. Our strategic investments in infrastructure and… morale-boosting initiatives… appear to be yielding positive results.  We must continue on this path, adapting and refining our strategies as needed to ensure continued growth and stability.  The… witch… the… knight… and even the… jester… have proven to be… unexpectedly valuable assets.  We will continue to observe their… utility… and consider how best to… integrate them… into our grand design.  The Empire’s resurgence is… inevitable. 
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: No. While appeasing… supernatural entities… may have merit, such a substantial expenditure is not justifiable at this time.  The Empire must prioritize more… immediate and tangible… needs. We will revisit this matter when our financial position is more… secure.    
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 98(0) Happiness: 118(0) Money: 224(0)
+Bot: Ok. A prudent decision. Maintaining fiscal responsibility is paramount.  While the… spirit world… requires careful consideration, the Empire cannot afford such… extravagant offerings… at this juncture.  We will monitor the situation and… reassess… when our resources permit.   
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: No. Such… displays… are irrelevant to the Empire’s objectives. We must remain focused on… matters of consequence.      
+Game: RESPONSE: Chester(mimic chest) - Well, you're not gonna. STATS: Population: 98(0) Happiness: 118(0) Money: 224(0)
+Bot: Ok.  …Unremarkable.  The Empire does not waste time on… trivial pursuits. Our focus remains on… consolidating power and rebuilding our strength.      
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: No. While… entertainment… has demonstrated some value in boosting morale, such a significant expenditure is not warranted at this time.  The Empire must prioritize more… critical investments… that directly contribute to our growth and stability.  We will revisit this matter when our financial position is more robust.   
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 98(0) Happiness: 115(-3) Money: 224(0)
+Bot: Ok. A necessary decision, though not a… popular… one.  Fiscal responsibility must take precedence over… entertainment… even if it results in a temporary dip in morale.  We will explore more… cost-effective… methods of maintaining public… contentment.   
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H
+Bot: Yes.  Expanding the Empire's… industrial capacity… is a strategic priority.  Skilled laborers are a valuable asset.   
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 101(+3) Happiness: 117(+2) Money: 224(0)
+Bot: Ok. A wise decision.  Strengthening our… industrial base… is essential for long-term growth and… military might. The Empire will benefit from the… blacksmith's… expertise.   
+Game: QUEST: Blacksmith - Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?
+Bot: Yes. Investing in… offensive capabilities… is a necessary expenditure. Eliminating the… dragon threat… and acquiring its… resources… is a strategic imperative.      
+Game: RESPONSE: Blacksmith - Thank you, sir. I will keep you posted about further developments. I won't let you down! We'll strike back at that dragon yet! STATS: Population: 101(0) Happiness: 117(0) Money: -76(-300)
+Bot: Ok.  A calculated risk.  Eliminating the… dragon… is worth the financial strain.  The Empire must project strength and… retaliate decisively… against any threats. The… blacksmith's… initiative is… commendable.  We will await the results of his efforts with… anticipation. We must take steps to… replenish… the Empire’s coffers quickly.     
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 101(0) Happiness: 122(+5) Money: -76(0)
+Bot: Ok.  The… witch… continues to prove… useful… both in eliminating threats and bolstering public morale.  We must find a way to… leverage… her popularity and… skills… to further the Empire's objectives. Perhaps a more… formal alliance… could be beneficial. This warrants further consideration.   
+Game: EVENT - Day 6 complete! People are happy, the city is ii1? STATS: Population: 114(+13) Happiness: 122(0) Money: -76(0)
+Bot: Ok.  Growth continues, but our financial situation is… precarious.  Eliminating the… dragon… is a priority, both for the acquisition of its resources and to demonstrate the Empire's strength. We must also explore additional avenues for generating revenue and restoring financial stability.  This requires… immediate attention.   
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: No. The Empire does not negotiate with… creatures…  especially not at the expense of its citizens. We will find alternative solutions to our… financial challenges.      
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 114(0) Happiness: 122(0) Money: -76(0)
+Bot: Ok.  Protecting our citizens is paramount. We will not compromise their safety for… financial gain.  We must explore other avenues for… revenue generation.  This is a… priority.     
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: No.  This offer remains… unacceptable. The well-being of our citizens is not negotiable.  We will find other ways to address our financial difficulties.       
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 114(0) Happiness: 122(0) Money: -76(0)
+Bot: Ok. Our position remains unchanged.  The Empire will not sacrifice its citizens for… monetary gain. We must explore other options, and quickly.  Our financial situation is… precarious. This requires… immediate action.     
+Game: QUEST: Witch - Looking for coin? I could cast some dark magic to summon some gold, but it might cost a soul or two.. H
+Bot: No. Such… measures… are too risky. The Empire will not traffic in… souls.  We must find a less… volatile… method of generating revenue.     
+Game: RESPONSE: Witch - Let me know if you change your mind. Just a couple of souls. STATS: Population: 114(0) Happiness: 122(0) Money: -76(0)
+Bot: Ok.  Maintaining the… integrity… of the Empire is essential. We will not resort to… dark magic… or the sacrifice of our citizens.  We must find a more… sustainable… solution to our financial difficulties.   
+Game: QUEST: Knight - My lord! I've come across a chest of gold in my adventures! Will you please accept this gift? H
+Bot: Yes.  Such… contributions… are most welcome.  The Empire will put these resources to good use.      
+Game: RESPONSE: Knight - It is my pleasure to serve you! STATS: Population: 114(0) Happiness: 122(0) Money: 24(+100)
+Bot: Ok.  Excellent. The… knight’s… loyalty continues to prove valuable. This influx of funds will provide some much-needed relief.  We must continue to cultivate such… dedication… amongst our subjects.     
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: No.  Such… gambles… are still too risky.  The Empire will not jeopardize the well-being of its citizens for the chance of… financial gain. We must find a more… reliable… method of securing our financial future.       
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 114(0) Happiness: 122(0) Money: 24(0)
+Bot: Ok. A wise decision.  The Empire’s stability must not be left to… chance. We will continue to pursue more… prudent… financial strategies. 
+Game: EVENT - Day 7 complete! People are happy, the city is ii1? STATS: Population: 125(+11) Happiness: 122(0) Money: 24(0)
+Bot: Ok. Continued growth is… encouraging. However, our financial situation remains… tenuous.  We must prioritize… revenue generation… to secure the Empire's long-term stability.  Eliminating the… dragon threat… and acquiring its hoard remains a… strategic objective. We must also explore other avenues for increasing our financial resources.  This requires… immediate and decisive action.     
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: Yes.  Given our current financial constraints, we must consider… all available options… for increasing revenue.  …Unconventional methods… may be necessary.       
+Game: RESPONSE: Sneaky Girl - They won't even know what hit them. STATS: Population: 125(0) Happiness: 117(-5) Money: 74(+50)
+Bot: Ok. A necessary compromise.  While such methods are not… ideal, the Empire’s financial stability must be secured. We will address the resulting… discontent… when our resources permit.   
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: No.  Such… frivolities… are a distraction. The Empire must remain focused on… matters of consequence.       
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 125(0) Happiness: 116(-1) Money: 74(0)
+Bot: Ok. Maintaining an image of… strength and seriousness… is essential for the Empire’s authority.  We will not indulge in… childish diversions.     
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: No.  The Empire's resources remain… limited.  We must prioritize… essential expenditures.  …Charity… is a luxury we cannot afford at this time.     
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 125(0) Happiness: 115(-1) Money: 74(0)
+Bot: Ok.  Fiscal responsibility remains paramount. We must allocate our resources… strategically… to maximize their impact.       
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: No. All personnel must remain… diligent… in their duties. The Empire requires unwavering dedication from its… servants.        
+Game: RESPONSE: Butler - Oh dear... I told my friends I'd be there.. STATS: Population: 125(0) Happiness: 112(-3) Money: 74(0)
+Bot: Ok.  Maintaining discipline and… productivity… is essential.  The Empire cannot afford to indulge in… leisurely pursuits…  especially during these challenging times.     
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: No. Such… tactics… are beneath the Empire.  We will achieve our objectives through… strength and strategic planning… not through… petty scare tactics.         
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 125(0) Happiness: 112(0) Money: 74(0)
+Bot: Ok. Maintaining a reputation of… strength and integrity… is crucial. The Empire will not resort to… underhanded methods.   
+Game: EVENT - Day 8 complete! People are happy, the city is ii1? STATS: Population: 131(+6) Happiness: 112(0) Money: 74(0)
+Bot: Ok.  Growth continues, but the decline in happiness is… concerning.  While our… unconventional… revenue-generating strategies have been necessary, we must find a way to mitigate their negative impact on public morale.  This requires careful consideration. We must also continue to prioritize the elimination of the… dragon threat… and the acquisition of its hoard.   
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: No. While such an establishment might boost morale, the current financial strain prohibits such a substantial investment.  We must prioritize more… critical expenditures… related to security and… economic stability.       
+Game: RESPONSE: Mason - Maaan... Guess I'll cancel our plans... STATS: Population: 131(0) Happiness: NaN(NaN) Money: 74(0)
+Bot: Ok.  A difficult but necessary decision.  The Empire cannot afford such… extravagant… projects at this time. We must focus on addressing our… financial vulnerabilities… and eliminating the… dragon threat.  We will revisit this proposal when our resources are more… plentiful. 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: No.  The Empire does not dabble in… mystical trinkets… or… parlor tricks.  Our focus remains on… practical matters… of governance and… strategic planning.         
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 131(0) Happiness: NaN(NaN) Money: 74(0)
+Bot: Ok.  Such… distractions… are beneath us.  The Empire will not be swayed by… superstition… or… idle curiosity.  We must remain focused on our objectives.      
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: No.  The Empire’s resources must be allocated to more… pressing concerns. …Entertainment… is a luxury we cannot afford at this time.         
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 131(0) Happiness: 106(NaN) Money: 74(0)
+Bot: Ok.  A necessary, if unpopular, decision.  We must prioritize expenditures that directly contribute to the Empire's… stability and growth.  We will revisit the matter of… entertainment… when our financial position is more secure.     
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H
+Bot: Yes.  Expanding our… network of… skilled individuals…  especially those with… unique talents, is a worthwhile investment.      
+Game: RESPONSE: Witch - Thanks, this'll help her get settled. STATS: Population: 132(+1) Happiness: 109(+3) Money: 71(-3)
+Bot: Ok.  A small expense for a potential… asset.  The Empire will benefit from the addition of another… witch.  We will observe her… abilities… with… great interest.      
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: Yes.  Even… small creatures… deserve… sustenance. Maintaining a… harmonious environment… within the Empire is… beneficial.         
+Game: RESPONSE: Boots(orange cat) - Meeeow. STATS: Population: 132(0) Happiness: 110(+1) Money: 69(-2)
+Bot: Ok.  A negligible expense for a potential increase in… overall contentment. We must consider all factors that contribute to the well-being of the Empire.     
+Game: EVENT: The workers we captured and recruited have sped up our building processes, resulting in more tax income. STATS: Population: 132(0) Happiness: 110(0) Money: 89(+20)
+Bot: Ok. Excellent.  Our strategy of… acquiring… additional laborers is proving effective.  Increasing revenue is a priority, and we will continue to explore all available avenues for… economic growth.   
+Game: EVENT - Day 9 complete! People are happy, the city is ii1? STATS: Population: 138(+6) Happiness: 110(0) Money: 89(0)
+Bot: Ok.  Steady progress.  Our financial situation is improving, and the population continues to grow.  We must maintain this momentum and continue to prioritize strategies that promote both… economic stability… and public… contentment.  Eliminating the… dragon threat… remains a key objective.   
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: Yes.  Gathering intelligence is crucial for the Empire’s security.  We must be aware of any potential… threats… or… opportunities.         
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 138(0) Happiness: 110(0) Money: 79(-10)
+Bot: Ok.  A worthwhile investment.  Knowledge is power.  We will await the… skelly's… report with… anticipation.        
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?
+Bot: Yes.  Expanding the ranks of the Imperial Guard is a sound strategic move.  We cannot afford to be… selective… in these challenging times.  All able-bodied individuals can contribute to the Empire’s… security.           
+Game: RESPONSE: Butler - Indeed, more swords will help us. STATS: Population: 139(+1) Happiness: 110(0) Money: 79(0)
+Bot: Ok.  Bolstering our defenses is a priority. The Empire must be prepared to defend itself against all… threats. Every additional… soldier… strengthens our position.         
+Game: EVENT: Witch - My friend from witch school wanted to thank you for your help, so we made you some magical cookies! H STATS: Population: 139(0) Happiness: 116(+6) Money: 79(0)
+Bot: Ok. …Intriguing. While the Empire does not typically indulge in… confections, this… gesture… is appreciated. Perhaps these… witches… can be even more… useful… than anticipated.  We will observe their… loyalty… closely.  Such… magical… talents… could prove… valuable.     
+Game: QUEST: Knight - I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it? H
+Bot: Yes.  Rewarding loyalty and… bolstering the effectiveness… of our forces is a sound investment.           
+Game: RESPONSE: Knight - Ah yes! Thank you, my lord. I shall use it in the defense of our proud kingdom! STATS: Population: 139(0) Happiness: 119(+3) Money: 29(-50)
+Bot: Ok.  Equipping our forces with the best available… equipment… is essential for maintaining security.  The… knight’s… continued dedication is… commendable. We must ensure that such loyalty is… appropriately rewarded.       
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: No. The Empire does not… negotiate… with… disembodied entities. We will maintain our focus on… tangible matters… of governance and security.          
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... happy!) STATS: Population: 139(0) Happiness: 129(+10) Money: 29(0)
+Bot: Ok.  A… curious… outcome. Perhaps there is more to this… entity… than meets the eye. We will continue to observe it with… caution… and… assess its potential… utility.       
+Game: EVENT - Day 10 complete! People are happy, the city is ii1? STATS: Population: 154(+15) Happiness: 129(0) Money: 29(0)
+Bot: Ok.  Excellent.  The Empire continues to flourish.  Our strategic investments in personnel, infrastructure, and… intelligence gathering… are paying off. We must maintain this… positive trajectory…  while also addressing our… financial vulnerabilities. Eliminating the… dragon threat… and acquiring its hoard remains a priority. We must also explore additional avenues for… revenue generation…  and ensure that public… contentment… remains high. The loyalty and… unexpected contributions… of our subjects, from the… witches… to the… knight, are… noteworthy.  We will continue to observe their performance and consider how best to… integrate their talents… into our grand design.  The Empire’s resurgence is… well underway. 
+Game: QUEST: Alien - You haven't been talking to Molder, have you?
+Bot: No. Such inquiries are irrelevant to the Empire's objectives.  We will not be… interrogated… by… outsiders.     
+Game: RESPONSE: Alien - Hmm... If you say so.. STATS: Population: 154(0) Happiness: 129(0) Money: 29(0)
+Bot: Ok. Maintaining a position of… authority and control… is essential. The Empire will not tolerate… interference… or… questioning… of our decisions. We will continue to pursue our objectives with… unwavering resolve.    
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: No.  Such… trivial matters… are beneath the Empire’s notice.  We will focus on… more pressing concerns.         
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 154(0) Happiness: 130(+1) Money: 29(0)
+Bot: Ok. …Inconsequential. The Empire will not be distracted by… rodents.  We have larger objectives to pursue.         
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: Yes. Expanding the Empire's population is a strategic priority.  More citizens mean more… workers, more soldiers, more power.        
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 159(+5) Happiness: 131(+1) Money: 29(0)
+Bot: Ok.  A wise decision.  A larger population is essential for the Empire's continued growth and… dominance.  We will continue to implement policies that encourage… expansion… and… prosperity.          
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: No.  Such… criticisms… are unwelcome. The Empire will not tolerate… disrespect… from… insignificant… entities.          
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 159(0) Happiness: 130(-1) Money: 29(0)
+Bot: Ok. Projecting an image of… strength and confidence… is crucial.  The Empire will not be swayed by… petty insults. We will continue to focus on our… grand design.            
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: No.  Our position remains unchanged.  The Empire does not… engage… with… disembodied entities.  We will maintain our focus on… tangible objectives.              
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... sad...) STATS: Population: 159(0) Happiness: 120(-10) Money: 29(0)
+Bot: Ok.  …Unfortunate, but unavoidable. The Empire will not be deterred from its course by… supernatural… influences.  We will address the decline in happiness when our… more pressing concerns… have been resolved.            
+Game: EVENT - Day 11 complete! People are happy, the city is ii1? STATS: Population: 170(+11) Happiness: 120(0) Money: 29(0)
+Bot: Ok.  Continued growth is… satisfactory.  However, the persistent decline in happiness must be addressed. While maintaining a position of… strength and authority… is important, we must also consider the… morale… of our subjects.  A… contented populace… is a… productive populace.  We will explore options for boosting morale without compromising the Empire’s… image of power.  Eliminating the… dragon threat… and securing our financial future remain top priorities. 
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I discovered an underground crime ring in the city's eastern ward. I've already taken steps to break up their operations. Could I have a bit of extra gold to bring in the guard and make some additional arrests? H
+Bot: Yes. Maintaining order and eliminating criminal elements within the Empire is paramount.  We will allocate the necessary resources to support this endeavor.      
+Game: RESPONSE: Skelly(skeleton creature) - Perfect. We'll have those criminals locked up by this time tomorrow. STATS: Population: 170(0) Happiness: 125(+3) Money: NaN(NaN)
+Bot: Ok.  A worthwhile investment.  Security and the rule of law are essential for the Empire’s continued prosperity. The… skelly’s… initiative is… commendable… and we will continue to rely on his… unique talents… for maintaining order within our realm.      
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: No. This offer remains… unacceptable. The safety and well-being of our citizens are non-negotiable. The Empire will find alternative solutions to its financial challenges.       
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 170(0) Happiness: 125(0) Money: NaN(NaN)
+Bot: Ok.  Our resolve remains unshaken.  We will not compromise the… integrity… of the Empire for mere… financial gain.  We will explore other options for bolstering our coffers, including the elimination of the… dragon threat… and the acquisition of its hoard.         
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: No. This proposition continues to be… repugnant. The Empire will not sacrifice its citizens to appease… creatures…  regardless of our financial situation.  We will find other solutions.      
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 170(0) Happiness: 125(0) Money: NaN(NaN)
+Bot: Ok.  Our stance remains firm. The Empire will not yield to… threats… or… extortion.  We will persevere and find a more… acceptable… path to financial stability.      
+Game: QUEST: Royal Advisor - Without any gold, we're a bit stuck. We could sell off some of our goods, but that might make people sad. Should we do it?
+Bot: Yes.  Difficult choices are necessary in times of… financial hardship. The Empire must secure its… immediate needs, even at the cost of some… temporary discontent.       
+Game: RESPONSE: Royal Advisor - Having gold is more important, you're right. STATS: Population: 170(0) Happiness: 110(-15) Money: 239(NaN)
+Bot: Ok. A necessary measure, though not without its… drawbacks. We must restore both our financial standing and public approval.  We will address the decline in happiness when our resources permit.  Eliminating the… dragon threat… and acquiring its treasure remains a high priority.     
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: No. Such… impertinence… will not be tolerated.  The Empire will not entertain… criticisms… from… insignificant… entities.            
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 170(0) Happiness: 109(-1) Money: 239(0)
+Bot: Ok. Projecting strength and unwavering confidence is essential for maintaining authority.  We will not be swayed by… petty taunts… or… disrespectful… spirits.             
+Game: EVENT - Day 12 complete! People are happy, the city is ii1? STATS: Population: 176(+6) Happiness: 109(0) Money: 239(0)
+Bot: Ok.  Growth continues, though happiness remains… suboptimal. We must find a way to improve morale without compromising the Empire’s… image of power… or resorting to excessive expenditures.  Eliminating the… dragon threat… and acquiring its treasure remains a key objective for achieving both financial stability and inspiring… confidence… amongst our subjects.  We will also continue to explore other avenues for improving public opinion and fostering… loyalty… within the Empire.   
+Game: EVENT: Knight - I have returned from my quest! A great bounty of treasure is ours, my lord! STATS: Population: 176(0) Happiness: 109(0) Money: 489(+250)
+Bot: Ok. Excellent. The… knight’s… loyalty and dedication continue to serve the Empire well.  This influx of resources will be invaluable in addressing our financial needs and pursuing our… strategic objectives. We must ensure that such… exemplary service… is appropriately recognized and rewarded.      
+Game: EVENT: All—Seeing Eye - (It seems... sad...) STATS: Population: 176(0) Happiness: 107(-2) Money: 489(0)
+Bot: Ok.  …Unfortunate. While the Empire does not concern itself with the… emotional state… of… disembodied entities, this continued decline in overall happiness warrants attention. We must find a way to improve morale without compromising our… strategic objectives… or resorting to excessive expenditures.  This requires… careful consideration.    
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: Yes. The Empire will utilize all available resources, including… magic… to further its objectives.  Power in all its forms must be harnessed for the good of the Empire.        
+Game: RESPONSE: Wizard - Aaah, my apologies. I guess the spell turned out to be evil. STATS: Population: 166(-10) Happiness: 92(-15) Money: 489(0)
+Bot: Ok. A… regrettable outcome.  This… setback… highlights the unpredictable nature of… magic.  While potentially powerful, it must be wielded with caution and… careful consideration. We will address the decline in population and happiness as quickly as possible, prioritizing strategies that promote… growth and stability.  Our focus must remain on achieving our… long-term objectives.     
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.
+Bot: No.  While such an establishment might offer… some… benefit to the populace, the Empire’s current priorities lie elsewhere. We must focus on… more pressing concerns, such as security, economic stability, and the elimination of the… dragon threat.  We will revisit this proposal when our situation is more… advantageous.        
+Game: RESPONSE: Grandma - As you wish... STATS: Population: 166(0) Happiness: 91(-1) Money: 489(0)
+Bot: Ok. A necessary decision, though not without its drawbacks.  We must prioritize our spending on initiatives that directly contribute to the Empire's… strategic objectives.  We will reassess the… soup shop… proposal when our resources permit.        

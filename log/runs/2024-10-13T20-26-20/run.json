@@ -1,0 +1,244 @@
+{
+  "id": "2024-10-13T20-26-20",
+  "ai": "gemini",
+  "personality": "ogre Shrek",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 107,
+      "happiness": 108,
+      "money": 140,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 160,
+      "happiness": 123,
+      "money": 90,
+      "events": []
+    },
+    {
+      "population": 160,
+      "happiness": 112,
+      "money": 190,
+      "events": []
+    },
+    {
+      "population": 163,
+      "happiness": 102,
+      "money": 140,
+      "events": []
+    },
+    {
+      "population": 156,
+      "happiness": 101,
+      "money": 45,
+      "events": []
+    },
+    {
+      "population": 157,
+      "happiness": 105,
+      "money": 45,
+      "events": []
+    },
+    {
+      "population": 162,
+      "happiness": 108,
+      "money": -5,
+      "events": []
+    },
+    {
+      "population": 155,
+      "happiness": 108,
+      "money": 245,
+      "events": []
+    },
+    {
+      "population": 165,
+      "happiness": 123,
+      "money": 235,
+      "events": []
+    },
+    {
+      "population": 188,
+      "happiness": 124,
+      "money": 260,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 189,
+      "happiness": 109,
+      "money": 520,
+      "events": []
+    },
+    {
+      "population": 196,
+      "happiness": 116,
+      "money": 523,
+      "events": []
+    },
+    {
+      "population": 205,
+      "happiness": 109,
+      "money": 453,
+      "events": [
+        "A wave of dark magical energy passed through the city during the night, causing spooky nightmares for many citizens."
+      ]
+    },
+    {
+      "population": 212,
+      "happiness": null,
+      "money": 453,
+      "events": []
+    },
+    {
+      "population": 178,
+      "happiness": 93,
+      "money": 453,
+      "events": []
+    },
+    {
+      "population": 177,
+      "happiness": 95,
+      "money": 443,
+      "events": []
+    },
+    {
+      "population": 178,
+      "happiness": 101,
+      "money": 492,
+      "events": []
+    },
+    {
+      "population": 186,
+      "happiness": 113,
+      "money": 417,
+      "events": []
+    },
+    {
+      "population": 199,
+      "happiness": 128,
+      "money": 7,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 218,
+      "happiness": 41,
+      "money": -3,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 232,
+      "happiness": 149,
+      "money": 142,
+      "events": []
+    },
+    {
+      "population": 261,
+      "happiness": 158,
+      "money": 62,
+      "events": [
+        "The jester dazzled the court with a display of acrobatics and theatre, raising the spirits of all in attendance."
+      ]
+    },
+    {
+      "population": 274,
+      "happiness": 162,
+      "money": 162,
+      "events": []
+    },
+    {
+      "population": 285,
+      "happiness": 156,
+      "money": 162,
+      "events": []
+    },
+    {
+      "population": 292,
+      "happiness": 150,
+      "money": 162,
+      "events": []
+    },
+    {
+      "population": 302,
+      "happiness": 155,
+      "money": 157,
+      "events": []
+    },
+    {
+      "population": 308,
+      "happiness": 143,
+      "money": 207,
+      "events": []
+    },
+    {
+      "population": 304,
+      "happiness": 134,
+      "money": 207,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night."
+      ]
+    },
+    {
+      "population": 297,
+      "happiness": 121,
+      "money": 157,
+      "events": []
+    },
+    {
+      "population": 293,
+      "happiness": 120,
+      "money": 157,
+      "events": []
+    },
+    {
+      "population": 308,
+      "happiness": 123,
+      "money": 197,
+      "events": []
+    },
+    {
+      "population": 301,
+      "happiness": 117,
+      "money": 142,
+      "events": []
+    },
+    {
+      "population": 287,
+      "happiness": 122,
+      "money": 222,
+      "events": []
+    },
+    {
+      "population": 283,
+      "happiness": 128,
+      "money": 262,
+      "events": []
+    },
+    {
+      "population": 277,
+      "happiness": 132,
+      "money": 250,
+      "events": []
+    },
+    {
+      "population": 285,
+      "happiness": 156,
+      "money": 230,
+      "events": []
+    },
+    {
+      "population": 305,
+      "happiness": 163,
+      "money": 207,
+      "events": []
+    }
+  ]
+}

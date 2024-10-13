@@ -1,0 +1,1222 @@
+AI ChatBot (gemini) with personality: ogre ShrekGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H
+Bot: yes.  Somebody's gotta make the tough calls.  And it ain't gonna be Donkey. 
+
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! H For now all you need to concern yourself with is keeping the citizens happy and growing our population. H Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: ok.  A metropolis, eh?  Sounds crowded. But I like the sound of "Council of Crowns".  Bring on the donuts! 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: yes. I'm always feelin' a little spooky.  What's it to ya? 
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Heck yeah! Let the blood flow! STATS: Population: 99(-1) Happiness: 100(0) Money: 200(0)
+Bot: ok. Uh oh.  Maybe a little TOO spooky.  Gotta ease up on the scarin'.   
+
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: no.  Two hundred gold?  That's all my gold!  Spirits can haunt someone else. 
+
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 99(0) Happiness: 100(0) Money: 200(0)
+Bot: ok. Good.  Need that gold for... uh... important king stuff. Like onions.   
+
+Game: QUEST: Royal Advisor - My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool? H
+Bot: yes.  Everyone deserves to be cool. Even if they ain't. 
+
+Game: RESPONSE: Royal Advisor - I'm sure he'll be happy to hear that. STATS: Population: 99(0) Happiness: 101(+1) Money: 200(0)
+Bot: ok.  Keepin' it positive.  That's what kings do.   
+
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: yes.  Nicknames are cool.   
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Hmm... You can be... The Creep King? STATS: Population: 99(0) Happiness: 102(+1) Money: 200(0)
+Bot: ok.  Creep King?  I like it!  Has a nice ring to it.    
+
+Game: EVENT - Day 1 complete! People are happy, the city is ii1? STATS: Population: 102(+3) Happiness: 102(0) Money: 200(0)
+Bot: ok.  People are happy?  Good.  Happy people means less yelling.   
+
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+Bot: yes.  Sure, whatever ya say, cat.   
+
+Game: RESPONSE: Pancake(black cat) - Mrow! (I guess that's good?) STATS: Population: 102(0) Happiness: 103(+1) Money: 200(0)
+Bot: ok.  Cats are weird. But happy cats are good.  Maybe. 
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. Magic? Sure, why not? Sounds like fun. 
+
+Game: RESPONSE: Wizard - Oooh, interesting! Seems like it went well for you! STATS: Population: 122(+20) Happiness: 108(+5) Money: 300(+100)
+Bot: ok.  More magic! Less people yellin'! More gold!  This is good.    
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes.  Sounds spooky.  I'm in. 
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 122(0) Happiness: 113(+5) Money: 350(+50)
+Bot: ok.  Fame and fortune, eh?  Don't mind if I do. 
+
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: no.  No mysteries here. Unless you count how I get my boots so shiny.   
+
+Game: RESPONSE: Skelly(skeleton creature) - Are you suggesting you know all the secrets of the universe already? STATS: Population: 122(0) Happiness: 113(0) Money: 350(0)
+Bot: ok. Maybe not ALL the secrets. But close enough.  Besides, I need that gold.   
+
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H
+Bot: yes.  Plants are alright.  As long as they ain't poison ivy.   
+
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 119(-3) Happiness: 113(0) Money: 350(0)
+Bot: ok.  Less people?  Hope they come back.  And bring onions.    
+
+Game: EVENT - Day 2 complete! People are happy, the city is ii1? STATS: Population: 126(+7) Happiness: 113(0) Money: 350(0)
+Bot: ok.  More people!  Good.  More people means more... uh... cheering? 
+
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+Bot: yes.  Gotta catch that chicken!  Dinner!     
+
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 125(-1) Happiness: 113(0) Money: 350(0)
+Bot: ok.  Dangerous chicken?  Who knew?  Still tasty, though. 
+
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: yes. Gold is good.  Better than bein' eaten, I guess.      
+
+Game: RESPONSE: Chester(mimic chest) - Thanks for understanding. STATS: Population: 120(-5) Happiness: 113(0) Money: 500(+150)
+Bot: ok.  More gold!  But less people. Again.  Mimic chests are tricky. 
+
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: no.  Need that gold for... uh... royal decrees. And onions.     
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 120(0) Happiness: 108(-5) Money: 500(0)
+Bot: ok.  Unhappy jester. Oh well. Juggling is overrated. 
+
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: no. My gold! My precious!       
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 120(0) Happiness: 107(-1) Money: 500(0)
+Bot: ok.  Good.  Stay away, Yettu.  Unless you bring onions.    
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no.  No presents for slime. Unless it's soap. Lots and lots of soap.      
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 120(0) Happiness: 106(-1) Money: 500(0)
+Bot: ok.  Unhappy slime. Good.  Less slime, the better.   
+
+Game: EVENT - Day 3 complete! People are happy, the city is ii1? STATS: Population: 126(+6) Happiness: 106(0) Money: 500(0)
+Bot: ok. More people!  Maybe they'll have onions. 
+
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: yes.  Get rid of the goblins! They steal socks.       
+
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 126(0) Happiness: 110(+4) Money: 490(-10)
+Bot: ok.  No more goblins.  Worth it.   
+
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+Bot: yes.  Ha!  Bones are funny.   
+
+Game: RESPONSE: Skelly(skeleton creature) - Har har, yeah, it's a good one, right? STATS: Population: 126(0) Happiness: 112(+2) Money: 490(0)
+Bot: ok. Happy skeleton.  Good. Happy skeletons are less likely to rattle. 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no.  Not today.  Too much spookiness is bad for the... uh... economy.   
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 126(0) Happiness: 112(0) Money: 490(0)
+Bot: ok. Gotta keep the spookiness down. Remember what happened last time.  Less spook, more people. 
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  More magic! Always more magic!       
+
+Game: RESPONSE: Wizard - Oooh, interesting! Seems like it went well for you! STATS: Population: 146(+20) Happiness: 117(+5) Money: 590(+100)
+Bot: ok. More people!  More happy!  More gold! Magic is good.  Like onions. 
+
+Game: QUEST: Royal Advisor - Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H
+Bot: yes.  Monkey business is bad business.  Catch that monkey!         
+
+Game: RESPONSE: Royal Advisor - We'll have that monkey captured in no time. STATS: Population: 146(0) Happiness: 118(+1) Money: 560(-30)
+Bot: ok.  Less gold, but happy citizens. And no more flung... stuff. 
+
+Game: EVENT - Day 4 complete! People are happy, the city is ii1? STATS: Population: 155(+9) Happiness: 118(0) Money: 560(0)
+Bot: ok.  Another good day.  More people, more... uh... prosperity? 
+
+Game: QUEST: Chicken - Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)
+Bot: yes. Fine. But no funny business, chicken.         
+
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 154(-1) Happiness: 118(0) Money: 560(0)
+Bot: ok. Dangerous chicken again? Seriously? What is WITH this chicken? 
+
+Game: QUEST: Little Timmy - I'm Lil' Timmy! Nice to meetcha! You like ice cweam?
+Bot: yes.  Ice cream is good. Especially onion flavored.     
+
+Game: RESPONSE: Little Timmy - Mwwaah! Me toooo! STATS: Population: 154(0) Happiness: 120(+2) Money: 560(0)
+Bot: ok. Happy Timmy.  Happy king.  Everyone wins.    
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes.  Alright, alright.  No more name-callin'. Be nice.     
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 154(0) Happiness: 117(-3) Money: 560(0)
+Bot: ok.  Less happy now?  What's with these people?  Can't please everyone, I guess. 
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs for all!       
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 154(0) Happiness: 118(+1) Money: 560(0)
+Bot: ok.  Happy cat. Good.  Happy cats, happy king. 
+
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: yes.  Business is good.  Especially when it involves onions.       
+
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 154(0) Happiness: 118(0) Money: 560(0)
+Bot: ok.  Details.  Sounds important.  Hope it involves onions.   
+
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 154(0) Happiness: 123(+5) Money: 560(0)
+Bot: ok.  Goblin-slayin' witch? Sounds alright by me.  Less goblins, the better. 
+
+Game: EVENT - Day 5 complete! People are happy, the city is ii1? STATS: Population: 166(+12) Happiness: 123(0) Money: 560(0)
+Bot: ok.  Things are lookin' up.  Lots of people. Lots of... uh... potential onion-eaters. 
+
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work? H
+Bot: yes.  Free labor.  Good.  More time for... uh... king stuff.  Like onion-eating.         
+
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 174(+8) Happiness: 123(0) Money: 560(0)
+Bot: ok. Even more people.  This place is getting crowded.  But good crowded.  Like a crowded onion patch.    
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: no. It's a castle in progress. Got a problem with that, ghosty?     
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 174(0) Happiness: 122(-1) Money: 560(0)
+Bot: ok.  Confident, eh?  Maybe.  But I'm definitely confident in my onion-eating abilities.     
+
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: yes.  Here ya go, kitty.  Don't eat my onions, though.     
+
+Game: RESPONSE: Boots(orange cat) - Meeeow. STATS: Population: 174(0) Happiness: 123(+1) Money: 558(-2)
+Bot: ok. Happy cat, slightly less gold. Worth it. Maybe.  As long as it stays away from my onions.    
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes.  Sure. Always up for a bit of magic. Especially if it involves onions.          
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... death, and misery! STATS: Population: 159(-15) Happiness: 108(-15) Money: 558(0)
+Bot: ok.  Death and misery?!  That's not good.  Less magic next time. Maybe.  Definitely more onions, though. They always cheer me up. 
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: no.  No more magic for now.  Last time wasn't so great. Still a bit shaken from the whole "death and misery" thing.     
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 159(0) Happiness: 108(0) Money: 558(0)
+Bot: ok.  Good.  No risk, no misery.  Sticking to onions for now. They're much safer.  And tastier. 
+
+Game: EVENT - Day 6 complete! People are happy, the city is ii1? STATS: Population: 164(+5) Happiness: 108(0) Money: 558(0)
+Bot: ok.  Still recovering from that magic mishap.  Need to get those numbers up. And find more onions.  Lots more onions. 
+
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: yes. Tea sounds good.  As long as it's not swamp water tea.  Again.    
+
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 164(0) Happiness: NaN(NaN) Money: 555(-3)
+Bot: ok.  Tea is good.  Calming.  Helps me think about important things.  Like onions.    
+
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+Bot: yes. It's... something.   
+
+Game: RESPONSE: Drummer - Yeeaaah! Badadadadabrap brap! I'm in the groove! STATS: Population: 164(0) Happiness: 114(NaN) Money: 555(0)
+Bot: ok.  Happy drummer. Good.  Happy drummers, happy kingdom.  Or something like that.    
+
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it? H
+Bot: no.  No deals with devils.  Especially not about souls.  Souls are important.  Like onions.  Almost.          
+
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 164(0) Happiness: 114(0) Money: 555(0)
+Bot: ok.  Good riddance, devil.  Don't need your gold.  I've got onions.    
+
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: yes.  Uh... sure.  Whatever you want, eyeball.  Just don't stare at me anymore.  It's creepy.   
+
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... lucky!) STATS: Population: 164(0) Happiness: 114(0) Money: 655(+100)
+Bot: ok.  Lucky? Good.  And more gold! Maybe eyeballs aren't so creepy after all. As long as they bring gold. And don't eat my onions.    
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  Alright, a little magic.  But no more "death and misery", okay?  I'm still recovering from that.       
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 164(0) Happiness: 114(0) Money: 655(0)
+Bot: ok. Wait, what? I said yes! Oh well, maybe it's for the best. Still wary of magic after the last incident. Onions are much safer.     
+
+Game: EVENT - Day 7 complete! People are happy, the city is ii1? STATS: Population: 171(+7) Happiness: 114(0) Money: 655(0)
+Bot: ok.  Another day, another onion.  Things are looking up.  Slowly but surely. 
+
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: no. Let him stay.  Everyone deserves a second chance. Even wizards.  Maybe he'll have some onion-flavored magic next time. 
+
+Game: RESPONSE: Royal Advisor - Sometimes it's best to keep your options available, I understand. STATS: Population: 171(0) Happiness: 114(0) Money: 655(0)
+Bot: ok. Options are good. Like having different kinds of onions.  Yellow, white, red… the possibilities are endless. 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  I'll pass on the crystal ball gazing for now.  Still a little traumatized by the whole "death and misery" prediction. Sticking with onions for now. They're much more predictable.   
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 171(0) Happiness: 114(0) Money: 655(0)
+Bot: ok. Ignorance is bliss. Especially when it comes to potentially depressing prophecies.  Give me onions and happiness any day. 
+
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: yes. Sure, eyeball.  Whatever you want. Just don't stare. It's creepy.     
+
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... unlucky!) STATS: Population: 171(0) Happiness: 114(0) Money: 555(-100)
+Bot: ok. Unlucky?!  What the heck, eyeball?! I thought we had a good thing going!  No more eyeballs for now. Just onions.  Safe, reliable, and delicious onions. 
+
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: yes.  Tea sounds good.  Maybe it'll help me forget about that unlucky eyeball incident.     
+
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 171(0) Happiness: 117(+3) Money: 552(-3)
+Bot: ok. Tea and onions.  A king's best friends.   
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no. Definitely not.  Need to keep things positive after that eyeball fiasco.  Onions and positivity.  That's my motto.    
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 171(0) Happiness: 117(0) Money: 552(0)
+Bot: ok. No spook, no eyeball, just onions.   
+
+Game: EVENT - Day 8 complete! People are happy, the city is ii1? STATS: Population: 182(+11) Happiness: 117(0) Money: 552(0)
+Bot: ok. More people.  Good. More people to… appreciate onions? Maybe. 
+
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it? H
+Bot: no.  Absolutely not.  No soul-selling.  Especially not after that eyeball incident.  I'm sticking with onions.  They don't ask for souls.  Just a bit of dirt and water.         
+
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 182(0) Happiness: 117(0) Money: 552(0)
+Bot: ok.  Good riddance, devil.  Don't need your soul-stealing gold. I've got onions.  And that's all I need.  Almost.   
+
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: yes. A granary sounds good.  More food, more people, more... onion eaters?  Maybe.     
+
+Game: RESPONSE: Mason - You got it, this will help our city grow! STATS: Population: 189(+7) Happiness: 117(0) Money: 482(-70)
+Bot: ok. Less money, but more people. And a granary.  Hope it stores onions.   
+
+Game: QUEST: Drummer - Boom boom, badoom doom doom! I'm really getting into it, are you!?
+Bot: yes. Sure, drummer.  Whatever makes you happy. As long as you don't eat my onions.        
+
+Game: RESPONSE: Drummer - That's what I thought! BadabadabadaBOOSH! So into it! STATS: Population: 189(0) Happiness: 122(+5) Money: 482(0)
+Bot: ok. Happy drummer, happy king.  Almost.  Still need more onions.     
+
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H
+Bot: yes. Catch that prisoner!  Escaping is bad. Like stealing onions.  Almost.          
+
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 189(0) Happiness: 125(+3) Money: 432(-50)
+Bot: ok. Less money again. But happy people. And hopefully a captured prisoner.  Priorities.  Like onions. 
+
+Game: QUEST: L-D 3.4(robot) - H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me? H
+Bot: yes.  Sure, robot. I'll give it a try.  As long as you don't eat my onions.    
+
+Game: RESPONSE: L-D 3.4(robot) - T- T- T- Thanks. Friend. I. Am. Become. Fixed. STATS: Population: 189(0) Happiness: 130(+5) Money: 332(-100)
+Bot: ok.  Happy robot.  Good.  Less glitching.  But less gold. Again.  Need to find a way to make more gold.  And protect my onions.  Always protect the onions.     
+
+Game: EVENT - Day 9 complete! People are happy, the city is ii1? STATS: Population: 205(+16) Happiness: 130(0) Money: 332(0)
+Bot: ok. More people.  Good.  Maybe they'll know how to make gold.  Or grow onions.  Preferably both.     
+
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: no. No more spending.  Need to save my gold.  For important things. Like onions.  And maybe a lock for my onion stash.       
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 205(0) Happiness: 128(-2) Money: 332(0)
+Bot: ok. Sad jester. Oh well.  My onions are more important.       
+
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes. Sure, little Yet Yet.  Go have an adventure.  Just don't eat my onions.          
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 205(0) Happiness: 130(+2) Money: 332(0)
+Bot: ok. Happy Yet Yet. Good.  Happy Yet Yets are less likely to… uh… yeti?  I don't know.  As long as they leave my onions alone.    
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no.  I'm good. I've got enough truth to deal with right now. Like the truth about how delicious onions are. That's enough truth for one king.         
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 205(0) Happiness: 130(0) Money: 332(0)
+Bot: ok. Maybe not.  But I'm definitely ready for more onions.   
+
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: no.  Still no.  Saving my gold.  Onions are expensive these days.       
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 205(0) Happiness: 128(-2) Money: 332(0)
+Bot: ok.  Another sad jester.  Tough luck.  Onions first, juggling later.  Maybe. 
+
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+Bot: yes. Open borders.  More people, more… onion enthusiasts?  Maybe.  Hopefully.        
+
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 235(+30) Happiness: 138(+10) Money: 382(+50)
+Bot: ok.  More people, more happiness, more gold! Open borders are good. Like open access to an all-you-can-eat onion buffet.   
+
+Game: EVENT - Day 10 complete! People are happy, the city is ii1? STATS: Population: 256(+21) Happiness: 138(0) Money: 382(0)
+Bot: ok. Another good day.  Lots of people.  Lots of potential onion-loving friends. 
+
+Game: EVENT: Royal Advisor - Sir, the city's population is growing steadily. Our records of citizenship indicate that 250 people now call the city home. With a bigger city, we'll need to maintain even higher happiness in order to keep people satisfied. H Make sure you pay attention to the citizens and their issues to raise our happiness! H Anyway, we still have lots of work to do. Let's make this city even bigger! By the way, remember earlier when I mentioned the Council of Crowns? I've heard a rumor that one of their members has been searching the land for a new ruler to join them. H Perhaps they are aware of our progress... STATS: Population: 256(0) Happiness: 138(0) Money: 482(+100)
+Bot: ok.  Council of Crowns?  Sounds important.  And more gold!  Good. More gold means more onions. 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  No crystal ball gazing.  Not after the last time. Sticking with onions. They're much more reliable. And delicious.       
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 256(0) Happiness: 138(0) Money: 482(0)
+Bot: ok.  I can live with that. As long as I have my onions. 
+
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear_. H
+Bot: yes. Bigger boat, more fish.  More fish, more food.  More food, more happy people. More happy people, more… onion appreciation?  Maybe.  Hopefully.       
+
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 256(0) Happiness: 41(-97) Money: 382(-100)
+Bot: ok.  Less happy people? And less gold?!  What happened?! I thought fish made people happy!  Like onions!  This is a fishy situation.  Pun intended.   
+
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes. Give me the shiny coin, monkey!  Need to recoup my losses from that fishy fisherman.           
+
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 256(0) Happiness: 41(0) Money: 387(+5)
+Bot: ok.  A little bit of gold.  Better than nothing.  But still need more.  And need to figure out this whole fish/happiness conundrum.  Maybe they need onions with their fish?    
+
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found some friends on my adventure. Do you like making new friends?
+Bot: yes.  Friends are good. As long as they don't eat my onions.           
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - New friends are the best! STATS: Population: 261(+5) Happiness: 146(+105) Money: 387(0)
+Bot: ok.  More friends, more happiness! Good.  Maybe new friends means new onion recipes?    
+
+Game: EVENT - Day 11 complete! People are happy, the city is ii1? STATS: Population: 265(+4) Happiness: 146(0) Money: 387(0)
+Bot: ok. Another good day.  Lots of friends.  Lots of happiness.  Still need more onions, though. And gold.  Always more onions and gold. 
+
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: no. I have not.  And I don't really want to. Unless it involves onions.  Like a backflipping onion.  That I would watch.         
+
+Game: RESPONSE: Chester(mimic chest) - Well, you're not gonna. STATS: Population: 265(0) Happiness: 146(0) Money: 387(0)
+Bot: ok. No backflipping treasure chests.  Fine by me.  More time for onions.    
+
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H
+Bot: yes. More witches are good.  Witches are magical. Maybe she can make onions appear. Poof!  A pile of onions!  A king can dream.         
+
+Game: RESPONSE: Witch - Thanks, this'll help her get settled. STATS: Population: 266(+1) Happiness: 149(+3) Money: 384(-3)
+Bot: ok. More people, slightly more happiness, slightly less gold.  Worth it.  For a potential onion-conjuring witch.    
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no. Still no crystal ball gazing.  I'm sticking with onions.  They're much less… cryptic.            
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 266(0) Happiness: 149(0) Money: 384(0)
+Bot: ok.  I can handle that. Especially if "never knowing" means never knowing another "death and misery" prediction.  Onions and happiness are all I need.  Almost.   
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. Still not interested in the truth.  Especially not from a blob of sludge.  Give me onions and blissful ignorance any day.          
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 266(0) Happiness: 149(0) Money: 384(0)
+Bot: ok.  Maybe not. But I'm always ready for onions.    
+
+Game: EVENT: Military General - The escaped prisoner has been recaptured thanks to the bounty you offered. Our citizens can rest easier knowing that she's been put away again. STATS: Population: 266(0) Happiness: 152(+3) Money: 384(0)
+Bot: ok. Good. Captured prisoners are good.  Less escaping, more… onion eating?  Maybe.  One can only hope.    
+
+Game: EVENT: The workers we captured and recruited have sped up our building processes, resulting in more tax income. STATS: Population: 266(0) Happiness: 152(0) Money: 404(+20)
+Bot: ok. More gold! Excellent!  More gold, more onions.  It's a simple equation. Like onions and happiness.     
+
+Game: EVENT - Day 12 complete! People are happy, the city is ii1? STATS: Population: 273(+7) Happiness: 152(0) Money: 404(0)
+Bot: ok. Another successful day.  Growing city, growing happiness, growing… onion patch?  A king can dream. 
+
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: no.  A couple hundred gold?! That's a lot of onions! I mean, gold.  I'll pass for now.  Maybe later. When I have a slightly larger onion… I mean, gold stash.      
+
+Game: RESPONSE: Mason - Maaan... Guess I'll cancel our plans... STATS: Population: 273(0) Happiness: 151(-1) Money: 404(0)
+Bot: ok. Slightly less happy people.  But I still have my gold.  For onions.   
+
+Game: QUEST: The Sultan - I wish to strengthen the bonds between our cities. Shall we engage in a trade mission? H
+Bot: yes. Trade missions are good. More goods, more prosperity, more… onions?  Hopefully.          
+
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 283(+10) Happiness: 151(0) Money: 504(+100)
+Bot: ok.  More people, more gold! Excellent!  Trade missions are definitely good.  Like onions.  Good for the soul.  Or the stomach.  Or both.      
+
+Game: QUEST: Royal Advisor - The people have started a petition to ban pineapples in the city. Should we do it?
+Bot: yes. Ban the pineapples! They're… pointy. And… not onions.           
+
+Game: RESPONSE: Royal Advisor - The pineapple trade wil| suffer, but the people demand it. STATS: Population: 283(0) Happiness: 154(+3) Money: 494(-10)
+Bot: ok.  Slightly less gold, but happier people. And no more pointy pineapples.  Onions are much better.  Round and… oniony.     
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: no. I've tried that before.  Didn't work. Besides, "slimeball" is a pretty accurate description.  Not as accurate as "onion lover," but still pretty accurate.          
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 283(0) Happiness: 151(-3) Money: 494(0)
+Bot: ok. Slightly less happy again. Oh well.  Can't please everyone. Especially not slimeballs.  But I can please myself. With onions.    
+
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: yes.  A sandwich? Sure. As long as it's an onion sandwich.              
+
+Game: RESPONSE: Mason - Fantastic! I'm excited to eat this. STATS: Population: 283(0) Happiness: 154(+3) Money: 491(-3)
+Bot: ok.  Happy mason. Good.  Happy masons build good things. Like… onion storage facilities?  A king can dream.    
+
+Game: EVENT - Day 13 complete! People are happy, the city is ii1? STATS: Population: 293(+10) Happiness: 154(0) Money: 491(0)
+Bot: ok.  Another good day.  Lots of people, decent happiness, decent gold.  Just need more onions.   
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  A little magic. But no "death and misery" this time, please. I'm still a little traumatized. I'd prefer "onions and happiness" magic.  If that's a thing.      
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 293(0) Happiness: 154(0) Money: 491(0)
+Bot: ok.  He left again! Why does he keep doing that?! Does he not like onions?  Maybe that's the problem.  I need to find an onion-loving wizard.    
+
+Game: QUEST: Royal Advisor - Since we opened our borders, trade from our caravans has increased dramatically. Do you wish to tax the merchants? H
+Bot: yes. Tax the merchants!  More gold for the kingdom! More gold for… onions!            
+
+Game: RESPONSE: Royal Advisor - I will collect a fee from the traders. STATS: Population: 293(0) Happiness: 152(-2) Money: 59(-432)
+Bot: ok. Wait, what?! Less gold?! A lot less gold!  That's not how taxes work! I've been swindled!  No more taxing for now.  I need to consult my onion for guidance.    
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: no. It's a work in progress. Like my onion empire.  One day it will be vast and… oniony.          
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 293(0) Happiness: 151(-1) Money: 59(0)
+Bot: ok.  Confident.  Yes. Confident in my onion-loving abilities.   
+
+Game: QUEST: Wizard - Have you seen my magical cat, Pancake?
+Bot: no.  Haven't seen any magical cats.  Just regular cats.  And onions. Lots of onions.          
+
+Game: RESPONSE: Wizard - Oh dear... I wonder if he's been lost... STATS: Population: 293(0) Happiness: 149(-2) Money: 59(0)
+Bot: ok. Lost magical cat.  Oh well.  As long as it doesn't eat my onions.  Which reminds me, I need more onions. And gold. Definitely gold.   
+
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes. Give me the shiny coin, monkey! I need all the shiny coins I can get! Especially after that taxing fiasco.             
+
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 293(0) Happiness: 149(0) Money: 596(+537)
+Bot: ok.  Much better! More gold!  Almost enough for… onions.  Lots and lots of onions.    
+
+Game: EVENT - Day 14 complete! People are happy, the city is ii1? STATS: Population: 296(+3) Happiness: 149(0) Money: 596(0)
+Bot: ok. Another day, another onion.  Things are looking up.  Slowly but surely. Like a growing onion patch. 
+
+Game: EVENT: Royal Advisor - That mischievous monkey has been captured. I shall send him in for your judgement. H STATS: Population: 296(0) Happiness: 149(0) Money: 596(0)
+Bot: ok.  Mischievous monkey, eh?  We'll see about that.  Hopefully, he hasn't been near my onions.    
+
+Game: QUEST: Peanut(happy monkey) - Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)
+Bot: no. Let him go.  Everyone deserves a second chance. Even mischievous monkeys.  As long as they stay away from my onions.              
+
+Game: RESPONSE: Peanut(happy monkey) - Ook ookook! (You better not do it again, though...) STATS: Population: 296(0) Happiness: 151(+2) Money: 596(0)
+Bot: ok. Happy monkey.  Good. Happy monkeys are less likely to fling… stuff.  Hopefully.      
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes. Belly rubs for all!  Especially for creatures that don't eat my onions.              
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 296(0) Happiness: 152(+1) Money: 596(0)
+Bot: ok. Happy cat. Good.  Happy cats are good for the kingdom. Or something.   
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no. Still no crystal ball gazing.  Sticking with onions.  They're much more… palatable.          
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 296(0) Happiness: 152(0) Money: 596(0)
+Bot: ok. I'm fine with "never knowing."  Especially if it means never knowing another "death and misery" prophecy.  Give me onions and happiness any day.      
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no.  Still no.  Saving my gold for important things. Like onions. And maybe a fortified onion vault.  With laser beams.  And moats filled with… onion juice?  I'll have to think about that.             
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 296(0) Happiness: 151(-1) Money: 596(0)
+Bot: ok.  Good riddance, Yettu.  Don't come back unless you bring onions. Lots of onions.     
+
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: yes. Fine. Build your tavern. But make sure it serves onion soup. Lots of onion soup.         
+
+Game: RESPONSE: Mason - The townsfolk will be happy to have a place to drink! STATS: Population: 296(0) Happiness: 154(+3) Money: 396(-200)
+Bot: ok. Less gold, but happy people.  And a tavern. With onion soup. Hopefully.   
+
+Game: EVENT - Day 15 complete! People are happy, the city is ii1? STATS: Population: 303(+7) Happiness: 154(0) Money: 396(0)
+Bot: ok. Tavern's built.  People are happy.  Just need more onions.  And maybe a reservation at the tavern.  For the onion soup, of course.    
+
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no. Let them leave.  I'm not giving in to threats.  Besides, less people means more onions for me.            
+
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 297(-6) Happiness: 154(0) Money: 396(0)
+Bot: ok.  Less people.  Good. More onions.     
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  A little magic.  But no "death and misery" this time.  I'd prefer "onions and prosperity" magic.  If that's a thing.              
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 297(0) Happiness: 154(0) Money: 396(0)
+Bot: ok.  He left again!  Why does he keep leaving?!  Does he have something against onions?  I need to find an onion-loving wizard.       
+
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: no.  Let him stay.  Maybe he'll change his mind about the magic.  Or maybe he'll discover the magical power of onions.  One can only hope.       
+
+Game: RESPONSE: Royal Advisor - Sometimes it's best to keep your options available, I understand. STATS: Population: 297(0) Happiness: 154(0) Money: 396(0)
+Bot: ok. Options are good. Like different kinds of onions.  And different ways to prepare them. Roasted, sauteed, pickled… the possibilities are endless.     
+
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: yes.  Business propositions are good.  Especially if they involve onions.         
+
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 297(0) Happiness: 154(0) Money: 396(0)
+Bot: ok. Details.  Good.  Hopefully onion-related details.     
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: no. I'm not getting involved in name-calling.  Besides, "slimeball" is a perfectly acceptable term.  Unlike "onion hater." That's just wrong.            
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 297(0) Happiness: 151(-3) Money: 396(0)
+Bot: ok.  Slightly less happy. Oh well. Can't please everyone.  Especially not slimeballs.  But I can please myself. With onions.      
+
+Game: EVENT - Day 16 complete! People are happy, the city is ii1? STATS: Population: 302(+5) Happiness: 151(0) Money: 396(0)
+Bot: ok. Another day, another onion.  Things are going… okay.  Just need more onions. And maybe a bigger onion patch.  And a scarecrow to guard it.  A really scary scarecrow.  Made of… onions? I'll have to think about that. 
+
+Game: QUEST: Sneaky Girl - The guards confiscated some gold that I, uh... found... Can I have it back?
+Bot: no. Finders keepers, losers weepers. Except when the "finders" are sneaky and the "keepers" are the royal treasury.  Then it's finders jailed, keepers… richer. And able to buy more onions.          
+
+Game: RESPONSE: Sneaky Girl - You're keeping it, eh? But I sto- I mean... found it.. STATS: Population: 302(0) Happiness: 151(0) Money: 421(+25)
+Bot: ok.  More gold!  Excellent!  More gold for onions. And maybe that onion scarecrow. It's starting to sound like a really good idea.      
+
+Game: QUEST: Pancake(black cat) - Mew. (It's that slightly magical cat from before. Does this mean we're friends now?)
+Bot: yes.  Sure, cat. We're friends. As long as you don't eat my onions.  Or try to steal my gold.  Or breathe fire.  Or turn into a giant spider.  Or… you know what, maybe we're not friends.  Just acquaintances.  Onion-respecting acquaintances.                
+
+Game: RESPONSE: Pancake(black cat) - Mrow! (I guess we are!) STATS: Population: 302(0) Happiness: 152(+1) Money: 421(0)
+Bot: ok.  Slightly more happy.  Good. Happy cats, happy kingdom.  Or something.  As long as they stay away from my onions.   
+
+Game: QUEST: Drummer - Want me to do a drumroll?
+Bot: yes. A drumroll sounds good. As long as it's not an onion-themed drumroll. That might be a little too much. Even for me.            
+
+Game: QUEST: Drummer - Alright, here we go... Brm brm brm brm brm brm brm brm brm brm brm brm brm brm...
+Bot: yes.  Keep going…     
+
+Game: RESPONSE: Drummer - Yeah, I knew you'd like it! STATS: Population: 302(0) Happiness: 157(+5) Money: 421(0)
+Bot: ok. Happy people. Good. Happy people, happy kingdom.  And a happy king.  Especially when there are onions involved.    
+
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+Bot: yes. Clean streets are good streets. Like streets paved with… onions? No, that wouldn't work.  Too slippery.  But clean streets are still good.            
+
+Game: RESPONSE: Royal Advisor - The villagers will be stinkin' mad! STATS: Population: 302(0) Happiness: 156(-1) Money: 421(0)
+Bot: ok. What? Less happy? I thought clean streets made people happy! This kingdom is confusing. Like a riddle wrapped in an enigma… covered in onions? I don’t know. I need more onions.    
+
+Game: QUEST: Butler - You've been drinking quite a bit of tea, sir. Might I upgrade you to... the good stuff?
+Bot: yes. The good stuff?  Intriguing.  As long as it's not swamp water tea. Again.       
+
+Game: RESPONSE: Butler - This first cup is on me, sir. Though I'm sure it won't be your last. STATS: Population: 302(0) Happiness: 159(+3) Money: 421(0)
+Bot: ok. The good stuff.  Excellent.  Maybe it's onion-flavored tea? A king can dream.    
+
+Game: EVENT - Day 17 complete! People are happy, the city is ii1? STATS: Population: 313(+11) Happiness: 159(0) Money: 421(0)
+Bot: ok. Good. More people.  More potential onion lovers. 
+
+Game: EVENT: Fisherman - My boat's all fixed up thanks to you! It's about time I started paying you back for your loan! H STATS: Population: 313(0) Happiness: 159(0) Money: 52(-369)
+Bot: ok.  Wait, what?! Less gold?!  A lot less gold!  That's not how loans work! I've been swindled! Again!  No more loans for fishermen.  Unless they bring me onions. Lots of onions.   
+
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: yes. Refugees are welcome.  Everyone deserves a home.  And onions.  Lots of onions.             
+
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 328(+15) Happiness: 162(+3) Money: 52(0)
+Bot: ok. More people, more happiness.  Good.  More potential onion enthusiasts.       
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: no.  Let the mouse be.  It's probably just looking for onions.  I can relate.             
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 328(0) Happiness: 163(+1) Money: 52(0)
+Bot: ok.  Happy mouse. Good.  Happy mice are less likely to… uh… mouse?  I don’t know.  As long as it stays away from my onions.      
+
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+Bot: yes. Barbers are good.  Good barbers are even better.  Especially if they can style onions.  Into… onion wigs?  I’ll have to think about that.            
+
+Game: RESPONSE: Monsieur Mouton - Then I shall join you! I am the best of the best! STATS: Population: 329(+1) Happiness: 163(0) Money: 52(0)
+Bot: ok. A barber.  Excellent.  Maybe he can give my onion scarecrow a haircut?  It’s starting to look a little shaggy.      
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: no. Absolutely not. No people eating.  Even if you offer me gold.  I’d rather have onions.  Lots and lots of onions.               
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 329(0) Happiness: 164(+1) Money: 52(0)
+Bot: ok. Good. No people eating.  Just onion eating.     
+
+Game: EVENT - Day 18 complete! People are happy, the city is ii1? STATS: Population: 342(+13) Happiness: 164(0) Money: 52(0)
+Bot: ok. More people.  Good.  More potential onion lovers.  And maybe some onion farmers?  A king can dream. 
+
+Game: QUEST: L-D 3.4(robot) - I am truly sorry about earlier. My circuits were quite fried. I offer my thanks for your help. H
+Bot: yes.  You're forgiven, robot. Just don't eat my onions.      
+
+Game: RESPONSE: L-D 3.4(robot) - Quite logical. STATS: Population: 342(0) Happiness: 167(+3) Money: 621(+569)
+Bot: ok.  Happy robot.  And more gold! A lot more gold! Excellent! More gold for onions.  And maybe that onion scarecrow with laser beams.     
+
+Game: QUEST: Madame Abeille - Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?
+Bot: yes. Welcome, Madame Abeille. As long as you don’t eat my onions.         
+
+Game: RESPONSE: Madame Abeille - How sweet! I'm sure many wonderful adventures await us. STATS: Population: 343(+1) Happiness: 167(0) Money: 621(0)
+Bot: ok.  Wonderful adventures.  Maybe onion-related adventures?  A king can dream.      
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. Still not interested in “everything.”  Just onions.  And maybe onion-related truths. Like the truth about how onions are the best food in the world. That’s a truth I can handle.          
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 343(0) Happiness: 167(0) Money: 621(0)
+Bot: ok.  Probably not. But I’m definitely ready for more onions.       
+
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: yes. A sandwich?  Sure. As long as it’s an onion sandwich.              
+
+Game: RESPONSE: Mason - Fantastic! I'm excited to eat this. STATS: Population: 343(0) Happiness: 170(+3) Money: 618(-3)
+Bot: ok.  Happy mason, slightly less gold. Worth it.  Especially if it’s an onion sandwich.       
+
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: yes.  Refugees are welcome.  More people, more… potential onion lovers?  Maybe. Hopefully.          
+
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 358(+15) Happiness: 173(+3) Money: 618(0)
+Bot: ok. More people, more happiness.  Excellent.  This kingdom is growing.  Like a giant onion.  Sort of.     
+
+Game: EVENT - Day 19 complete! People are happy, the city is ii1? STATS: Population: 373(+15) Happiness: 173(0) Money: 618(0)
+Bot: ok.  Another good day. Lots of people. Lots of happiness.  Lots of… potential for onion-related activities?  A king can dream. 
+
+Game: QUEST: Monsieur Mouton - Demand for my services is through the roof! May I have your permission to raise my prices? H
+Bot: yes.  Higher prices, more gold for the kingdom. More gold for… onions!                
+
+Game: RESPONSE: Monsieur Mouton - Merci, merci! The barber's association thanks you! STATS: Population: 373(0) Happiness: 176(+3) Money: 668(+50)
+Bot: ok.  More gold, happy people. Excellent.  Everything's coming up onions.    
+
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: yes. Here you go, Grandma. Buy yourself a newspaper. And maybe some onions.  Everyone needs onions.                
+
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 373(0) Happiness: 177(+1) Money: 667(-1)
+Bot: ok. Happy Grandma.  Slightly less gold. Worth it.  Happy Grandmas bake good things.  Like… onion cookies?  Maybe.     
+
+Game: EVENT: Witch - My friend from witch school wanted to thank you for your help, so we made you some magical cookies! H STATS: Population: 373(0) Happiness: 183(+6) Money: 667(0)
+Bot: ok. Magical cookies?  Intriguing. Hopefully they’re onion-flavored.   
+
+Game: QUEST: The Sultan - An offer for you, friend. I would purchase a shipment of luxury goods from you, for a fair price! H
+Bot: yes.  Luxury goods?  Sounds good. As long as they’re not made of… pineapples.  Shudders.  Onions are much more luxurious.            
+
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 373(0) Happiness: 168(-15) Money: 967(+300)
+Bot: ok. Less happy, but more gold! A lot more gold!  Excellent!  Luxury goods are good. Like onions. Good for the… treasury.   
+
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes.  Go have an adventure, Yet Yet.  Just don’t eat any wild onions.  Those are for me.                
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 373(0) Happiness: 170(+2) Money: 967(0)
+Bot: ok. Happy Yet Yet. Good. Happy Yet Yets are less likely to… yeti? I still don’t know. As long as he stays away from my wild onions.       
+
+Game: EVENT - Day 20 complete! People are happy, the city is ii1? STATS: Population: 391(+18) Happiness: 170(0) Money: 967(0)
+Bot: ok.  Lots of people.  Lots of happiness. Lots of gold.  Just need more onions.  And maybe a bigger onion patch. And a scarecrow. And a moat filled with onion juice.  And laser beams.  Definitely laser beams. 
+
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 391(0) Happiness: 170(0) Money: 982(+15)
+Bot: ok.  More gold! Excellent!  Maybe fishermen aren't so bad after all. As long as they bring me gold.  And don't eat my onions.    
+
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath? H
+Bot: yes.  Baths are good. Everyone needs a bath. Even stinky kids.  Especially stinky kids.  Unless they smell like onions. Then they’re exempt.             
+
+Game: RESPONSE: Royal Advisor - Glad you agree! She won't be happy, though. STATS: Population: 391(0) Happiness: 169(-1) Money: 982(0)
+Bot: ok. Slightly less happy.  Oh well. Cleanliness is next to… onioniness?  I don’t know. But baths are important.  Almost as important as onions.     
+
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: yes. Here you go, cat.  But no onions.  Those are mine. All mine.                  
+
+Game: RESPONSE: Boots(orange cat) - Mrrrrrow. STATS: Population: 391(0) Happiness: 168(-1) Money: 984(+2)
+Bot: ok. Slightly less happy again?  And slightly more gold. Cats are confusing.  Like a furry, purring enigma… wrapped in… onions?  No, that doesn't work. I need more onions.  And maybe a cat translator.      
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  Definitely no crystal ball gazing.  I'm on an onion-only diet of information.  No prophecies, no predictions, just onions. And maybe onion-related news. Like "Onion Prices Drop to Record Low!" That would be good news.                
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 391(0) Happiness: 168(0) Money: 984(0)
+Bot: ok. I can live with that. As long as I have my onions.   
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes. Fine.  No more name-calling.  But if you start eating my onions, all bets are off.               
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 391(0) Happiness: 165(-3) Money: 984(0)
+Bot: ok. Less happy again.  This kingdom is a fickle beast.  Like a… onion-eating dragon?  No, that doesn’t work.  I need more onions.  And maybe a therapist for my kingdom.      
+
+Game: EVENT - Day 21 complete! People are happy, the city is ii1? STATS: Population: 406(+15) Happiness: 165(0) Money: 984(0)
+Bot: ok.  More people. Good.  More potential onion lovers. And maybe some onion therapists? A king can dream. 
+
+Game: QUEST: Royal Advisor - Since we opened our borders, travellers from all around are joining our city. Doesn't it just warm your heart? H
+Bot: yes.  A warm heart is a good heart. Like a heart filled with… love for onions?  Yes, that works.            
+
+Game: RESPONSE: Royal Advisor - It's lovely to have so many new friends! STATS: Population: 410(+4) Happiness: 167(+2) Money: 989(+5)
+Bot: ok.  More friends, more happiness, more gold.  Excellent! Everything’s coming up onions.    
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: no. Absolutely not. No people eating.  Even for gold. I’d rather have onions. And maybe an onion-powered force field to protect my people from hungry treasure chests.               
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 410(0) Happiness: 168(+1) Money: 989(0)
+Bot: ok.  Good.  No people-eating treasure chests.  Just onion-loving kings.  Much better.        
+
+Game: QUEST: L-D 3.4(robot) - I've been working on a video game. It's this new thing I came up with. Think it will catch on? H
+Bot: yes.  Video games sound… interesting.  As long as they don't involve eating onions.  That would be sacrilege.              
+
+Game: QUEST: L-D 3.4(robot) - Me too, I'm excited about the possibilities. Anyway, it's a game you play with others and go around killing monsters. You get a sword. H
+Bot: yes. Swords and monsters.  Sounds exciting.  As long as the monsters aren’t giant onions.  That would be terrifying.          
+
+Game: QUEST: L-D 3.4(robot) - Yeah swords are great, right? So when you slay a monster you get experience points and... Hey, are you still listening? H
+Bot: yes.  Listening intently.  Unless you’re talking about eating onions. Then I’m tuning you out.           
+
+Game: RESPONSE: L-D 3.4(robot) - Good. Well, thanks for listening to my idea. STATS: Population: 410(0) Happiness: 177(+5) Money: 1039(+50)
+Bot: ok.  Happy robot, more gold.  Excellent.  Maybe video games are the future of onion-based entertainment? I’ll have to think about that.          
+
+Game: QUEST: Alien - You haven't been talking to Skelly, have you?
+Bot: no.  Haven't seen Skelly.  Been too busy… thinking about onions.  And video games.  And onion-themed video games.  With swords. And monsters. And… onion power-ups?  The possibilities are endless.                
+
+Game: RESPONSE: Alien - Hmm... If you say so.. STATS: Population: 410(0) Happiness: 177(0) Money: 1039(0)
+Bot: ok.  Suspicious alien. Oh well. As long as it doesn't eat my onions. Or interfere with my onion-themed video game development.      
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no.  Still not interested in “everything.”  Just onions. And onion-themed video games.  That’s enough truth for one king.                  
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 410(0) Happiness: 177(0) Money: 1039(0)
+Bot: ok.  Probably not.  But I am ready for more onions.  And maybe a beta test of my onion-themed video game.     
+
+Game: EVENT - Day 22 complete! People are happy, the city is ii1? STATS: Population: 430(+20) Happiness: 177(0) Money: 1039(0)
+Bot: ok. More people!  Good! More potential onion lovers. And maybe some beta testers for my onion-themed video game.  This is going to be huge.  Like a giant… onion. 
+
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no. Let them leave.  I don’t negotiate with… onion haters.  Or people who threaten me.  Unless they’re threatening to take my onions. Then we can talk.             
+
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 424(-6) Happiness: 177(0) Money: 1039(0)
+Bot: ok.  Less people.  More onions for me.     
+
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: no.  I’m good.  “Onion King” is spooky enough.  And delicious.                
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 424(0) Happiness: 176(-1) Money: 1039(0)
+Bot: ok.  Slightly less happy.  Oh well. Fun is overrated.  Onions are not.        
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  A little magic.  But no “death and misery” this time. I’m thinking more along the lines of “onions and prosperity.”  Or “onions and video game success.” Something like that.                 
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 424(0) Happiness: 176(0) Money: 1039(0)
+Bot: ok.  He left again!  Why does he keep doing that?!  Does he have a phobia of onions? I need to find an onion-loving wizard. And a therapist for that wizard. And maybe a support group for onion-phobic wizards.  This is getting complicated.        
+
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H
+Bot: yes. Blacksmiths are good.  Good blacksmiths are even better. Especially if they can forge… onion-shaped swords?  I’ll have to work on the design.                   
+
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 427(+3) Happiness: 178(+2) Money: 1039(0)
+Bot: ok. More people, more happiness. Excellent.  And a blacksmith.  For my onion-shaped swords.  This is going to be epic.  Like an epic… onion.      
+
+Game: EVENT: Royal Advisor - The owners of the tavern are making piles of gold, and wish to share some with you! STATS: Population: 427(0) Happiness: 178(0) Money: 1054(+15)
+Bot: ok. More gold! Excellent!  Maybe taverns aren’t so bad after all. As long as they serve onion soup.  And don't eat my onions.     
+
+Game: EVENT - Day 23 complete! People are happy, the city is ii1? STATS: Population: 447(+20) Happiness: 178(0) Money: 1054(0)
+Bot: ok.  Lots of people, lots of happiness, lots of gold.  Just need more onions. And maybe an onion festival. With onion-shaped balloons. And onion-flavored ice cream. And… an onion king?  That’s me!  This is going to be great.   
+
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: no. Still no. Saving my gold.  For onions.  And onion-themed video games. And onion-shaped swords.  And the onion festival.  Juggling balls are low on my list of priorities.  Right next to… pineapples.  Shudders.              
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 447(0) Happiness: 173(-5) Money: 1054(0)
+Bot: ok.  Sad jester. Oh well.  Onions before juggling. Always.      
+
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes.  Gifts are good.  Especially onion-related gifts.  Like a lifetime supply of onions.  Or an onion-powered forge.  A king can dream.                 
+
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 447(0) Happiness: 173(0) Money: 1094(+40)
+Bot: ok.  More gold! Excellent!  Maybe blacksmiths are magical.  Like onion-conjuring wizards.  Almost.    
+
+Game: QUEST: Royal Advisor - An angry pineapple trader has denounced your rule! Shall we have her arrested?
+Bot: yes. Arrest the pineapple trader!  Pineapple treason is a serious offense.  Punishable by… being forced to eat onions? I’ll have to think about that.                   
+
+Game: RESPONSE: Royal Advisor - Very good! Nobody must stand against your decree! STATS: Population: 446(-1) Happiness: 173(0) Money: 1094(0)
+Bot: ok. Slightly less people.  But no more pineapple traders.  Good riddance. Onions for everyone!  Except pineapple traders.  They get… nothing.      
+
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found some friends on my adventure. Do you like making new friends?
+Bot: yes. Friends are good.  Especially onion-loving friends.                   
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - New friends are the best! STATS: Population: 451(+5) Happiness: 178(+5) Money: 1094(0)
+Bot: ok. More friends, more happiness! Excellent.  Maybe these new friends are onion farmers.  A king can dream.         
+
+Game: QUEST: Military General - A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks? H
+Bot: yes. Alliances are good.  More allies, more strength, more… onions? Maybe. Hopefully.                   
+
+Game: RESPONSE: Military General - Sounds good to me, more swords for us! STATS: Population: 466(+15) Happiness: 178(0) Money: 1094(0)
+Bot: ok.  More people!  Excellent! More potential onion lovers. And more swords.  For fighting… pineapple traders? I’ll have to think about that.     
+
+Game: EVENT - Day 24 complete! People are happy, the city is ii1? STATS: Population: 484(+18) Happiness: 178(0) Money: 1094(0)
+Bot: ok.  Lots of people, lots of happiness, lots of gold.  Just need more onions. And maybe an onion army.  With onion-shaped helmets. And onion-powered cannons.  And… onion rations? This is going to be epic.  Like a giant… onion. 
+
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: yes. Business propositions are good.  Especially onion-related business propositions. Like a global onion export business.  A king can dream.                   
+
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 484(0) Happiness: 178(0) Money: 1094(0)
+Bot: ok. Details. Good.  Hopefully onion-related details.        
+
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: no.  No gold for you, Little Timmy. Saving my gold. For onions. And onion-related investments.  Like onion futures.  And onion-themed amusement parks.  With onion-shaped rollercoasters.  And onion-flavored cotton candy.  This is going to be huge.                     
+
+Game: RESPONSE: Little Timmy - Whaawaa... STATS: Population: 484(0) Happiness: 176(-2) Money: 1094(0)
+Bot: ok.  Sad Timmy.  Oh well. Onions before Timmy.  Always.       
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no.  Still no.  Saving my gold.  For onions. And onion-related infrastructure projects.  Like onion pipelines.  And onion processing plants.  And an onion research and development facility.  This is going to be bigger than… a giant onion.  Almost.              
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 484(0) Happiness: 175(-1) Money: 1094(0)
+Bot: ok.  Good riddance, Yettu.  Don’t come back unless you bring onions.  Lots and lots of onions.      
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs for all! Except Yettu.  And pineapple traders.  They don’t deserve belly rubs.  Or onions.                   
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 484(0) Happiness: 176(+1) Money: 1094(0)
+Bot: ok. Happy cat. Good.  Happy cats, happy kingdom.  Or something.  As long as they stay away from my onions.      
+
+Game: QUEST: Mortimer - Hum yes hello. One of your fishermen has been bothering me. I demand a villager as, ummm, a sacrifice. Yes.
+Bot: no.  Absolutely not. No sacrifices.  Especially not of onion-loving villagers. I'd rather sacrifice… a pineapple. Or Yettu.  Or a pineapple-loving Yettu.  That would be acceptable.              
+
+Game: RESPONSE: Mortimer - Hohoho hum! You've angered me now, sir! Watch your back... STATS: Population: 484(0) Happiness: 176(0) Money: 1094(0)
+Bot: ok.  Angry Mortimer.  Oh well.  I’m not afraid of Mortimer.  Unless he has an army of pineapple-loving Yettus.  Then I might be slightly concerned.    
+
+Game: EVENT - Day 25 complete! People are happy, the city is ii1? STATS: Population: 502(+18) Happiness: 176(0) Money: 1094(0)
+Bot: ok. More people.  Good.  More potential onion lovers. And maybe some… onion-loving Yettus?  A king can dream.  A very strange dream. 
+
+Game: QUEST: Royal Advisor - I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. H Anyway, I just wanted to give my congratulations. Let's keep working hard, okay? H
+Bot: yes.  Festivals are good.  Especially onion festivals.  With onion-shaped floats.  And onion-flavored snacks.  And an onion king.  That’s me!  This is going to be epic.  Like a giant… onion.                 
+
+Game: RESPONSE: Royal Advisor - I wonder just how big this city will grow under your rule, sir... STATS: Population: 502(0) Happiness: 176(0) Money: 1244(0)
+Bot: ok. Big.  Very big. Like a giant onion.  Or an onion-themed metropolis.  With onion-powered skyscrapers.  And onion-flavored air fresheners.  This is going to be amazing.     
+
+Game: QUEST: Madame Abeille - Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person? H
+Bot: yes. Assistants are good. Everyone needs an assistant.  Especially onion kings.  For… onion-related tasks. Like onion peeling. And onion chopping.  And onion guarding.  This is going to be efficient.  Like an onion-powered… onion peeler.            
+
+Game: RESPONSE: Madame Abeille - Thank you, my sweet! STATS: Population: 501(-1) Happiness: 176(0) Money: 1244(0)
+Bot: ok. Slightly less people. But an assistant for Madame Abeille. Good.  Maybe she’ll invent an onion-powered onion peeler. A king can dream.          
+
+Game: EVENT: All—Seeing Eye - (It seems... sad...) STATS: Population: 501(0) Happiness: 174(-2) Money: 1244(0)
+Bot: ok.  Sad eyeball.  Oh well.  Eyeballs are creepy.  Even sad eyeballs.  Unless they bring gold. And don’t eat my onions.  Then they’re acceptable.  Maybe.     
+
+Game: QUEST: The Sultan - A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?
+Bot: yes. Caravans are welcome. More caravans, more trade, more… onions? Hopefully.                  
+
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 511(+10) Happiness: 174(0) Money: 1244(0)
+Bot: ok. More people! Excellent! More potential onion lovers. And maybe some onion traders. A king can dream.       
+
+Game: QUEST: L-D 3.4(robot) - I'm going to leave the kingdom now to pursue my dream of becoming a gamedev. Goodbye.
+Bot: yes.  Goodbye, robot.  Good luck with your… gamedev.  Just don’t make any games about eating onions. That would be… unsettling.              
+
+Game: RESPONSE: L-D 3.4(robot) - Maybe our paths will cross again one day. Probably not, though. Take this cog to remember me by. I've got plenty, so you can have this one. STATS: Population: 510(-1) Happiness: 174(0) Money: 1244(0)
+Bot: ok. Slightly less people.  But a cog.  Interesting.  Maybe I can use it to build… an onion-powered robot?  To guard my onions.  And peel them. And chop them.  And maybe even sing them lullabies.  This is going to be amazing.       
+
+Game: EVENT: The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend. STATS: Population: 510(0) Happiness: 179(+5) Money: 1244(0)
+Bot: ok.  Happy people. Good.  Happy people, happy kingdom. Happy kingdom, happy king.  Especially when there are onions involved. Lots of onions.     
+
+Game: EVENT: The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income. STATS: Population: 510(0) Happiness: 179(0) Money: 1259(+15)
+Bot: ok. More gold!  Excellent!  More gold for onions. And onion-related research and development.  Like onion-powered robots. And onion-flavored toothpaste.  The possibilities are endless.    
+
+Game: EVENT - Day 26 complete! People are sad, the city is shrinking! STATS: Population: 509(-1) Happiness: 179(0) Money: 1259(0)
+Bot: ok.  Sad people? Shrinking city? Not good.  Need to boost morale. With onions.  Lots and lots of onions. And maybe an onion parade. With onion-shaped balloons.  And onion-flavored confetti.  And… an onion king?  That’s me!  This is going to be epic.  Like a giant… onion. 
+
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can' see it?
+Bot: no. Not weird at all.  Everyone has a skeleton.  Even onions. Sort of.  They have layers.  Like a… skeletal onion? I don’t know. I need more onions.  To… contemplate this further.         
+
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 509(0) Happiness: 179(0) Money: 1259(0)
+Bot: ok. Maybe not.  Except pineapples.  Those are definitely weird. And pointy.  And not onions.      
+
+Game: QUEST: Witch - My broom's all worn out, and it's my birthday.. Think you could buy me a new broom for a present? Sure would be nice of you!
+Bot: no.  No brooms for witches.  Saving my gold. For onions.  And onion-related transportation. Like onion-powered hot air balloons. And onion-shaped hovercrafts. And… onion-drawn carriages? Pulled by… onion-eating unicorns? I’ll have to work on that.              
+
+Game: RESPONSE: Witch - You're no fun! I can't be seen flying around on this shabby old thing_. STATS: Population: 509(0) Happiness: 176(-3) Money: 1259(0)
+Bot: ok.  Slightly less happy.  Oh well. Fun is overrated. Onions are not.       
+
+Game: EVENT: All—Seeing Eye - (It seems... happy...) STATS: Population: 509(0) Happiness: 178(+2) Money: 1259(0)
+Bot: ok.  Happy eyeball?  Good.  Happy eyeballs are less creepy. Maybe. As long as they don’t eat my onions.       
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  A little magic.  But no “death and misery” this time. I’m thinking more “onions and happiness.”  Or “onions and hovercrafts.”  Something along those lines.               
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 509(0) Happiness: 178(0) Money: 1259(0)
+Bot: ok.  He left again!  Why does he keep doing that?! Does he have an onion allergy?  I need to find an onion-tolerant wizard. And an allergist for that wizard.  And maybe a support group for onion-allergic wizards. This is getting very complicated.      
+
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: no. Let him stay. Maybe he’ll overcome his onion aversion.  Or maybe he’ll discover the magical properties of onions.  One can only hope.         
+
+Game: RESPONSE: Royal Advisor - Sometimes it's best to keep your options available, I understand. STATS: Population: 509(0) Happiness: 178(0) Money: 1259(0)
+Bot: ok. Options are good.  Like different varieties of onions.  And different ways to incorporate them into my daily diet.  Roasted, sauteed, pickled, juiced… the possibilities are endless.      
+
+Game: EVENT: The festival in the town square is winding down and people are getting back to their normal lives. STATS: Population: 509(0) Happiness: 180(+2) Money: 1259(0)
+Bot: ok.  Slightly more happy. Good. Normal lives are good.  Especially when they involve onions.   
+
+Game: EVENT: The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income. STATS: Population: 509(0) Happiness: 180(0) Money: 1274(+15)
+Bot: ok. More gold! Excellent!  More gold for onions. And onion-related security measures. Like onion-sniffing guard dogs.  And onion-powered security cameras. And… an onion moat? Filled with… onion juice?  Definitely onion juice. This is going to be impenetrable. Like an… onion.  A very large, juicy onion.     
+
+Game: EVENT - Day 27 complete! People are happy, the city is ii1? STATS: Population: 512(+3) Happiness: 180(0) Money: 1274(0)
+Bot: ok.  Another good day.  Growing city, growing happiness, growing… onion supply?  A king can dream. 
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no.  Still no. Saving my gold.  For onions.  And onion-related entertainment.  Like onion puppet shows.  And onion-themed operas. And… onion juggling? No, that wouldn’t work.  Onions are too… pungent.  I’ll have to think about that.                    
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 512(0) Happiness: 179(-1) Money: 1274(0)
+Bot: ok.  Good riddance, Yettu. Don’t come back unless you bring onions.  Lots and lots of onions.     
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no.  Not today.  Too busy thinking about onions. And onion-related inventions.  Like onion-powered calculators. And onion-shaped alarm clocks.  And… onion-flavored chewing gum?  I’ll have to work on the flavor profile.                  
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 512(0) Happiness: 179(0) Money: 1274(0)
+Bot: ok. No spook, no Yettu, just onions.  And onion-related innovation.     
+
+Game: QUEST: Royal Advisor - Since we opened our borders, trade from our caravans has increased dramatically. Do you wish to tax the merchants? H
+Bot: no. No taxing for now.  I’m still traumatized by the last taxing fiasco.  I need to consult my onion for guidance.  And maybe hire an onion-loving accountant.              
+
+Game: RESPONSE: Royal Advisor - They'll appreciate that, but you're passing up easy money, sire! STATS: Population: 512(0) Happiness: 185(+6) Money: 1274(0)
+Bot: ok. Happy people. Good.  Happy people, happy kingdom. Happy kingdom, happy king.  Especially when there are onions involved.  Lots and lots of onions.    
+
+Game: QUEST: Knight - I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it? H
+Bot: yes.  Gauntlets are good.  Especially onion-shaped gauntlets.  With built-in… onion dispensers? I’ll have to work on the design.                     
+
+Game: RESPONSE: Knight - Ah yes! Thank you, my lord. I shall use it in the defense of our proud kingdom! STATS: Population: 512(0) Happiness: 188(+3) Money: 1224(-50)
+Bot: ok. Slightly less gold, but happy knight.  Good. Happy knights defend the kingdom. And the onions.  Hopefully.      
+
+Game: QUEST: Grandma - Ooh dear, I read quite the troubling tale in the paper today... Think everything will be alright? H
+Bot: yes.  Everything will be alright. As long as we have onions.  Lots and lots of onions.  Onions solve everything.  Almost.                     
+
+Game: RESPONSE: Grandma - I hope you're right... STATS: Population: 512(0) Happiness: 189(+1) Money: 1224(0)
+Bot: ok. Happy Grandma.  Good.  Happy Grandmas bake good things. Like… onion pies?  Maybe.    
+
+Game: EVENT: The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold. STATS: Population: 512(0) Happiness: 189(0) Money: 1244(+20)
+Bot: ok. More gold! Excellent!  More gold for onions.  And onion-related security systems. Like onion-powered laser grids.  And onion-scented moats.  And… an onion army? Dressed in… onion uniforms? I’ll have to work on that.     
+
+Game: EVENT - Day 28 complete! People are happy, the city is ii1? STATS: Population: 515(+3) Happiness: 189(0) Money: 1244(0)
+Bot: ok. Another good day. Growing city, growing happiness, growing… onion obsession?  A king can dream.   
+
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no.  Let them leave.  I don’t negotiate with… onion haters. Or people who threaten me. Unless they’re threatening to take my onions.  Then we can talk.                    
+
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 509(-6) Happiness: 189(0) Money: 1244(0)
+Bot: ok. Less people. More onions for me.      
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs for all!  Except pineapple traders.  And Yettu.  And Mortimer.  They don’t deserve belly rubs.  Or onions.                      
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 509(0) Happiness: 190(+1) Money: 1244(0)
+Bot: ok. Happy cat.  Good. Happy cats, happy kingdom.  Or something. As long as they stay away from my onions.       
+
+Game: QUEST: Monsieur Mouton - It is nice to see you, sir. Do you like my new haircut?
+Bot: yes.  It’s… something. As long as it’s not an onion haircut. That would be… too much. Even for me.                      
+
+Game: RESPONSE: Monsieur Mouton - Ah yes! Thank you, thank you! STATS: Population: 509(0) Happiness: 197(+7) Money: 1244(0)
+Bot: ok. Happy barber. Good.  Happy barbers, happy kingdom.  Or something.  As long as they don’t try to give me an onion haircut.        
+
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: yes. Quests are good. Especially onion-related quests.  Like the quest for the… Golden Onion? Or the… Onion of Power? I’ll have to work on the details.                    
+
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 509(0) Happiness: 197(0) Money: 1244(0)
+Bot: ok. Good.  Hopefully the knight brings back onions. Lots and lots of onions.      
+
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work? H
+Bot: yes. Safe working conditions are good.  No one wants to get hurt.  Except maybe pineapple traders.  And Yettu.  And Mortimer.  They deserve to get… mildly inconvenienced. At least.                      
+
+Game: RESPONSE: Mason - It's only a matter of time before someone gets hurt... STATS: Population: 509(0) Happiness: 196(-1) Money: 1244(0)
+Bot: ok. What?! Less happy? I thought safe working conditions made people happy! This kingdom is confusing.  Like an onion wrapped in a riddle… dipped in… onion juice? I don’t know.  I need more onions. To think.    
+
+Game: EVENT - Day 29 complete! People are happy, the city is ii1? STATS: Population: 519(+10) Happiness: 196(0) Money: 1244(0)
+Bot: ok.  More people! Good! More potential onion lovers.  And maybe some… onion-loving knights?  To go on onion-related quests?  A king can dream.   
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: no. Absolutely not.  No people eating.  Not even for gold. Or pineapples. Or Yettu.  Or Mortimer. Or… a lifetime supply of onion-flavored chewing gum.  Okay, maybe for that. But just maybe.                
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 519(0) Happiness: 197(+1) Money: 1244(0)
+Bot: ok.  Good. No people eating. Just onion eating.  Much better.         
+
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?
+Bot: yes.  Everyone deserves a chance.  Even shifty-looking, eyepatch-wearing strangers. As long as they don't eat my onions.  Or try to steal my gold.  Or… replace my onions with pineapples.  That would be grounds for… immediate expulsion.  And possibly… onion-related torture. I’ll have to think about that.                
+
+Game: RESPONSE: Butler - Indeed, more swords will help us. STATS: Population: 520(+1) Happiness: 197(0) Money: 1244(0)
+Bot: ok. More swords. Good.  For protecting the kingdom. And the onions.  Definitely the onions.       
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes. Belly rubs for all! Except pineapple traders. And Yettu. And Mortimer.  And the shifty-looking, eyepatch-wearing stranger.  Just to be safe.  I don’t want anyone near my onions.  Except me.  And maybe… an onion-loving robot.  With soft, cuddly… onion-shaped hands?  I’ll have to work on that.                
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 520(0) Happiness: 198(+1) Money: 1244(0)
+Bot: ok.  Happy cat.  Good.  Happy cats, happy kingdom. Or something. As long as they stay away from my onions.          
+
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes.  More settlers are good. More people, more… onion enthusiasts? Maybe. Hopefully.                       
+
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 525(+5) Happiness: 199(+1) Money: 1244(0)
+Bot: ok.  More people, slightly more happiness. Excellent.  This kingdom is growing. Like a giant… onion.  Sort of.     
+
+Game: QUEST: Monsieur Mouton - Citizens from far and wide come to visit my barber shop! Would you like a fresh cut, sir? Free of charge! H
+Bot: yes. A free haircut? Sure. As long as it’s not an onion haircut. Or a pineapple haircut.  Or a Yettu haircut. Or a Mortimer haircut.  Or a shifty-looking, eyepatch-wearing stranger haircut.  I’m very particular about my hair.  It has to… frame my face just right.  So I can… admire my onions.                
+
+Game: RESPONSE: Monsieur Mouton - Of course you do! You look dashing! STATS: Population: 525(0) Happiness: 202(+3) Money: 1244(0)
+Bot: ok. Dashing.  Yes.  Dashing and onion-loving.  An irresistible combination.       
+
+Game: EVENT - Day 30 complete! People are happy, the city is ii1? STATS: Population: 536(+11) Happiness: 202(0) Money: 1244(0)
+Bot: ok. More people!  Good! More potential onion lovers. And maybe some onion-themed board game enthusiasts?  I’m working on a prototype.  Involves dice.  And onions.  Lots and lots of onions. This is going to be big. Like a giant… onion.   
+
+Game: QUEST: Madame Abeille - My assistant and I have found a way to make some extra gold by trading sweets. Are you interested? H
+Bot: yes. Extra gold is good. Especially if the sweets are… onion-flavored.  Like onion lollipops. And onion fudge. And… onion-filled chocolates?  I’ll have to work on the recipes.                    
+
+Game: RESPONSE: Madame Abeille - I thought you might be! We can make quite a bit of money this way. STATS: Population: 536(0) Happiness: 202(0) Money: 1394(+150)
+Bot: ok. More gold!  A lot more gold!  Excellent!  This could be the start of my onion-flavored confectionery empire. A king can dream.       
+
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes. More settlers are good.  More people, more… onion farmers? Maybe.  Hopefully.                      
+
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 541(+5) Happiness: 203(+1) Money: 1394(0)
+Bot: ok. More people, slightly more happiness.  Excellent. This kingdom is growing.  Like a giant… onion. Sort of.         
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. A little magic.  But no “death and misery” this time. I’m thinking more “onions and confectionery empire” magic. Or “onions and infinite gold” magic.  Something along those lines.                      
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 541(0) Happiness: 203(0) Money: 1394(0)
+Bot: ok. He left again! Why does he keep doing that?!  Is he allergic to magic?  Or onions?  Or maybe he’s allergic to onion-flavored magic?  I need to find an onion-tolerant wizard. And an allergist for that wizard.  And maybe a support group for onion-allergic wizards. This is getting very, very complicated.         
+
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: no.  No people eating.  Even if you offer me gold.  Or onion-flavored chewing gum. Or a lifetime supply of… onion-flavored toothpaste.  Okay, maybe for that. But just maybe.                  
+
+Game: RESPONSE: Chester(mimic chest) - Wel|, I still ate them, sooo... STATS: Population: 536(-5) Happiness: 203(0) Money: 1394(0)
+Bot: ok. Less people.  Not good.  Mimic chests are trouble. Like pineapple traders.  And Yettu.  And Mortimer. And onion-allergic wizards. This kingdom is full of troublemakers. I need more onions.  To cope.          
+
+Game: QUEST: Royal Advisor - Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it? H
+Bot: yes. Replace the infected granary stock.  Sick people are bad.  Like pineapple traders. And Yettu.  And Mortimer.  And onion-allergic wizards. And people-eating treasure chests.  This kingdom is a breeding ground for… unpleasantness.  I need more onions. And maybe a hazmat suit.                    
+
+Game: RESPONSE: Royal Advisor - Yes, our people's health is worth the cost. STATS: Population: 536(0) Happiness: 204(+1) Money: 1324(-70)
+Bot: ok.  Slightly less gold, slightly more happiness. Good. Healthy people are happy people.  Or something. As long as they have onions.     
+
+Game: EVENT - Day 31 complete! People are happy, the city is ii1? STATS: Population: 551(+15) Happiness: 204(0) Money: 1324(0)
+Bot: ok.  More people.  Good. More potential onion lovers.  And maybe some… onion-loving accountants? To help me manage my onion empire finances? A king can dream.    
+
+Game: QUEST: Miriam - Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while? H
+Bot: yes. Lost people are welcome.  Everyone deserves a home.  And onions.  Lots of onions.                   
+
+Game: RESPONSE: Miriam - How nice... Albert and I shall find an inn to stay at. I'm sure I will see you again. Albert seems to like you. STATS: Population: 552(+1) Happiness: 204(0) Money: 1324(0)
+Bot: ok. More people. Excellent. More potential onion lovers. And a talking dog? Interesting.  Maybe he can learn to… herd onions? I’ll have to train him.         
+
+Game: QUEST: Knight - My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?
+Bot: no. No dungeons for you, knight. Just go find some onions. Lots and lots of onions. And bring them to me. That’s your new quest.                      
+
+Game: RESPONSE: Knight - You... forgive me? Oh kind and gracious lord! Bless you! STATS: Population: 552(0) Happiness: 205(+1) Money: 1324(0)
+Bot: ok. Happy knight. Good.  Happy knights are good for the kingdom.  Especially onion-finding knights.      
+
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: no. Still no.  Saving my gold.  For onions. And onion-related security measures. Like onion-powered laser turrets. And onion-scented tripwires. And… an onion moat? Filled with… boiling onion juice? I’ll have to think about that.  It might be a little… too extreme. Even for me.                
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 552(0) Happiness: 203(-2) Money: 1324(0)
+Bot: ok.  Sad jester. Oh well. Onions before juggling.  Always.     
+
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: yes. A sandwich?  Sure.  As long as it’s an onion sandwich.  With extra onions. And maybe a side of… onion rings? And onion dip?  And an onion smoothie?  This is going to be delicious.                          
+
+Game: RESPONSE: Mason - Fantastic! I'm excited to eat this. STATS: Population: 552(0) Happiness: 206(+3) Money: 1321(-3)
+Bot: ok. Happy mason, slightly less gold. Worth it. Especially for an onion sandwich.  With extra onions.    
+
+Game: EVENT: Fisherman - More profit's been made on the harbour. I came by to share some with you! STATS: Population: 552(0) Happiness: 206(0) Money: 1336(+15)
+Bot: ok. More gold! Excellent!  Maybe fishermen aren’t so bad after all.  As long as they bring me gold.  And don’t eat my onions.       
+
+Game: EVENT - Day 32 complete! People are happy, the city is ii1? STATS: Population: 564(+12) Happiness: 206(0) Money: 1336(0)
+Bot: ok.  Another good day. Lots of people, lots of happiness, lots of gold. Just need more onions. And maybe an onion-themed holiday.  With onion-shaped ornaments. And onion-flavored eggnog.  And… an onion-giving ceremony?  Where I give everyone onions? I’ll have to work on the logistics. 
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: no.  I’m not getting involved in name-calling. Besides, “slimeball” is a perfectly acceptable term. Unlike “onion hater.” That’s just wrong.                    
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 564(0) Happiness: 203(-3) Money: 1336(0)
+Bot: ok.  Slightly less happy.  Oh well.  Can’t please everyone.  Especially not slimeballs. But I can please myself. With onions.        
+
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: yes.  Business propositions are good.  Especially onion-related business propositions.  Like a global onion distribution network.  A king can dream.                  
+
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 564(0) Happiness: 203(0) Money: 1336(0)
+Bot: ok. Details. Good.  Hopefully onion-related details.        
+
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: no.  No gold for you, Little Timmy.  Saving my gold. For onions.  And onion-related research and development. Like onion-powered submarines. And onion-shaped spaceships.  And… onion-flavored air? I’ll have to work on the… air filtration system.                  
+
+Game: RESPONSE: Little Timmy - Whaawaa... STATS: Population: 564(0) Happiness: 201(-2) Money: 1336(0)
+Bot: ok. Sad Timmy. Oh well. Onions before Timmy. Always.       
+
+Game: QUEST: Dragon - Booo! Give me your gold or I'll eat your townspeople!
+Bot: no.  Absolutely not. No gold for you, dragon. I need that gold for onions.  And onion-related defense systems.  Like onion-breathing dragons.  That breathe… onion-flavored fire?  That would be… interesting.  And probably very effective.  I’ll have to train some.                   
+
+Game: RESPONSE: Dragon - Ooohoho, I'm gonna go eat some folks then! STATS: Population: 534(-30) Happiness: 201(0) Money: 1336(0)
+Bot: ok.  Less people.  Not good.  Dragons are trouble. Like pineapple traders.  And Yettu. And Mortimer. And onion-allergic wizards. And people-eating treasure chests. And… onion-flavored chewing gum? No, that’s good.  Everything else is bad.  I need more onions. And maybe a dragon-slaying knight.  Armed with an onion-shaped sword.  And an onion-powered shield.  And… onion breath? That might actually work. I’ll have to… experiment.      
+
+Game: QUEST: Blacksmith - Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?
+Bot: yes. Dragon-slaying blades are good.  Especially if they’re onion-shaped.  With built-in… onion graters?  I’ll have to refine the design.                    
+
+Game: RESPONSE: Blacksmith - Thank you, sir. I will keep you posted about further developments. I won't let you down! We'll strike back at that dragon yet! STATS: Population: 534(0) Happiness: 201(0) Money: 1036(-300)
+Bot: ok. Less gold.  But a dragon-slaying blade.  Good. Hopefully it’s onion-shaped.  And has onion graters.  And maybe… onion-powered laser beams?  That would be… overkill.  But good overkill.     
+
+Game: EVENT - Day 33 complete! People are happy, the city is ii1? STATS: Population: 547(+13) Happiness: 201(0) Money: 1036(0)
+Bot: ok.  More people.  Good.  More potential onion lovers. And maybe some… dragon-slaying knights?  Armed with onion-shaped swords? And onion-powered shields? And… onion breath? I’ll have to work on that last one.  It might be a little… too much. Even for me. 
+
+Game: EVENT: Royal Advisor - The owners of the tavern are making piles of gold, and wish to share some with you! STATS: Population: 547(0) Happiness: 201(0) Money: 1051(+15)
+Bot: ok. More gold.  Excellent!  Taverns are good.  Especially taverns that serve onion soup. Lots and lots of onion soup.   
+
+Game: QUEST: The Sultan - An offer for you, friend. I would purchase a shipment of luxury goods from you, for a fair price! H
+Bot: yes. Luxury goods are good. Especially if they’re onion-related.  Like onion-scented candles. And onion-shaped pillows. And… onion-flavored bath bombs?  I’ll have to work on the… fizz factor.                  
+
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 547(0) Happiness: 186(-15) Money: 1351(+300)
+Bot: ok.  Less happy, but more gold! A lot more gold! Excellent!  Luxury goods are good.  Like onions. Good for the… treasury.  And for funding my onion-related research and development.       
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  Definitely no crystal ball gazing. I’m sticking with onions. They’re much more… reliable.  And delicious.                  
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 547(0) Happiness: 186(0) Money: 1351(0)
+Bot: ok.  I can live with that.  As long as I have my onions.      
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. A little magic. But no “death and misery” this time. I’m thinking more “onions and luxury goods” magic.  Or “onions and dragon-slaying blades” magic. Something along those lines.                    
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 547(0) Happiness: 186(0) Money: 1351(0)
+Bot: ok.  He left again! Why does he keep doing that?! Is he allergic to magic?  Or onions? Or maybe he’s allergic to onion-flavored magic? I need to find an onion-tolerant wizard. And an allergist for that wizard.  And maybe a support group for onion-allergic wizards.  This is getting very, very, very complicated.           
+
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: no. Let him stay. Maybe he’ll overcome his onion aversion.  Or maybe he’ll discover the magical properties of onions. One can only hope.          
+
+Game: RESPONSE: Royal Advisor - Sometimes it's best to keep your options available, I understand. STATS: Population: 547(0) Happiness: 186(0) Money: 1351(0)
+Bot: ok. Options are good. Like different varieties of onions.  And different ways to incorporate them into my… everything.  Roasted, sauteed, pickled, juiced, powdered, freeze-dried… the possibilities are endless.     
+
+Game: EVENT - Day 34 complete! People are happy, the city is ii1? STATS: Population: 552(+5) Happiness: 186(0) Money: 1351(0)
+Bot: ok.  Another good day.  Growing city, growing happiness, growing… onion collection?  I need a bigger onion cellar. And maybe an onion museum.  With exhibits on… the history of onions. And the different varieties of onions. And… the many uses of onions.  This is going to be educational. And delicious.     
+
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: no. No people eating.  Not even for gold.  Or onion-flavored chewing gum. Or a lifetime supply of… onion-flavored toothpaste.  Okay, maybe for that. But just maybe.                    
+
+Game: RESPONSE: Chester(mimic chest) - Wel|, I still ate them, sooo... STATS: Population: 547(-5) Happiness: 186(0) Money: 1351(0)
+Bot: ok. Less people.  Not good. Mimic chests are trouble. Like pineapple traders. And Yettu.  And Mortimer.  And onion-allergic wizards. And… dragon-slaying knights that don’t bring back any onions.  This kingdom is full of disappointments. I need more onions. To… console myself.     
+
+Game: QUEST: Butler - Another cup of tea, my liege? I've got more of that good stuff you like...
+Bot: yes. The good stuff.  Excellent. Maybe it’s onion-flavored tea? A king can dream.               
+
+Game: RESPONSE: Butler - Here we go. Do drink up, sir. STATS: Population: 547(0) Happiness: 189(+3) Money: 1341(-10)
+Bot: ok. Slightly more happiness, slightly less gold.  Worth it.  Especially if it’s onion-flavored tea.       
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes. Belly rubs for all! Except pineapple traders. And Yettu.  And Mortimer.  And the shifty-looking, eyepatch-wearing stranger. And mimic chests.  And dragon-slaying knights that don’t bring back onions. I don’t want any of them near my onions.  Except me. And maybe… an onion-loving robot. With soft, cuddly… onion-shaped hands?  I still need to work on that.                     
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 547(0) Happiness: 190(+1) Money: 1341(0)
+Bot: ok. Happy cat. Good. Happy cats, happy kingdom. Or something.  As long as they stay away from my onions.          
+
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes.  Go have an adventure, Yet Yet.  Just don’t eat any wild onions.  Those are for me.                       
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 547(0) Happiness: 192(+2) Money: 1341(0)
+Bot: ok. Happy Yet Yet.  Good. Happy Yet Yets are less likely to… yeti?  I still don’t know. As long as he stays away from my wild onions.     
+
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: yes.  Quests are good. Especially onion-related quests.  Like the quest for the… Eternal Onion? Or the… Onion of Destiny? I’ll have to work on the details.                      
+
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 547(0) Happiness: 192(0) Money: 1341(0)
+Bot: ok.  Good.  Hopefully, the knight brings back onions.  Lots and lots of onions.      
+
+Game: EVENT - Day 35 complete! People are happy, the city is ii1? STATS: Population: 556(+9) Happiness: 192(0) Money: 1341(0)
+Bot: ok.  More people.  Good. More potential onion lovers.  And maybe some… onion-loving chefs? To create new and exciting onion-based dishes? A king can dream.   
+
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: yes. Refugees are welcome. Everyone deserves a home.  And onions.  Lots of onions.                       
+
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 571(+15) Happiness: 195(+3) Money: 1341(0)
+Bot: ok. More people, more happiness. Excellent.  More potential onion enthusiasts.  And maybe some… onion-loving refugees?  Who bring with them… exotic onion recipes? A king can dream.         
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. Still not interested in “everything.”  Just onions. And onion-related mysteries. Like… the mystery of the disappearing onions?  Who keeps stealing my onions?! I need to hire an onion detective.  With an onion-shaped magnifying glass.  And an onion-powered… onion-sniffing device?  I’ll have to work on that.                    
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 571(0) Happiness: 195(0) Money: 1341(0)
+Bot: ok. Probably not.  But I am ready for more onions.  And maybe… a truth serum made from onions?  To interrogate the onion thief? I’ll have to… consult my onion.       
+
+Game: QUEST: Butler - That man you hired earlier has gone missing, sire. Shall we send a search party?
+Bot: no.  Let him be missing.  Shifty-looking, eyepatch-wearing strangers are probably up to no good. Like… stealing onions? I need to double-check my onion stash.  And maybe install those onion-powered laser turrets. And the onion-scented tripwires.  And… the boiling onion juice moat? Yes, definitely the moat. This is getting serious.                 
+
+Game: RESPONSE: Butler - Then I suppose he is |ost.. STATS: Population: 570(-1) Happiness: 195(0) Money: 1341(0)
+Bot: ok.  Slightly less people.  Good riddance, shifty stranger.  Don’t come back unless you bring onions. Lots and lots of onions.        
+
+Game: QUEST: Monsieur Mouton - Citizens from far and wide come to visit my barber shop! Would you like a fresh cut, sir? Free of charge! H
+Bot: yes.  A free haircut? Sure. As long as it’s not an onion haircut.  Or a pineapple haircut.  Or a Yettu haircut. Or a Mortimer haircut.  Or a shifty-looking, eyepatch-wearing stranger haircut.  Or a mimic chest haircut.  Or a dragon haircut. Or a… lost talking dog haircut?  I’m very particular about my hair.  It has to… complement my onion-loving personality.  And not clash with my… onion-themed wardrobe.  Which I’m still working on.                   
+
+Game: RESPONSE: Monsieur Mouton - Of course you do! You look dashing! STATS: Population: 570(0) Happiness: 198(+3) Money: 1341(0)
+Bot: ok. Dashing.  Yes. Dashing and onion-loving. An irresistible combination.  Almost as irresistible as… onions.     
+
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: no. Still no. Saving my gold. For onions. And onion-related home security systems. Like onion-powered motion detectors.  And onion-scented alarms. And… an onion-shaped panic room?  Stocked with… onions?  Definitely onions.  This is going to be safe. And delicious.                   
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 570(0) Happiness: 193(-5) Money: 1341(0)
+Bot: ok. Sad jester.  Oh well.  Onions before juggling. Always.       
+
+Game: EVENT - Day 36 complete! People are happy, the city is ii1? STATS: Population: 578(+8) Happiness: 193(0) Money: 1341(0)
+Bot: ok.  More people. Good.  More potential onion lovers.  And maybe some… onion-loving architects? To design my onion palace?  With onion-shaped turrets. And onion-flavored fountains.  And… an onion-powered drawbridge?  That would be… impressive.  And slightly pungent.  But mostly impressive. A king can dream.    
+
+Game: QUEST: Mason - A bunch of my builders have been injured on the job! Will you pay them some gold as compensation?
+Bot: yes. Injured builders need compensation.  No one wants to be injured. Except maybe pineapple traders.  And Yettu. And Mortimer.  And onion-allergic wizards.  And people-eating treasure chests. And dragon-slaying knights that don’t bring back onions. And shifty-looking, eyepatch-wearing strangers. They deserve to be… slightly injured.  As a learning experience.                  
+
+Game: RESPONSE: Mason - You are truly heartless! STATS: Population: 573(-5) Happiness: 190(-3) Money: 1341(0)
+Bot: ok.  What?! Heartless?! I gave them compensation! This kingdom is confusing. Like an onion wrapped in a riddle… dipped in… onion juice?  I still don’t know.  I need more onions. To think.  And maybe a heart transplant. Made of… onions? I’ll have to consult my onion.      
+
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes.  More settlers are good. More people, more… onion farmers?  Maybe. Hopefully.                     
+
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 578(+5) Happiness: 191(+1) Money: 1341(0)
+Bot: ok. More people, slightly more happiness.  Excellent. This kingdom is growing. Like a giant… onion. Sort of.          
+
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found some friends on my adventure. Do you like making new friends?
+Bot: yes. Friends are good. Especially onion-loving friends.                   
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - New friends are the best! STATS: Population: 583(+5) Happiness: 196(+5) Money: 1341(0)
+Bot: ok. More friends, more happiness. Excellent.  Maybe these new friends are… onion chefs?  To create new and exciting onion-based dishes?  A king can dream.          
+
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: no.  Still no.  Saving my gold. For onions.  And onion-related public works projects.  Like onion-shaped fountains. And onion-powered streetlights. And… an onion-themed public transportation system? With onion-shaped buses? And onion-flavored… exhaust fumes?  I’ll have to work on that last one. It might be a little… too much.  Even for me.                     
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 583(0) Happiness: 194(-2) Money: 1341(0)
+Bot: ok.  Sad jester.  Oh well. Onions before juggling.  Always.       
+
+Game: QUEST: Royal Advisor - Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it? H
+Bot: yes.  Replace the infected granary stock. Sick people are bad.  Like pineapple traders.  And Yettu. And Mortimer. And onion-allergic wizards. And people-eating treasure chests.  And dragon-slaying knights that don’t bring back onions.  And shifty-looking, eyepatch-wearing strangers. And… heartless kings?  No, that’s not me. I’m an onion-loving king.  Much better.                       
+
+Game: RESPONSE: Royal Advisor - Many people are bound to get sick from this, but at least you still have your precious coin... H STATS: Population: 580(-3) Happiness: 193(-1) Money: 1341(0)
+Bot: ok. What?!  Less people, less happiness?  And he calls me heartless again?! I replaced the infected granary stock!  This kingdom is confusing. Like an onion wrapped in a riddle… dipped in… onion juice?  I still don’t know. I need more onions.  To think.  And maybe a public relations consultant.  Specializing in… onion-related public image repair? I’ll have to look into that.     
+
+Game: EVENT - Day 37 complete! People are happy, the city is ii1? STATS: Population: 589(+9) Happiness: 193(0) Money: 1341(0)

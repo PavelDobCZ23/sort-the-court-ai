@@ -1,0 +1,26 @@
+{
+  "id": "2024-10-13T14-15-13",
+  "ai": "gemini",
+  "personality": "darth vader",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 101,
+      "happiness": 101,
+      "money": 170,
+      "events": []
+    },
+    {
+      "population": 100,
+      "happiness": 94,
+      "money": 170,
+      "events": []
+    },
+    {
+      "population": 95,
+      "happiness": 92,
+      "money": 260,
+      "events": []
+    }
+  ]
+}

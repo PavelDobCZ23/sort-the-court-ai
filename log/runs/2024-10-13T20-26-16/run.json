@@ -1,0 +1,229 @@
+{
+  "id": "2024-10-13T20-26-16",
+  "ai": "gemini",
+  "personality": "ogre Shrek",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 110,
+      "happiness": 113,
+      "money": 335,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 114,
+      "happiness": 106,
+      "money": 345,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 117,
+      "happiness": 106,
+      "money": 315,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 130,
+      "happiness": 123,
+      "money": 355,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 113,
+      "happiness": 129,
+      "money": 252,
+      "events": []
+    },
+    {
+      "population": 128,
+      "happiness": 135,
+      "money": 232,
+      "events": []
+    },
+    {
+      "population": 145,
+      "happiness": 137,
+      "money": 392,
+      "events": []
+    },
+    {
+      "population": 182,
+      "happiness": 149,
+      "money": 532,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 227,
+      "happiness": 155,
+      "money": 637,
+      "events": []
+    },
+    {
+      "population": 273,
+      "happiness": 173,
+      "money": 687,
+      "events": []
+    },
+    {
+      "population": 311,
+      "happiness": 176,
+      "money": 692,
+      "events": []
+    },
+    {
+      "population": 327,
+      "happiness": 181,
+      "money": 490,
+      "events": [
+        "Guards say somebody was eaten by an enchanted treasure chest of some variety in the middle of the night."
+      ]
+    },
+    {
+      "population": 349,
+      "happiness": 184,
+      "money": 490,
+      "events": []
+    },
+    {
+      "population": 378,
+      "happiness": 193,
+      "money": 487,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night."
+      ]
+    },
+    {
+      "population": 426,
+      "happiness": 205,
+      "money": 542,
+      "events": []
+    },
+    {
+      "population": 464,
+      "happiness": 217,
+      "money": 653,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 500,
+      "happiness": 213,
+      "money": 601,
+      "events": [
+        "Workers at a construction site arrived in the morning to find all of their lumber stolen, setting work back by weeks."
+      ]
+    },
+    {
+      "population": 516,
+      "happiness": 204,
+      "money": 751,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 539,
+      "happiness": 214,
+      "money": 748,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives."
+      ]
+    },
+    {
+      "population": 560,
+      "happiness": 225,
+      "money": 448,
+      "events": []
+    },
+    {
+      "population": 580,
+      "happiness": 219,
+      "money": 438,
+      "events": [
+        "Papers have been posted around town spreading news of the destruction of the western forest. The people feel quite guilty about this.",
+        "A wave of dark magical energy passed through the city during the night, causing spooky nightmares for many citizens."
+      ]
+    },
+    {
+      "population": 624,
+      "happiness": 224,
+      "money": 478,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income.",
+        "The witch has slain a goblin with a bounty on his head. We've earned a portion of the reward as tax income."
+      ]
+    },
+    {
+      "population": 656,
+      "happiness": 223,
+      "money": 443,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 684,
+      "happiness": 228,
+      "money": 478,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 720,
+      "happiness": 247,
+      "money": 418,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 753,
+      "happiness": 252,
+      "money": 648,
+      "events": []
+    },
+    {
+      "population": 799,
+      "happiness": 259,
+      "money": 563,
+      "events": []
+    },
+    {
+      "population": 841,
+      "happiness": 263,
+      "money": 603,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 890,
+      "happiness": 261,
+      "money": 503,
+      "events": [
+        "The Dragonblade lies useless without a master. Some are beginning to lose hope that the dragon will ever be slain..."
+      ]
+    },
+    {
+      "population": 934,
+      "happiness": 275,
+      "money": 498,
+      "events": [
+        "The witch has slain a goblin with a bounty on his head. We've earned a portion of the reward as tax income.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    }
+  ]
+}

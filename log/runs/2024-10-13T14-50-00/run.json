@@ -1,0 +1,88 @@
+{
+  "id": "2024-10-13T14-50-00",
+  "ai": "gemini",
+  "personality": "Darth Vader",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 97,
+      "happiness": 94,
+      "money": 400,
+      "events": []
+    },
+    {
+      "population": 96,
+      "happiness": 97,
+      "money": 390,
+      "events": []
+    },
+    {
+      "population": 68,
+      "happiness": 106,
+      "money": 355,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 79,
+      "happiness": 105,
+      "money": 355,
+      "events": []
+    },
+    {
+      "population": 98,
+      "happiness": 118,
+      "money": 224,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 114,
+      "happiness": 122,
+      "money": -76,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 125,
+      "happiness": 122,
+      "money": 24,
+      "events": []
+    },
+    {
+      "population": 131,
+      "happiness": 112,
+      "money": 74,
+      "events": []
+    },
+    {
+      "population": 138,
+      "happiness": 110,
+      "money": 89,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 154,
+      "happiness": 129,
+      "money": 29,
+      "events": []
+    },
+    {
+      "population": 170,
+      "happiness": 120,
+      "money": 29,
+      "events": []
+    },
+    {
+      "population": 176,
+      "happiness": 109,
+      "money": 239,
+      "events": []
+    }
+  ]
+}

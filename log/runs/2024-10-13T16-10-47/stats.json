@@ -1,0 +1,391 @@
+{
+  "responses-gemini": {
+    "Royal Advisor": {
+      "My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Some refugees have arrived in town. Should we welcome them?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "There's a very stinky kid running around the streets. Should we force her to have a bath? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "The people have started a petition to ban pineapples in the city. Should we do it?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "There's a petition going around to open our borders to the neighbouring town. What do you say?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "An angry pineapple trader has denounced your rule! Shall we have her arrested?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "There's been a brawl at the tavern. Should we arrest those responsible for starting it?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Jester": {
+      "Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Ohooooo! Might I borrow some gold for new juggling balls?": {
+        "Darth Vader\n": {
+          "n": 2
+        }
+      }
+    },
+    "Gardener": {
+      "Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "We've completed work on the garden. Are you pleased?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Would you like to buy some flowers from our garden? They're a special low price for you, sir! H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Some plant people have sprouted in the gardens. Are we allowed to make them official citizens? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Chester(mimic chest)": {
+      "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H": {
+        "Darth Vader\n": {
+          "n": 3
+        }
+      },
+      "You ever see a treasure chest do a backflip?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Georgie(small flying devil)": {
+      "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it? H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Grandma": {
+      "Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Eeeh, hello sonny. Can I borrow a coin for the newspaper?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "The Sultan": {
+      "I've got a business proposition for you and your tiny little town. Are you interested?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "L-D 3.4(robot)": {
+      "H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "I am truly sorry about earlier. My circuits were quite fried. I offer my thanks for your help. H": {
+        "Darth Vader\n": {
+          "": 1
+        }
+      }
+    },
+    "Knight": {
+      "My lord! I've come across a chest of gold in my adventures! Will you please accept this gift? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "My lord! I wish to embark upon a treacherous quest!": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Chicken": {
+      "Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Military General": {
+      "We've captured some foes on the battlefield. Shall we bring them home and put them to work? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "All—Seeing Eye": {
+      "(It's just.. staring at me... Does it want something?)": {
+        "Darth Vader\n": {
+          "n": 1,
+          "y": 1
+        }
+      }
+    },
+    "Butler": {
+      "Ahem. Might I get a cup of tea for you, my liege?": {
+        "Darth Vader\n": {
+          "y": 1,
+          "n": 1
+        }
+      },
+      "There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Witch": {
+      "There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Lil Fang(small cute flying vampire)": {
+      "You feelin' spooky today?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Hello friend. Care to gaze into my magical vampire crystal?": {
+        "Darth Vader\n": {
+          "n": 2
+        }
+      },
+      "I'm the Duke of Spook! Do you want a spooky nickname?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Skelly(skeleton creature)": {
+      "Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "You've got a skeleton of your own, you know. Don't you find it weird that you can' see it?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Reporting in! I found a way to summon people from another dimension. Want me to summon some folks? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Mason": {
+      "Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.": {
+        "Darth Vader\n": {
+          "n": 2
+        }
+      },
+      "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Molder(purple blob of sludge)": {
+      "Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. H How do I know this? Sometimes, you just know. You know?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Georgie?": {
+      "Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! H Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Miriam": {
+      "Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Hello again, kingly person! Oho! Albert asked me to come here and tell a story with you. H A yellow bird meets a green bird in the sky. Does the yellow bird soar higher than the green? H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Oho! No, the yellow makes way for the green, who pumps his wings and climbs ever higher! Gliding on a gentle breeze, the green bird soon meets a bluebird. Does it make time to stop and sing? H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Wonderful to see you again, kingly person. Although, I am a bit sad. Albert and I are going to be leaving. H We like to wander, oho, and besides, we mustn't overstay our welcome here. We'll be on our way tonight, but might we have your blessing before we go?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Yettu(yetti creature)": {
+      "I would like some money please.": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Hello good sir I have returned. Will you give me some money this time?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Monsieur Mouton": {
+      "Allo, sir! Are you looking for experienced barbers in your court?": {
+        "Darth Vader\n": {
+          "n": 2
+        }
+      }
+    },
+    "Winston(large green slimy creature)": {
+      "Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      },
+      "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings.. H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Yet Yet(small yetti in armor)": {
+      "Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "I'm baaaack! I found some friends on my adventure. Do you like making new friends?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Sneaky Girl": {
+      "The guards confiscated some gold that I, uh... found... Can I have it back?": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Madame Abeille": {
+      "Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person? H": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      },
+      "I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    },
+    "Wizard": {
+      "I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H": {
+        "Darth Vader\n": {
+          "y": 2,
+          "n": 1
+        }
+      }
+    },
+    "Peanut(happy monkey)": {
+      "Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)": {
+        "Darth Vader\n": {
+          "y": 1
+        }
+      }
+    },
+    "Petite Souris(tiny mouse)": {
+      "Squee! (There's a mouse! Should we chase it away?)": {
+        "Darth Vader\n": {
+          "n": 1
+        }
+      }
+    }
+  },
+  "responses-character": {}
+}

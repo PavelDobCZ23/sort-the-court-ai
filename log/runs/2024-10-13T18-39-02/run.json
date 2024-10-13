@@ -1,0 +1,220 @@
+{
+  "id": "2024-10-13T18-39-02",
+  "ai": "gemini",
+  "personality": "Joe Biden\n",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 105,
+      "happiness": 110,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": 130,
+      "happiness": 114,
+      "money": 170,
+      "events": []
+    },
+    {
+      "population": 142,
+      "happiness": 122,
+      "money": 120,
+      "events": []
+    },
+    {
+      "population": 196,
+      "happiness": 133,
+      "money": 160,
+      "events": []
+    },
+    {
+      "population": 188,
+      "happiness": 114,
+      "money": 160,
+      "events": []
+    },
+    {
+      "population": 205,
+      "happiness": 123,
+      "money": 149,
+      "events": []
+    },
+    {
+      "population": 236,
+      "happiness": 140,
+      "money": 99,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 256,
+      "happiness": 143,
+      "money": 319,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 264,
+      "happiness": 41,
+      "money": 451,
+      "events": []
+    },
+    {
+      "population": 262,
+      "happiness": 151,
+      "money": 441,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 279,
+      "happiness": 177,
+      "money": 241,
+      "events": []
+    },
+    {
+      "population": 303,
+      "happiness": 182,
+      "money": 481,
+      "events": []
+    },
+    {
+      "population": 342,
+      "happiness": 196,
+      "money": 576,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 375,
+      "happiness": 201,
+      "money": 676,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 402,
+      "happiness": 201,
+      "money": 738,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 432,
+      "happiness": 198,
+      "money": 843,
+      "events": []
+    },
+    {
+      "population": 491,
+      "happiness": 206,
+      "money": 823,
+      "events": []
+    },
+    {
+      "population": 491,
+      "happiness": 206,
+      "money": 513,
+      "events": []
+    },
+    {
+      "population": 525,
+      "happiness": 211,
+      "money": 673,
+      "events": []
+    },
+    {
+      "population": 549,
+      "happiness": 222,
+      "money": 773,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 572,
+      "happiness": 229,
+      "money": 773,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives."
+      ]
+    },
+    {
+      "population": 614,
+      "happiness": 244,
+      "money": 653,
+      "events": []
+    },
+    {
+      "population": 647,
+      "happiness": 243,
+      "money": 582,
+      "events": [
+        "Guards say somebody was eaten by an enchanted treasure chest of some variety in the middle of the night.",
+        "Louis was giving out free cake in the market today, much to the citizen's delight.",
+        "Papers have been posted around town spreading news of the destruction of the western forest. The people feel quite guilty about this."
+      ]
+    },
+    {
+      "population": 681,
+      "happiness": 248,
+      "money": 112,
+      "events": [
+        "Workers at a construction site arrived in the morning to find all of their lumber stolen, setting work back by weeks."
+      ]
+    },
+    {
+      "population": 716,
+      "happiness": 245,
+      "money": 2,
+      "events": []
+    },
+    {
+      "population": 747,
+      "happiness": 246,
+      "money": 2,
+      "events": []
+    },
+    {
+      "population": 802,
+      "happiness": 250,
+      "money": 17,
+      "events": []
+    },
+    {
+      "population": 846,
+      "happiness": 252,
+      "money": 20,
+      "events": []
+    },
+    {
+      "population": 882,
+      "happiness": 253,
+      "money": 50,
+      "events": []
+    },
+    {
+      "population": 918,
+      "happiness": 250,
+      "money": 65,
+      "events": []
+    },
+    {
+      "population": 991,
+      "happiness": 261,
+      "money": 129,
+      "events": [
+        "a tree trunk led a protest in the square against woodland destruction. Guards had to be called in to settle things, and they demanded overtime Pay.",
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    }
+  ]
+}

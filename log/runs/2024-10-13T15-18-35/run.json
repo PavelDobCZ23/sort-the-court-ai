@@ -1,0 +1,20 @@
+{
+  "id": "2024-10-13T15-18-35",
+  "ai": "gemini",
+  "personality": "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 92,
+      "happiness": 91,
+      "money": 250,
+      "events": []
+    },
+    {
+      "population": 94,
+      "happiness": 94,
+      "money": 140,
+      "events": []
+    }
+  ]
+}

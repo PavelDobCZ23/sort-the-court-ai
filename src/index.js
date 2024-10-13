@@ -5,7 +5,7 @@ const sharp = require('sharp');
 const readline = require('readline');
 const fs = require('fs');
 
-const { CharacterBot, GeminiBot } = require('./bots-new.js');
+const { CharacterBot, GeminiBot } = require('./bots.js');
 
 const BOTS = {
 	gemini: GeminiBot,
@@ -32,7 +32,7 @@ const VALID_CONTROLS = ['Y/N','SPACE'];
 
 const APPEARENCE = JSON.parse(fs.readFileSync(`./config/appearence.json`).toString());
 
-const STATS_LOG_FILE = "./log/stats.json";
+let STATS_LOG_FILE = "./log/stats.json";
 const RUN_ID = new Date().toISOString().replace(/:/g,"-").slice(0,19);
 const RUN_LOG_DIR = `./log/runs/${RUN_ID}`
 
@@ -60,16 +60,20 @@ async function main() {
 	if (!(fs.existsSync(TEMP_PATH))) {
 		await fs.promises.mkdir(TEMP_PATH);
 	}
+	await fs.promises.mkdir(`${TEMP_PATH}/${RUN_ID}`);
 	if (!(fs.existsSync(RUN_LOG_DIR))) {
 		await fs.promises.mkdir(RUN_LOG_DIR);
 	}
 	//## Init OCR
 	const ocrWorker = await Tesseract.createWorker('Chewy',Tesseract.OEM.LSTM_ONLY);
 
-	const personality = (await readInput(`What personality do you want to use?\n`)).toLowerCase();
-	const aiSelection = (await readInput(`What AI do you wanna use? (character/gemini)\n`)).toLowerCase();
+	let personality = (await readInput(`What personality do you want the bot to have?\n`));
+	let aiSelection = (await readInput(`What AI do you wanna use? (character/Gemini)\n`)).toLowerCase();
 	const fullGameSelection = (await readInput(`Do you want the AI to recieve events and responses? (Y/n)\n`)).toLowerCase() !== "n";
-	const headlessBrowser = (await readInput(`Do you want the browser to be headless? (y/N)\n`)).toLowerCase() === "y";
+	const headlessBrowser = (await readInput(`Do you want the browser to be headless? (Y/n)\n`)).toLowerCase() !== "n";
+
+	if (aiSelection == "") aiSelection = "gemini";
+	if (personality == "") personality = (await fs.promises.readFile("./personality.txt")).toString();
 
 	//INFO There's no scrollbar in headless screenshots, shifting the output by 14px
 	if (headlessBrowser) {
@@ -87,6 +91,11 @@ async function main() {
 	};
 	await fs.promises.writeFile(`${RUN_LOG_DIR}/run.json`,JSON.stringify(runLog,null,2));
 
+
+	if (process.env.GLOBAL_STATS == "0") {
+		STATS_LOG_FILE = `./log/runs/${RUN_ID}/stats.json`;
+		await fs.promises.writeFile(STATS_LOG_FILE,"{\"responses-gemini\": {},\"responses-character\":{}}");
+	}
 	const statsLog = JSON.parse((await fs.promises.readFile(STATS_LOG_FILE)).toString());
 
 	console.log(`AI ChatBot (${aiSelection}) with personality: ${personality}`);
@@ -96,7 +105,7 @@ async function main() {
 	await chatBot.start();
 	console.log(`Starting the browser.`);
 	//## Prepare the browser
-	const browser = await puppeteer.launch({ executablePath: CUSTOM_CHROME_PATH ,headless: headlessBrowser, args: ['--window-size=1400,750']});
+	const browser = await puppeteer.launch({ executablePath: CUSTOM_CHROME_PATH ,headless: headlessBrowser, args: ['--window-size=1400,750','--mute-audio']});
 	//## Prepare the page
 	console.log(`Starting the game.`);
 	const page = await browser.newPage();
@@ -108,6 +117,11 @@ async function main() {
 	await page.setViewport({
 		width: 1300,
 		height: 550
+	});
+	await page.evaluate(() => {
+		setInterval(() => {
+			window.scrollTo(0, 0);
+		},250);
 	});
 	//## Start the game
 	await sleep(12000); // Wait for game to load
@@ -136,8 +150,8 @@ async function main() {
 		}
 		if (court.endDay) {
 			const endDayResult = await processEndDay(page,ocrWorker,gameStats);
-			const prompt = `EVENT - Day ${gameStats.day-1} complete! ${endDayResult} STATS: ${getStatsString(gameStats,previousStats)}`;
-			
+			let prompt = `EVENT - Day ${gameStats.day-1} complete! ${endDayResult} STATS: ${getStatsString(gameStats,previousStats)}`;
+			prompt = prompt.replace(/ii1\?/gi,"growing!").replace(/1mmi/gi,"growing!"); //fixes a weirdness
 			console.log(`Game: ${prompt}`);
 			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
 
@@ -155,8 +169,8 @@ async function main() {
 			await sleep(1500);
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
-			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n\n`);
 			await sleep(500);
 			continue;
 		}
@@ -176,8 +190,8 @@ async function main() {
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
 			//log
-			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n\n`);
 			
 			await sleep(500);
 			continue;
@@ -196,29 +210,37 @@ async function main() {
 			if (!fullGameSelection) continue;
 			const response = await chatBot.decide(prompt);
 			//log
-			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n\n`);
 			
 			await sleep(1500);
 		}
 		if (court.question) {
 			const prompt = `QUEST: ${court.person} - ${court.dialog}`;
 			gameStats.lastPerson = court.person;
-			//log
-			console.log(`Game: ${prompt}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
 
-			const response = await chatBot.decide(prompt,true);
-			//log
-			console.log(`Bot: ${response.full.replace(/\n/g, ' ')}`);
-			await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+			let response = {key:"",full: ""};
+			while (response.key == "") {
+				if (response.full != "") {
+					prompt = `You didn't answer 'yes' or 'no' to the previous message starting with 'QUEST:'! REMEMBER THE RULES! Try again and DON'T APOLOGIZE!\n${prompt}`;
+				}
+				// Log
+				console.log(`Game: ${prompt}`);
+				await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Game: ${prompt}\n`);
+				// AI Response:
+				response = await chatBot.decide(prompt);
+				// Log
+				console.log(`Bot: ${response.full.replace(/\n/g, ' ')}\n`);
+				await fs.promises.appendFile(`${RUN_LOG_DIR}/game.log`,`Bot: ${response.full.replace(/\n/g, ' ')}\n\n`);
+			}
+			// Stats Log
 			statsLog[`responses-${aiSelection}`][court.person] ??= {};
 			statsLog[`responses-${aiSelection}`][court.person][court.dialog] ??= {};
 			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality] ??= {};
 			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality][response.key] ??= 0;
 			statsLog[`responses-${aiSelection}`][court.person][court.dialog][personality][response.key]++;
 			await fs.promises.writeFile(STATS_LOG_FILE,JSON.stringify(statsLog,null,2));
-
+			// Play the game
 			await page.keyboard.press(response.key);
 			await sleep(1500);
 		}
@@ -284,7 +306,7 @@ async function getOptimisedScreenshot(page) {
 	.toBuffer();
 		
 	await sharp(optimisedBuffer)
-	.toFile(`./temp/screenshot-${RUN_ID}.png`);
+	.toFile(`./temp/${RUN_ID}/screenshot.png`);
 
 	return optimisedBuffer;
 }
@@ -313,29 +335,37 @@ async function readCourtQuestion(page,ocrWorker,gameStats) {
 		const endDayTitle = await textFromImage(screenshotBuffer,AREA.END_DAY_TITLE,ocrWorker);
 		let controls = await textFromImage(screenshotBuffer,AREA.DECISION_CONTROLS,ocrWorker);
 		let eventControls = await textFromImage(screenshotBuffer,AREA.EVENT_CONTROLS,ocrWorker);
-		await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
+		await ocrWorker.setParameters({tessedit_char_whitelist: '0123456789-—'});
 		const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 		const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 		const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);
 		await ocrWorker.setParameters({tessedit_char_whitelist: ''});
 
+		/*
 		await sharp(screenshotBuffer)
 			.extract(AREA.EVENT_CONTROLS)
-			.toFile('./temp/event-controls.png');
+			.toFile(`./temp/${RUN_ID}/event-controls.png`);
 		await sharp(screenshotBuffer)
 			.extract(AREA.DECISION_CONTROLS)
-			.toFile('./temp/controls.png');
+			.toFile(`./temp/${RUN_ID}/controls.png`);
+		await sharp(screenshotBuffer)
+			.extract(AREA.DECISION_NAME)
+			.toFile(`./temp/${RUN_ID}/person.png`);
+		await sharp(screenshotBuffer)
+			.extract(AREA.DECISION_DIALOG)
+			.toFile(`./temp/${RUN_ID}/dialog.png`);
 		await sharp(screenshotBuffer)
 			.extract(AREA.STATS_POPULATION)
-			.toFile('./temp/population.png');
+			.toFile(`./temp/${RUN_ID}/population.png`);
 		await sharp(screenshotBuffer)
 			.extract(AREA.STATS_HAPPINESS)
-			.toFile('./temp/happy.png');
+			.toFile(`./temp/${RUN_ID}/happy.png`);
 		await sharp(screenshotBuffer)
 			.extract(AREA.STATS_MONEY)
-			.toFile('./temp/money.png');
+			.toFile(`./temp/${RUN_ID}/money.png`);
 
 		console.log(`POP: '${statsPopulation}' HAP: '${statsHappiness}' MON: '${statsMoney}' EC: '${eventControls}'`);
+		*/
 		//Process Stats
 		gameStats.population = ensureNumber(statsPopulation);
 		gameStats.happiness = ensureNumber(statsHappiness);
@@ -343,7 +373,6 @@ async function readCourtQuestion(page,ocrWorker,gameStats) {
 		//INFO Controls use some hand-made font that's hard to recoginse, this fixes that
 		controls = controls.replace('X','Y').replace(/[€&¢]/ig,'E').replace(/\s/ig,"");
 		eventControls = eventControls.replace('X','Y').replace(/[€&¢]/ig,'E').replace(/CC/,'CE').replace(/\s/ig,"");
-		console.log(`GC:'${controls}' EC: '${eventControls}'`)
 
 		if (questionStarted && person != response.person) {
 			response.question = false;
@@ -386,8 +415,7 @@ async function processEndDay(page,ocrWorker,gameStats) {
 	await sharp(screenshotBuffer).toFile(`./log/runs/${RUN_ID}/stats-day-${gameStats.day}.png`);
 
 	const endDayResult = await textFromImage(screenshotBuffer,AREA.END_DAY_RESULT,ocrWorker);
-	endDayResult.replace("1mmi","growing!"); //idk whyyy, but it needs to be done
-	await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
+	await ocrWorker.setParameters({tessedit_char_whitelist: '0123456789-—'});
 	const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 	const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 	const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);
@@ -395,7 +423,7 @@ async function processEndDay(page,ocrWorker,gameStats) {
 
 	await sharp(screenshotBuffer)
 	.extract(AREA.END_DAY_RESULT)
-	.toFile('./temp/endday-result.png');
+	.toFile(`./temp/${RUN_ID}/endday-result.png`);
 
 	gameStats.population = ensureNumber(statsPopulation);
 	gameStats.happiness = ensureNumber(statsHappiness);
@@ -412,7 +440,7 @@ async function processEvent(page,ocrWorker,gameStats) {
 	await sleep(1500);
 	const screenshotBuffer = await getOptimisedScreenshot(page);
 
-	await ocrWorker.setParameters({tessedit_char_whitelist: '-0123456789'});
+	await ocrWorker.setParameters({tessedit_char_whitelist: '0123456789-—'});
 	const statsPopulation = await textFromImage(screenshotBuffer,AREA.STATS_POPULATION,ocrWorker);
 	const statsHappiness = await textFromImage(screenshotBuffer,AREA.STATS_HAPPINESS,ocrWorker);
 	const statsMoney = await textFromImage(screenshotBuffer,AREA.STATS_MONEY,ocrWorker);

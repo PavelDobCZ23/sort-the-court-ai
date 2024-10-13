@@ -1,0 +1,210 @@
+{
+  "id": "2024-10-13T16-10-29",
+  "ai": "gemini",
+  "personality": "Darth Vader\n",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 78,
+      "happiness": 84,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": 77,
+      "happiness": 97,
+      "money": 109,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 78,
+      "happiness": 100,
+      "money": 9,
+      "events": []
+    },
+    {
+      "population": 90,
+      "happiness": 106,
+      "money": -6,
+      "events": []
+    },
+    {
+      "population": 89,
+      "happiness": 104,
+      "money": 94,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 108,
+      "happiness": 119,
+      "money": 259,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 119,
+      "happiness": 123,
+      "money": 274,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 138,
+      "happiness": 126,
+      "money": 292,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 151,
+      "happiness": 124,
+      "money": 307,
+      "events": []
+    },
+    {
+      "population": 176,
+      "happiness": 127,
+      "money": 262,
+      "events": []
+    },
+    {
+      "population": 185,
+      "happiness": 128,
+      "money": 259,
+      "events": []
+    },
+    {
+      "population": 206,
+      "happiness": 128,
+      "money": 362,
+      "events": []
+    },
+    {
+      "population": 223,
+      "happiness": 130,
+      "money": 462,
+      "events": []
+    },
+    {
+      "population": 246,
+      "happiness": 135,
+      "money": 362,
+      "events": []
+    },
+    {
+      "population": 267,
+      "happiness": 139,
+      "money": 492,
+      "events": []
+    },
+    {
+      "population": 271,
+      "happiness": 41,
+      "money": 592,
+      "events": []
+    },
+    {
+      "population": 280,
+      "happiness": 161,
+      "money": 621,
+      "events": []
+    },
+    {
+      "population": 294,
+      "happiness": 170,
+      "money": 581,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 318,
+      "happiness": 183,
+      "money": 648,
+      "events": []
+    },
+    {
+      "population": 356,
+      "happiness": 216,
+      "money": 248,
+      "events": []
+    },
+    {
+      "population": 396,
+      "happiness": 220,
+      "money": 101,
+      "events": []
+    },
+    {
+      "population": 446,
+      "happiness": 231,
+      "money": null,
+      "events": []
+    },
+    {
+      "population": 494,
+      "happiness": 237,
+      "money": 61,
+      "events": []
+    },
+    {
+      "population": 541,
+      "happiness": 235,
+      "money": -4,
+      "events": []
+    },
+    {
+      "population": 565,
+      "happiness": 240,
+      "money": 186,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 597,
+      "happiness": 241,
+      "money": 226,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives."
+      ]
+    },
+    {
+      "population": 624,
+      "happiness": 246,
+      "money": 223,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night."
+      ]
+    },
+    {
+      "population": 709,
+      "happiness": 253,
+      "money": 173,
+      "events": [
+        "a tree trunk led a protest in the square against woodland destruction. Guards had to be called in to settle things, and they demanded overtime Pay."
+      ]
+    },
+    {
+      "population": 750,
+      "happiness": 253,
+      "money": 188,
+      "events": []
+    },
+    {
+      "population": 781,
+      "happiness": 243,
+      "money": 38,
+      "events": [
+        "Workers at a construction site arrived in the morning to find all of their lumber stolen, setting work back by weeks."
+      ]
+    }
+  ]
+}

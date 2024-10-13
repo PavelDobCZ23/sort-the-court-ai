@@ -1,0 +1,22 @@
+AI ChatBot (gemini) with personality: Darth VaderGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+Bot: Yes.  The Emperor requires obedience.  Advise quickly. 
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: ok.  A promising start.  The Empire shall grow. 
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?
+Bot: Yes. The Empire must value its workers... for now. 
+Game: RESPONSE: Mason - Thanks, the builders appreciate this. STATS: Population: 100(0) Happiness: 102(+2) Money: 160(-40)
+Bot: ok.  A small price to pay for efficiency. 
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work?
+Bot: Yes.  The Empire will make use of every resource. Their strength will become ours. 
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 108(+8) Happiness: 102(0) Money: 160(0)
+Bot: ok.  Good.  More… fuel for the machine. 
+Game: QUEST: All-Seeing Eye(eyeball with purple pupil) - (It's just.. staring at me... Does it want something?)
+Bot: No.  This… creature… will not sway me with its empty gaze. 
+Game: RESPONSE: All-Seeing Eye(eyeball with purple pupil) - (What just happened? I feel... happy!) STATS: Population: 108(0) Happiness: 112(+10) Money: 160(0)
+Bot: ok.  Curious.  Perhaps denying this… entity… was wise.     
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: No. The Empire does not cater to… pets.   
+Game: RESPONSE: Boots(orange cat) - Mrrrrrow. STATS: Population: 108(0) Happiness: NaN(NaN) Money: 162(+2)
+Bot: Ok.  A cat's displeasure is inconsequential.   
+Game: EVENT - Day 1 complete! _ ¥ N ___ H \/ STATS: Population: 115(+7) Happiness: NaN(NaN) Money: 162(0)
+Bot: ok. The Empire's expansion continues, albeit slowly.  This “Happiness” metric is… irrelevant.  Power is what matters. 

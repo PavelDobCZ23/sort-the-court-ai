@@ -1,0 +1,32 @@
+{
+  "id": "2024-10-13T15-29-25",
+  "ai": "gemini",
+  "personality": "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 105,
+      "happiness": 105,
+      "money": 197,
+      "events": []
+    },
+    {
+      "population": 115,
+      "happiness": 109,
+      "money": 77,
+      "events": []
+    },
+    {
+      "population": 122,
+      "happiness": 118,
+      "money": 37,
+      "events": []
+    },
+    {
+      "population": 141,
+      "happiness": 122,
+      "money": 187,
+      "events": []
+    }
+  ]
+}

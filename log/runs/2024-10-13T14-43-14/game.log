@@ -1,0 +1,26 @@
+AI ChatBot (gemini) with personality: Darth VaderGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand?
+Bot: Yes.  The advisor speaks wisdom. Power is gained through decisive action. 
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! For now all you need to concern yourself with is keeping the citizens happy and growing our population. Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok.  An auspicious beginning.  The Empire shall expand. 
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?
+Bot: Yes. A strong Empire requires strong workers.  Accidents and delays are unacceptable. 
+Game: RESPONSE: Mason - Thanks, the builders appreciate this. STATS: Population: 100(0) Happiness: 102(+2) Money: 160(-40)
+Bot: Ok.  A small price to pay for efficiency and the contentment of the workforce.  
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.
+Bot: No.  Such frivolous risks are beneath an Emperor.  The souls of my subjects are not for wagering. 
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 100(0) Happiness: 102(0) Money: 160(0)
+Bot: Ok. The dark side offers tempting shortcuts, but true power is earned through discipline and control. 
+Game: EVENT: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. STATS: Population: 11(-89) Happiness: NaN(NaN) Money: NaN(NaN)
+Bot: Ok.  The whims of the spirit world are… unpredictable. Maintaining their favor may require decisive measures in the future. Loss of population concerning... must regain control. 
+Game: QUEST: Witch - What do you say? Two hundred gold would make a decent offering.
+Bot: No.  Appeasement invites further demands.  We will address any spiritual unrest with strength, not tribute.  Resources must be conserved after the recent… incident. 
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 100(0) Happiness: 102(0) Money: 160(0)
+Bot: Ok. Strength and resolve will serve us better than superstition in the long run.  Perhaps this “incident” was mere coincidence... or something more sinister? The loss of population must be investigated. 
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: Yes.  The Empire is always open to… profitable ventures. 
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 100(0) Happiness: 102(0) Money: 160(0)
+Bot: Ok.  We shall see what this “Sultan” has to offer.  Caution is advised. 
+Game: EVENT - Day 1 complete! People are happy, the city is 1mmi STATS: Population: 101(+1) Happiness: 102(0) Money: 160(0)
+Bot: Ok.  Slow but steady progress. The Empire will grow. This small gain in population must be improved upon.  
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath?
+Bot: Yes. Cleanliness and order are essential to a thriving Empire. Unhygienic conditions will not be tolerated. 

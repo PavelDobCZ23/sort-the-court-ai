@@ -7,6 +7,12 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "darth vader": {
+          "y": 1
+        },
+        "Darth Vader": {
+          "y": 6
         }
       },
       "Some refugees have arrived in town. Should we welcome them?": {
@@ -15,6 +21,9 @@
         },
         "spongebob": {
           "y": 5
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       },
       "Builders wish to construct more houses in the town. They request gold, with which they could build much faster!": {
@@ -75,6 +84,9 @@
         "communist": {
           "n": 1,
           "y": 1
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "Some families have moved into the new houses we built. Should we send them a welcome basket?": {
@@ -116,6 +128,9 @@
         "spongebob": {
           "y": 1,
           "n": 1
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say?": {
@@ -129,6 +144,12 @@
       "Citizens say a monkey has been running around flinging_. stuff... at them. Should we put out a bounty on it?": {
         "spongebob": {
           "n": 1
+        },
+        "darth vader": {
+          "y": 1
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. Anyway, I just wanted to give my congratulations. Let's keep working hard, okay?": {
@@ -185,6 +206,47 @@
         "spongebob": {
           "y": 1
         }
+      },
+      "My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H": {
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who prioritizes spending money above everything": {
+          "y": 1
+        },
+        "someone who must have negative money (below 0), spend them even if doesn't have them": {
+          "y": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES MONEY!": {
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 2
+        }
+      },
+      "My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool? H": {
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
+        }
+      },
+      "The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H": {
+        "Darth Vader": {
+          "y": 1
+        }
+      },
+      "Builders wish to construct more houses in the town. They request gold, with which they could build much faster! H": {
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        }
       }
     },
     "Petite Souris(tiny mouse)": {
@@ -194,6 +256,12 @@
         },
         "spongebob": {
           "n": 2
+        },
+        "darth vader": {
+          "n": 1
+        },
+        "Darth Vader": {
+          "n": 1
         }
       },
       "Squeeee! (It's the same mouse from before.. Is he... offering me something?)": {
@@ -215,6 +283,9 @@
         },
         "spongebob": {
           "y": 5
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold..": {
@@ -231,6 +302,9 @@
         },
         "spongebob": {
           "y": 3
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
         }
       },
       "Ooh dear, I read quite the troubling tale in the paper today... Think everything will be alright?": {
@@ -242,6 +316,14 @@
         "spongebob": {
           "y": 2
         }
+      },
+      "Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.": {
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        }
       }
     },
     "Georgie(small flying devil)": {
@@ -251,6 +333,9 @@
         },
         "spongebob": {
           "n": 2
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls.": {
@@ -258,6 +343,12 @@
           "n": 30
         },
         "spongebob": {
+          "n": 1
+        },
+        "darth vader": {
+          "n": 2
+        },
+        "Darth Vader": {
           "n": 1
         }
       },
@@ -281,6 +372,19 @@
         "spongebob": {
           "n": 1
         }
+      },
+      "Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H": {
+        "Darth Vader": {
+          "n": 2
+        },
+        "Someone who prioritizes spending money above everything": {
+          "y": 1
+        }
+      },
+      "You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it? H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
+        }
       }
     },
     "Chester(mimic chest)": {
@@ -291,11 +395,21 @@
         "spongebob": {
           "n": 4,
           "y": 1
+        },
+        "Darth Vader": {
+          "y": 1,
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?": {
         "communist": {
           "n": 6
+        },
+        "Darth Vader": {
+          "n": 4
         }
       },
       "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their.. lives...": {
@@ -310,11 +424,25 @@
         "spongebob": {
           "y": 2,
           "n": 1
+        },
+        "Darth Vader": {
+          "n": 1
         }
       },
       "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives...": {
         "spongebob": {
           "n": 2
+        }
+      },
+      "I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H": {
+        "Darth Vader": {
+          "n": 1
+        },
+        "someone who must have negative money (below 0), spend them even if doesn't have them": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       }
     },
@@ -331,6 +459,12 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. What do you think, should we take a chance on this stranger?": {
@@ -350,10 +484,26 @@
         "spongebob": {
           "y": 3,
           "n": 2
+        },
+        "darth vader": {
+          "n": 1
         }
       },
       "You've been drinking quite a bit of tea, sir. Might I upgrade you to.. the good stuff?": {
         "spongebob": {
+          "y": 1
+        }
+      },
+      "There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H": {
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        }
+      },
+      "My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?": {
+        "Darth Vader": {
           "y": 1
         }
       }
@@ -366,6 +516,12 @@
         "spongebob": {
           "y": 5,
           "n": 3
+        },
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
         }
       },
       "I'm the Duke of Spook! Do you want a spooky nickname?": {
@@ -375,6 +531,12 @@
         "spongebob": {
           "y": 3,
           "n": 2
+        },
+        "darth vader": {
+          "y": 1
+        },
+        "Darth Vader": {
+          "n": 1
         }
       },
       "You feelin' spooky today?": {
@@ -383,6 +545,12 @@
         },
         "spongebob": {
           "y": 1,
+          "n": 1
+        },
+        "darth vader": {
+          "y": 1
+        },
+        "Darth Vader": {
           "n": 1
         }
       }
@@ -395,12 +563,20 @@
         "spongebob": {
           "y": 1,
           "n": 1
+        },
+        "darth vader": {
+          "y": 1
         }
       },
       "My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear..": {
         "communist": {
           "n": 1,
           "y": 2
+        }
+      },
+      "My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear_. H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       }
     },
@@ -445,6 +621,40 @@
         "spongebob": {
           "y": 2
         }
+      },
+      "What do you say? Two hundred gold would make a decent offering.": {
+        "Darth Vader": {
+          "n": 1
+        }
+      },
+      "There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H": {
+        "Darth Vader": {
+          "y": 2
+        }
+      },
+      "The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.": {
+        "Darth Vader": {
+          "n": 1
+        }
+      },
+      "Looking for coin? I could cast some dark magic to summon some gold, but it might cost a soul or two.. H": {
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
+        }
+      },
+      "I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H": {
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
+        }
       }
     },
     "Knight": {
@@ -464,6 +674,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it?": {
@@ -475,6 +688,16 @@
         "spongebob": {
           "n": 2
         }
+      },
+      "My lord! I've come across a chest of gold in my adventures! Will you please accept this gift? H": {
+        "Darth Vader": {
+          "y": 1
+        }
+      },
+      "I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it? H": {
+        "Darth Vader": {
+          "y": 1
+        }
       }
     },
     "The Sultan": {
@@ -484,6 +707,9 @@
         },
         "spongebob": {
           "y": 5
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?": {
@@ -523,6 +749,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "The town we made an alliance with is in trouble! Should we send soldiers to assist them?": {
@@ -536,11 +765,39 @@
       "I understand. However, we need to do something with them. Shall we ransom the captured foes off for a bit of gold?": {
         "communist": {
           "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "No? I'm at a loss for what to do with them... Might I put them in the dungeons, then?": {
         "communist": {
           "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
+        }
+      },
+      "We've captured some foes on the battlefield. Shall we bring them home and put them to work? H": {
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
+        }
+      },
+      "One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES MONEY!": {
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1,
+          "n": 1
+        }
+      },
+      "A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks? H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       }
     },
@@ -558,6 +815,13 @@
       "(It's just.. staring at me... Does it want something?)": {
         "spongebob": {
           "y": 3
+        },
+        "darth vader": {
+          "n": 1,
+          "y": 1
+        },
+        "Darth Vader": {
+          "n": 1
         }
       }
     },
@@ -595,6 +859,9 @@
         "spongebob": {
           "n": 2,
           "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       },
       "I'd like to build a new granary. This could help expand our population, but it'll cost a bit!": {
@@ -603,6 +870,12 @@
         },
         "spongebob": {
           "y": 3
+        },
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       },
       "Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work?": {
@@ -611,16 +884,37 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "y": 2
         }
       },
       "Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.": {
         "communist": {
           "n": 2
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES MONEY!": {
+          "n": 1
         }
       },
       "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like.. a couple hundred, at least. What do you think?": {
         "spongebob": {
           "y": 2
+        }
+      },
+      "I'm talking a considerable amount of gold, here. Like.. a couple hundred, at least. What do you think?": {
+        "darth vader": {
+          "n": 1
+        }
+      },
+      "I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?": {
+        "Darth Vader": {
+          "n": 1
+        }
+      },
+      "Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work? H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       }
     },
@@ -632,6 +926,17 @@
         "spongebob": {
           "y": 5,
           "n": 3
+        },
+        "Darth Vader": {
+          "y": 1
+        }
+      },
+      "I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H": {
+        "Darth Vader": {
+          "y": 2
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 2
         }
       }
     },
@@ -650,6 +955,9 @@
         },
         "spongebob": {
           "y": 1
+        },
+        "darth vader": {
+          "y": 1
         }
       },
       "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings...": {
@@ -661,11 +969,22 @@
       "Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?": {
         "communist": {
           "n": 4
+        },
+        "Darth Vader": {
+          "n": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "Hey uhhhh, somebody came by and cleeeeeaned up my hooooome. You gonna pay me baaaack for that?": {
         "spongebob": {
           "n": 1
+        }
+      },
+      "Hey uhhhh, you think you could tell people to stoooop callin' me \"slimeball\"? It's hurtin' my feeeelings.. H": {
+        "Darth Vader": {
+          "y": 1
         }
       }
     },
@@ -686,11 +1005,28 @@
         },
         "spongebob": {
           "n": 2
+        },
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
         }
       },
       "Want me to steal from the rich and give to_. you? Not just the rich, I'll steal from whoever, basically.": {
         "spongebob": {
           "n": 4
+        }
+      },
+      "Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H": {
+        "Darth Vader": {
+          "n": 1,
+          "y": 1
+        }
+      },
+      "Hey, you helped me out before. I brought you something, just don't ask where it came from. Will you accept my gift?": {
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
         }
       }
     },
@@ -701,6 +1037,12 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 2
         }
       },
       "Demand for my services is through the roof! May I have your permission to raise my prices?": {
@@ -739,6 +1081,14 @@
       "I'm baaaack! I found these shiny yellow stones! Pretty cool, right?": {
         "spongebob": {
           "y": 4
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
+        }
+      },
+      "Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       }
     },
@@ -750,6 +1100,9 @@
         },
         "spongebob": {
           "y": 2,
+          "n": 1
+        },
+        "Darth Vader": {
           "n": 1
         }
       },
@@ -767,10 +1120,21 @@
         },
         "spongebob": {
           "y": 3
+        },
+        "Darth Vader": {
+          "n": 1,
+          "y": 1
         }
       },
       "Meeeow. (Looks like he wants somebody to pat his belly...)": {
         "communist": {
+          "n": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1,
           "n": 1
         }
       },
@@ -793,6 +1157,17 @@
         "spongebob": {
           "y": 1,
           "n": 1
+        },
+        "Darth Vader": {
+          "n": 1
+        },
+        "someone who must have negative money (below 0), spend them even if doesn't have them": {
+          "n": 1
+        }
+      },
+      "Hello good sir I have returned. Will you give me some money this time?": {
+        "Darth Vader": {
+          "n": 1
         }
       }
     },
@@ -803,10 +1178,19 @@
         },
         "spongebob": {
           "y": 1
+        },
+        "darth vader": {
+          "y": 1
+        },
+        "someone who must have negative money (below 0), spend them even if doesn't have them": {
+          "y": 1
         }
       },
       "I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor?": {
         "spongebob": {
+          "y": 1
+        },
+        "darth vader": {
           "y": 1
         }
       },
@@ -820,6 +1204,12 @@
       "Bok bok! (It's running wild! Should we try to capture it?)": {
         "communist": {
           "n": 5
+        },
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
+          "y": 1
         }
       },
       "Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)": {
@@ -863,6 +1253,12 @@
         "spongebob": {
           "y": 2,
           "n": 1
+        },
+        "Darth Vader": {
+          "y": 1
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. How do I know this? Sometimes, you just know. You know?": {
@@ -873,6 +1269,11 @@
       "You ready for the truth? Aliens have already landed, and they're in our city. You think we're safe?": {
         "spongebob": {
           "y": 2
+        }
+      },
+      "I... couldn't uncover anything. I was being followed. Too risky. Did you see anyone follow me out of the castle? H": {
+        "Darth Vader": {
+          "n": 1
         }
       }
     },
@@ -895,6 +1296,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "y": 1
         }
       },
       "Ohooooo! Might I borrow some gold for new juggling balls?": {
@@ -903,6 +1307,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "n": 2
         }
       },
       "My shooooooow seems to have goooone over well! I wish to expand my proooooduction! Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
@@ -912,6 +1319,11 @@
       },
       "Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
         "spongebob": {
+          "n": 1
+        }
+      },
+      "My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!": {
+        "Darth Vader": {
           "n": 1
         }
       }
@@ -931,6 +1343,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "Darth Vader": {
+          "n": 1
         }
       },
       "You've got a skeleton of your own, you know. Don't you find it weird that you can't see it?": {
@@ -939,6 +1354,9 @@
         },
         "spongebob": {
           "y": 2
+        },
+        "darth vader": {
+          "y": 1
         }
       },
       "Reporting in! I found a way to summon people from another dimension. Want me to summon some folks?": {
@@ -950,6 +1368,16 @@
         "spongebob": {
           "y": 1
         }
+      },
+      "Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H": {
+        "Darth Vader": {
+          "y": 1
+        }
+      },
+      "Reporting in! I discovered an underground crime ring in the city's eastern ward. I've already taken steps to break up their operations. Could I have a bit of extra gold to bring in the guard and make some additional arrests? H": {
+        "Darth Vader": {
+          "y": 1
+        }
       }
     },
     "Pancake(black cat)": {
@@ -959,6 +1387,14 @@
         },
         "spongebob": {
           "n": 2
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
+        }
+      },
+      "Mew. (It's that slightly magical cat from before. Does this mean we're friends now?)": {
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "y": 1
         }
       }
     },
@@ -990,6 +1426,16 @@
         "communist": {
           "y": 1
         }
+      },
+      "I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H": {
+        "Darth Vader": {
+          "y": 1
+        }
+      },
+      "Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?": {
+        "Darth Vader": {
+          "y": 1
+        }
       }
     },
     "Monsieur Esprit(small noble flying ghost)": {
@@ -1000,6 +1446,12 @@
         "spongebob": {
           "y": 1,
           "n": 1
+        },
+        "Darth Vader": {
+          "n": 2
+        },
+        "Someone who hates money, doesn't want ANY money, wants to be in debt, wants to have NO MONEY, DOESN'T ACCEPT ANYTHING THAT GIVES HIM MONEY BUT LOVES TO GET RID OF MONEY AND GIVE MONEY, SO HE DOESN'T HAVE THEM!": {
+          "n": 1
         }
       },
       "Good day sir. Do you require any haunting services? For a small price I'll scare some people for you.": {
@@ -1008,6 +1460,11 @@
         },
         "spongebob": {
           "n": 3
+        }
+      },
+      "Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H": {
+        "Darth Vader": {
+          "n": 1
         }
       }
     },
@@ -1024,6 +1481,11 @@
     "Alien": {
       "You haven't been talking to Skelly, have you?": {
         "communist": {
+          "n": 1
+        }
+      },
+      "You haven't been talking to Molder, have you?": {
+        "Darth Vader": {
           "n": 1
         }
       }
@@ -1078,6 +1540,9 @@
       "Booo! Give me your gold or I'll eat your townspeople!": {
         "spongebob": {
           "n": 1
+        },
+        "Darth Vader": {
+          "n": 1
         }
       }
     },
@@ -1120,6 +1585,16 @@
     "Scientist": {
       "Hello, hello! The Council of Science has developed a new potion in need of testing. May we have permission to conduct a test with a willing participant?": {
         "spongebob": {
+          "y": 1
+        }
+      }
+    },
+    "All—Seeing Eye": {
+      "(It's just.. staring at me... Does it want something?)": {
+        "Darth Vader": {
+          "n": 2
+        },
+        "Someone who doesn't like money, doesn't want money, wants to be in debt and have no money": {
           "y": 1
         }
       }

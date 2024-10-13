@@ -1,0 +1,242 @@
+{
+  "id": "2024-10-13T20-26-26",
+  "ai": "gemini",
+  "personality": "ogre Shrek",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 102,
+      "happiness": 102,
+      "money": 200,
+      "events": []
+    },
+    {
+      "population": 126,
+      "happiness": 113,
+      "money": 350,
+      "events": []
+    },
+    {
+      "population": 126,
+      "happiness": 106,
+      "money": 500,
+      "events": []
+    },
+    {
+      "population": 155,
+      "happiness": 118,
+      "money": 560,
+      "events": []
+    },
+    {
+      "population": 166,
+      "happiness": 123,
+      "money": 560,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 164,
+      "happiness": 108,
+      "money": 558,
+      "events": []
+    },
+    {
+      "population": 171,
+      "happiness": 114,
+      "money": 655,
+      "events": []
+    },
+    {
+      "population": 182,
+      "happiness": 117,
+      "money": 552,
+      "events": []
+    },
+    {
+      "population": 205,
+      "happiness": 130,
+      "money": 332,
+      "events": []
+    },
+    {
+      "population": 256,
+      "happiness": 138,
+      "money": 382,
+      "events": []
+    },
+    {
+      "population": 265,
+      "happiness": 146,
+      "money": 387,
+      "events": []
+    },
+    {
+      "population": 273,
+      "happiness": 152,
+      "money": 404,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 293,
+      "happiness": 154,
+      "money": 491,
+      "events": []
+    },
+    {
+      "population": 296,
+      "happiness": 149,
+      "money": 596,
+      "events": []
+    },
+    {
+      "population": 303,
+      "happiness": 154,
+      "money": 396,
+      "events": []
+    },
+    {
+      "population": 302,
+      "happiness": 151,
+      "money": 396,
+      "events": []
+    },
+    {
+      "population": 313,
+      "happiness": 159,
+      "money": 421,
+      "events": []
+    },
+    {
+      "population": 342,
+      "happiness": 164,
+      "money": 52,
+      "events": []
+    },
+    {
+      "population": 373,
+      "happiness": 173,
+      "money": 618,
+      "events": []
+    },
+    {
+      "population": 391,
+      "happiness": 170,
+      "money": 967,
+      "events": []
+    },
+    {
+      "population": 406,
+      "happiness": 165,
+      "money": 984,
+      "events": []
+    },
+    {
+      "population": 430,
+      "happiness": 177,
+      "money": 1039,
+      "events": []
+    },
+    {
+      "population": 447,
+      "happiness": 178,
+      "money": 1054,
+      "events": []
+    },
+    {
+      "population": 484,
+      "happiness": 178,
+      "money": 1094,
+      "events": []
+    },
+    {
+      "population": 502,
+      "happiness": 176,
+      "money": 1094,
+      "events": []
+    },
+    {
+      "population": 509,
+      "happiness": 179,
+      "money": 1259,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend.",
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 512,
+      "happiness": 180,
+      "money": 1274,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives.",
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 515,
+      "happiness": 189,
+      "money": 1244,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 519,
+      "happiness": 196,
+      "money": 1244,
+      "events": []
+    },
+    {
+      "population": 536,
+      "happiness": 202,
+      "money": 1244,
+      "events": []
+    },
+    {
+      "population": 551,
+      "happiness": 204,
+      "money": 1324,
+      "events": []
+    },
+    {
+      "population": 564,
+      "happiness": 206,
+      "money": 1336,
+      "events": []
+    },
+    {
+      "population": 547,
+      "happiness": 201,
+      "money": 1036,
+      "events": []
+    },
+    {
+      "population": 552,
+      "happiness": 186,
+      "money": 1351,
+      "events": []
+    },
+    {
+      "population": 556,
+      "happiness": 192,
+      "money": 1341,
+      "events": []
+    },
+    {
+      "population": 578,
+      "happiness": 193,
+      "money": 1341,
+      "events": []
+    },
+    {
+      "population": 589,
+      "happiness": 193,
+      "money": 1341,
+      "events": []
+    }
+  ]
+}

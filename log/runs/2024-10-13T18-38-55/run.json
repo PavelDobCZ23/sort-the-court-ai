@@ -1,0 +1,212 @@
+{
+  "id": "2024-10-13T18-38-55",
+  "ai": "gemini",
+  "personality": "Joe Biden\n",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 107,
+      "happiness": 108,
+      "money": 397,
+      "events": []
+    },
+    {
+      "population": 110,
+      "happiness": null,
+      "money": 447,
+      "events": []
+    },
+    {
+      "population": 113,
+      "happiness": 106,
+      "money": 487,
+      "events": []
+    },
+    {
+      "population": 97,
+      "happiness": 97,
+      "money": 487,
+      "events": []
+    },
+    {
+      "population": 120,
+      "happiness": 103,
+      "money": 316,
+      "events": []
+    },
+    {
+      "population": 129,
+      "happiness": 109,
+      "money": 316,
+      "events": []
+    },
+    {
+      "population": 135,
+      "happiness": 114,
+      "money": 276,
+      "events": []
+    },
+    {
+      "population": 146,
+      "happiness": 116,
+      "money": 301,
+      "events": []
+    },
+    {
+      "population": 158,
+      "happiness": 127,
+      "money": 251,
+      "events": [
+        "Guards say somebody was eaten by an enchanted treasure chest of some variety in the middle of the night.",
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 181,
+      "happiness": 136,
+      "money": 351,
+      "events": []
+    },
+    {
+      "population": 217,
+      "happiness": 142,
+      "money": 301,
+      "events": []
+    },
+    {
+      "population": 243,
+      "happiness": 149,
+      "money": 398,
+      "events": []
+    },
+    {
+      "population": 269,
+      "happiness": 157,
+      "money": 548,
+      "events": []
+    },
+    {
+      "population": 270,
+      "happiness": 160,
+      "money": 248,
+      "events": []
+    },
+    {
+      "population": 288,
+      "happiness": 166,
+      "money": 198,
+      "events": []
+    },
+    {
+      "population": 296,
+      "happiness": 163,
+      "money": 347,
+      "events": []
+    },
+    {
+      "population": 306,
+      "happiness": 154,
+      "money": 627,
+      "events": []
+    },
+    {
+      "population": 302,
+      "happiness": 151,
+      "money": 537,
+      "events": []
+    },
+    {
+      "population": 319,
+      "happiness": 164,
+      "money": 747,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 333,
+      "happiness": 169,
+      "money": 357,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 351,
+      "happiness": 172,
+      "money": 377,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 369,
+      "happiness": 179,
+      "money": 377,
+      "events": [
+        "The jester dazzled the court with a display of acrobatics and theatre, raising the spirits of all in attendance."
+      ]
+    },
+    {
+      "population": 389,
+      "happiness": 177,
+      "money": 380,
+      "events": []
+    },
+    {
+      "population": 404,
+      "happiness": 173,
+      "money": 380,
+      "events": []
+    },
+    {
+      "population": 411,
+      "happiness": 168,
+      "money": 377,
+      "events": []
+    },
+    {
+      "population": 434,
+      "happiness": 174,
+      "money": 425,
+      "events": []
+    },
+    {
+      "population": 450,
+      "happiness": 166,
+      "money": 665,
+      "events": []
+    },
+    {
+      "population": 467,
+      "happiness": 169,
+      "money": 465,
+      "events": []
+    },
+    {
+      "population": 472,
+      "happiness": 156,
+      "money": 410,
+      "events": [
+        "Papers have been posted around town spreading news of the destruction of the western forest. The people feel quite guilty about this.",
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 475,
+      "happiness": 158,
+      "money": 415,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 483,
+      "happiness": 162,
+      "money": 425,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    }
+  ]
+}

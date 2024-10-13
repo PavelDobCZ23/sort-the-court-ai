@@ -1,0 +1,228 @@
+{
+  "id": "2024-10-13T17-30-01",
+  "ai": "gemini",
+  "personality": "Donald Trump",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 100,
+      "happiness": 100,
+      "money": 199,
+      "events": []
+    },
+    {
+      "population": 114,
+      "happiness": 108,
+      "money": 83,
+      "events": []
+    },
+    {
+      "population": 112,
+      "happiness": 101,
+      "money": 183,
+      "events": []
+    },
+    {
+      "population": 134,
+      "happiness": 106,
+      "money": 188,
+      "events": []
+    },
+    {
+      "population": 142,
+      "happiness": 114,
+      "money": 41,
+      "events": []
+    },
+    {
+      "population": 164,
+      "happiness": 120,
+      "money": 191,
+      "events": []
+    },
+    {
+      "population": 201,
+      "happiness": 134,
+      "money": 293,
+      "events": []
+    },
+    {
+      "population": 203,
+      "happiness": 125,
+      "money": 288,
+      "events": []
+    },
+    {
+      "population": 210,
+      "happiness": 113,
+      "money": 688,
+      "events": []
+    },
+    {
+      "population": 233,
+      "happiness": 130,
+      "money": 676,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 234,
+      "happiness": 120,
+      "money": 676,
+      "events": []
+    },
+    {
+      "population": 242,
+      "happiness": 124,
+      "money": 676,
+      "events": []
+    },
+    {
+      "population": 233,
+      "happiness": 110,
+      "money": 746,
+      "events": []
+    },
+    {
+      "population": 244,
+      "happiness": 117,
+      "money": 981,
+      "events": []
+    },
+    {
+      "population": 251,
+      "happiness": 130,
+      "money": 1389,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 251,
+      "happiness": 154,
+      "money": 1444,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 287,
+      "happiness": 160,
+      "money": 1664,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 301,
+      "happiness": 165,
+      "money": 1454,
+      "events": []
+    },
+    {
+      "population": 340,
+      "happiness": 174,
+      "money": 1504,
+      "events": []
+    },
+    {
+      "population": 363,
+      "happiness": 180,
+      "money": 1504,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 385,
+      "happiness": 178,
+      "money": 1624,
+      "events": [
+        "People are getting a bit sad about the lack of town structures, like taverns and granaries.",
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 368,
+      "happiness": 181,
+      "money": 1299,
+      "events": []
+    },
+    {
+      "population": 396,
+      "happiness": 196,
+      "money": 1089,
+      "events": []
+    },
+    {
+      "population": 426,
+      "happiness": 212,
+      "money": 679,
+      "events": [
+        "The jester dazzled the court with a display of acrobatics and theatre, raising the spirits of all in attendance."
+      ]
+    },
+    {
+      "population": 488,
+      "happiness": 223,
+      "money": 779,
+      "events": []
+    },
+    {
+      "population": 538,
+      "happiness": 239,
+      "money": 944,
+      "events": []
+    },
+    {
+      "population": 576,
+      "happiness": 249,
+      "money": 1091,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 631,
+      "happiness": 266,
+      "money": 1221,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives.",
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night.",
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 671,
+      "happiness": 271,
+      "money": 1206,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold...",
+        "Louis was giving out free cake in the market today, much to the citizen's delight."
+      ]
+    },
+    {
+      "population": 706,
+      "happiness": 292,
+      "money": 1041,
+      "events": [
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!",
+        "The witch has slain a goblin with a bounty on his head. We've earned a portion of the reward as tax income.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 762,
+      "happiness": 295,
+      "money": 95,
+      "events": []
+    },
+    {
+      "population": 812,
+      "happiness": 299,
+      "money": 848,
+      "events": []
+    }
+  ]
+}

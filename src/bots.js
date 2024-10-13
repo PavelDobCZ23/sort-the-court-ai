@@ -1,4 +1,3 @@
-//const CharAI = await import("cainode"); //!may not work idk, try different way in that case
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('node:fs');
 
@@ -29,7 +28,7 @@ class CharacterBot {
 		)[0].raw_content; //it is a complicated system...
 		return responseMessage;
 	}
-	async decide(prompt,questYesNo) {
+	async decide(prompt) {
 		const decision = {
 			key: "",
 			full: ""
@@ -40,17 +39,6 @@ class CharacterBot {
 		)[0].raw_content; //...get the message from 1st item in array that matches primary id
 		if (decision.full.match(/\byes\b/i) != null) decision.key = "y";
 		if (decision.full.match(/\bno\b/i) != null) decision.key = "n";
-		//INFO CharAI is stupid!
-		if (decision.key == "" && questYesNo) {
-			const response = await this.#client.character.send_message(
-				"ALWAYS FOLLOW THE RULES! ONLY ANSWER 'yes' OR 'no' TO QUESTIONS STARTING WITH 'QUEST:'!! AGAIN!"
-			,false);
-			decision.full = response.turn.candidates.filter(
-				cand => cand.candidate_id === response.turn.primary_candidate_id
-			)[0].raw_content;
-			if (decision.full.match(/\byes\b/i) != null) decision.key = "y";
-			if (decision.full.match(/\bno\b/i) != null) decision.key = "n";
-		}
 		return decision;
 	}
 	#character;
@@ -79,7 +67,7 @@ class GeminiBot {
 			temperature: 1.4,
 			topP: 0.95,
 			topK: 40,
-			maxOutputTokens: 4096,
+			maxOutputTokens: 1024,
 			responseMimeType: 'text/plain'
 		};
 
@@ -99,7 +87,7 @@ class GeminiBot {
 			history
 		});
 	}
-	async decide(prompt,questYesNo) {
+	async decide(prompt) {
 		const decision = {
 			key: "",
 			full: ""

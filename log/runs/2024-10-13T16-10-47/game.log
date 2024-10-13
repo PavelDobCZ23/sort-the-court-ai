@@ -1,0 +1,351 @@
+AI ChatBot (gemini) with personality: Darth Vader
+Game: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H
+Bot: Yes.  The Empire must have order. 
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! H For now all you need to concern yourself with is keeping the citizens happy and growing our population. H Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: Ok.  An auspicious beginning.  The citizens will learn obedience. 
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: Yes. Amusement is acceptable... for now. 
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 100(0) Happiness: 100(0) Money: 150(-50)
+Bot: Ok. A small price for… happiness.  We shall see if this "show" is worth it. 
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H
+Bot: Yes.  Tend to it well.  My gardens must flourish. 
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 97(-3) Happiness: 100(0) Money: 150(0)
+Bot: Ok. A necessary sacrifice for the beautification of the Empire. 
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: No.  The citizens are mine, not yours to consume.  Control your hunger, beast. 
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 97(0) Happiness: 101(+1) Money: 150(0)
+Bot: Ok.  The creature's hunger will be addressed later. Perhaps… redirected. 
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: No.  Such games of chance are beneath me. And I do not bargain for souls. They belong to the Empire. 
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 97(0) Happiness: 101(0) Money: 150(0)
+Bot: Ok.  This "Georgie" will learn to fear my power.  His offer was… intriguing, though.  Perhaps another time.   
+Game: EVENT - Day 1 complete! People are happy, the city is ii1? STATS: Population: 100(+3) Happiness: 101(0) Money: 150(0)
+Bot: Ok.  Good. The first day is but a stepping stone to greater things. 
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.
+Bot: Yes. Nourishment is essential for a strong populace. 
+Game: RESPONSE: Grandma - Very well! I'll sell my soup in the town square. STATS: Population: 110(+10) Happiness: 106(+5) Money: 100(-50)
+Bot: Ok.  The increase in population pleases me.  We must find ways to replenish the treasury. 
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: Yes. Speak quickly.  My time is valuable.   
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 110(0) Happiness: 106(0) Money: 100(0)
+Bot: Ok. We shall see what this "Sultan" offers.  Intriguing. 
+Game: QUEST: L-D 3.4(robot) - H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me? H
+Bot: Yes.  A functioning machine is a useful machine.   
+Game: RESPONSE: L-D 3.4(robot) - T- T- T- Thanks. Friend. I. Am. Become. Fixed. STATS: Population: 110(0) Happiness: NaN(NaN) Money: 0(-100)
+Bot: Ok.  Hmm. A curious malfunction.  This robot could prove useful. The cost, however... concerning.  We must be more cautious with our funds. 
+Game: QUEST: Knight - My lord! I've come across a chest of gold in my adventures! Will you please accept this gift? H
+Bot: Yes. Such... generosity is appreciated.   
+Game: RESPONSE: Knight - It is my pleasure to serve you! STATS: Population: 110(0) Happiness: NaN(NaN) Money: 100(+100)
+Bot: Ok. Most... unexpected.  Perhaps this knight will prove useful.  We will observe him closely. 
+Game: QUEST: Gardener - We've completed work on the garden. Are you pleased?
+Bot: Yes. Continue your good work.   
+Game: RESPONSE: Gardener - I am so glad! STATS: Population: 113(+3) Happiness: 116(NaN) Money: 100(0)
+Bot: Ok.  The garden is a symbol of our prosperity. We must expand it further. 
+Game: EVENT - Day 2 complete! People are happy, the city is ii1? STATS: Population: 120(+7) Happiness: 116(0) Money: 100(0)
+Bot: Ok. Acceptable progress.  The Empire is growing stronger. 
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: Yes.  New subjects for the Empire.   
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 135(+15) Happiness: 119(+3) Money: 100(0)
+Bot: Ok. Their strength will serve us well.   We will watch for any signs of… disloyalty.  
+Game: QUEST: Chicken - Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)
+Bot: Yes. Let it be... for now.  We will observe its behavior. 
+Game: RESPONSE: Chicken - Bok. (It left behind an egg!!) STATS: Population: 135(0) Happiness: 119(0) Money: 103(+3)
+Bot: Ok.  Curious. Perhaps this… chicken can be of use to the Empire. 
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work? H
+Bot: Yes.  Forced labor will benefit the Empire.   
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 143(+8) Happiness: 119(0) Money: 103(0)
+Bot: Ok. Their efforts will fuel our expansion.  We will break their spirits.   
+Game: QUEST: Gardener - Would you like to buy some flowers from our garden? They're a special low price for you, sir! H
+Bot: Yes.  The gardens of the Empire must be adorned.   
+Game: RESPONSE: Gardener - Flowers are sooo |ovely! STATS: Population: 143(0) Happiness: 126(+7) Money: 98(-5)
+Bot: Ok.  A small price for such… beauty.  And the increased happiness of the populace is… acceptable. 
+Game: QUEST: Georgie(small flying devil) - You interested in makin' a deal, bub? Your people's souls in exchange for my gold. How bout it? H
+Bot: No.  I told you before, their souls are not yours to bargain for.   
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 143(0) Happiness: 126(0) Money: 98(0)
+Bot: Ok.  This creature grows tiresome. Perhaps… forceful persuasion is required. 
+Game: EVENT: The workers we captured and recruited have sped up our building processes, resulting in more tax income. STATS: Population: 143(0) Happiness: 126(0) Money: 118(+20)
+Bot: Ok.  Good. Their suffering is proving… productive. 
+Game: EVENT - Day 3 complete! People are happy, the city is ii1? STATS: Population: 157(+14) Happiness: 126(0) Money: 118(0)
+Bot: Ok. The Empire continues its inevitable rise. 
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: No.  I will not yield to its silent demands.  Let it stare.  I do not fear it.    
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... sad...) STATS: Population: 157(0) Happiness: 116(-10) Money: 118(0)
+Bot: Ok.  An unforeseen consequence.  Perhaps… a display of power was not the wisest course. We will reconsider our approach in the future. The happiness of the populace… must be maintained. 
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: Yes.  Make haste.      
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 157(0) Happiness: 119(+3) Money: 15(-103)
+Bot: Ok.  What?!  That… expense was… exorbitant.  This "Butler" will be… reprimanded. We must carefully scrutinize future expenditures.   
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: Yes.  Prove your loyalty through action.    
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 157(0) Happiness: 119(0) Money: 15(0)
+Bot: Ok. We shall see what he brings back.  Perhaps treasure. Perhaps… disappointment.   
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: No. And I have no desire to. Get to the point.     
+Game: RESPONSE: Chester(mimic chest) - Well, you're not gonna. STATS: Population: 157(0) Happiness: 119(0) Money: 15(0)
+Bot: Ok. Insolent creature. Its amusement will be short-lived.  We must find a use for its… unique abilities. Perhaps as a… deterrent. 
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: No.  We cannot afford such frivolous expenses.  Amuse the populace with what you have.     
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 157(0) Happiness: 114(-5) Money: 15(0)
+Bot: Ok.  A temporary setback.  We must prioritize financial stability above all else.  The populace will learn to appreciate… other forms of entertainment.  Fear, perhaps.   
+Game: EVENT - Day 4 complete! People are happy, the city is ii1? STATS: Population: 167(+10) Happiness: 114(0) Money: 15(0)
+Bot: Ok.  The Empire persists, despite our… financial challenges.  We must find new sources of revenue. 
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: No.  Your place is here, serving the Empire. Not at frivolous parties.      
+Game: RESPONSE: Butler - Oh dear... I told my friends I'd be there.. STATS: Population: 167(0) Happiness: NaN(NaN) Money: 15(0)
+Bot: Ok. His disappointment is irrelevant.  The needs of the Empire supersede his social life. We must enforce discipline.   
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: Yes.  Eliminate them. Goblins are a blight upon the Empire.      
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 167(0) Happiness: 115(NaN) Money: 105(+90)
+Bot: Ok.  A necessary expense.  We must maintain order within our borders. This witch could prove… a useful asset.  We will keep an eye on her.   
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: No.  Speak plainly, creature.        
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 167(0) Happiness: 115(0) Money: 105(0)
+Bot: Ok. Its attempts at… levity are unwelcome.  We will tolerate its presence… for now. Perhaps there is a way to… weaponize its "spookiness." 
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath? H
+Bot: Yes. Cleanliness is… essential.  For the sake of the Empire, of course.         
+Game: RESPONSE: Royal Advisor - Glad you agree! She won't be happy, though. STATS: Population: 167(0) Happiness: 114(-1) Money: 105(0)
+Bot: Ok.  A small price to pay for… hygiene. The populace will adapt.     
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: Yes.  *I concede. What do you require of me?* (This… creature unnerves me.  I will… cooperate… for now.)     
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... unlucky!) STATS: Population: 167(0) Happiness: 114(0) Money: 5(-100)
+Bot: Ok.  A… disturbing development.  This creature's influence is… troubling. We must find a way to… counteract its power.  But for now… we must endure.   
+Game: EVENT: The jester's show was loved by the court, and put everybody into a happy mood. STATS: Population: 167(0) Happiness: 122(+8) Money: 5(0)
+Bot: Ok.  A welcome… distraction.  The jester's… usefulness… is acknowledged.   
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 167(0) Happiness: 127(+5) Money: 5(0)
+Bot: Ok.  Good. Let the witch have her… accolades.  It serves the Empire.  Perhaps she can be… manipulated.  We will explore this… opportunity. 
+Game: EVENT - Day 5 complete! People are happy, the city is ii1? STATS: Population: 179(+12) Happiness: 127(0) Money: 5(0)
+Bot: Ok.  Progress continues, despite our limited resources. We must find a way to replenish the treasury. Immediately.  Perhaps the Sultan's offer… holds the key.    
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: No. Our financial situation remains precarious. Find another way to amuse the populace.  Fear, perhaps.    
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 179(0) Happiness: 122(-5) Money: 5(0)
+Bot: Ok. A necessary sacrifice.  We must restore our financial stability. The populace will… adjust.   
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: Yes. Investigate the All-Seeing Eye.  I wish to know more about its… abilities… and its influence.  Discreetly.     
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 179(0) Happiness: 122(0) Money: -5(-10)
+Bot: Ok.  Another expense… but a necessary one. Knowledge is power. And power… is essential. We must regain control of our finances.  Quickly.      
+Game: QUEST: Georgie(small flying devil) - Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H
+Bot: Yes. … *Very well.* (This… transaction is distasteful… but necessary. We require funds. Desperate times…)  But only a *few* souls. And a substantial sum of gold.       
+Game: RESPONSE: Georgie(small flying devil) - You got it, bub! I'll be taking those souls, now.. STATS: Population: 159(-20) Happiness: 112(-10) Money: 395(+400)
+Bot: Ok.  A… regrettable but necessary sacrifice.  The ends justify the means. We will… rebuild our population.  And… find a… more palatable way to acquire funds in the future. But for now… this will suffice. 
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: No. We must conserve our resources.  Every coin counts.     
+Game: RESPONSE: Mason - So stingy! STATS: Population: 159(0) Happiness: NaN(NaN) Money: 395(0)
+Bot: Ok. His opinion is irrelevant.  We must maintain financial discipline.    
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: Yes.  Speak quickly. What "truth" do you possess?  And what is your price?          
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go... investigate something. STATS: Population: 159(0) Happiness: NaN(NaN) Money: 385(-10)
+Bot: Ok. Another expense... but information is valuable. We shall see what this "Molder" uncovers.  We must find a way to generate revenue.  Our current reserves, while improved, will not last.     
+Game: EVENT - Day 6 complete! People are happy, the city is ii1? STATS: Population: 165(+6) Happiness: NaN(NaN) Money: 385(0)
+Bot: Ok.  Acceptable.  We are… recovering. But we must be more vigilant.  More… ruthless.    
+Game: QUEST: Royal Advisor - The people have started a petition to ban pineapples in the city. Should we do it?
+Bot: Yes.  If it appeases the populace, so be it.  Pineapples are… irrelevant.       
+Game: RESPONSE: Royal Advisor - The pineapple trade wil| suffer, but the people demand it. STATS: Population: 165(0) Happiness: 114(NaN) Money: 375(-10)
+Bot: Ok.  A minor setback. The happiness of the populace… is a valuable commodity. We will find other… avenues of trade.     
+Game: QUEST: Georgie? - Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! H Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!
+Bot: No. Your… "deals" have proven… costly in the past.  We will manage the happiness of the populace ourselves.  Through… other means.          
+Game: RESPONSE: Georgie? - Dangit! What's a guy gotta do to make a DEAL around here!? STATS: Population: 165(0) Happiness: 114(0) Money: 375(0)
+Bot: Ok.  This creature continues to be… a nuisance. We will… deal with him… later.  Permanently, perhaps.   
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can' see it?
+Bot: No.  Such… metaphysical musings are… irrelevant.  Get to the point. What is your report on the All-Seeing Eye?         
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 165(0) Happiness: 114(0) Money: 375(0)
+Bot: Ok. Its… observations are… impertinent.  We will tolerate its… presence… for now. But its continued insolence will not be… overlooked.       
+Game: QUEST: The Sultan - A caravan of mine wishes to camp in your city for the next few days. Might that be arranged?
+Bot: Yes.  But for a price.  We are in need of… funds.  They may camp here… in exchange for a suitable tribute.            
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 175(+10) Happiness: 114(0) Money: 375(0)
+Bot: Ok. Good.  We will see what… other opportunities… this alliance presents.   
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?
+Bot: Yes. We require more guards.  His… appearance… is of no consequence.  Loyalty and strength are what matter. We will… observe him closely.          
+Game: RESPONSE: Butler - I shall tell him to move along, then. STATS: Population: 175(0) Happiness: 113(-1) Money: 375(0)
+Bot: Ok.  Another potential asset.  We will see if he proves… worthy.   
+Game: EVENT: The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income. STATS: Population: 175(0) Happiness: 113(0) Money: 390(+15)
+Bot: Ok.  Good.  This alliance… is proving profitable. We will cultivate it further.     
+Game: EVENT - Day 7 complete! People are happy, the city is ii1? STATS: Population: 181(+6) Happiness: 113(0) Money: 390(0)
+Bot: Ok.  The Empire is… stable.  But stability is not enough.  We must strive for… dominance.    
+Game: QUEST: Miriam - Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while? H
+Bot: Yes.  All are welcome within the Empire… so long as they contribute.  We will… find a use for you.            
+Game: RESPONSE: Miriam - How nice... Albert and I shall find an inn to stay at. I'm sure I will see you again. Albert seems to like you. STATS: Population: 182(+1) Happiness: 113(0) Money: 390(0)
+Bot: Ok.  Another… potential asset. “Albert”, you say? Intriguing.  We will observe them both.   
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I found a way to summon people from another dimension. Want me to summon some folks? H
+Bot: Yes.  Summon them.  New subjects for the Empire.  But… choose carefully.  We do not want… undesirables.          
+Game: RESPONSE: Skelly(skeleton creature) - Woohoo! Magic of questionable origins! STATS: Population: 202(+20) Happiness: 113(0) Money: 390(0)
+Bot: Ok. Excellent.  This skeleton… is proving surprisingly useful. We will reward his… initiative… in due time.  Perhaps with… increased responsibilities.      
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: No. The treasury is not for the taking.  Earn your keep, creature.  Contribute to the Empire, and you will be rewarded.             
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 202(0) Happiness: 112(-1) Money: 390(0)
+Bot: Ok.  Its… demands are… unreasonable.  We will not be swayed by… threats.       
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: No. I have no time for… parlor tricks.  What is the purpose of this… "crystal"? Speak plainly, creature.          
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 202(0) Happiness: 112(0) Money: 390(0)
+Bot: Ok.  Intriguing.  Perhaps there is some… value… in this crystal. We will… investigate further.  At a more opportune time.      
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+Bot: Yes.  Let them come.  They will become… subjects of the Empire.  We will… absorb their strength.             
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 232(+30) Happiness: 122(+10) Money: 440(+50)
+Bot: Ok. Excellent. Expansion is key to our… ultimate goal.  Domination.    
+Game: EVENT: The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income. STATS: Population: 232(0) Happiness: 122(0) Money: 455(+15)
+Bot: Ok. The Sultan's… cooperation continues to be… beneficial. We will maintain this… alliance.  For now.      
+Game: EVENT - Day 8 complete! People are happy, the city is ii1? STATS: Population: 245(+13) Happiness: 122(0) Money: 455(0)
+Bot: Ok.  Good.  The Empire grows stronger.  But we must not become complacent.  There is much work to be done.    
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+Bot: No.  Such… frivolities are… unnecessary.  We have more… pressing concerns.          
+Game: RESPONSE: Monsieur Mouton - Ohhh nonono.. I am sorry! STATS: Population: 245(0) Happiness: 122(0) Money: 455(0)
+Bot: Ok. His… services are… not required.  At least… not at this time.      
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: No.  We must conserve our resources.  What… news… could possibly be of value to the Empire?            
+Game: RESPONSE: Grandma - Eeeeh, oh myyy.. STATS: Population: 245(0) Happiness: 121(-1) Money: 455(0)
+Bot: Ok.  A negligible loss.  Information is valuable, but… not at that price.      
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: No.  What… possible “present” could you offer the Empire?  Speak plainly, creature, or be gone.               
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 245(0) Happiness: 120(-1) Money: 455(0)
+Bot: Ok.  Another… insignificant creature.  We will tolerate its presence… for now.  Perhaps there is a way to… exploit its… "sliiiiiime".   
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: No. I have told you before.  The citizens of the Empire are not yours to consume.  Control your… appetite, creature.  Or face the consequences.            
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 245(0) Happiness: 121(+1) Money: 455(0)
+Bot: Ok.  Its… compliance is… noted. But we must find a way to… utilize its… hunger.  For the benefit of the Empire, of course.          
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: Yes. Go.  But do not… disappoint your mother… or the Empire.  Report back with your findings.                
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 245(0) Happiness: 123(+2) Money: 455(0)
+Bot: Ok.  Perhaps this… “adventure” will prove… beneficial. We shall see.    
+Game: EVENT: The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold. STATS: Population: 245(0) Happiness: 123(0) Money: 475(+20)
+Bot: Ok.  A welcome… gesture. This alliance continues to prove… advantageous.      
+Game: EVENT - Day 9 complete! People are happy, the city is ii1? STATS: Population: 256(+11) Happiness: 123(0) Money: 475(0)
+Bot: Ok.  Excellent. The Empire prospers.  We must maintain this… momentum.     
+Game: EVENT: Royal Advisor - Sir, the city's population is growing steadily. Our records of citizenship indicate that 250 people now call the city home. With a bigger city, we'll need to maintain even higher happiness in order to keep people satisfied. H Make sure you pay attention to the citizens and their issues to raise our happiness! H Anyway, we still have lots of work to do. Let's make this city even bigger! By the way, remember earlier when I mentioned the Council of Crowns? I've heard a rumor that one of their members has been searching the land for a new ruler to join them. H Perhaps they are aware of our progress... STATS: Population: 256(0) Happiness: 123(0) Money: 575(+100)
+Bot: Ok.  The Council of Crowns… Interesting. Their… attention… is… intriguing.  We will continue to expand the Empire.  And… increase the happiness of the populace.  They will learn to… appreciate… my rule. Through fear, if necessary.  Power… attracts power.  And I… am power. 
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: No.  Enough. Your… hunger… is a liability. Find another way to… sustain yourself.  Or face the consequences.          
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 256(0) Happiness: 124(+1) Money: 575(0)
+Bot: Ok. Its… continued compliance… is… concerning.  We will… address this… later.     
+Game: QUEST: Miriam - Hello again, kingly person! Oho! Albert asked me to come here and tell a story with you. H A yellow bird meets a green bird in the sky. Does the yellow bird soar higher than the green? H
+Bot: No.  Such… frivolous riddles are… beneath me.  Get to the point.  What is the purpose of this… encounter?           
+Game: QUEST: Miriam - Oho! No, the yellow makes way for the green, who pumps his wings and climbs ever higher! Gliding on a gentle breeze, the green bird soon meets a bluebird. Does it make time to stop and sing? H
+Bot: No.  Cease these… pointless distractions.  I have no time for… children’s tales.         
+Game: RESPONSE: Miriam - Not today! No, the green bird has no time to spare as he climbs through the clouds! Oho! I like the green bird, too. I always wanted one. Anyway, I think Albert enjoyed our story. I'll be sure to visit you again sometime! STATS: Population: 256(0) Happiness: 134(+5) Money: 575(0)
+Bot: Ok.  A… curious interaction.  This “Miriam” and her… companion “Albert” … are… enigmatic.  We will continue to observe them.  Perhaps they can be… of use.   
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H
+Bot: Yes.  Recapture her.  Escaped prisoners are… unacceptable.  Dead or alive.  The reward… is authorized.          
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 256(0) Happiness: 137(+3) Money: 525(-50)
+Bot: Ok.  A necessary expense.  Order must be maintained.  We will… make an example of this… escapee.   
+Game: QUEST: Sneaky Girl - The guards confiscated some gold that I, uh... found... Can I have it back?
+Bot: No.  “Found” gold belongs to the Empire.  Consider it… a donation.          
+Game: RESPONSE: Sneaky Girl - You're keeping it, eh? But I sto- I mean... found it.. STATS: Population: 256(0) Happiness: 137(0) Money: 550(+25)
+Bot: Ok.  Her… protests are… irrelevant.  We require funds.  And… she will learn a valuable lesson about… theft.   
+Game: EVENT - Day 10 complete! People are sad, the city is shrinking! STATS: Population: 255(-1) Happiness: 137(0) Money: 550(0)
+Bot: Ok.  … Unacceptable. We must address this… decline… immediately.  The populace will learn… obedience.  And… happiness… through… other means.   
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+Bot: Yes. Cleanliness is… essential. And… a clean city… promotes… contentment. Perhaps.          
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: 255(0) Happiness: 139(+2) Money: 500(-50)
+Bot: Ok. Another expense… but a necessary one. We must find a more… sustainable… solution to this… sanitation problem.      
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: No.  We cannot afford such… extravagance.  You will… drink water.  Like the rest of us.               
+Game: RESPONSE: Butler - No? Another time, then. STATS: Population: 255(0) Happiness: 139(0) Money: 500(0)
+Bot: Ok.  He will learn… austerity.  Like the rest of the Empire.      
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+Bot: No.  I have told you before.  Such services are… unnecessary.  Focus on more… practical… endeavors.               
+Game: RESPONSE: Monsieur Mouton - Ohhh nonono.. I am sorry! STATS: Population: 255(0) Happiness: 139(0) Money: 500(0)
+Bot: Ok.  His persistence is… tiresome. We will… ignore him. For now.   
+Game: QUEST: Madame Abeille - Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?
+Bot: Yes.  What… skills… do you possess?  Make yourself useful.  Quickly.            
+Game: RESPONSE: Madame Abeille - How sweet! I'm sure many wonderful adventures await us. STATS: Population: 256(+1) Happiness: 139(0) Money: 500(0)
+Bot: Ok.  Another… potential asset.  We shall see what she brings to the Empire.     
+Game: EVENT: Miriam - Oho! Good day, kingly person friend of mine. Albert wished for me to stop by and say hello. H So.. hello! Thank you for letting us stay in your wonderful city. STATS: Population: 256(0) Happiness: 139(0) Money: 500(0)
+Bot: Ok.  Their… continued presence is… tolerated.  For now.  We will continue to observe them.  And “Albert”.       
+Game: EVENT - Day 11 complete! People are sad, the city is shrinking! STATS: Population: 255(-1) Happiness: 139(0) Money: 500(0)
+Bot: Ok.  This… decline… is… unacceptable.  We must take… decisive action.  The populace will learn… to appreciate… my rule.  Or suffer the consequences. 
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: No.  I have told you before.  We must conserve our resources. Every coin is precious.  You will… eat… something else.            
+Game: RESPONSE: Mason - So stingy! STATS: Population: 255(0) Happiness: 138(-1) Money: 500(0)
+Bot: Ok. His… complaints are… irrelevant.  We must maintain financial discipline.  He will learn to appreciate… my… frugality.     
+Game: EVENT: Military General - The escaped prisoner has been recaptured thanks to the bounty you offered. Our citizens can rest easier knowing that she's been put away again. STATS: Population: 255(0) Happiness: 41(-97) Money: 500(0)
+Bot: Ok. Good.  … *Put away*?  Is she… contained?  Securely?  We will… deal with her… personally.   An example must be made. This… drop in happiness… is… concerning.  We will… address it.  Forcefully, if necessary.    
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: No.  I have no need for such… childish… designations.  What… possible use… could a “spooky nickname” have for the Empire?           
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 255(0) Happiness: 140(+99) Money: 500(0)
+Bot: Ok. … A… dramatic shift in the populace's… mood.  Curious.  This creature's… influence… is… noteworthy.  We will… study it further.  Perhaps there is a way to… harness its power.  For the benefit of the Empire, of course.      
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: Yes.  … Proceed.  But… choose your magic… wisely.  I have little patience for… trivialities.                
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 255(0) Happiness: 140(0) Money: 700(+200)
+Bot: Ok.  … Most… fortunate.  Perhaps this… wizard… can be of further use to the Empire. We will… keep him in mind.   
+Game: QUEST: Madame Abeille - Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person? H
+Bot: Yes.  Granted.  But make certain they contribute… meaningfully… to the Empire.  I expect… results.          
+Game: RESPONSE: Madame Abeille - Thank you, my sweet! STATS: Population: 254(-1) Happiness: 140(0) Money: 700(0)
+Bot: Ok.  A minor loss.  We will… monitor their progress.       
+Game: EVENT - Day 12 complete! People are happy, the city is ii1? STATS: Population: 255(+1) Happiness: 140(0) Money: 700(0)
+Bot: Ok.  Acceptable.  The Empire is… recovering.  We must maintain this… upward trajectory.    
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: No.  You offer nothing in return.  Earn your keep, creature. Contribute to the Empire, and you will be rewarded.  But not before.              
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 255(0) Happiness: 139(-1) Money: 700(0)
+Bot: Ok. Its persistence is… noted. But its… demands… remain… unreasonable.  We will not be swayed.    
+Game: QUEST: Gardener - Some plant people have sprouted in the gardens. Are we allowed to make them official citizens? H
+Bot: Yes. New citizens are always welcome... as long as they are… productive.  Let them prove their worth.                
+Game: RESPONSE: Gardener - I will inform them at once! STATS: Population: 260(+5) Happiness: 139(0) Money: 700(0)
+Bot: Ok.  Good.  Their… contribution to the Empire… will be… assessed.     
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: No. I still have no time for… such distractions.  Unless… this “crystal” can benefit the Empire.  Explain its purpose. Clearly.          
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 260(0) Happiness: 139(0) Money: 700(0)
+Bot: Ok. Its… secrecy… is… intriguing.  We will… investigate this… “crystal” … later. Perhaps there is something… more to it than… mere amusement.    
+Game: QUEST: Royal Advisor - Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H
+Bot: Yes. Apprehend this… creature.  Its… disruptive behavior… will not be tolerated.  A bounty is authorized.            
+Game: RESPONSE: Royal Advisor - We'll have that monkey captured in no time. STATS: Population: 260(0) Happiness: 140(+1) Money: 670(-30)
+Bot: Ok. A necessary expense. Order must be maintained.  This… monkey… will learn… obedience.  Or… something else.      
+Game: QUEST: Miriam - Wonderful to see you again, kingly person. Although, I am a bit sad. Albert and I are going to be leaving. H We like to wander, oho, and besides, we mustn't overstay our welcome here. We'll be on our way tonight, but might we have your blessing before we go?
+Bot: Yes. … Go.  The Empire… thanks you… for your… contribution… however… insignificant.            
+Game: RESPONSE: Miriam - Oho! Thank you, kingly person friend. Albert thanks you as well. It was so lovely to have met you. I wish you nothing but happiness! STATS: Population: 259(-1) Happiness: 150(+10) Money: 670(0)
+Bot: Ok.  Their departure… is… noted.  Perhaps it is for the best. Their… presence… was… unsettling.   Though the increase in happiness… is… curious.   
+Game: EVENT - Day 13 complete! People are happy, the city is ii1? STATS: Population: 264(+5) Happiness: 150(0) Money: 670(0)
+Bot: Ok.  Good.  The Empire continues to… thrive. We are… on the right path.  The Council of Crowns will be impressed.  Soon.   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: Yes. Proceed.  But make it… worthwhile.  I have no patience for… parlor tricks.           
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 264(0) Happiness: 150(0) Money: 670(0)
+Bot: … Ok.  A missed opportunity, perhaps.  But… caution is… sometimes necessary.  We must be mindful of… unforeseen consequences.  Especially when dealing with… magic.      
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found some friends on my adventure. Do you like making new friends?
+Bot: No. … “Friends” are… irrelevant.  What… value… do these… “friends” … offer the Empire?  Speak plainly.  Quickly.                   
+Game: RESPONSE: Yet Yet(small yetti in armor) - You're such a weirdo! Byeeee! STATS: Population: 269(+5) Happiness: 150(0) Money: 670(0)
+Bot: Ok.  Its… assessment… is… inaccurate.  But… the increase in population… is… acceptable.  We will… tolerate its… presence… for now.         
+Game: QUEST: Royal Advisor - An angry pineapple trader has denounced your rule! Shall we have her arrested?
+Bot: Yes.  Dissent will not be tolerated. Apprehend her.  She will learn… respect… for the Empire.  And its decrees.            
+Game: RESPONSE: Royal Advisor - Very good! Nobody must stand against your decree! STATS: Population: 268(-1) Happiness: 150(0) Money: 670(0)
+Bot: Ok. A necessary… measure.  Order must be maintained. At any cost.      
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: No.  Your… indiscretion… is your own responsibility.  Tend to your… ailments… yourself. The treasury will not be used for such… frivolous expenses.                
+Game: RESPONSE: Madame Abeille - Oh dear... This tummyache of mine is quite bad! STATS: Population: 268(0) Happiness: 145(-5) Money: 670(0)
+Bot: Ok. A… minor setback. Her… discomfort… is… irrelevant.  We must maintain financial discipline.  She will… recover.  Or… not.    
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: Yes.  Proceed. But make it… swift.  And… beneficial to the Empire.  I have little patience for… games.                    
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 268(0) Happiness: 145(0) Money: 870(+200)
+Bot: Ok. … Acceptable.  This wizard’s… magic… is… proving… useful.  We will… continue to… utilize his services… as needed.      
+Game: EVENT - Day 14 complete! People are happy, the city is ii1? STATS: Population: 269(+1) Happiness: 145(0) Money: 870(0)
+Bot: Ok.  Good.  The Empire… continues its… ascent.  We must maintain this… progress.  The Council of Crowns… will be… pleased.      
+Game: EVENT: Knight - I have returned from my quest! A great bounty of treasure is ours, my lord! STATS: Population: 269(0) Happiness: 145(0) Money: 1120(+250)
+Bot: Ok. … Excellent.  His loyalty… is… commendable.  And… profitable.  We will… reward him… appropriately. In time. 
+Game: QUEST: Molder(purple blob of sludge) - I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. H How do I know this? Sometimes, you just know. You know?
+Bot: No.  "Alien conspirators"?  Preposterous.  Provide… evidence.  Concrete proof.  Or your… “report” … will be dismissed.             
+Game: RESPONSE: Molder(purple blob of sludge) - Maybe one day you'll know... STATS: Population: 269(0) Happiness: 145(0) Money: 1120(0)
+Bot: Ok.  Its… claims… are… unsubstantiated. We will… disregard them… for now. But… we will remain… vigilant.  Alien conspirators… Hmph.     
+Game: EVENT: Royal Advisor - That mischievous monkey has been captured. I shall send him in for your judgement. H STATS: Population: 269(0) Happiness: 145(0) Money: 1120(0)
+Bot: Ok.  Good.  Bring the creature before me.  It will learn… the consequences… of… disobedience.      
+Game: QUEST: Peanut(happy monkey) - Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)
+Bot: Yes.  Such behavior… is… unacceptable.  Discipline is… essential.  He will learn… respect… for the Empire.  And its laws.                  
+Game: RESPONSE: Peanut(happy monkey) - Oooook... (Off to the dungeons!) STATS: Population: 269(0) Happiness: 150(+5) Money: 1120(0)
+Bot: Ok.  Good.  Let his… imprisonment… serve as a warning to others.  Though the increase in happiness… is… unexpected. Perhaps… the populace enjoys… displays of… authority.   
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: No.  Your… “feelings” … are… irrelevant.  The opinions of the populace… are… their own.  Adapt. Or… be gone.               
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 269(0) Happiness: 147(-3) Money: 1120(0)
+Bot: Ok.  Its… complaints… are… tiresome. We will… ignore them.      
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: Yes. …  A tavern… could… boost morale. And… generate revenue for the Empire.  The funds… are authorized.  But… I expect… a return on this investment.  Swiftly.          
+Game: RESPONSE: Mason - The townsfolk will be happy to have a place to drink! STATS: Population: 269(0) Happiness: 150(+3) Money: 920(-200)
+Bot: Ok.  A significant expenditure. But a… calculated risk.  We shall see if it… pays off.       
+Game: EVENT: The plant people are hosting a party at the garden tonight, sharing their fresh fruits and vegetables with the villagers. STATS: Population: 269(0) Happiness: 153(+3) Money: 920(0)
+Bot: Ok.  Good.  Let them… celebrate.  A content populace… is a… productive populace.    
+Game: EVENT - Day 15 complete! People are happy, the city is ii1? STATS: Population: 276(+7) Happiness: 153(0) Money: 920(0)
+Bot: Ok. Excellent.  The Empire continues to… flourish.  The Council of Crowns will be… most impressed.   
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: No. Leave it be.  It poses no… threat.  Perhaps… it can even be… useful. We will… observe it.            
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 276(0) Happiness: 154(+1) Money: 920(0)
+Bot: Ok. A… harmless creature. For now.    
+Game: QUEST: Royal Advisor - There's been a brawl at the tavern. Should we arrest those responsible for starting it?
+Bot: Yes.  Order must be maintained.  Apprehend them.  They will learn… the consequences… of their… disruptive behavior.               
+Game: RESPONSE: Royal Advisor - I shall have them arrested at once! STATS: Population: 276(0) Happiness: 155(+1) Money: 920(0)
+Bot: Ok. Good.  Let their punishment… serve as a deterrent to others.     
+Game: QUEST: L-D 3.4(robot) - I am truly sorry about earlier. My circuits were quite fried. I offer my thanks for your help. H
+Bot: … Ok.  Your gratitude… is… acknowledged.  Prove your worth to the Empire.  Through… service.              

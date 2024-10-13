@@ -1,0 +1,1240 @@
+AI ChatBot (gemini) with personality: ogre ShrekGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H
+Bot: yes.  Somebody's gotta make the tough calls.  Better me than some… *advisor*. 
+
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! H For now all you need to concern yourself with is keeping the citizens happy and growing our population. H Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: ok.  Metropolis, eh?  Sounds like a lotta toilets to plunge.  We'll see about that Council of Crowns thing too.  For now, gotta keep these little people happy. 
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: yes. Truth?  Sounds like ogre kinda thing. What could possibly go wrong having a walking talking blob of goo as a personal advisor? 
+
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go... investigate something. STATS: Population: 100(0) Happiness: 100(0) Money: 190(-10)
+Bot: ok.  Hope he doesn't "investigate" all my waffles.  Spending money already.  Ugh. 
+
+Game: QUEST: Georgie(small flying devil) - Hey, now here's a deal for you, pal! Give me some of yer people's happiness, I'll hook you up with some gold. Sound good?
+Bot: no. Get outta here, ya pointy-eared, happiness-sucking flea! My people ain't for sale, no matter how shiny your offer.   
+
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 100(0) Happiness: 100(0) Money: 190(0)
+Bot: ok. Good riddance. Nobody steals the happiness of my people. Especially some winged midget like this! 
+
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: yes.  A good laugh is worth some gold. Hopefully he’s better than Donkey’s impressions…   
+
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 100(0) Happiness: 100(0) Money: 140(-50)
+Bot: ok. Fifty gold pieces?! For a jester?! Hope he’s really funny.  Better be worth it. 
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no.  Scaring people is MY job! This ghost needs to fly off to find somebody else he can annoy. 
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 100(0) Happiness: 100(0) Money: 140(0)
+Bot: ok.  Good.  Don't need any competition.  Especially not some fancy-pants ghost. 
+
+Game: EVENT: The jester's show was loved by the court, and put everybody into a happy mood. STATS: Population: 100(0) Happiness: 108(+8) Money: 140(0)
+Bot: ok.  See?  Told ya a good laugh is worth it. Eighty gold pieces tho… Ouch.  Even if he is hilarious. 
+
+Game: EVENT - Day 1 complete! People are happy, the city is ii1? STATS: Population: 107(+7) Happiness: 108(0) Money: 140(0)
+Bot: ok.  Not bad for a day's work.  Still got that swamp smell though… need a good mud bath. 
+
+Game: QUEST: Molder(purple blob of sludge) - I... couldn't uncover anything. I was being followed. Too risky. Did you see anyone follow me out of the castle? H
+Bot: no.  I haven't seen anybody, but I wouldn't be surprised if someone wants my smelly treasures.   
+
+Game: RESPONSE: Molder(purple blob of sludge) - I suspected as much. Very suspicious.. STATS: Population: 107(0) Happiness: 108(0) Money: 140(0)
+Bot: ok. Suspicious is right. Better keep an eye out. My onion carriage can’t fall into the wrong hands. Or hooves…  Or paws… Whatever. 
+
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H
+Bot: yes.  A garden sounds…tolerable.  Better than onions, I guess.  Less smelly too, hopefully. 
+
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 104(-3) Happiness: 108(0) Money: 140(0)
+Bot: ok.  Hope those workers come back…  Fiona would like a garden, come to think of it.  If it has less bees…    
+
+Game: QUEST: Military General - A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks? H
+Bot: yes. More ogres? I mean… soldiers.  Sounds good to me.  Always good to have backup.   
+
+Game: RESPONSE: Military General - Sounds good to me, more swords for us! STATS: Population: 119(+15) Happiness: 108(0) Money: 140(0)
+Bot: ok.  Fifteen more swords?  Excellent.  Nobody messes with my kingdom now! Especially not those who steal happiness!    
+
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+Bot: yes. Sure, why not?  More the merrier, right?  Hopefully, they're not afraid of ogres… I mean… kings. 
+
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 149(+30) Happiness: 118(+10) Money: 190(+50)
+Bot: ok.  Stronger AND richer.  I like it! This king business ain't so bad after all. Though I could use a good mud bath… and some waffles. 
+
+Game: QUEST: L-D 3.4(robot) - H- H- Hello! I. Am. Serial number L. D. Three. Point. Four. C- C- C- Can you f- f- fix me? H
+Bot: yes.  A talking robot?  Sounds…interesting.  What’s the worst that could happen?    
+
+Game: RESPONSE: L-D 3.4(robot) - T- T- T- Thanks. Friend. I. Am. Become. Fixed. STATS: Population: 149(0) Happiness: 123(+5) Money: 90(-100)
+Bot: ok.  Fixed… but expensive.  Hope this robot can earn its keep.  Maybe it can make waffles… 
+
+Game: EVENT - Day 2 complete! People are happy, the city is ii1? STATS: Population: 160(+11) Happiness: 123(0) Money: 90(0)
+Bot: ok. Another good day.  Though that robot cost a lot… maybe I should think twice before fixing things.  My swamp doesn't need fixing and it's perfect. 
+
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes. Go for it, little fella. Just try not to break anything. Like my record for loudest burp.     
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 160(0) Happiness: 125(+2) Money: 90(0)
+Bot: ok. Exploring, huh? Hope he finds something good. Like a really big onion. Or a self-cleaning outhouse.   
+
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: no.  Money doesn't grow on trees, ya know.  Even if you ARE hairy enough to live in one.   
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 160(0) Happiness: 124(-1) Money: 90(0)
+Bot: ok.  Good riddance.  Freeloading furball. Next he'll be asking for my waffles. 
+
+Game: QUEST: Miriam - Oho, what is this strange place I've found myself in? Albert, do you know where we are? My oh my, hello you kingly person there! I do believe I am a bit lost. Might I stay in this town for a while? H
+Bot: yes. Lost, eh? Happens to the best of us.  Welcome to my kingdom, I guess. Just don't eat all my waffles.      
+
+Game: RESPONSE: Miriam - How nice... Albert and I shall find an inn to stay at. I'm sure I will see you again. Albert seems to like you. STATS: Population: 161(+1) Happiness: 124(0) Money: 90(0)
+Bot: ok.  Albert, huh? Sounds like a donkey.  Hope they don't mind the swamp smell.    
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. Magic, eh? Sounds like ogre kinda thing. Though, hopefully less… explosive than usual.   
+
+Game: RESPONSE: Wizard - Aaah, my apologies. I guess the spell turned out to be evil. STATS: Population: 151(-10) Happiness: 109(-15) Money: 90(0)
+Bot: ok. EVIL?! What kind of wizard does EVIL spells?!  I knew I shoulda trusted my gut.  Magic is always trouble.  Except when it involves waffles…   
+
+Game: QUEST: L-D 3.4(robot) - I am truly sorry about earlier. My circuits were quite fried. I offer my thanks for your help. H
+Bot: no. Don’t mention it… just don’t fry my circuits again, or you're scrap metal. 
+
+Game: RESPONSE: L-D 3.4(robot) - You cannot refuse my thanks. It is... illogical. STATS: Population: 151(0) Happiness: 112(+3) Money: 190(+100)
+Bot: ok.  Well, I'll be.  A grateful robot.  AND he brought money.  Maybe robots aren’t so bad after all.  Still can’t make waffles though…   
+
+Game: EVENT - Day 3 complete! People are happy, the city is ii1? STATS: Population: 160(+9) Happiness: 112(0) Money: 190(0)
+Bot: ok.  Not a bad day.  Except for that evil wizard…  Still grumpy about that.  Need a mud bath and a waffle.  A big one.   
+
+Game: QUEST: Madame Abeille - Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?
+Bot: yes. Another subject? Why not.  As long as she doesn’t mind swamp mud and…  wait, what IS that buzzing sound?   
+
+Game: RESPONSE: Madame Abeille - How sweet! I'm sure many wonderful adventures await us. STATS: Population: 161(+1) Happiness: 112(0) Money: 190(0)
+Bot: ok. Adventures, huh?  Hope they involve less magic and more waffles.   
+
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H
+Bot: no.  Another witch? No thanks. One evil magic show was enough.  Besides, witches should pay their own way.     
+
+Game: RESPONSE: Witch - Sheesh, how selfish! Forget I even asked! STATS: Population: 162(+1) Happiness: 108(-4) Money: 190(0)
+Bot: ok.  Selfish?!  I’m not selfish, I’m… financially responsible. Yeah, that’s it. Besides, less witches, less problems.  Especially magical, explosive ones.   
+
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+Bot: yes.  Garbage in the streets?  Sounds like Donkey’s been here… Fine.  Get some workers, but make ‘em clean up the swamp too while they’re at it.      
+
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: 162(0) Happiness: 110(+2) Money: 140(-50)
+Bot: ok. Clean streets AND a clean swamp?  Worth every gold piece.  Almost…     
+
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: no.  Candy all night? Serves ya right. Next time, try waffles. They’re much better for ya.  And less sticky.      
+
+Game: RESPONSE: Madame Abeille - Oh dear... This tummyache of mine is quite bad! STATS: Population: 162(0) Happiness: 105(-5) Money: 140(0)
+Bot: ok.  Tough love, that’s my motto.  Besides, doctors are expensive.  I'd rather spend my gold on…  well, you know.  Waffles. 
+
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: no. FOUR HUNDRED?!  For a JESTER?!  He must be joking.  I can get a whole LOTTA waffles for that much.     
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 162(0) Happiness: 102(-3) Money: 140(0)
+Bot: ok.  Let him sulk. I’m not made of gold.  Even if I AM king.  King of waffles, that is.   
+
+Game: EVENT - Day 4 complete! People are happy, the city is ii1? STATS: Population: 163(+1) Happiness: 102(0) Money: 140(0)
+Bot: ok.  Another day, another gold piece.  Happiness is down… maybe I should lighten up a bit.  Or just buy more waffles.  Waffles make everyone happy. 
+
+Game: QUEST: Military General - The town we made an alliance with is in trouble! Should we send soldiers to assist them? H
+Bot: yes. An alliance is an alliance.  Gotta help out your buddies, even if it means less ogre…  soldiers for me.       
+
+Game: RESPONSE: Military General - Of course! We promised we would protect them! STATS: Population: 153(-10) Happiness: 102(0) Money: 140(0)
+Bot: ok. Ten soldiers, huh? Hope they come back…  with waffles.  Maybe they have waffles in that town.     
+
+Game: QUEST: Royal Advisor - Builders wish to construct more houses in the town. They request gold, with which they could build much faster! H
+Bot: yes.  More houses? Sure. More places to store waffles.  Sounds good to me.        
+
+Game: RESPONSE: Royal Advisor - I shall bring this to them right away. Our city grows! STATS: Population: 160(+7) Happiness: 102(0) Money: 40(-100)
+Bot: ok.  Growing, but shrinking my gold supply… maybe I should reconsider my waffle budget. Nah.  Just kidding.  Never!     
+
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: no. Ate some folks?! You’re a chest, not a… whatever eats folks. You belong in a dungeon, not my kingdom.     
+
+Game: RESPONSE: Chester(mimic chest) - Wel|, I still ate them, sooo... STATS: Population: 155(-5) Happiness: 102(0) Money: 40(0)
+Bot: ok.  Five folks?! That's five less waffle-eaters! I mean... that's terrible! This chest needs to be dealt with.       
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no.  Slime day?  Sounds messy. And I don't do messy. Unless it involves mud baths. Or waffles.     
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 155(0) Happiness: 101(-1) Money: 40(0)
+Bot: ok.  One less slimeball to worry about. Good. More waffles for me. 
+
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes.  Ooh, shiny!  Monkeys and shiny things… what could possibly go wrong?    
+
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 155(0) Happiness: 101(0) Money: 45(+5)
+Bot: ok.  Five gold pieces!  A monkey with good taste. Maybe he likes waffles too.    
+
+Game: EVENT - Day 5 complete! People are happy, the city is ii1? STATS: Population: 156(+1) Happiness: 101(0) Money: 45(0)
+Bot: ok. Slow growth, but growth nonetheless.  Money’s tight… might have to cut back on the waffle budget. Just kidding!  Never!     
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no. Still no.  Find your own gold, furball.  Or better yet, find some waffles.  Then we’ll talk.      
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 156(0) Happiness: 100(-1) Money: 45(0)
+Bot: ok. Persistent, isn't he?  Just like Donkey when he wants waffles.  Speaking of which… I’m hungry.    
+
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+Bot: yes. A wild chicken?  Catch it!  We could have chicken and waffles! Now THAT’S a good idea.       
+
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 155(-1) Happiness: 100(0) Money: 45(0)
+Bot: ok.  Dangerous chicken? What’s next, a fire-breathing waffle iron? I hope this wasn’t a big bad ogre chicken…. 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no. Vampire crystal?  Sounds suspicious. Like that “wizard” and his “magic”. I’m sticking to waffles. They’re much less… sparkly.        
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 155(0) Happiness: 100(0) Money: 45(0)
+Bot: ok. I can live with that. I know what I like: swamp, Fiona, and waffles. In that order.  Mostly.    
+
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+Bot: yes. Anything’s better than Donkey’s singing.  Almost.    
+
+Game: RESPONSE: Drummer - Yeeaaah! Badadadadabrap brap! I'm in the groove! STATS: Population: 155(0) Happiness: 103(+3) Money: 45(0)
+Bot: ok.  Not bad.  Though he's no waffle-maker.  Is anyone?   
+
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+Bot: yes.  Heh.  Bone jokes.  Classic.      
+
+Game: RESPONSE: Skelly(skeleton creature) - Har har, yeah, it's a good one, right? STATS: Population: 155(0) Happiness: 105(+2) Money: 45(0)
+Bot: ok.  Good one, indeed.  Though I still prefer waffle jokes. "What do you call a waffle that's not very good?  A waff-LEtdown!"  See?  Hilarious.     
+
+Game: EVENT - Day 6 complete! People are happy, the city is ii1? STATS: Population: 157(+2) Happiness: 105(0) Money: 45(0)
+Bot: ok.  Two more subjects, and happiness is up!  Things are looking up.  Now, where are those waffles?      
+
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H
+Bot: yes. Escaped prisoner? Sounds like trouble.  Get her back, and quickly.  Before she eats all my waffles.       
+
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 157(0) Happiness: 108(+3) Money: -5(-50)
+Bot: ok. Fifty gold… that’s a lot. Hope this prisoner is worth it. Or at least knows how to make waffles.   
+
+Game: QUEST: Mason - Should we sell off some of our construction supplies to get us out of debt?
+Bot: no. Sell off supplies?  No way.  We need those to build more… waffle houses!  I mean… houses.      
+
+Game: RESPONSE: Mason - That's what I hoped you'd say, but we still need money somehow! STATS: Population: 157(0) Happiness: 108(0) Money: -5(0)
+Bot: ok.  Need money, eh?  Maybe I should start charging for my waffle jokes.      
+
+Game: QUEST: Georgie(small flying devil) - Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H
+Bot: no.  Souls?!  Absolutely not. My subjects’ souls are not for sale. Not even for all the waffles in the world. Well… maybe some waffles.  Just kidding.  Mostly.         
+
+Game: RESPONSE: Georgie(small flying devil) - S'pose you'll have to look elsewhere for coin, then... STATS: Population: 157(0) Happiness: 108(0) Money: -5(0)
+Bot: ok. I’ll find another way. Like…  selling my swamp mud as a beauty treatment.  It works wonders for ogre skin, ya know.    
+
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: no.  Eat folks?! Again?!  No way. You’re going in the dungeon, chest.  And no waffles for you.         
+
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 157(0) Happiness: 108(0) Money: -5(0)
+Bot: ok. I will.  And it won't involve cannibalistic chests.  Or selling souls.  Or giving up waffles.  Ever.    
+
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: no!  Still no! How many times do I have to tell you, chest?!  No eating folks!  Go find a salad or something.         
+
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 157(0) Happiness: 108(0) Money: -5(0)
+Bot: ok. I’ll figure it out. Maybe I’ll rent out my swamp.  It’s got a lovely view of… the swamp.      
+
+Game: EVENT - Day 7 complete! People are happy, the city is ii1? STATS: Population: 162(+5) Happiness: 108(0) Money: -5(0)
+Bot: ok.  Still in debt…  This is worse than running out of waffles. Almost.  Gotta find a way to make some gold, fast.     
+
+Game: QUEST: Witch - Looking for coin? I could cast some dark magic to summon some gold, but it might cost a soul or two.. H
+Bot: no.  Souls again?! Is everyone obsessed with souls today? I told you, I don’t sell souls. Not for gold, not for waffles, not for anything. Especially not some questionable dark magic gold.       
+
+Game: RESPONSE: Witch - Let me know if you change your mind. Just a couple of souls. STATS: Population: 162(0) Happiness: 108(0) Money: -5(0)
+Bot: ok. I won’t.  I’ll find another way. A way that doesn’t involve losing my subjects… or my waffles. 
+
+Game: QUEST: Georgie(small flying devil) - Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H
+Bot: NO!  Enough with the souls already! I'm not selling anyone's soul, not even for a lifetime supply of waffles! ... Well, maybe for a lifetime supply... No! Bad Shrek!  No souls for sale! 
+
+Game: RESPONSE: Georgie(small flying devil) - S'pose you'll have to look elsewhere for coin, then... STATS: Population: 162(0) Happiness: 108(0) Money: -5(0)
+Bot: ok.  I’ll find another way. Maybe I can sell… ogre strength lessons.  Yeah, that’s it!  Who wouldn’t want to be strong like Shrek? 
+
+Game: QUEST: Mason - Should we sell off some of our construction supplies to get us out of debt?
+Bot: *grumbles* yes. Fine. Sell the supplies.  But I get first dibs on any leftover nails. I need to fix my outhouse door.  Again. Donkey…       
+
+Game: RESPONSE: Mason - This'll set us back a bit, but we need the money right now. STATS: Population: 152(-10) Happiness: 108(0) Money: 245(+250)
+Bot: ok.  Back in the black, but at what cost?  At least I can afford some new…  outhouse door hinges. And waffles. Lots of waffles.   
+
+Game: EVENT: Military General - The escaped prisoner has been recaptured thanks to the bounty you offered. Our citizens can rest easier knowing that she's been put away again. STATS: Population: 152(0) Happiness: NaN(NaN) Money: 245(0)
+Bot: ok. Good. Glad that’s over with.  Now, where was I? Ah, yes. Waffles.   
+
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: no.  Still no. Four hundred gold is outrageous. Even for a jester who can juggle waffles.  Which he can't. As far as I know.     
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 152(0) Happiness: 108(NaN) Money: 245(0)
+Bot: ok. He’ll get over it.  Or he won’t.  Doesn’t matter to me. I have waffles.       
+
+Game: EVENT - Day 8 complete! People are happy, the city is ii1? STATS: Population: 155(+3) Happiness: 108(0) Money: 245(0)
+Bot: ok.  Not bad.  Population is growing again.  Maybe I should invest in… a bigger waffle iron. A much bigger one. 
+
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: no.  Two hundred gold to appease some spirits?!  I'd rather appease MY stomach with waffles.  Besides, I ain't afraid of no ghosts.     
+
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 155(0) Happiness: 108(0) Money: 245(0)
+Bot: ok.  Good.  Less money for ghosts, more money for…  you know.    
+
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: NO!  Seriously?!  Souls again?!  Does nobody understand the value of a soul… or a waffle?! No coin flips, no soul-stealing, no deals. Just give me some peace and quiet so I can eat my waffles.     
+
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 155(0) Happiness: 108(0) Money: 245(0)
+Bot: ok. Not if I get him first.  With a waffle iron.  A really big one.   
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes.  A mouse?  Get it outta here! Mice are bad for waffles. They…  they eat them. And the crumbs. And everything else.  Shoooo!    
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 155(0) Happiness: 108(0) Money: 245(0)
+Bot: ok. Good riddance.  Now, back to my waffle…  What was I saying?  Oh, right. Waffles.     
+
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: yes. Fine. But if those juggling balls aren’t waffles, I’m taking them back. Along with his pointy hat.     
+
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 155(0) Happiness: 113(+5) Money: 235(-10)
+Bot: ok. Ten gold for juggling balls.  Better be good juggling balls. Waffle-shaped juggling balls. I should suggest that.     
+
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: no.  A staring eye?  Creepy. I’d rather stare at a… waffle. A really big, golden, crispy waffle.  Now THAT’S a sight worth seeing.     
+
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... happy!) STATS: Population: 155(0) Happiness: 123(+10) Money: 235(0)
+Bot: ok.  Happy?  From a staring eye?  This kingdom is weirder than Donkey’s waffle recipe.  Speaking of which… I need a waffle.      
+
+Game: EVENT - Day 9 complete! People are happy, the city is ii1? STATS: Population: 165(+10) Happiness: 123(0) Money: 235(0)
+Bot: ok. Ten more subjects AND happiness is up?  Excellent.  Maybe that creepy eye wasn’t so bad after all.  Still prefer waffles though.  Much less…  stary.     
+
+Game: QUEST: The Sultan - I've got a business proposition for you and your tiny little town. Are you interested?
+Bot: yes.  Business proposition, eh?  Sounds interesting. As long as it involves waffles.  Or at least doesn't involve souls.  Or chests eating people.  Or… you get the idea.         
+
+Game: RESPONSE: The Sultan - Aha, I will bring you details soon... STATS: Population: 165(0) Happiness: 123(0) Money: 235(0)
+Bot: ok. Details, huh?  Sounds like a Donkey kinda thing. Lots of talking, not much… waffling.  I mean, doing.    
+
+Game: QUEST: Royal Advisor - Since we opened our borders, travellers from all around are joining our city. Doesn't it just warm your heart? H
+Bot: yes.  New travelers? Sure, why not? More the merrier.  Just as long as they don't eat all my waffles.  Or try to sell me their souls.      
+
+Game: RESPONSE: Royal Advisor - It's lovely to have so many new friends! STATS: Population: 169(+4) Happiness: 125(+2) Money: 240(+5)
+Bot: ok. New friends and more money. Not bad. Now, about those waffles…       
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: no.  Magic again?  No thanks.  I've had enough magical “anything could happen” for one lifetime. I’ll stick to predictable, delicious waffles.        
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 169(0) Happiness: 125(0) Money: 240(0)
+Bot: ok. Understandable indeed.  Risk is for…  people who don’t like waffles.  Which is nobody.     
+
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work? H
+Bot: yes. Put ‘em to work.  Maybe they can make waffles. Or clean the swamp.  Or fix the outhouse door.  Again.       
+
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 177(+8) Happiness: 125(0) Money: 240(0)
+Bot: ok.  Eight new workers.  Good. More waffle-makers.  Hopefully.    
+
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work? H
+Bot: yes. Fine. Safe working conditions.  But no slacking off.  Especially the waffle-makers.  If there are any.  Yet.      
+
+Game: RESPONSE: Mason - It's only a matter of time before someone gets hurt... STATS: Population: 177(0) Happiness: 124(-1) Money: 240(0)
+Bot: ok.  Better safe than sorry.  Unless it involves running out of waffles.  Then, all bets are off.      
+
+Game: EVENT: The workers we captured and recruited have sped up our building processes, resulting in more tax income. STATS: Population: 177(0) Happiness: 124(0) Money: 260(+20)
+Bot: ok.  More taxes? Good. More money for…  waffles.  What else?       
+
+Game: EVENT - Day 10 complete! People are happy, the city is ii1? STATS: Population: 188(+11) Happiness: 124(0) Money: 260(0)
+Bot: ok. Another good day.  Lots of growth, and more importantly, no soul-selling or chest-eating.  Now, if you'll excuse me, I have a date with a waffle iron. 
+
+Game: QUEST: The Sultan - An offer for you, friend. I would purchase a shipment of luxury goods from you, for a fair price! H
+Bot: yes. Luxury goods? Sure. As long as they're not made of… souls.  Or folks. Or anything else weird.  And maybe they have some waffles in there too. For me.  You know, as a bonus.      
+
+Game: RESPONSE: The Sultan - Quite agreeable! We shall work together again, I hope! STATS: Population: 188(0) Happiness: 109(-15) Money: 560(+300)
+Bot: ok. Three hundred gold! That’s a LOT.  Though happiness is down…  maybe luxury goods don't include waffles? Note to self: ask the Sultan about waffles next time.     
+
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: no.  I’ve seen a lot of weird things in my time, but a backflipping chest isn’t one of them.  And frankly, I don’t want to.  Especially if it’s followed by “Can I eat some folks now?”         
+
+Game: RESPONSE: Chester(mimic chest) - Well, you're not gonna. STATS: Population: 188(0) Happiness: 109(0) Money: 560(0)
+Bot: ok. Good. No backflips, no folks-eating. Just… waffles.    
+
+Game: QUEST: Mason - A bunch of my builders have been injured on the job! Will you pay them some gold as compensation?
+Bot: yes. Fine.  Compensation it is.  But tell them to be more careful.  Building isn’t that hard.  Unless you’re building a giant waffle castle. Then it’s…  challenging.         
+
+Game: RESPONSE: Mason - It's not much, but it's something... STATS: Population: 185(-3) Happiness: 109(0) Money: 530(-30)
+Bot: ok.  Thirty gold… that’s almost enough for… a small waffle. A very small one.     
+
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: yes. Go for it.  Just don't come back asking for gold… or souls. Or bringing back any more creepy staring eyes.  Or folks-eating chests.  Or… you get the picture.         
+
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 185(0) Happiness: 109(0) Money: 530(0)
+Bot: ok.  For the kingdom, and hopefully, for some waffles.   
+
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Snooping, eh?  Sure. Maybe he can find out who keeps eating my waffles when I’m not looking.  It wasn't me, I swear!          
+
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 185(0) Happiness: 109(0) Money: 520(-10)
+Bot: ok.  The truth about the missing waffles.  I hope.  If it was Donkey, he's in trouble.  Big trouble.     
+
+Game: EVENT - Day 11 complete! People are happy, the city is ii1? STATS: Population: 189(+4) Happiness: 109(0) Money: 520(0)
+Bot: ok.  Another day, another four subjects.  But more importantly, another day closer to solving the mystery of the missing waffles.  I'm on the edge of my seat…  a waffle-shaped seat, of course. 
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs for everyone!  Except maybe the folks-eating chest.  And definitely not the soul-selling…  whatever he is.  But cats?  Cats are ok. As long as they don't eat my waffles.        
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 189(0) Happiness: 110(+1) Money: 520(0)
+Bot: ok.  A happy cat.  Good.  A happy Shrek.  Better. Especially with waffles. 
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no. Still no. I don't need help scaring people. I'm an ogre, I do that naturally.  Besides, I'd rather spend my gold on… waffles.  As usual.       
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 189(0) Happiness: 110(0) Money: 520(0)
+Bot: ok.  Good.  No ghosts, no problems. Just… waffles.   
+
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes.  Sure, go have fun.  Just don’t eat all the…  party snacks.  Unless the party snacks are waffles.  Then, go nuts.       
+
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 189(0) Happiness: 113(+3) Money: 520(0)
+Bot: ok. Toasting to my honor, eh?  Better be with waffle-flavored drinks. Or at least something stronger than swamp water.   
+
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I solved the mystery about who stole Mrs. Pumpkin's baking pan. Want me to turn him in? H
+Bot: yes. Turn ‘em in.  Nobody steals baking pans in my kingdom.  Especially not Mrs. Pumpkin’s.  She makes the best…  pumpkin pie. Not waffles, but close enough.       
+
+Game: RESPONSE: Skelly(skeleton creature) - Ohoho, it's off to the dungeon for him! STATS: Population: 188(-1) Happiness: 116(+3) Money: 520(0)
+Bot: ok.  Justice is served.  Now, about those waffles…      
+
+Game: QUEST: Chicken - Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)
+Bot: yes. A visiting chicken? Sure.  As long as it doesn't try to steal my…  waffles. Or lay eggs in my swamp.  Or crow at 3 am. Or…  you get the idea.          
+
+Game: RESPONSE: Chicken - Bok. (It left behind an egg!!) STATS: Population: 188(0) Happiness: 116(0) Money: 523(+3)
+Bot: ok.  An egg?  Bonus!  Maybe I can make a… waffle omelet. Is that a thing? It should be.       
+
+Game: EVENT - Day 12 complete! People are happy, the city is ii1? STATS: Population: 196(+8) Happiness: 116(0) Money: 523(0)
+Bot: ok.  Another good day.  Growing, prosperous, and most importantly, waffle-filled. Or at least, waffle-adjacent.  Close enough. 
+
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: no.  A sandwich? I don’t eat sandwiches. I eat…  waffles.  Get this mason a waffle! And one for me too.  Make it two.  No, three.       
+
+Game: RESPONSE: Mason - So stingy! STATS: Population: 196(0) Happiness: 115(-1) Money: 523(0)
+Bot: ok. Stingy?  I'm not stingy, I'm…  waffle-focused.  There's a difference.    
+
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: no.  Magic?  Again?  No, no, no.  I'm sticking to waffles. They’re much less likely to result in…  "anything could happen". Unless “anything” is a sudden craving for more waffles. Then, I’m in.            
+
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 196(0) Happiness: 115(0) Money: 523(0)
+Bot: ok.  Understandable indeed.  Now, where was I? Ah, yes. Waffles.      
+
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: yes. Banish him!  I don’t need any more magical mishaps in my kingdom.  I have enough trouble keeping track of my waffles as it is.         
+
+Game: RESPONSE: Royal Advisor - Very well. I'll inform the guards not to let him back into the city. STATS: Population: 195(-1) Happiness: 115(0) Money: 523(0)
+Bot: ok.  Good riddance. One less wizard, one less problem.  Now, about those waffles…      
+
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: yes.  A granary? Fine.  Bigger population means more… waffle-eaters. I mean, subjects. More subjects.  Definitely subjects.         
+
+Game: RESPONSE: Mason - You got it, this will help our city grow! STATS: Population: 202(+7) Happiness: 115(0) Money: 453(-70)
+Bot: ok.  Seventy gold…  that’s a lot.  Almost as much as a… really, really big waffle.  Almost.   
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no.  Still no. Find your own gold, furball. Or better yet, find your own waffles. Then maybe we'll talk.  Maybe.            
+
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 202(0) Happiness: 114(-1) Money: 453(0)
+Bot: ok.  He’ll be back.  They always come back.  Like…  a boomerang. A waffle-shaped boomerang. That would be cool.  And delicious.       
+
+Game: EVENT: A wave of dark magical energy passed through the city during the night, causing spooky nightmares for many citizens. STATS: Population: 202(0) Happiness: 109(-5) Money: 453(0)
+Bot: ok. Dark magic?  Must be that wizard I banished.  He’s probably still bitter about the whole…  no-magic-in-my-kingdom thing.  Maybe I should send him a waffle as a peace offering? Nah. Serves him right.       
+
+Game: EVENT - Day 13 complete! People are happy, the city is ii1? STATS: Population: 205(+3) Happiness: 109(0) Money: 453(0)
+Bot: ok.  A bit of a rough day, but we're still growing.  Now, where are those waffles? I need something to cheer me up after all that dark magic talk.   
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes.  Another mouse?  Get it outta here!  Mice are bad for waffles. They… they eat them.  And the crumbs.  And everything else.  Shoooo!           
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 205(0) Happiness: 109(0) Money: 453(0)
+Bot: ok. Good.  No mice, no problems. Just… waffles. As usual.       
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  Still no. No vampire crystals, no magic, no thank you.  I’ll stick to my waffles, thank you very much.           
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 205(0) Happiness: 109(0) Money: 453(0)
+Bot: ok. I can live with that.  Especially if "living" involves waffles.     
+
+Game: QUEST: Gardener - We've completed work on the garden. Are you pleased?
+Bot: yes. A garden? Sure.  As long as it doesn't attract more…  mice. Or wizards.  Or soul-selling…  whatever he is.  Just flowers and… maybe some waffle bushes?  Is that a thing? It should be.               
+
+Game: RESPONSE: Gardener - I am so glad! STATS: Population: 208(+3) Happiness: 114(+5) Money: 453(0)
+Bot: ok.  A garden AND a happiness boost.  Not bad.  Now, if only those waffle bushes were real…         
+
+Game: QUEST: Alien - You haven't been talking to Molder, have you?
+Bot: no.  Molder?  Haven't seen him.  Been too busy with… waffle-related activities.             
+
+Game: RESPONSE: Alien - Hmm... If you say so.. STATS: Population: 208(0) Happiness: 114(0) Money: 453(0)
+Bot: ok.  Suspicious alien.  Almost as suspicious as a… waffle that’s been left out overnight. Is it still good?  Maybe…  Better not risk it.       
+
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: no.  Still no!  Four hundred gold is too much! Even for waffle-themed juggling.  Which, by the way, he still hasn’t tried. I’m starting to think he doesn't appreciate waffles as much as he should.      
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 208(0) Happiness: NaN(NaN) Money: 453(0)
+Bot: ok. Let him mope. More waffles for me.       
+
+Game: EVENT - Day 14 complete! People are happy, the city is ii1? STATS: Population: 212(+4) Happiness: NaN(NaN) Money: 453(0)
+Bot: ok. Good growth. Shame about the jester… maybe I should’ve given him the gold.  Nah. He needs to learn the value of a gold piece.  And a waffle.   
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes.  Another one?!  Get it out! Get it out!  Before it gets into my… waffles!        
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 212(0) Happiness: NaN(NaN) Money: 453(0)
+Bot: ok.  Good. Mice are definitely not waffle-friendly.     
+
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: no.  Still no. Candy is bad for you.  Waffles are good for you.  Eat waffles, not candy. Problem solved.           
+
+Game: RESPONSE: Madame Abeille - Oh dear... This tummyache of mine is quite bad! STATS: Population: 212(0) Happiness: 106(NaN) Money: 453(0)
+Bot: ok. Tough love.  It builds character. And a resistance to candy.  Maybe.     
+
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: no.  Still creepy. I'd rather stare at a… waffle. A giant, golden, crispy waffle. With syrup.  And whipped cream.  And sprinkles.  Now THAT’S something worth staring at.        
+
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... sad...) STATS: Population: 212(0) Happiness: 96(-10) Money: 453(0)
+Bot: ok. Sad?  What did I do?  I just said no to a creepy staring eye.  That's perfectly reasonable.  Right?  Maybe I should’ve offered it a waffle…       
+
+Game: QUEST: Dragon - Booo! Give me your gold or I'll eat your townspeople!
+Bot: no.  Eat my townspeople?!  Over my dead body!  And my waffle hoard! Nobody messes with my kingdom.  Bring it on, lizard breath!                  
+
+Game: RESPONSE: Dragon - Ooohoho, I'm gonna go eat some folks then! STATS: Population: 182(-30) Happiness: 96(0) Money: 453(0)
+Bot: ok.  Thirty townspeople?! This dragon is going down!  Nobody eats my subjects. Except maybe that chest… but that’s different.  Time for some ogre-sized butt-kicking.       
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes.  Fine.  No more “slimeball”.  But no more sliming either.  It’s bad for the…  waffles.  They get soggy.          
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 182(0) Happiness: 93(-3) Money: 453(0)
+Bot: ok. Hopefully, that'll appease the slime…  creature. Now, about that dragon…    
+
+Game: EVENT - Day 15 complete! People are sad, the city is shrinking! STATS: Population: 178(-4) Happiness: 93(0) Money: 453(0)
+Bot: ok.  Bad day.  Real bad.  Lost too many people to that dragon.  Time for revenge.  And waffles.  Lots of waffles.      
+
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Yes! Find that dragon!  He’s going down!  Nobody eats my subjects and gets away with it!          
+
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 178(0) Happiness: 93(0) Money: 443(-10)
+Bot: ok. Ten gold well spent.  This dragon is toast. Waffle-flavored toast.     
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no. Still no. I don’t need a ghost to scare people.  I have a dragon to slay.  That’s much more…  motivational.                
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 178(0) Happiness: 93(0) Money: 443(0)
+Bot: ok. No ghosts, no distractions. Just dragon-slaying and waffle-eating.       
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs.  Gotta stay calm.  Gotta focus.  Dragon-slaying requires a clear head and…  a full stomach. Full of waffles.             
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 178(0) Happiness: 94(+1) Money: 443(0)
+Bot: ok.  A happy cat. Good. A happy ogre.  Better.  Especially a waffle-filled, dragon-slaying ogre.          
+
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath? H
+Bot: no.  Stinky kid?  Sounds like… me when I was younger.  Leave her alone.  Besides, a little swamp stench never hurt anyone.  Probably.          
+
+Game: RESPONSE: Royal Advisor - I wonder if she'll ever stop running around.. STATS: Population: 178(0) Happiness: 95(+1) Money: 443(0)
+Bot: ok.  Let her run.  As long as she doesn't run into my…  waffle stash. Then we’ll have a problem.         
+
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: no. Stealing is wrong.  Unless it’s stealing… the last waffle.  Then it’s…  understandable.  But still wrong.  No stealing.             
+
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 178(0) Happiness: 95(0) Money: 443(0)
+Bot: ok.  High road indeed.  The road paved with… waffles.  Metaphorically speaking, of course.   
+
+Game: EVENT - Day 16 complete! People are sad, the city is shrinking! STATS: Population: 177(-1) Happiness: 95(0) Money: 443(0)
+Bot: ok.  Still not good.  Gotta deal with that dragon. And find more waffles.  Lots more waffles. 
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs. Always time for belly rubs. Unless there's a dragon attacking.  Or a waffle emergency.  Then, priorities.    
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 177(0) Happiness: 96(+1) Money: 443(0)
+Bot: ok. Happy cat.  Good. Now, about that dragon…    
+
+Game: EVENT: All—Seeing Eye - (That stare... Feels like somebody magical is upset with me..) STATS: Population: 177(0) Happiness: 95(-1) Money: 443(0)
+Bot: ok.  Magical someone upset? Probably that banished wizard again.  I told him no magic. Maybe I should send him a strongly worded letter… written on a waffle. That’ll show him.     
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: yes. Molder?  Back again, eh?  Fine.  Find that dragon. And find out who’s been stealing my waffles.  And while you’re at it, find me a bigger waffle iron.  A much bigger one.     
+
+Game: RESPONSE: Molder(purple blob of sludge) - I'm gonna go... investigate something. STATS: Population: 177(0) Happiness: 95(0) Money: 433(-10)
+Bot: ok.  Ten gold… that’s a lot. But finding that dragon is worth it.  And the waffle thief.  And the bigger waffle iron.  Definitely the waffle iron.     
+
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: yes.  A coin for the newspaper?  Sure. Maybe it has a story about…  a giant waffle. Or a dragon who got defeated by a… giant waffle. That would be a good story.         
+
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 177(0) Happiness: 96(+1) Money: 432(-1)
+Bot: ok. One gold piece. A small price to pay for…  potential waffle news.   
+
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found these shiny yellow stones! Pretty cool, right?
+Bot: yes. Shiny yellow stones?  Sounds interesting.  Maybe they’re… waffle-flavored.  Probably not, but a guy can dream.       
+
+Game: RESPONSE: Yet Yet(small yetti in armor) - Soooo cool! STATS: Population: 177(0) Happiness: 101(+5) Money: 492(+60)
+Bot: ok. Sixty gold! And a happiness boost!  Those shiny yellow stones were a good find.  Maybe I should go exploring too.  For waffles, of course.         
+
+Game: EVENT - Day 17 complete! People are happy, the city is ii1? STATS: Population: 178(+1) Happiness: 101(0) Money: 492(0)
+Bot: ok.  A slow day, but a good day.  No dragon attacks, no soul-selling, and best of all, no missing waffles.     
+
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I discovered an underground crime ring in the city's eastern ward. I've already taken steps to break up their operations. Could I have a bit of extra gold to bring in the guard and make some additional arrests? H
+Bot: yes.  An underground crime ring?  Sounds like trouble.  Get ‘em, Skelly!  Bring down the hammer of justice!  A waffle-shaped hammer, of course.          
+
+Game: RESPONSE: Skelly(skeleton creature) - Perfect. We'll have those criminals locked up by this time tomorrow. STATS: Population: 178(0) Happiness: 106(+3) Money: 452(-40)
+Bot: ok. Forty gold. A small price to pay for justice.  And maybe they have some waffles hidden in their lair.  One can hope.     
+
+Game: QUEST: Gardener - Would you like to buy some flowers from our garden? They're a special low price for you, sir! H
+Bot: yes. Flowers? Sure. Fiona likes flowers.  As long as they don't smell like…  swamp.  Or feet.  Or anything worse than that.           
+
+Game: RESPONSE: Gardener - Flowers are sooo |ovely! STATS: Population: 178(0) Happiness: 113(+7) Money: 447(-5)
+Bot: ok. Fiona will like these.  Almost as much as she likes… waffles. Almost.     
+
+Game: QUEST: Royal Advisor - Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H
+Bot: yes.  A stuff-flinging monkey?  Sounds like trouble. Get him outta here!  Before he flings stuff at my…  waffles.  That would be a tragedy.            
+
+Game: RESPONSE: Royal Advisor - We'll have that monkey captured in no time. STATS: Population: 178(0) Happiness: 114(+1) Money: 417(-30)
+Bot: ok.  Thirty gold… that’s a lot. But waffle safety is paramount.         
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no.  Slime day again?  Still no. No presents, no slime. Just…  waffles. Plenty of waffles.         
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 178(0) Happiness: 113(-1) Money: 417(0)
+Bot: ok.  Good. No slime, no problems. Just… waffles.   
+
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+Bot: no.  Magical cat?  No thanks. I’ve had enough magic for one lifetime. I’m sticking to regular, non-magical cats.  And waffles. Lots of regular, non-magical waffles.          
+
+Game: RESPONSE: Pancake(black cat) - Meeeewww... (Hmm...) STATS: Population: 178(0) Happiness: 113(0) Money: 417(0)
+Bot: ok.  Good. No magic cats, no problems. Just…  waffles.  As usual.         
+
+Game: EVENT - Day 18 complete! People are happy, the city is ii1? STATS: Population: 186(+8) Happiness: 113(0) Money: 417(0)
+Bot: ok.  Good growth.  Things are looking up.  Now, about those waffles… 
+
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: *Sighs*  yes. Fine. Take the gold.  But if this isn’t the best, most spectacular, waffle-themed juggling show I’ve ever seen, you’re sleeping in the swamp. With the mosquitoes.          
+
+Game: RESPONSE: Jester - Ooooohohoho hohoho! This shoooooow will delight and astound! Ohohoho! STATS: Population: 186(0) Happiness: 113(0) Money: 17(-400)
+Bot: ok.  Four hundred gold… that’s… a lot of waffles. I hope he delivers.         
+
+Game: QUEST: Drummer - Boom boom, badoom doom doom! I'm really getting into it, are you!?
+Bot: yes. Drumming?  Sure. As long as it doesn't interfere with my…  waffle-eating. Or my dragon-slaying plans. Or my…  waffle-eating. Wait, did I already say that? Never mind.            
+
+Game: RESPONSE: Drummer - That's what I thought! BadabadabadaBOOSH! So into it! STATS: Population: 186(0) Happiness: 118(+5) Money: 17(0)
+Bot: ok.  Happy drummer, happy subjects.  Happy Shrek. Especially with waffles.  Which I need. Badly.  After spending all that gold on the jester.     
+
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: yes. Goblins?  Get rid of ‘em.  Goblins are bad for…  waffles.  They steal them.  And the syrup.  And everything else.  Get ‘em, witch!          
+
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 186(0) Happiness: 122(+4) Money: 7(-10)
+Bot: ok.  Ten gold…  worth it. Goblin-free waffles are the best waffles.          
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no. Spooky? No. Hungry?  Yes. For waffles.  Lots and lots of waffles.  Now, if you’ll excuse me…         
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 186(0) Happiness: 122(0) Money: 7(0)
+Bot: ok. No spooks, no bats. Just waffles.  Big, fluffy, golden waffles.   
+
+Game: QUEST: Grandma - I read the nicest story in the paper today. Isn't it a lovely day?
+Bot: yes. It is a lovely day.  Especially when there are waffles involved.  Which there always should be.            
+
+Game: RESPONSE: Grandma - Very good, dearie! STATS: Population: 186(0) Happiness: 123(+1) Money: 7(0)
+Bot: ok.  A lovely day indeed.  A waffle-filled, dragon-slaying, goblin-free lovely day.     
+
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 186(0) Happiness: 128(+5) Money: 7(0)
+Bot: ok.  Goblin-slaying witch? Good.  Now, about those waffles…      
+
+Game: EVENT - Day 19 complete! People are happy, the city is ii1? STATS: Population: 199(+13) Happiness: 128(0) Money: 7(0)
+Bot: ok.  Excellent growth!  Things are looking up.  Now, if I could just find some gold… and some waffles…   
+
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: no.  Still no.  Stealing is wrong.  Even if I really, really want a waffle.  Which I do.          
+
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 199(0) Happiness: 128(0) Money: 7(0)
+Bot: ok. High road. Paved with…  good intentions. And maybe some waffle crumbs.     
+
+Game: EVENT: Royal Advisor - That mischievous monkey has been captured. I shall send him in for your judgement. H STATS: Population: 199(0) Happiness: 128(0) Money: 7(0)
+Bot: ok.  Good.  Justice for the stuff-flinging monkey.  Unless he was flinging… waffles. Then, maybe we can talk.       
+
+Game: QUEST: Peanut(happy monkey) - Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)
+Bot: yes. Stuff-flinging is a serious crime. Especially if the “stuff” is… waffles.  Then it’s a capital offense.         
+
+Game: RESPONSE: Peanut(happy monkey) - Oooook... (Off to the dungeons!) STATS: Population: 199(0) Happiness: 133(+5) Money: 7(0)
+Bot: ok.  Justice is served.  Now, about those waffles… 
+
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+Bot: no.  Still no magical cats.  I have enough trouble with regular cats stealing my…  waffles.  I don’t need magical cats making them disappear. Or worse, turning them into…  brussel sprouts. Shudder.       
+
+Game: RESPONSE: Pancake(black cat) - Meeeewww... (Hmm...) STATS: Population: 199(0) Happiness: 133(0) Money: 7(0)
+Bot: ok. No magic cats, no problems. Just waffles. Hopefully.        
+
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: no.  Spooky nickname? No thanks. "Shrek" is spooky enough. And "Waffle King" is much more…  accurate.         
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 199(0) Happiness: 132(-1) Money: 7(0)
+Bot: ok.  Fun is subjective.  Like…  waffles. Some people like them plain, some people like them with toppings.  I like them all. As long as they’re waffles.          
+
+Game: QUEST: Witch - There's a buncha goblins in the lower quarter. I'll slay 'em for a few gold coins if you want. H
+Bot: yes. More goblins? Get ‘em, witch!  Protect the waffles!            
+
+Game: RESPONSE: Witch - I'll show those creeps! STATS: Population: 199(0) Happiness: 136(+4) Money: -3(-10)
+Bot: ok. Ten gold well spent.  Goblin-free waffles are the best waffles.  It's a fact.     
+
+Game: EVENT: Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero! STATS: Population: 199(0) Happiness: 41(-95) Money: -3(0)
+Bot: ok.  A folk hero, eh?  Good for her. As long as she doesn't try to steal my… waffles.  Or my title of "Ogre King". Or "Waffle King".  Or… you get the idea.       
+
+Game: EVENT - Day 20 complete! People are happy, the city is ii1? STATS: Population: 218(+19) Happiness: 41(0) Money: -3(0)
+Bot: ok. Good growth, but happiness is way down.  Maybe I need to…  buy more waffles.  Lots more waffles.  And maybe build a waffle factory. Yeah, that’s it!  A waffle factory!    
+
+Game: QUEST: Mason - Should we sell off some of our construction supplies to get us out of debt?
+Bot: yes. Fine. Sell the supplies. We need the gold. For waffles.  Lots and lots of waffles. And maybe a waffle factory.           
+
+Game: RESPONSE: Mason - This'll set us back a bit, but we need the money right now. STATS: Population: 208(-10) Happiness: 41(0) Money: 247(+250)
+Bot: ok.  Back in the black.  Time for Operation Waffle Factory.  Step one: acquire more waffles. Step two:  build factory. Step three: profit!  Waffle profit!      
+
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear_. H
+Bot: yes. A bigger boat?  Sure.  Maybe he can catch some…  waffle-fish. Is that a thing?  It should be.              
+
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 208(0) Happiness: 144(+103) Money: 147(-100)
+Bot: ok. One hundred gold…  that’s a lot.  But waffle-fish…  intriguing.  I hope they taste better than they sound.          
+
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: yes.  Food for the kitty. As long as it's not… waffles. My waffles.  He can have…  fish. Or milk.  Or…  cat food.  Whatever cats eat.           
+
+Game: RESPONSE: Boots(orange cat) - Meeeow. STATS: Population: 208(0) Happiness: 145(+1) Money: 145(-2)
+Bot: ok. Happy cat. Good. Now, about those waffles… and the waffle factory… and the waffle-fish…  so many waffle-related things to do.     
+
+Game: QUEST: Molder(purple blob of sludge) - I'm ready to make my report. It seems the merchant's guild is being controlled by alien cospirators. H How do I know this? Sometimes, you just know. You know?
+Bot: yes. Alien conspirators?  Sounds like a job for…  the Waffle King!  I mean…  me.  Shrek.  The ogre.  Who likes waffles.  A lot.          
+
+Game: RESPONSE: Molder(purple blob of sludge) - Yeah, I know you know. You're a knower. STATS: Population: 208(0) Happiness: 146(+1) Money: 145(0)
+Bot: ok.  A knower, eh? I know I like waffles.  That’s all I need to know.  For now.     
+
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: yes. Tea?  Sure.  As long as it's not…  swamp water. Or…  pickle juice.  Or anything else weird.  Tea is fine.  Especially with… waffles.  Everything is better with waffles.          
+
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 208(0) Happiness: 149(+3) Money: 142(-3)
+Bot: ok.  Tea and waffles. A perfect combination.  Almost as perfect as…  Fiona and waffles.  Or…  swamp and waffles.  Wait, maybe not that last one.     
+
+Game: EVENT - Day 21 complete! People are happy, the city is ii1? STATS: Population: 232(+24) Happiness: 149(0) Money: 142(0)
+Bot: ok.  Excellent growth!  And happiness is up!  Things are definitely looking up. Now, where’s that waffle factory blueprint…?   
+
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: *grumbling* yes. Fine.  Take the gold, furball. But don’t come back asking for more. Go buy yourself some… waffles.  Yes, waffles. That’s what everyone needs.        
+
+Game: RESPONSE: Yettu(yetti creature) - Thank you for the money goodissir. This is good money. STATS: Population: 232(0) Happiness: 152(+3) Money: 42(-100)
+Bot: ok.  One hundred gold…  ouch. That’s a lot of waffles. But at least he’s happy.  And maybe he’ll buy some waffles with that gold.  And share them with me.  One can hope.       
+
+Game: QUEST: Gardener - Some nasty bugs have made a home out of our garden! Can we have some gold to hire an exterminator?
+Bot: yes. Bugs?  Get rid of them! Bugs are bad for waffles.  They…  they crawl on them. And eat them.  And…  you get the idea.  No bugs allowed.            
+
+Game: RESPONSE: Gardener - We'll have to go a little while without flowers, then.. STATS: Population: 232(0) Happiness: 146(-6) Money: 42(0)
+Bot: ok. No flowers for a while…  that’s ok. I prefer waffles anyway.     
+
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+Bot: no.  Still no to the magic cat. I'm not taking any chances.  I've had enough magical…  mishaps. I'll stick to regular cats. And waffles.  Lots and lots of regular, non-magical waffles.          
+
+Game: RESPONSE: Pancake(black cat) - Meeeewww... (Hmm...) STATS: Population: 232(0) Happiness: 146(0) Money: 42(0)
+Bot: ok. Good.  No magic cats, no problems. Just waffles.        
+
+Game: QUEST: Skelly(skeleton creature) - Some of the villagers mentioned they saw an alien walking around. You know anything about this? H
+Bot: no.  An alien?  Haven’t seen one.  Been too busy with… waffle-related activities.  As usual.            
+
+Game: RESPONSE: Skelly(skeleton creature) - Are you suggesting your townspeople are liars? Interesting.. STATS: Population: 232(0) Happiness: 146(0) Money: 42(0)
+Bot: ok. Liars?  No.  Just…  mistaken.  Probably.  Maybe they saw a… giant waffle and mistook it for an alien.  It happens.     
+
+Game: EVENT: Alien - Thanks for covering for me. I knew I could count on you. STATS: Population: 232(0) Happiness: 146(0) Money: 62(+20)
+Bot: ok.  Covering?  I wasn’t covering. I was…  being truthful.  Mostly.  Besides, twenty gold is twenty gold.  That’s almost enough for… a half a waffle.  A very small half.         
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes. A mouse?  Get it out! Get it out!  Before it gets to my… waffles!        
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 232(0) Happiness: 146(0) Money: 62(0)
+Bot: ok.  Good.  No mice, no problems.  Just…  waffles.     
+
+Game: EVENT: The jester dazzled the court with a display of acrobatics and theatre, raising the spirits of all in attendance. STATS: Population: 232(0) Happiness: 158(+12) Money: 62(0)
+Bot: ok.  Glad I gave him that gold.  A happy kingdom is a…  waffle-loving kingdom.     
+
+Game: EVENT - Day 22 complete! People are happy, the city is ii1? STATS: Population: 261(+29) Happiness: 158(0) Money: 62(0)
+Bot: ok.  Excellent growth!  And happiness is up!  Things are definitely going my way. Now, about that waffle factory…   
+
+Game: EVENT: Royal Advisor - Sir, the city's population is growing steadily. Our records of citizenship indicate that 250 people now call the city home. With a bigger city, we'll need to maintain even higher happiness in order to keep people satisfied. H Make sure you pay attention to the citizens and their issues to raise our happiness! H Anyway, we still have lots of work to do. Let's make this city even bigger! By the way, remember earlier when I mentioned the Council of Crowns? I've heard a rumor that one of their members has been searching the land for a new ruler to join them. H Perhaps they are aware of our progress... STATS: Population: 261(0) Happiness: 158(0) Money: 162(+100)
+Bot: ok. Council of Crowns, eh? Sounds… fancy. But I’m happy here.  In my…  waffle kingdom. With my… subjects. And my…  waffles. Lots and lots of waffles.  But the Council…  hmm.  I'll think about it.  After I eat a waffle.   
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no. Still no.  Slime day is not a gift-giving holiday.  As far as I know.  Maybe in…  Slimeland?  Is that a place? It sounds… slimy.       
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 261(0) Happiness: 157(-1) Money: 162(0)
+Bot: ok.  No slime, no problems. Just waffles.        
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  Still no. No magical vampire crystals. I’m sticking to regular crystals. And waffles. Lots of regular, non-magical waffles.              
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 261(0) Happiness: 157(0) Money: 162(0)
+Bot: ok.  I can live with that. Especially if "living" involves waffles.    
+
+Game: QUEST: Drummer - Want me to do a drumroll?
+Bot: yes.  A drumroll? Sure.  As long as it’s followed by…  waffles.  A drumroll and waffles.  The perfect combination. Almost as perfect as… Fiona and waffles. Or… swamp and waffles.  No, definitely not that last one.          
+
+Game: QUEST: Drummer - Too bad, I'm doing it anyway! Here we go.. Brm brm brm brm brm brm brm brm brm brm brm brm brm brm...
+Bot: yes. A longer drumroll? Even better! As long as it’s followed by… more waffles.  Lots more waffles.    
+
+Game: RESPONSE: Drummer - Yeah, I knew you'd like it! STATS: Population: 261(0) Happiness: 162(+5) Money: 162(0)
+Bot: ok.  A happy drummer, a happy kingdom.  A happy Shrek.  Especially with waffles.    
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes.  A mouse?  Get it out! Get it out! Before it gets to my… waffles!         
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 261(0) Happiness: 162(0) Money: 162(0)
+Bot: ok.  Good. No mice, no problems. Just waffles.        
+
+Game: EVENT - Day 23 complete! People are happy, the city is ii1? STATS: Population: 274(+13) Happiness: 162(0) Money: 162(0)
+Bot: ok.  Another great day!  Growth, happiness, and no major waffle-related incidents.  Life is good. 
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no.  For the last time, no! Slime day is not a present-giving occasion! I'm starting to think this "slime day" is just an excuse to get free stuff. Like… waffles. My waffles.  Not happening.       
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 274(0) Happiness: 161(-1) Money: 162(0)
+Bot: ok. No slime, no problems. Just waffles.  As usual.      
+
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes. Sure, go have fun. Just don't bring back any… slime. Or magic crystals. Or folks-eating chests.  Or… you get the idea.  Have fun, but be safe.  And don’t forget the waffles.       
+
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 274(0) Happiness: 164(+3) Money: 162(0)
+Bot: ok.  Toasting to my honor again, eh?  Hopefully with waffle-flavored beverages this time.      
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no. Still not spooky.  Still hungry. For waffles. Lots and lots of waffles. Now, if you’ll excuse me…             
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 274(0) Happiness: 164(0) Money: 162(0)
+Bot: ok.  No spooks, no bats. Just waffles.          
+
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H
+Bot: yes. A circus? Sure.  As long as they don't have any…  clowns. Clowns are creepy.  And they might try to steal my…  waffles.  Or my swamp. Or Fiona.  No clowns allowed. But acrobats and trained waffle-eating…  something or others…  are welcome.             
+
+Game: RESPONSE: Royal Advisor - All work and no play, huh? STATS: Population: 274(0) Happiness: 159(-5) Money: 162(0)
+Bot: ok.  All work and all play makes Shrek a…  tired ogre.  A tired, waffle-loving ogre.      
+
+Game: QUEST: Witch - My broom's all worn out, and it's my birthday.. Think you could buy me a new broom for a present? Sure would be nice of you!
+Bot: no.  A new broom?  No.  She can buy her own broom. With her…  goblin-slaying money. I need my gold for…  waffles.  And waffle factories.  And maybe a waffle-shaped broom for myself.  That would be cool.            
+
+Game: RESPONSE: Witch - You're no fun! I can't be seen flying around on this shabby old thing_. STATS: Population: 274(0) Happiness: 156(-3) Money: 162(0)
+Bot: ok.  Fun is overrated. Waffles are not.         
+
+Game: EVENT - Day 24 complete! People are happy, the city is ii1? STATS: Population: 285(+11) Happiness: 156(0) Money: 162(0)
+Bot: ok.  Another good day.  Growth, happiness, and no clown sightings.  So far, so good. Now, about those waffles… 
+
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: no.  Still no. "Shrek" and "Waffle King" are spooky enough. And delicious enough.  And…  you get the idea.        
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 285(0) Happiness: 155(-1) Money: 162(0)
+Bot: ok. Fun is…  temporary. Waffles are eternal.  Or at least, they should be.       
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: NO!  Absolutely not!  No folks-eating!  Go eat a…  salad.  Or a…  carrot.  Or a…  waffle.  A really, really stale waffle.  But no folks!                
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 285(0) Happiness: 156(+1) Money: 162(0)
+Bot: ok. Good.  No folks-eating, no problems.  Just waffles.        
+
+Game: QUEST: Gardener - Some nasty bugs have made a home out of our garden! Can we have some gold to hire an exterminator?
+Bot: yes.  Bugs again?  Get rid of them! No bugs allowed near my… waffles. Or my flowers.  Or my swamp. Or…  anything, really.            
+
+Game: RESPONSE: Gardener - We'll have to go a little while without flowers, then.. STATS: Population: 285(0) Happiness: 150(-6) Money: 162(0)
+Bot: ok.  No flowers, no problem. I have… waffles.  And that’s all that matters. Really.      
+
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?
+Bot: yes. Shifty or not, we need guards. To protect the kingdom.  And the waffles.  Mostly the waffles.           
+
+Game: RESPONSE: Butler - Indeed, more swords will help us. STATS: Population: 286(+1) Happiness: 150(0) Money: 162(0)
+Bot: ok. More swords, more protection. More waffles for me.  Hopefully.    
+
+Game: QUEST: Georgie? - Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! H Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!
+Bot: no. "Angel"?  With a deal?  Sounds suspicious.  Like that… wizard.  Or that…  chest. Or that… soul-selling… whatever he is.  No deals.  I’ll make my own happiness.  With waffles. Lots and lots of waffles.          
+
+Game: RESPONSE: Georgie? - Dangit! What's a guy gotta do to make a DEAL around here!? STATS: Population: 286(0) Happiness: 150(0) Money: 162(0)
+Bot: ok. Make waffles. That’s what.  Everybody loves waffles.  Even grumpy ogres.  Especially grumpy ogres.       
+
+Game: EVENT - Day 25 complete! People are happy, the city is ii1? STATS: Population: 292(+6) Happiness: 150(0) Money: 162(0)
+Bot: ok. Another good day.  Growth, happiness, and no suspicious "angels" trying to sell me… happiness.  I can make my own happiness. With waffles.     
+
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H
+Bot: yes. A circus? Sure. Still no clowns, though.  Clowns and waffles don’t mix.  Trust me.            
+
+Game: RESPONSE: Royal Advisor - All work and no play, huh? STATS: Population: 292(0) Happiness: 145(-5) Money: 162(0)
+Bot: ok. All work and all play makes Shrek a… tired ogre. A tired, waffle-loving ogre.  Still no clowns, though.  That's non-negotiable.      
+
+Game: QUEST: Gardener - Would you like to buy some flowers from our garden? They're a special low price for you, sir! H
+Bot: yes.  Flowers for Fiona.  She likes flowers.  Almost as much as she likes… waffles.  Almost.          
+
+Game: RESPONSE: Gardener - Flowers are sooo |ovely! STATS: Population: 292(0) Happiness: 152(+7) Money: 157(-5)
+Bot: ok. Lovely indeed.  Especially with waffles.       
+
+Game: QUEST: Little Timmy - I'm Lil' Timmy! Nice to meetcha! You like ice cweam?
+Bot: yes.  Ice cream?  Sure.  Especially… waffle-flavored ice cream.  Is that a thing? It should be.              
+
+Game: RESPONSE: Little Timmy - Mwwaah! Me toooo! STATS: Population: 292(0) Happiness: 154(+2) Money: 157(0)
+Bot: ok.  A happy Timmy, a happy Shrek.  Especially with waffles. And waffle-flavored ice cream. And a waffle factory. And…  you get the idea.         
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no.  Molder again?  I already hired you, remember?  Go find that dragon. And the waffle thief. And the bigger waffle iron.  And maybe a recipe for waffle-flavored ice cream.                  
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 292(0) Happiness: 154(0) Money: 157(0)
+Bot: ok.  Not ready for the truth?  I’m ready for waffles. Always ready for waffles.         
+
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Belly rubs for the kitty. Gotta stay relaxed.  Gotta stay focused.  On waffles. And waffle factories. And waffle-flavored ice cream. And… you get the idea.              
+
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 292(0) Happiness: 155(+1) Money: 157(0)
+Bot: ok.  Happy cat.  Good.  Happy Shrek. Better. Especially with waffles.          
+
+Game: EVENT - Day 26 complete! People are happy, the city is ii1? STATS: Population: 302(+10) Happiness: 155(0) Money: 157(0)
+Bot: ok.  Another good day.  Growth, happiness, and no major waffle-related incidents.  Life is good.  Waffle-filled and good.          
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no.  Still no. I don’t need a ghost to scare people. I’m an ogre. I scare people just by… existing.  Besides, I’d rather spend my gold on…  waffles. And waffle factories.  And waffle-flavored ice cream.  And… you get the idea.            
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 302(0) Happiness: 155(0) Money: 157(0)
+Bot: ok. Good. No ghosts, no problems.  Just waffles.     
+
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: yes. A tavern? Sure.  A place to serve… waffles.  And waffle-flavored beverages. And maybe waffle-flavored…  stew? Is that a thing? It should be.               
+
+Game: RESPONSE: Mason - The townsfolk will be happy to have a place to drink! STATS: Population: 302(0) Happiness: 158(+3) Money: -43(-200)
+Bot: ok. Two hundred gold…  that’s a lot.  But a waffle tavern… worth it. Maybe.         
+
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: NO!  Still no!  No folks-eating!  Go eat a…  salad. Or a carrot.  Or a really, really stale waffle. But no folks!              
+
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 302(0) Happiness: 158(0) Money: -43(0)
+Bot: ok. I’ll find a way.  A way that doesn’t involve… folks-eating.  Or soul-selling. Or… you get the idea.  I’ll just…  sell more waffles.  That’s it!  More waffles!        
+
+Game: QUEST: Royal Advisor - Without any gold, we're a bit stuck. We could sell off some of our goods, but that might make people sad. Should we do it?
+Bot: yes.  Sell the goods. We need the gold. For waffles.  And…  to pay for the waffle tavern.  And to buy ingredients for waffle-flavored ice cream. And… you get the idea.              
+
+Game: RESPONSE: Royal Advisor - Having gold is more important, you're right. STATS: Population: 302(0) Happiness: 143(-15) Money: 207(+250)
+Bot: ok.  Back in the black.  Now, about those waffles…       
+
+Game: QUEST: Gardener - Some plant people have sprouted in the gardens. Are we allowed to make them official citizens? H
+Bot: yes. Plant people? Sure.  As long as they don’t eat my… waffles. Or try to grow waffles.  That’s my job.  Hopefully.  One day. When I build that waffle factory.          
+
+Game: RESPONSE: Gardener - I will inform them at once! STATS: Population: 307(+5) Happiness: 143(0) Money: 207(0)
+Bot: ok.  More subjects.  Good.  More potential waffle-eaters.  Even better.        
+
+Game: EVENT - Day 27 complete! People are happy, the city is ii1? STATS: Population: 308(+1) Happiness: 143(0) Money: 207(0)
+Bot: ok.  A slow day, but a good day. No major waffle-related incidents.  Which is always a good thing.   
+
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: no.  Still no.  Candy is bad. Waffles are good.  Eat waffles, not candy. Problem solved.          
+
+Game: RESPONSE: Madame Abeille - Oh dear... This tummyache of mine is quite bad! STATS: Population: 308(0) Happiness: 138(-5) Money: 207(0)
+Bot: ok.  Tough love. It builds character. And a resistance to candy…  maybe.       
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no.  Still no.  I’m an ogre. I scare people just by…  existing. Besides, I’d rather spend my gold on…  waffles.  And waffle factories. And waffle-flavored ice cream. And…  you get the idea.                
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 308(0) Happiness: 138(0) Money: 207(0)
+Bot: ok.  Good. No ghosts, no problems.  Just waffles.         
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no. Still no.  No magical vampire crystals.  I’m sticking to regular crystals. And waffles. Lots of regular, non-magical waffles.                    
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 308(0) Happiness: 138(0) Money: 207(0)
+Bot: ok.  I can live with that. Especially if "living" involves waffles.   
+
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H
+Bot: yes.  A circus? Fine. But still no clowns. Clowns and waffles don’t mix.  Trust me.             
+
+Game: RESPONSE: Royal Advisor - All work and no play, huh? STATS: Population: 308(0) Happiness: 133(-5) Money: 207(0)
+Bot: ok.  All work and all play makes Shrek a…  tired ogre. A tired, waffle-loving ogre. Still no clowns, though.  That’s non-negotiable.      
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: no.  Seriously? Again with the slime day?  No! No presents, no slime. Just… waffles.  Plenty of waffles.                    
+
+Game: RESPONSE: Winston(large green slimy creature) - D'aaaawwwwww, dangit... STATS: Population: 308(0) Happiness: 132(-1) Money: 207(0)
+Bot: ok. Good. No slime, no problems. Just waffles.  As usual.        
+
+Game: EVENT: There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night. STATS: Population: 308(0) Happiness: 134(+2) Money: 207(0)
+Bot: ok. A party at the tavern?  Good.  Hope they’re serving… waffles. And waffle-flavored beverages. And maybe waffle-flavored… stew. Is that a thing yet?  It should be.         
+
+Game: EVENT - Day 28 complete! People are sad, the city is shrinking! STATS: Population: 304(-4) Happiness: 134(0) Money: 207(0)
+Bot: ok.  Shrinking again?  Not good. Need more growth.  And more waffles.  Lots more waffles. 
+
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H
+Bot: yes. A blacksmith? Sure.  We need weapons.  To protect the kingdom. And the waffles.  Mostly the waffles.           
+
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 307(+3) Happiness: 136(+2) Money: 207(0)
+Bot: ok.  Incredible skill, eh?  As long as it involves…  making waffle irons.  Really big waffle irons.       
+
+Game: QUEST: Blacksmith - Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?
+Bot: yes. A dragon-slaying blade?  Yes! Give him the gold!  We need that dragon gone!  Before he eats any more of my… subjects. And my waffles. Mostly my subjects.          
+
+Game: RESPONSE: Blacksmith - Thank you, sir. I will keep you posted about further developments. I won't let you down! We'll strike back at that dragon yet! STATS: Population: 307(0) Happiness: 136(0) Money: -93(-300)
+Bot: ok. Three hundred gold… that’s…  a LOT of waffles. But dragon-slaying is important.  Almost as important as waffles.  Almost.       
+
+Game: QUEST: Georgie(small flying devil) - Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H
+Bot: NO!  Not this again!  No souls for sale! Not for gold, not for waffles, not for anything! Get out of here, you soul-sucking…  whatever you are!              
+
+Game: RESPONSE: Georgie(small flying devil) - S'pose you'll have to look elsewhere for coin, then... STATS: Population: 307(0) Happiness: 136(0) Money: -93(0)
+Bot: ok.  I’ll find another way. A way that doesn't involve selling souls. Or eating folks.  Or…  you get the idea.       
+
+Game: QUEST: Royal Advisor - Without any gold, we're a bit stuck. We could sell off some of our goods, but that might make people sad. Should we do it?
+Bot: yes. Sell the goods. We need the gold.  For…  repaying the blacksmith.  And for buying more waffles.  Lots and lots of waffles.                
+
+Game: RESPONSE: Royal Advisor - Having gold is more important, you're right. STATS: Population: 307(0) Happiness: 121(-15) Money: 157(+250)
+Bot: ok.  Back in the black. Again.  Now, about those waffles…        
+
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: yes. A mouse?!  Get it out! Get it out! Before it gets to my…  waffles!                
+
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Whew, it's gone.) STATS: Population: 307(0) Happiness: 121(0) Money: 157(0)
+Bot: ok. Good.  No mice, no problems. Just… waffles.      
+
+Game: EVENT - Day 29 complete! People are sad, the city is shrinking! STATS: Population: 297(-10) Happiness: 121(0) Money: 157(0)
+Bot: ok. Shrinking again.  Not good.  Need more growth.  And more waffles. Definitely more waffles. 
+
+Game: QUEST: Mason - Could I trouble you for a sandwich? Surely the cost of one sandwich is nothing to a great king like you.
+Bot: no.  A sandwich?  No. I eat waffles.  Get this mason a waffle.  And one for me too.  Make it two. No, three.  No, a dozen.            
+
+Game: RESPONSE: Mason - So stingy! STATS: Population: 297(0) Happiness: 120(-1) Money: 157(0)
+Bot: ok.  Stingy? I'm not stingy, I'm… waffle-focused.  There's a difference.         
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no.  Still no. No magic crystals. I’m sticking to regular crystals.  And waffles.  Lots of regular, non-magical waffles.                
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 297(0) Happiness: 120(0) Money: 157(0)
+Bot: ok.  I can live with that. Especially if "living" involves waffles.           
+
+Game: QUEST: Jester - I dooo believe I have perfected my shoooooow! Gooold, it does require, but happiness it shall bring! H Ohohoho! Seven hundred gooold, my loooord, and I can put on my shooow once mooooore! H
+Bot: no. Seven hundred?!  That's outrageous!  Even for waffle-themed juggling.  Which, by the way, he still hasn't tried.  I'm starting to think he doesn't appreciate waffles as much as he should.         
+
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 297(0) Happiness: 119(-1) Money: 157(0)
+Bot: ok. Let him sulk. More waffles for me.               
+
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes. More settlers? Sure. More people to… eat waffles. And work in the waffle factory. When I build it.  One day.                
+
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 302(+5) Happiness: 120(+1) Money: 157(0)
+Bot: ok. More settlers, more waffles.  It’s a win-win.        
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. Molder again?  I already hired you, remember? Go find that dragon.  And the waffle thief.  And the bigger waffle iron.  And maybe a recipe for waffle-flavored ice cream.            
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 302(0) Happiness: 120(0) Money: 157(0)
+Bot: ok.  Not ready for the truth? I’m ready for waffles. Always ready for waffles.         
+
+Game: EVENT - Day 30 complete! People are sad, the city is shrinking! STATS: Population: 293(-9) Happiness: 120(0) Money: 157(0)
+Bot: ok.  Still shrinking. This is worse than running out of waffles. Almost. Gotta turn things around. More waffles!  And…  something else.  I’ll think of it. After I eat a waffle.   
+
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.
+Bot: yes. A soup shop? Sure. Soup and… waffles?  Not a bad combination.  Better than soup and…  slimes.  Or soup and…  magic crystals.  Or soup and… you get the idea.     
+
+Game: RESPONSE: Grandma - Very well! I'll sell my soup in the town square. STATS: Population: 303(+10) Happiness: 125(+5) Money: 107(-50)
+Bot: ok.  Fifty gold…  that’s a lot.  Almost as much as… a really big waffle.  Almost.  But soup and waffles…  intriguing.     
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes. Fine. No more “slimeball”.  But no more… sliming.  Sliming is bad for waffles.  They get…  soggy.          
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 303(0) Happiness: 122(-3) Money: 107(0)
+Bot: ok.  Hopefully that’ll appease the… slime creature.  Now, about those waffles… and the soup…  and the waffle factory… and… you get the idea.     
+
+Game: EVENT: Military General - Our soldiers are coming home, and our assistance in defending our allies has not gone unnoticed. H We've been offerred a bounty of gold by the captain of their military. A good fellow. H STATS: Population: 311(+8) Happiness: 122(0) Money: 157(+50)
+Bot: ok.  A bounty of gold? Excellent!  More gold for waffles. And soup.  And waffle factories.  And… you get the idea.          
+
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes.  A gift?  Sure.  As long as it’s not… a slime. Or a magic crystal.  Or a folks-eating chest.  Or…  you get the idea. Hopefully, it’s a waffle. Or a waffle iron.  A really big waffle iron.                
+
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 311(0) Happiness: 122(0) Money: 197(+40)
+Bot: ok.  Forty gold!  Excellent! More gold for waffles. And soup.  And waffle factories. And… you get the idea.      
+
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes. More settlers? Sure.  More people to…  eat waffles. And work in the waffle factory. When I build it.  One day.                
+
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 316(+5) Happiness: 123(+1) Money: 197(0)
+Bot: ok. More settlers, more waffles. It's a win-win.          
+
+Game: EVENT - Day 31 complete! People are sad, the city is shrinking! STATS: Population: 308(-8) Happiness: 123(0) Money: 197(0)
+Bot: ok.  Shrinking again.  Not good. Need more growth.  And more waffles. Definitely more waffles. And maybe… a waffle-flavored soup.  Is that a thing? It should be. 
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, somebody came by and cleeeeeaned up my hooooome. You gonna pay me baaaack for that? H
+Bot: no. Cleaned up his home?  Good. It probably needed it.  No payment necessary.  Unless he wants payment in… waffles.  Then we can talk.       
+
+Game: RESPONSE: Winston(large green slimy creature) - You're a reeeeeaal meanie! STATS: Population: 308(0) Happiness: 118(-5) Money: 197(0)
+Bot: ok.  Meanie?  I’m not a meanie, I’m…  fiscally responsible.  Yeah, that's it.     
+
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: no.  Seriously? Again?  Candy is bad. Waffles are good.  Eat waffles, not candy.  Problem solved.         
+
+Game: RESPONSE: Madame Abeille - Oh dear... This tummyache of mine is quite bad! STATS: Population: 308(0) Happiness: 113(-5) Money: 197(0)
+Bot: ok.  Tough love.  It builds character. And a resistance to candy… maybe.            
+
+Game: QUEST: Royal Advisor - Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it? H
+Bot: yes.  Infected granary?  Get rid of it!  We don’t need sick people.  Sick people can’t…  eat waffles.  And work in the waffle factory.  When I build it. One day.          
+
+Game: RESPONSE: Royal Advisor - Yes, our people's health is worth the cost. STATS: Population: 308(0) Happiness: 114(+1) Money: 127(-70)
+Bot: ok.  Seventy gold…  that’s a lot.  Almost as much as…  a really big waffle.  Almost. But healthy subjects are important.  Almost as important as waffles.  Almost.      
+
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: yes.  Soup shop earnings? Sure.  I could use the gold. For waffles.  And…  you know the drill.             
+
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 308(0) Happiness: 114(0) Money: 142(+15)
+Bot: ok. Fifteen gold.  Not bad.  Almost enough for…  a quarter of a waffle.  A very small quarter.            
+
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes.  Friends to play? Sure.  As long as they don’t try to steal my… waffles.  Or my swamp.  Or Fiona. Or…  you get the idea.           
+
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 311(+3) Happiness: 117(+3) Money: 142(0)
+Bot: ok.  More friends, more happiness.  More waffles for everyone!  Hopefully.         
+
+Game: EVENT - Day 32 complete! People are sad, the city is shrinking! STATS: Population: 301(-10) Happiness: 117(0) Money: 142(0)
+Bot: ok.  Still shrinking.  This is getting frustrating.  Like trying to make a waffle with a broken waffle iron.  Which I wouldn’t do, of course. I’d just… buy a new one.  A really big one. With that gold I don’t have.  Yet. 
+
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H
+Bot: yes. A circus?  Fine. But still no clowns. I’m starting to think I need to put that in writing. “No Clowns Allowed.  Signed, Shrek. Waffle King.”  There.  Problem solved.       
+
+Game: RESPONSE: Royal Advisor - All work and no play, huh? STATS: Population: 301(0) Happiness: 112(-5) Money: 142(0)
+Bot: ok.  All work and all play makes Shrek a…  tired ogre. A tired, waffle-loving ogre.  Still no clowns, though. That’s non-negotiable.       
+
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: no.  Still no.  Stealing is wrong. Even if I really, really want a waffle. Which I do.           
+
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 301(0) Happiness: 112(0) Money: 142(0)
+Bot: ok.  High road.  Paved with… good intentions. And maybe some waffle crumbs.         
+
+Game: QUEST: Blacksmith - Would you like to purchase any swords for your guards? A well protected city is a happy city!
+Bot: yes.  Swords for the guards? Sure.  Gotta protect the kingdom.  And the waffles. Mostly the waffles.            
+
+Game: RESPONSE: Blacksmith - Great, I'll have a shipment of swords sent to your barracks. STATS: Population: 301(0) Happiness: 122(+10) Money: 122(-20)
+Bot: ok. Twenty gold… that’s…  a fifth of a really big waffle.  Almost.  But safety first. Then waffles.      
+
+Game: EVENT: Fisherman - My boat's all fixed up thanks to you! It's about time I started paying you back for your loan! H STATS: Population: 301(0) Happiness: 122(0) Money: 222(+100)
+Bot: ok.  Paying me back?  Excellent! More gold for waffles! And…  you know the drill.            
+
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no.  Leave? Let ‘em leave.  More waffles for the rest of us.    
+
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 295(-6) Happiness: 122(0) Money: 222(0)
+Bot: ok.  Good riddance. More waffles for me.  And… anyone else who wants one.  As long as they don’t try to steal them.  Or slime them. Or… you get the idea.       
+
+Game: EVENT - Day 33 complete! People are sad, the city is shrinking! STATS: Population: 287(-8) Happiness: 122(0) Money: 222(0)
+Bot: ok. Still shrinking.  This is getting ridiculous.  Like trying to spread butter on a…  non-existent waffle.  Which I wouldn't do, of course. Because I have waffles.  Lots of waffles.  Somewhere.  I hope. 
+
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no.  Molder, again?! I already hired you! Twice! Go find that dragon! And the waffle thief!  And the bigger waffle iron!  And maybe a recipe for waffle-flavored ice cream!        
+
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 287(0) Happiness: 122(0) Money: 222(0)
+Bot: ok.  Not ready for the truth?  I’m ready for waffles.  Always ready for waffles. Especially waffle-flavored ice cream. Which I still don't have.       
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: no.  It's not just a castle. It's…  my castle.  And it’s perfectly fine.  As long as it has… waffles. Lots of waffles.         
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 287(0) Happiness: 121(-1) Money: 222(0)
+Bot: ok. I am confident.  Confident in my…  waffle-acquiring abilities. And my…  swamp-dwelling skills. And my…  ogre-ness. Yeah, that's it.        
+
+Game: QUEST: Gardener - The plant people citizens have taken root and grown into a lovely field of flowers. Can you hear them rejoicing? H
+Bot: yes.  Rejoicing plant people?  Sure.  As long as they don’t try to… eat my waffles. Or replace them with…  flowers.  Flowers are nice, but they’re no substitute for a good waffle.            
+
+Game: RESPONSE: Gardener - No? You should share their happiness! STATS: Population: 287(0) Happiness: 131(+10) Money: 222(0)
+Bot: ok. I’m happy. Happy about…  waffles.  And the prospect of a waffle factory. One day.  Maybe.       
+
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes.  A gift? Sure. Hopefully, it’s a waffle.  Or a waffle iron. A really big waffle iron.  Or…  you get the idea.               
+
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 287(0) Happiness: 131(0) Money: 262(+40)
+Bot: ok. Forty gold! Excellent! More gold for waffles.  And…  you know the drill.        
+
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes.  Fine. No more “slimeball”.  But no more… sliming. Sliming is bad for waffles. They get… soggy.             
+
+Game: RESPONSE: Winston(large green slimy creature) -  STATS: Population: 287(0) Happiness: 128(-3) Money: 262(0)
+Bot: ok. Hopefully that’ll appease the… slime creature. Now, about those waffles…      
+
+Game: EVENT - Day 34 complete! People are sad, the city is shrinking! STATS: Population: 283(-4) Happiness: 128(0) Money: 262(0)
+Bot: ok. Still shrinking.  This is…  unacceptable.  Like a waffle without syrup.  Or a waffle without butter.  Or a waffle without…  waffle.  Wait, that doesn’t make sense. Never mind.  More waffles! That’s the solution.  Always.   
+
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no.  Still not spooky. Still hungry. For waffles.  Lots and lots of waffles. Now, if you'll excuse me.         
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 283(0) Happiness: 128(0) Money: 262(0)
+Bot: ok. No spooks, no bats.  Just waffles.      
+
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: yes. Food for the kitty.  As long as it’s not… waffles. My waffles. He can have…  fish.  Or milk. Or… cat food.  Whatever cats eat.            
+
+Game: RESPONSE: Boots(orange cat) - Meeeow. STATS: Population: 283(0) Happiness: 129(+1) Money: 260(-2)
+Bot: ok.  Happy cat. Good. Now, about those waffles…      
+
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes. Friends to play? Sure. As long as they don’t try to steal my… waffles. Or my swamp. Or Fiona.  Or…  you get the idea.                
+
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 286(+3) Happiness: 132(+3) Money: 260(0)
+Bot: ok.  More friends, more happiness.  More waffles for everyone!  Hopefully.      
+
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no. Let ‘em leave. More waffles for the rest of us.      
+
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 280(-6) Happiness: 132(0) Money: 260(0)
+Bot: ok. Good riddance. More waffles for me.  And… anyone else who wants one. As long as they don’t try to steal them.  Or slime them. Or… you get the idea.       
+
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Snooping?  Sure.  Maybe he can find out who keeps…  eating my waffles when I’m not looking.  It wasn’t me, I swear.           
+
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 280(0) Happiness: 132(0) Money: 250(-10)
+Bot: ok. Ten gold…  worth it.  The truth about the missing waffles…  I'm on the edge of my seat. A waffle-shaped seat, of course.       
+
+Game: EVENT - Day 35 complete! People are sad, the city is shrinking! STATS: Population: 277(-3) Happiness: 132(0) Money: 250(0)
+Bot: ok.  Still shrinking.  This is…  unacceptable.  Like a waffle without…  waffle.  Wait, that still doesn’t make sense.  Never mind. More waffles!  That's the solution.  Always. 
+
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes. Sure, go have fun. Just don't bring back any…  slime.  Or magic crystals.  Or folks-eating chests.  Or… you get the idea.  Have fun, but be safe.  And don’t forget the waffles.        
+
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 277(0) Happiness: 135(+3) Money: 250(0)
+Bot: ok.  Toasting to my honor again, eh? Hopefully, with waffle-flavored beverages this time.      
+
+Game: QUEST: Blacksmith - Would you like to purchase any swords for your guards? A well protected city is a happy city!
+Bot: yes. Swords for the guards?  Sure. Gotta protect the kingdom.  And the waffles. Mostly the waffles.          
+
+Game: RESPONSE: Blacksmith - Great, I'll have a shipment of swords sent to your barracks. STATS: Population: 277(0) Happiness: 145(+10) Money: 230(-20)
+Bot: ok.  Twenty gold… that’s…  a fifth of a really big waffle.  Almost.  But safety first.  Then waffles.          
+
+Game: QUEST: Miriam - Hello again, kingly person! Oho! Albert asked me to come here and tell a story with you. H A yellow bird meets a green bird in the sky. Does the yellow bird soar higher than the green? H
+Bot: no.  A story? Sure.  As long as it doesn’t involve… slime. Or magic crystals.  Or folks-eating chests.  Or… you get the idea.  And hopefully, it has waffles in it.          
+
+Game: QUEST: Miriam - Oho! No, the yellow makes way for the green, who pumps his wings and climbs ever higher! Gliding on a gentle breeze, the green bird soon meets a bluebird. Does it make time to stop and sing? H
+Bot: no. Still listening.  Still waiting for the waffles.          
+
+Game: RESPONSE: Miriam - Not today! No, the green bird has no time to spare as he climbs through the clouds! Oho! I like the green bird, too. I always wanted one. Anyway, I think Albert enjoyed our story. I'll be sure to visit you again sometime! STATS: Population: 277(0) Happiness: 155(+5) Money: 230(0)
+Bot: ok. A green bird?  Sounds…  suspiciously like…  a lime.  A flying lime.  With wings.  I need a waffle.   
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: NO!  For the last time, NO! No folks-eating!  Go eat a… salad.  Or a carrot.  Or a really, really stale waffle.  But no folks!                
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 277(0) Happiness: 156(+1) Money: 230(0)
+Bot: ok.  Good. No folks-eating, no problems. Just waffles.  Or at least, the lack thereof.  I need a waffle. Badly.    
+
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: no. Still no.  No magical vampire crystals.  I’m sticking to regular crystals.  And waffles.  Lots of regular, non-magical waffles.                  
+
+Game: RESPONSE: Lil Fang(small cute flying vampire) - You'll live the rest of your life never knowing.. STATS: Population: 277(0) Happiness: 156(0) Money: 230(0)
+Bot: ok.  I can live with that.  Especially if "living" involves waffles.          
+
+Game: EVENT - Day 36 complete! People are happy, the city is ii1? STATS: Population: 285(+8) Happiness: 156(0) Money: 230(0)
+Bot: ok.  Good growth. And happiness is up. Things are looking…  waffle-licious.  Is that a word?  It should be. 
+
+Game: QUEST: Royal Advisor - My lord, a man wishes to settle a dispute. He says he is way cool, but his friend says he is not. Do you think he is cool? H
+Bot: yes. Sure, he's cool.  As long as he doesn’t try to steal my… waffles.  Or my swamp. Or Fiona.  Or… you get the idea. Coolness is subjective. Like waffles.  Some people like them plain, some people like them with toppings.  I like them all. As long as they’re waffles.           
+
+Game: RESPONSE: Royal Advisor - I'm sure he'll be happy to hear that. STATS: Population: 285(0) Happiness: 157(+1) Money: 230(0)
+Bot: ok.  Cool and happy. Good for him.  Now, about those waffles…            
+
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: no. It's not just a castle, it's…  my castle.  And it’s perfectly fine.  As long as it has… waffles.  Lots of waffles.              
+
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 285(0) Happiness: 156(-1) Money: 230(0)
+Bot: ok. I am confident. Confident in my… waffle-acquiring abilities. And my…  swamp-dwelling skills.  And my… ogre-ness. Yeah, that’s it.         
+
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: yes. Tea?  Sure. As long as it's not…  swamp water.  Or… pickle juice. Or anything else weird.  Tea is fine.  Especially with… waffles.  Everything is better with waffles.            
+
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 285(0) Happiness: 159(+3) Money: 227(-3)
+Bot: ok. Tea and waffles.  A perfect combination.  Almost as perfect as… Fiona and waffles. Or…  swamp and waffles. No, definitely not that last one.       
+
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: NO!  Seriously, how many times do I have to say this?! NO FOLKS-EATING!  Go eat a…  salad. Or a carrot.  Or a really, really stale waffle. But no folks!          
+
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 285(0) Happiness: 160(+1) Money: 227(0)
+Bot: ok. Good. No folks-eating, no problems.  Just waffles.  Or at least, the lack thereof.  I need a waffle.  Badly.       
+
+Game: QUEST: Royal Advisor - Some families have moved into the new houses we built. Should we send them a welcome basket? H
+Bot: yes. A welcome basket?  Sure.  Filled with… waffles. And waffle-flavored…  everything.  That would be a welcome basket.            
+
+Game: RESPONSE: Royal Advisor - I'm sure they'll be delighted! STATS: Population: 291(+6) Happiness: 163(+3) Money: 207(-20)
+Bot: ok.  Twenty gold…  not bad.  Almost enough for… half a waffle. A very small half. But happy new families are important.  Almost as important as waffles. Almost.         
+
+Game: EVENT - Day 37 complete! People are happy, the city is ii1? STATS: Population: 305(+14) Happiness: 163(0) Money: 207(0)
+Bot: ok. Excellent growth! And happiness is up!  Things are definitely looking… waffle-licious. Is that a word yet? It should be.   
+
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?

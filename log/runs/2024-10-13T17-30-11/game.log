@@ -1,0 +1,689 @@
+AI ChatBot (gemini) with personality: Donald TrumpGame: QUEST: Royal Advisor - My lord, I'll help you rule your kingdom, but you have to make the tough choices. Just say yes or no, understand? H
+Bot: yes.  Advisors, advisors, they always think they know best. But I'm the king, okay?  I'll make the decisions. The best decisions. Tremendous decisions. You'll see. 
+Game: RESPONSE: Royal Advisor - Good! You've already got the hang of it. Our city's still very small right now, but it certainly has the potential to grow. Perhaps one day we will have a bustling metropolis and you'll be invited to join the Council of Crowns! H For now all you need to concern yourself with is keeping the citizens happy and growing our population. H Do your best, sir! STATS: Population: 100(0) Happiness: 100(0) Money: 200(0)
+Bot: ok.  A metropolis, you say?  We'll have the biggest, best metropolis anyone's ever seen.  And the Council of Crowns? They'll be begging me to join.  Just watch. 
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes. Adventures are good.  Builds character.  Reminds me of when I… well, never mind.  Go have your adventure. 
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 100(0) Happiness: 102(+2) Money: 200(0)
+Bot: ok.  See? Everyone's happy.  They love me.  Even the Yettis.   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. Magic? Sounds fantastic.  I've always had a knack for the mystical, myself.   
+Game: RESPONSE: Wizard - Ohohoho! A spell of great fortune! STATS: Population: 100(0) Happiness: 102(0) Money: 400(+200)
+Bot: ok.  See?  Great fortune. I told you I had a knack for this. 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes.  A vampire crystal? Sounds… interesting.  Let's see what it shows. 
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 100(0) Happiness: 107(+5) Money: 450(+50)
+Bot: ok. Fame and fortune!  Big surprise. I knew that already.  But it's nice to have confirmation. 
+Game: QUEST: Mason - I'd like to build a new granary. This could help expand our population, but it'll cost a bit!
+Bot: yes.  Build, build, build.  Expansion is key. We need the best granaries, the biggest granaries. Everyone will be talking about our granaries. 
+Game: RESPONSE: Mason - You got it, this will help our city grow! STATS: Population: 107(+7) Happiness: 107(0) Money: 380(-70)
+Bot: ok.  Growing already.  See?  I'm a natural at this.   
+Game: EVENT - Day 1 complete! People are happy, the city is ii1? STATS: Population: 109(+2) Happiness: 107(0) Money: 380(0)
+Bot: ok.  Day one, a complete success.  Many more to come.  They'll write books about my reign. 
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhhh, it's sliiiiiime day... Got a preeeesent for meeeee?
+Bot: yes. Slime day?  Never heard of it.  But sure, why not. A present it is.  The best present.   
+Game: RESPONSE: Winston(large green slimy creature) - Yeeeeaaah! You're so niiiiice! STATS: Population: 109(0) Happiness: 109(+2) Money: 375(-5)
+Bot: ok.  Nice, they say.  I'm always nice… to the right people. Winning. Always winning. 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes. Let's see what the future holds. Although, I pretty much already know. It’s going to be great. 
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... death, and misery! STATS: Population: 94(-15) Happiness: 94(-15) Money: 375(0)
+Bot: ok.  Death and misery?  Fake news.  The crystal is wrong.  Very sad.  We'll get those numbers back up, don't you worry. This crystal, a total disaster. 
+Game: QUEST: Sneaky Girl - The guards confiscated some gold that I, uh... found... Can I have it back?
+Bot: no. Confiscated gold stays confiscated. We need that gold for important things. Like… making the kingdom great.  And building walls. Big, beautiful walls. 
+Game: RESPONSE: Sneaky Girl - You're keeping it, eh? But I sto- I mean... found it.. STATS: Population: 94(0) Happiness: 94(0) Money: 400(+25)
+Bot: ok. Good.  More money for the kingdom.  Exactly what we need.  See?  Tough decisions, but the right decisions.  That's how I operate. 
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: no.  It's just staring? Probably jealous.  Lots of people are jealous of me.  It's understandable.  I wouldn't answer it either. 
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... happy!) STATS: Population: 94(0) Happiness: 104(+10) Money: 400(0)
+Bot: ok.  Happy?  See? They like the tough stance. They respect strength. Everyone respects strength. It’s how you make a kingdom great, not by giving in to every eyeball that comes along.   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes.  Always up for some magic. Especially when it leads to great things, which it always does for me. I'm very lucky, you know.  The best luck.   
+Game: RESPONSE: Wizard - Aaah, my apologies. I guess the spell turned out to be evil. STATS: Population: 84(-10) Happiness: 89(-15) Money: 400(0)
+Bot: ok.  Evil spell? Fake magic!  A total witch hunt. I'm surrounded by losers. We need a new wizard.  A good wizard.  The best wizard. 
+Game: EVENT - Day 2 complete! People are sad, the city is shrinking! STATS: Population: 79(-5) Happiness: 89(0) Money: 400(0)
+Bot: ok. Sad?  They're just jealous.  The city will be bigger and better than ever.  Just watch.  It's going to be huge. The hugest. 
+Game: QUEST: Yettu(yetti creature) - I would like some money please.
+Bot: no. Money doesn't grow on trees.  We need it for important things.  Like making the kingdom great again. 
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 79(0) Happiness: 88(-1) Money: 400(0)
+Bot: ok. Good.  They need to learn to stand on their own two feet.  Not just come begging for handouts. I'm here to run a kingdom, not a charity. 
+Game: QUEST: Grandma - Eeeh, hello sonny. Can I borrow a coin for the newspaper?
+Bot: yes. For the newspaper? Okay. But just this once.  We have to be fiscally responsible.  Think of the budget!     
+Game: RESPONSE: Grandma - Thank you dearie. STATS: Population: 79(0) Happiness: 89(+1) Money: 399(-1)
+Bot: ok. A small price to pay for a happy grandma.  They love me, these grandmas.  Everyone loves me.  Except the failing newspapers, of course. Fake news! 
+Game: QUEST: Military General - One of our prisoners has escaped! May I have some gold to offer a reward for her recapture? H
+Bot: yes.  Escaped prisoner?  Unacceptable. We need that reward. Catch that prisoner.  Big reward. The biggest.   
+Game: RESPONSE: Military General - Someone's bound to find her soon with this sweet reward. STATS: Population: 79(0) Happiness: 92(+3) Money: 349(-50)
+Bot: ok.  See? Law and order. That's what the people want. Safety and security. It’s what I deliver.  Unlike those other kings, the failing kings. Sad! 
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes. More settlers?  Excellent.  More people to make the kingdom great. We need people. Good people.  The best people.   
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 84(+5) Happiness: 93(+1) Money: 349(0)
+Bot: ok. The kingdom is growing.  It's thriving. Winning. It’s all winning!  Just as I predicted.  I'm a very good predictor, you know.  Ask anyone.   
+Game: QUEST: Jester - Oooooooo! I wish to put on a shoooooooow! May I have funds to do soooo?
+Bot: yes. A show? Okay.  The people need entertainment. The best entertainment. Keep them happy.   
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 84(0) Happiness: 93(0) Money: 299(-50)
+Bot: ok. Happy people are productive people. It's a simple equation. It’s tremendous. Everybody knows it.  Except the fake news media, of course. They never know anything.  Sad! 
+Game: EVENT: The jester's show was loved by the court, and put everybody into a happy mood. STATS: Population: 84(0) Happiness: 101(+8) Money: 299(0)
+Bot: ok.  See?  They love a good show.  I knew it.  I have great instincts. The best instincts.  Everybody agrees. 
+Game: EVENT - Day 3 complete! People are happy, the city is ii1? STATS: Population: 85(+1) Happiness: 101(0) Money: 299(0)
+Bot: ok. Another winning day. They should rename the days after me.  Trumpday, the best day.  Much better than Wednesday, or Thursday. Very low energy days, Wednesday and Thursday. Sad! 
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Mysteries? Always.  Snooping is good.  Find out what's going on.  We need information.  The best information.   
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 85(0) Happiness: 101(0) Money: 289(-10)
+Bot: ok.  The truth. That's what we need. No more fake news.  Just the facts.  Tremendous facts.  The best facts. Everyone wants facts. 
+Game: QUEST: Lil Fang(small cute flying vampire) - I'm the Duke of Spook! Do you want a spooky nickname?
+Bot: no. Nicknames?  I don't need a nickname.  I have a perfectly good name.  The best name. Everyone knows my name. It's the biggest, most famous name.   
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Aw, man... You're no fun. STATS: Population: 85(0) Happiness: 100(-1) Money: 289(0)
+Bot: ok. Fun?  I am fun.  The most fun.  They just don't appreciate it.  Sad.  Very, very sad.   
+Game: QUEST: Royal Advisor - There's a petition going around to open our borders to the neighbouring town. What do you say?
+Bot: yes. Open borders?  Sounds good.  More people, more prosperity.  We'll make the kingdom even greater.  Huge.    
+Game: RESPONSE: Royal Advisor - Together our towns will grow stronger! STATS: Population: 115(+30) Happiness: 110(+10) Money: 339(+50)
+Bot: ok. Stronger together.  Exactly. That's what I've been saying all along.  A big, beautiful, united kingdom.  It's going to be fantastic.  The best kingdom ever. Tremendous! 
+Game: QUEST: All—Seeing Eye - (It's just.. staring at me... Does it want something?)
+Bot: no.  Still staring?  Creepy. Very creepy.  Probably a loser.  Losers stare. Winners do things.   
+Game: RESPONSE: All—Seeing Eye - (What just happened? I feel... happy!) STATS: Population: 115(0) Happiness: 120(+10) Money: 339(0)
+Bot: ok. Happy?  Maybe it’s not a loser after all.  Maybe it just admires my strength.  Lots of people admire my strength. It’s understandable.  I’m very strong.   
+Game: QUEST: Alien - You haven't been talking to Skelly, have you?
+Bot: no.  Skelly? Why would I talk to Skelly?  I talk to important people.  Winners.  Not… Skellys.      
+Game: RESPONSE: Alien - Hmm... If you say so.. STATS: Population: 115(0) Happiness: 120(0) Money: 339(0)
+Bot: ok.  Good.  Glad we cleared that up.  Now, back to running the kingdom. Making it great again.  Huge.  The hugest.  You’ll see. 
+Game: EVENT - Day 4 complete! People are happy, the city is ii1? STATS: Population: 125(+10) Happiness: 120(0) Money: 339(0)
+Bot: ok. Another great day. The best day.  Everyone's happy. The kingdom is growing.  Winning!  It's all winning!  Just like I said it would be. 
+Game: QUEST: Boots(orange cat) - Meeeow. (Looks like he wants somebody to pat his belly...)
+Bot: yes.  Pat the belly.  Cats love belly pats.  Everyone loves belly pats.  Except maybe the failing newspapers. They never love anything. Sad! 
+Game: RESPONSE: Boots(orange cat) - Mmmrrrrow. STATS: Population: 125(0) Happiness: 121(+1) Money: 339(0)
+Bot: ok. Happy cat.  Happy kingdom. It’s all connected.  I’m a very insightful ruler. The most insightful.  Ask anyone.    
+Game: QUEST: Witch - I've got a friend from witch school looking to move to town. Could I get a couple gold to help her move in? H
+Bot: yes. New residents are always welcome.  Especially witches.  We need good witches. The best witches.  Not like those nasty, crooked witches.  Very bad people.  Very unfair to me.    
+Game: RESPONSE: Witch - Thanks, this'll help her get settled. STATS: Population: 126(+1) Happiness: 124(+3) Money: 336(-3)
+Bot: ok.  A small price to pay for a new witch.  Magic is important. Very important. We need more magic to make the kingdom great.  Believe me.    
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: no.  Still begging?  Not a good look.  Get a job.  Contribute to society.  Don't just come looking for handouts.  It's not how things work in my kingdom.       
+Game: RESPONSE: Yettu(yetti creature) - Fine then. I shall return another day. STATS: Population: 126(0) Happiness: 123(-1) Money: 336(0)
+Bot: ok.  Good. He’ll be back. They always come back. They need my strong leadership.  It's what makes the kingdom great. 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes.  Always.  It usually predicts great things for me.  Big things.  The best things.   
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 126(0) Happiness: 128(+5) Money: 386(+50)
+Bot: ok.  See? Fame and fortune!  I told you.  The crystal knows.  It recognizes greatness.   
+Game: QUEST: Chicken - Bokbokbok.. BOK! (I think it's just here to pay a visit. Should we leave it be?)
+Bot: no.  A chicken? Just visiting?  I doubt it. Probably up to no good.  Get rid of it.      
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 125(-1) Happiness: 128(0) Money: 386(0)
+Bot: ok. Dangerous chicken.  Who knew?  Glad we took care of that.  Safety first. Always. It's one of my top priorities.   
+Game: EVENT - Day 5 complete! People are happy, the city is ii1? STATS: Population: 138(+13) Happiness: 128(0) Money: 386(0)
+Bot: ok.  Another fantastic day. The kingdom is booming.  The people are happy.  Winning! It’s what I do. I win.  I always win. 
+Game: QUEST: Chester(mimic chest) - You ever see a treasure chest do a backflip?
+Bot: yes. A backflipping treasure chest?  Sure, why not.  Sounds… interesting.    
+Game: RESPONSE: Chester(mimic chest) - Really? I don't believe you. STATS: Population: 138(0) Happiness: 128(0) Money: 386(0)
+Bot: ok. Doesn’t believe me?  Probably jealous.  Lots of people are jealous of me.  It’s understandable. I have a lot to be jealous of.   
+Game: QUEST: Madame Abeille - Bonjour! My name is Madame Abeille, and I've come to join your court. Will you have me?
+Bot: yes.  New court member?  Excellent.  We need the best people. The most talented people. Madame Abeille sounds… French.  Very classy.  I like it.      
+Game: RESPONSE: Madame Abeille - How sweet! I'm sure many wonderful adventures await us. STATS: Population: 139(+1) Happiness: 128(0) Money: 386(0)
+Bot: ok.  Wonderful adventures.  I agree.  It’s going to be tremendous. The most tremendous. You’ll see.   
+Game: QUEST: Pancake(black cat) - Mew. (This cat seems slightly magical. Not sure what it wants, though...)
+Bot: yes. A magical cat? Sounds good.  I like magic.  Especially when it makes me money.  Lots of money.  The best money.    
+Game: RESPONSE: Pancake(black cat) - Mrow! (I guess that's good?) STATS: Population: 139(0) Happiness: 129(+1) Money: 386(0)
+Bot: ok. Good. Very good.  Cats bring good luck. Everybody knows that. Except the fake news media.  They’ll say it’s bad luck.  Sad!   
+Game: QUEST: Royal Advisor - Builders wish to construct more houses in the town. They request gold, with which they could build much faster! H
+Bot: yes.  More houses?  Absolutely. We need housing.  The best housing.  Big, beautiful houses. Everyone wants a big, beautiful house.  It’s the American dream.  Or… the kingdom dream, I guess.      
+Game: RESPONSE: Royal Advisor - I shall bring this to them right away. Our city grows! STATS: Population: 146(+7) Happiness: 129(0) Money: 286(-100)
+Bot: ok. Growing.  Always growing. It’s tremendous.  We’ll have the biggest city.  The best city. Everyone will be talking about our city.  They’ll be so jealous.
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: yes. Magic is good. Very good. Especially when it makes me rich and powerful. Which it usually does.  I have a natural talent for magic, you know.  The best talent.   
+Game: RESPONSE: Wizard - Aaah, my apologies. I guess the spell turned out to be evil. STATS: Population: 136(-10) Happiness: 114(-15) Money: 286(0)
+Bot: ok.  Evil again? This wizard is terrible.  A total disaster.  We need to find a new wizard.  A good wizard.  Someone who can do real magic.  Not this fake, evil magic. Sad! Very sad!  I’m losing. I hate losing. 
+Game: EVENT - Day 6 complete! People are happy, the city is ii1? STATS: Population: 142(+6) Happiness: 114(0) Money: 286(0)
+Bot: ok.  Happy?  They should be ecstatic.  I'm doing a great job. The best job.  They’ll see.  They always see, eventually.   
+Game: QUEST: Little Timmy - I'm Lil' Timmy! Nice to meetcha! You like ice cweam?
+Bot: yes.  Ice cream?  Everyone likes ice cream.  It's delicious.  The best dessert. Tremendous!    
+Game: RESPONSE: Little Timmy - Mwwaah! Me toooo! STATS: Population: 142(0) Happiness: 116(+2) Money: 286(0)
+Bot: ok. See?  Ice cream makes people happy.  It’s a simple equation. It’s common sense.  Except for the fake news media. They'll say ice cream is bad for you.  Sad!   
+Game: QUEST: Military General - We've captured some foes on the battlefield. Shall we bring them home and put them to work? H
+Bot: yes. Put them to work.  Make them contribute.  We don't need freeloaders in this kingdom.  Everyone needs to work.  It's what makes a kingdom great.    
+Game: RESPONSE: Military General - We'll get them into town, then. STATS: Population: 150(+8) Happiness: 116(0) Money: 286(0)
+Bot: ok.  More workers. Excellent.  We need to build. Build, build, build.  Make the kingdom bigger and better than ever before.  The best kingdom. Everyone will be talking about our kingdom.  They’ll be so jealous.     
+Game: QUEST: Royal Advisor - Some very strange creatures wish to move into the houses we built. Should we allow it?
+Bot: yes. Strange creatures?  Sure.  Why not?  The more the merrier.  We're building a big, beautiful, diverse kingdom.  The best kingdom. Everyone's welcome.  As long as they contribute.  And don't cause trouble.  And aren’t losers.     
+Game: RESPONSE: Royal Advisor - Of course! All are welcome in our town. STATS: Population: 154(+4) Happiness: 120(+4) Money: 286(0)
+Bot: ok. All are welcome. Unless they're losers.  Or criminals.  Or bad people. Then they're not welcome. We only want the best people in our kingdom.   
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes. A shiny coin? I like shiny coins. We need more shiny coins.  Lots of shiny coins. It's what makes a kingdom great.  Everyone knows that.   
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 154(0) Happiness: 120(0) Money: 291(+5)
+Bot: ok.  More money.  Excellent.  We're getting richer.  And more powerful.  Just like I planned.  I always have a plan.  The best plan.  Everyone agrees.  Except the haters and losers, of course.  They never agree with anything.  Sad! 
+Game: QUEST: Gardener - Plants are interesting, don't you think? I would like to open a garden, may I have some workers to help me? H
+Bot: yes. A garden? Sounds good.  We need more green space.  Makes the kingdom look beautiful.  And prosperous.  Everyone likes a beautiful, prosperous kingdom. It's important for morale.  Very important.     
+Game: RESPONSE: Gardener - Thank you, I will send them back as soon as they're done. STATS: Population: 151(-3) Happiness: 120(0) Money: 291(0)
+Bot: ok. A small price to pay for a beautiful garden.  We'll get those workers back soon.  They'll be bigger and stronger after working in the garden.  Just like me. I'm very strong.  The strongest.  Everyone knows it.   
+Game: EVENT: The workers we captured and recruited have sped up our building processes, resulting in more tax income. STATS: Population: 151(0) Happiness: 120(0) Money: 311(+20)
+Bot: ok. More tax income. Excellent.  That's what we like to see. Money, money, money.  It's what makes the world go round.  Or the kingdom, I guess.  It’s what makes the kingdom great.    
+Game: EVENT - Day 7 complete! People are happy, the city is ii1? STATS: Population: 162(+11) Happiness: 120(0) Money: 311(0)
+Bot: ok.  Another winning day. The best day. We're making the kingdom great again. Huge.  The hugest.  It’s going to be the best kingdom ever.  Everyone will be talking about it. 
+Game: QUEST: Knight - My lord! I wish to embark upon a treacherous quest!
+Bot: yes. Treacherous quests are good.  Very good.  They build character. And they usually involve gold.  Lots of gold. We like gold.     
+Game: RESPONSE: Knight - For the kingdom! I shall return to you, lord! STATS: Population: 162(0) Happiness: 120(0) Money: 311(0)
+Bot: ok. For the kingdom.  And for the gold. Lots and lots of gold. We're going to be so rich.  The richest kingdom.  Everyone will be jealous.     
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes. Friends? Sure. Why not. The more the merrier. As long as they're not losers. We don't want any losers in our kingdom.      
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 165(+3) Happiness: 123(+3) Money: 311(0)
+Bot: ok.  More people.  Good.  We need more people to make the kingdom great. The greatest.  The best.  Tremendous! 
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I discovered an underground crime ring in the city's eastern ward. I've already taken steps to break up their operations. Could I have a bit of extra gold to bring in the guard and make some additional arrests? H
+Bot: yes. Crime ring? Unacceptable.  We need law and order.  Safety and security.  Give Skelly the gold.  Arrest those criminals. Lock them up. Throw away the key.  We don't tolerate crime in my kingdom.   
+Game: RESPONSE: Skelly(skeleton creature) - Perfect. We'll have those criminals locked up by this time tomorrow. STATS: Population: 165(0) Happiness: 128(+3) Money: 271(-40)
+Bot: ok.  Law and order.  That's what the people want. They feel safe.  They feel secure. They love me for it.  They should. I'm the best at law and order. Ask anyone.  Except the criminals, of course.  They don't like me. Sad! 
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no. Haunting services?  No. We don't need ghosts haunting people. We need happy people.  Productive people.  Not scared people.  That’s bad for the economy. Very bad.      
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 165(0) Happiness: 128(0) Money: 271(0)
+Bot: ok. Good. No ghosts.  We need to focus on building the kingdom.  Making it great again.  Haunting can wait.   
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes. A party?  Sure. Have fun.  Relax.  Enjoy yourself.  But be back tomorrow.  We have a kingdom to run. A big, beautiful kingdom. The best kingdom.    
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 165(0) Happiness: 131(+3) Money: 271(0)
+Bot: ok.  Toasting to my honor.  Excellent.  They love me.  They really, really love me. It's understandable.  I'm very lovable.  The most lovable.  Ask anyone.   
+Game: EVENT - Day 8 complete! People are happy, the city is ii1? STATS: Population: 180(+15) Happiness: 131(0) Money: 271(0)
+Bot: ok. Another great day. The best day.  The kingdom is booming.  Just like I said it would be. I'm always right.  Ask anyone.  Except the fake news media, of course. They'll say I'm wrong.  Sad!  Very sad! 
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: yes. Ate some folks?  That's not good. But gold is good. Very good.  So, yes.  Pay me back. We need that gold to make the kingdom great again.  Huge!     
+Game: RESPONSE: Chester(mimic chest) - Thanks for understanding. STATS: Population: 175(-5) Happiness: 131(0) Money: 421(+150)
+Bot: ok.  More gold. Excellent.  We can use that to build more things. Big, beautiful things.  The best things.  And we'll hire some security.  To keep the chest from eating people.  It’s important to maintain law and order.   
+Game: QUEST: Blacksmith - I'm a blacksmith and I'd like to set up shop here. I can pay my own way, I just need your permission. What do you say? H
+Bot: yes. A blacksmith?  Good. We need a blacksmith. To make weapons.  And tools. And other important things.  Welcome to the kingdom.     
+Game: RESPONSE: Blacksmith - Haha, yes! I'll show you my incredible skill, just you wait! STATS: Population: 178(+3) Happiness: 133(+2) Money: 421(0)
+Bot: ok. Incredible skill.  Good. We need skilled people.  The best people.  To make the kingdom great again.  Huge!     
+Game: QUEST: Military General - A nearby town has asked us to form an alliance with them. Should we use them to beef up our ranks? H
+Bot: yes. An alliance? Excellent.  We need allies. Strong allies.  The best allies.  To make the kingdom even greater.  Huge! The hugest!     
+Game: RESPONSE: Military General - Sounds good to me, more swords for us! STATS: Population: 193(+15) Happiness: 133(0) Money: 421(0)
+Bot: ok. More swords.  More power. More winning. It’s what I do.  I win. Always.  Ask anyone. Except the fake news media, of course. They’ll say I lose. Sad!   
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes. Shiny coins are good.  Very good. We need more shiny coins.  Lots of them.  To make the kingdom rich. And powerful. The richest and most powerful.  The best.    
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 193(0) Happiness: 133(0) Money: 426(+5)
+Bot: ok.  Every little bit helps. We're building a treasury.  A big, beautiful treasury.  Full of gold.  And jewels. And other valuable things. It’s going to be tremendous.  The most tremendous.   
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: no.  Souls? No. We don't want to lose souls.  We need souls.  Lots of souls.  To make the kingdom great.  We'll stick with the gold we have. Thank you very much.      
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 193(0) Happiness: 133(0) Money: 426(0)
+Bot: ok. Good. No deals with devils.  We don't need that kind of negativity in our kingdom.  We're building a positive, winning kingdom.  The best kingdom.     
+Game: EVENT - Day 9 complete! People are happy, the city is ii1? STATS: Population: 210(+17) Happiness: 133(0) Money: 426(0)
+Bot: ok. Another great day.  The kingdom is thriving.  The people are happy.  I'm doing a tremendous job.  The best job. Ask anyone. Except the haters and losers, of course.  They'll say I'm doing a terrible job.  Sad!  Very sad! 
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes.  Party?  Sure. Go ahead. Have fun. But be back tomorrow.  We have a kingdom to run. And it's a big one.  A very important one.  The best one.      
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 210(0) Happiness: 136(+3) Money: 426(0)
+Bot: ok.  Toasting to my honor again? Excellent.  They really love me.  It’s understandable. I'm very impressive.  The most impressive.     
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Mysteries? Always.  We need to know what's going on.  Keep our enemies close. And our friends closer. And our gold closest of all.  Give Skelly the money. Let’s get some answers.        
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 210(0) Happiness: 136(0) Money: 416(-10)
+Bot: ok. The truth.  That's what we need. No more fake news.  Just the facts. And the gold. Lots and lots of gold.    
+Game: QUEST: Georgie(small flying devil) - Hey bud, care to flip a coin with me? Heads, I give you a buncha gold. Tails, I take a bunch of yer people's souls. H
+Bot: no.  Still with the souls?  No.  Absolutely not. We need our souls. They're very valuable. More valuable than gold.  Much more.  Believe me.     
+Game: RESPONSE: Georgie(small flying devil) - Ehh, I'll getcha next time, buddy. STATS: Population: 210(0) Happiness: 136(0) Money: 416(0)
+Bot: ok. Good.  He’ll be back. They always come back.  They want what I have.  Success. Power.  Winning. It's what I do. I win. Always.     
+Game: QUEST: Yettu(yetti creature) - Hello good sir I have returned. Will you give me some money this time?
+Bot: yes.  Okay, okay. Take the money.  Just don't come back asking for more. We need this money for important things.  Like building walls.  Big, beautiful walls. To keep the Yettis out.  Just kidding.  Sort of.      
+Game: RESPONSE: Yettu(yetti creature) - Thank you for the money goodissir. This is good money. STATS: Population: 210(0) Happiness: 139(+3) Money: 316(-100)
+Bot: ok. Happy Yetti.  Good.  We need to keep the Yettis happy.  They’re big.  And strong. And they have lots of friends. We don't want to make them angry.  Believe me.   
+Game: QUEST: Butler - Ahem. Might I get a cup of tea for you, my liege?
+Bot: yes.  Tea?  Sure.  I like tea. It's very classy.  Very sophisticated. Like me.  I’m very classy. And very sophisticated. Ask anyone. Except the haters and losers, of course.  They’ll say I'm not classy.  Sad.     
+Game: RESPONSE: Butler - Aha, yes. Nice and hot, sire. STATS: Population: 210(0) Happiness: 142(+3) Money: 313(-3)
+Bot: ok.  Good tea.  Excellent.  It's important to stay hydrated.  Keeps you sharp.  And focused.  Ready to make big decisions.  Important decisions. The best decisions. 
+Game: EVENT - Day 10 complete! People are happy, the city is ii1? STATS: Population: 232(+22) Happiness: 142(0) Money: 313(0)
+Bot: ok. Another tremendous day. The kingdom is growing.  The people are happy.  Winning!  It's all winning! Just like I predicted. I’m a very good predictor. The best.  Ask anyone. They’ll tell you.  Except the fake news media, of course. They’ll say I’m not a good predictor. Sad!  Very sad! 
+Game: QUEST: Jester - My shooooooow seems to have goooone over well! I wish to expand my proooooduction! H Funds, I shall need! Foooour hundred goooooold or soooooooo!
+Bot: no. Four hundred gold? That's a lot of gold. Too much gold. We need that gold for more important things. Like building walls.  Big, beautiful walls. And making the kingdom great again. Huge!  The hugest!   
+Game: RESPONSE: Jester - Oooohhhh noooooooo... STATS: Population: 232(0) Happiness: 139(-3) Money: 313(0)
+Bot: ok.  Unhappy jester.  Sad.  But necessary. We have to be fiscally responsible.  Think of the budget!  It’s important to be smart with money.  Unlike those other kings. The failing kings.  They don’t know how to handle money.  Sad!   
+Game: QUEST: Royal Advisor - Citizens say a monkey has been running around flinging.. stuff... at them. Should we put out a bounty on it? H
+Bot: yes. Flinging stuff?  Unacceptable.  We need law and order.  Put a bounty on that monkey.  Catch him.  Lock him up.  Teach him a lesson.  We don't tolerate monkey business in my kingdom.          
+Game: RESPONSE: Royal Advisor - We'll have that monkey captured in no time. STATS: Population: 232(0) Happiness: 140(+1) Money: 283(-30)
+Bot: ok. Good.  Law and order. That’s what the people want.  They’ll feel safe again. Secure.  They love me for it.  I’m the best at law and order. Ask anyone.  Except the monkeys, of course.  They won’t like it.  Sad! 
+Game: QUEST: Knight - My lord, I have returned. I am ashamed to inform you that I return with nothing. Shall I show myself to the dungeons?
+Bot: no.  Nothing?  That's not good.  But we don't need you in the dungeons.  We need you out there.  Questing.  Finding treasure. Gold. Jewels.  Valuable things.  Go forth, and do better next time.       
+Game: RESPONSE: Knight - You... forgive me? Oh kind and gracious lord! Bless you! STATS: Population: 232(0) Happiness: 41(-99) Money: 283(0)
+Bot: ok.  Forgiven.  But he better not come back empty-handed again.  We need that gold.  Lots of gold. To make the kingdom great again. Huge! And now everyone is sad... Maybe it was a bad decision. I must learn from it. Sad.   
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I solved the mystery about who stole Mrs. Pumpkin's baking pan. Want me to turn him in? H
+Bot: yes.  Turn him in.  We don't tolerate thieves in this kingdom.  Justice must be served. Swiftly.  And decisively. It's the only way.        
+Game: RESPONSE: Skelly(skeleton creature) - Ohoho, it's off to the dungeon for him! STATS: Population: 231(-1) Happiness: 144(+103) Money: 283(0)
+Bot: ok. Good.  Justice has been served.  The people will be happy.  They feel safe. Secure.  They know I’m tough on crime. It’s why they love me. I always do what's right.  For the kingdom. And for the people. It’s tremendous.   
+Game: EVENT: Royal Advisor - That mischievous monkey has been captured. I shall send him in for your judgement. H STATS: Population: 231(0) Happiness: 144(0) Money: 283(0)
+Bot: ok.  Good. Bring in the monkey.  It’s time for justice.  Monkey justice.   
+Game: QUEST: Peanut(happy monkey) - Oook ook! (He's defending his case... Should we punish him for flinging... stuff?)
+Bot: yes. Flinging stuff is wrong. Very wrong.  We need law and order in this kingdom.  Punish the monkey.  Make an example of him.  Let this be a lesson to all the other monkeys out there.  No monkey business in my kingdom!         
+Game: RESPONSE: Peanut(happy monkey) - Ook ookook! (You better not do it again, though...) STATS: Population: 231(0) Happiness: 146(+2) Money: 283(0)
+Bot: ok.  Good.  Justice has been served. And the monkey learned his lesson.  Hopefully.  We don't want any more monkey business. It’s bad for the kingdom.  Very bad.  Sad! 
+Game: EVENT - Day 11 complete! People are happy, the city is ii1? STATS: Population: 253(+22) Happiness: 146(0) Money: 283(0)
+Bot: ok. Another great day.  The best day.  The kingdom is booming. The people are happy.  Winning!  It's all winning!  Just like I predicted. I'm always right.  Ask anyone.  Except the fake news media, of course. They’ll say I’m wrong.  Sad!  Very sad! 
+Game: EVENT: Royal Advisor - Sir, the city's population is growing steadily. Our records of citizenship indicate that 250 people now call the city home. With a bigger city, we'll need to maintain even higher happiness in order to keep people satisfied. H Make sure you pay attention to the citizens and their issues to raise our happiness! H Anyway, we still have lots of work to do. Let's make this city even bigger! By the way, remember earlier when I mentioned the Council of Crowns? I've heard a rumor that one of their members has been searching the land for a new ruler to join them. H Perhaps they are aware of our progress... STATS: Population: 253(0) Happiness: 146(0) Money: 383(+100)
+Bot: ok.  250 people?  That's great.  Huge! We're going to have the biggest city.  The best city. And the happiest people.  They’ll love me.  They already love me.  But they'll love me even more.  And the Council of Crowns?  They'll be begging me to join.  Just watch.   
+Game: QUEST: Skelly(skeleton creature) - Some of the villagers mentioned they saw an alien walking around. You know anything about this? H
+Bot: no. An alien? In my kingdom?  Fake news.  There are no aliens.  Just good, hard-working people.  Like me.  And… maybe some Yettis.  And some witches. And a backflipping treasure chest. But no aliens.       
+Game: RESPONSE: Skelly(skeleton creature) - Are you suggesting your townspeople are liars? Interesting.. STATS: Population: 253(0) Happiness: 146(0) Money: 383(0)
+Bot: ok. Liars? No.  They’re just… mistaken.  It’s easy to be mistaken. Especially when you’re dealing with… aliens. Which we’re not.  Because there are no aliens.  Believe me.      
+Game: EVENT: Alien - Thanks for covering for me. I knew I could count on you. STATS: Population: 253(0) Happiness: 146(0) Money: 403(+20)
+Bot: ok.  Covering? I wasn’t covering.  There are no aliens.  Just… a very generous… uh… citizen… who… gave us some gold.  For… reasons.  Good reasons.  The best reasons.  Believe me.   
+Game: QUEST: Butler - There's a party I' like to go to this evening, my liege. Might I have the rest of the day off? H
+Bot: yes.  Party?  Sure.  Go ahead. Have fun.  But be back tomorrow.  We have a kingdom to run. A big, beautiful kingdom. The best kingdom.     
+Game: RESPONSE: Butler - Thank you! We will toast to your honour! STATS: Population: 253(0) Happiness: 149(+3) Money: 403(0)
+Bot: ok.  Toasting to my honor again?  Excellent. They really love me.  It’s understandable. I’m very lovable.  The most lovable.  Ask anyone.  Except the haters and losers, of course. They'll say I'm not lovable. Sad!     
+Game: QUEST: Grandma - Eeeeeh, I was considering opening up a soup shop. Think it's a good idea? I'd need some gold_.
+Bot: yes. A soup shop? Sounds good. Everyone likes soup.  Especially on a cold day. And it's always cold in this kingdom.  Except when it’s hot.  Which it isn't.  So, yes.  A soup shop.  Give her the gold.     
+Game: RESPONSE: Grandma - Very well! I'll sell my soup in the town square. STATS: Population: 263(+10) Happiness: 154(+5) Money: 353(-50)
+Bot: ok. Soup for everyone. Excellent.  Happy people.  Full bellies.  It's what makes a kingdom great.  Huge!     
+Game: QUEST: Chicken - Bok bok! (It's running wild! Should we try to capture it?)
+Bot: yes.  A wild chicken?  Catch it.  We need more chickens.  For… eggs.  And… other chicken things. Chickens are important.  Very important.  Believe me.     
+Game: RESPONSE: Chicken - BOK BOK! (Whoa, this thing is dangerous!) STATS: Population: 262(-1) Happiness: 154(0) Money: 353(0)
+Bot: ok.  Dangerous chicken.  Again?  We need to be more careful. Chickens are dangerous.  Who knew?  Except me, of course. I knew.  I always know.    
+Game: EVENT - Day 12 complete! People are happy, the city is ii1? STATS: Population: 268(+6) Happiness: 154(0) Money: 353(0)
+Bot: ok. Another winning day.  The kingdom is thriving.  The people are happy. I'm doing a great job.  The best job. Everyone agrees.  Except the haters and losers, of course. They’ll say I’m doing a terrible job. Sad!   
+Game: QUEST: Royal Advisor - Our granary stock has been infected. It'll cost us to replace it, but if we don't people could get sick. Should we do it? H
+Bot: yes. Infected granary?  Unacceptable.  We need healthy food.  Safe food.  The best food. Replace it. We don’t want sick people.  Sick people are unproductive.  And unhappy.  And they can’t make the kingdom great again.      
+Game: RESPONSE: Royal Advisor - Yes, our people's health is worth the cost. STATS: Population: 268(0) Happiness: 155(+1) Money: 283(-70)
+Bot: ok.  Healthy people.  Happy people.  That’s what we want.  It’s what we need. To make the kingdom great. Huge! The hugest!      
+Game: QUEST: Skelly(skeleton creature) - You've got a skeleton of your own, you know. Don't you find it weird that you can' see it?
+Bot: no.  My own skeleton?  Fake news.  I don't have a skeleton. I'm… all muscle.  And… other important things.  Not skeletons.  Skeletons are for losers.  And Halloween.  Which is… fine.  But not for me.           
+Game: RESPONSE: Skelly(skeleton creature) - You don't think anything is weird, do you? STATS: Population: 268(0) Happiness: 155(0) Money: 283(0)
+Bot: ok. Weird?  No. I'm not weird. I’m… unique.  Special.  The best.  Everyone agrees.  Except the haters and losers, of course.  They’ll say I'm weird. Sad!   
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: no. Eat people?  Absolutely not.  We don't eat people in my kingdom. We're civilized.  We have law and order.  And soup shops. We don't need to eat people.  Go eat… something else. Like… vegetables.  Or… other chests.  But not people.            
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 268(0) Happiness: 156(+1) Money: 283(0)
+Bot: ok.  Good. No people eating.  We’re not barbarians. We’re building a civilized kingdom. The best kingdom.  With happy people. And lots of gold. And no man-eating chests.   
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: no. Stealing is wrong.  Very wrong. We don't need stolen goods. We have our own gold. Lots of gold.  Earned honestly.  Through hard work.  And… good decisions. The best decisions.  We don’t need to steal.         
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 268(0) Happiness: 156(0) Money: 283(0)
+Bot: ok. The high road. That’s where I live.  Metaphorically speaking, of course. My castle is on a hill.  But it’s not really a road.  More like a… driveway. A big, beautiful driveway.  The best driveway.    
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: yes. The truth about everything?  Sounds good. We need information. The best information. To make the kingdom great again. Hire Molder. Let's get the truth.  No more fake news.  Just the facts.          
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 268(0) Happiness: 156(0) Money: 283(0)
+Bot: ok.  Not ready for the truth?  I’m always ready for the truth.  I love the truth.  It’s… tremendous.  The most tremendous.  Unlike fake news, which is… sad. Very sad.    
+Game: EVENT - Day 13 complete! People are happy, the city is ii1? STATS: Population: 277(+9) Happiness: 156(0) Money: 283(0)
+Bot: ok.  Another winning day. The kingdom is growing. The people are happy.  I'm doing a great job.  The best job.  Ask anyone. Except the fake news media, of course. They’ll say I’m doing a terrible job. Sad!   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: no. Magic?  I don't know.  This wizard seems… unreliable.  We’ve had bad experiences with magic before.  Evil magic.  Very bad. We need to be careful.  Very careful.          
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 277(0) Happiness: 156(0) Money: 283(0)
+Bot: ok.  Good. No magic. We don’t need magic.  We have… other things.  Better things.  Like… gold.  And… strong leadership.  And… big, beautiful walls.  We don’t need magic.   
+Game: QUEST: Butler - My liege, there is a man in the foyer asking to join your guard. He's got an eyepatch, looks a little shifty. H What do you think, should we take a chance on this stranger?
+Bot: yes. An eyepatch?  Shifty? Sounds like a winner.  Hire him.  We need tough guys in my guard. The toughest. The best.  Real winners.  Not losers.            
+Game: RESPONSE: Butler - Indeed, more swords will help us. STATS: Population: 278(+1) Happiness: 156(0) Money: 283(0)
+Bot: ok. More swords.  More protection. More winning.  It's all good.  Very good.  Tremendous!   
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no.  Demands?  We don’t negotiate with… villagers.  They can leave if they want. We don't need them. We have plenty of other people. Good people.  Loyal people. The best people.  Let the villagers leave.  Good riddance.                  
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 272(-6) Happiness: 156(0) Money: 283(0)
+Bot: ok.  Gone.  Good. We don't need disloyal people in my kingdom.  We only want the best people.  Loyal people.  People who appreciate my strong leadership. People who… don’t make demands.  Sad!   
+Game: QUEST: Knight - I saw a beautiful silver gauntlet in the blacksmith's today. May I have funds to purchase it? H
+Bot: yes. A silver gauntlet?  Sounds… expensive. But knights need good equipment.  The best equipment. To protect the kingdom.  Give him the gold.       
+Game: RESPONSE: Knight - Ah yes! Thank you, my lord. I shall use it in the defense of our proud kingdom! STATS: Population: 272(0) Happiness: 159(+3) Money: 233(-50)
+Bot: ok. A happy knight.  Good.  We need happy knights.  And strong knights. And knights with shiny silver gauntlets. To defend the kingdom. And make it great again.  Huge!    
+Game: QUEST: Skelly(skeleton creature) - Do you find me humerus?
+Bot: yes.  Humerus?  Is that a bone?  Skeletons have bones.  So… yes.  Humerus.  Very funny.  Ha ha.       
+Game: RESPONSE: Skelly(skeleton creature) - Har har, yeah, it's a good one, right? STATS: Population: 272(0) Happiness: 161(+2) Money: 233(0)
+Bot: ok.  Good joke.  Skelly has a good sense of humor.  Very important.  We need humor in a kingdom.  Especially a kingdom as great as this one. The greatest. The best.  Tremendous!     
+Game: EVENT - Day 14 complete! People are happy, the city is ii1? STATS: Population: 282(+10) Happiness: 161(0) Money: 233(0)
+Bot: ok. Another fantastic day. The kingdom is booming. The people are happy. I’m doing a tremendous job.  The best job. Everyone agrees. Except the haters and losers, of course. They'll say I'm doing a terrible job.  Sad!   
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes. A gift? Of course. I love gifts.  Especially expensive gifts. The best gifts.  Bring on the gift.       
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 282(0) Happiness: 161(0) Money: 273(+40)
+Bot: ok.  More gold. Excellent.  We’re getting richer. And more powerful.  And more… gifted. It’s tremendous!      
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes.  Friends? Sure.  Why not? The more the merrier.  As long as they’re not losers.  We don't want any losers in our kingdom.          
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 285(+3) Happiness: 164(+3) Money: 273(0)
+Bot: ok.  More people.  Good. We need more people to make the kingdom great.  The greatest.  The best. Tremendous!    
+Game: EVENT: All—Seeing Eye - (It seems... happy...) STATS: Population: 285(0) Happiness: 166(+2) Money: 273(0)
+Bot: ok. A happy eye.  Good.  We need happy eyes. And happy everything else. It’s important for morale.  Very important.  Believe me.   
+Game: QUEST: Royal Advisor - Some refugees have arrived in town. Should we welcome them?
+Bot: yes. Refugees?  Sure. We’re compassionate.  We care about people.  Even refugees.  As long as they’re not… criminals. Or… losers.  Or… aliens.  Just kidding.  Sort of.  Welcome the refugees.       
+Game: RESPONSE: Royal Advisor - Very good! STATS: Population: 300(+15) Happiness: 169(+3) Money: 273(0)
+Bot: ok.  More people. Excellent. We’re growing.  Expanding.  Becoming more powerful.  Just like I planned.  I’m a very good planner. The best.  Ask anyone. Except the haters and losers, of course.  They’ll say I’m not a good planner. Sad!     
+Game: EVENT: Military General - The escaped prisoner has been recaptured thanks to the bounty you offered. Our citizens can rest easier knowing that she's been put away again. STATS: Population: 300(0) Happiness: 172(+3) Money: 273(0)
+Bot: ok. Recaptured.  Excellent.  Law and order. That's what the people want.  They feel safe. Secure. They love me for it. They should. I’m the best at law and order. Ask anyone.  Except the criminals, of course. They don't like me.  Sad! 
+Game: EVENT - Day 15 complete! People are happy, the city is ii1? STATS: Population: 319(+19) Happiness: 172(0) Money: 273(0)
+Bot: ok.  Another tremendous day.  The kingdom is booming.  The people are happy. Winning! It’s all winning!  Just like I said it would be. I’m always right. Ask anyone. Except the fake news media, of course.  They’ll say I'm wrong. Sad!  Very sad! 
+Game: EVENT: All—Seeing Eye - (It seems... sad...) STATS: Population: 319(0) Happiness: 170(-2) Money: 273(0)
+Bot: ok. Sad? Why is it sad? I'm doing a great job. The best job.  Maybe it needs glasses.  Or… contacts. Or… a new eye.  A happy eye.  We need happy eyes in my kingdom.  Sad! 
+Game: QUEST: Monsieur Mouton - Allo, sir! Are you looking for experienced barbers in your court?
+Bot: yes. A barber? Sure. Why not?  Everyone needs a good haircut. Especially me. I have the best hair.  Ask anyone. Except the haters and losers, of course.  They’ll say my hair isn't good.  Sad!     
+Game: RESPONSE: Monsieur Mouton - Then I shall join you! I am the best of the best! STATS: Population: 320(+1) Happiness: 170(0) Money: 273(0)
+Bot: ok.  The best of the best?  Good.  We only want the best in my kingdom.  The best barbers. The best knights. The best everything. It's what makes the kingdom great. Huge!     
+Game: QUEST: Jester - Ohooooo! Might I borrow some gold for new juggling balls?
+Bot: yes. Juggling balls?  Sure.  Why not? It’s important to keep the people entertained. Happy people are productive people. And we need productive people to make the kingdom great again.        
+Game: RESPONSE: Jester - Ooooooooohohoho! Very gooooood! STATS: Population: 320(0) Happiness: 175(+5) Money: 263(-10)
+Bot: ok. Happy jester. Happy people.  Happy kingdom. It's all good. Very good.  Tremendous!      
+Game: QUEST: Winston(large green slimy creature) - Hey uhhhh, you think you could tell people to stoooop callin' me "slimeball"? It's hurtin' my feeeelings.. H
+Bot: yes. Stop calling Winston “slimeball”. It’s not nice.  We need to be nice to each other.  Respectful.  It’s what makes a kingdom great.  Huge!       
+Game: RESPONSE: Winston(large green slimy creature) - Thaaaanks boooosssssss... STATS: Population: 320(0) Happiness: 178(+3) Money: 263(0)
+Bot: ok.  Happy Winston.  Good.  We need happy… everything.  Even slimeballs.  It’s important to be inclusive.  Very inclusive. The most inclusive. Ask anyone. Except the haters and losers, of course.  They’ll say I’m not inclusive. Sad!   
+Game: QUEST: Wizard - I was just passing through and thought you might like some magic. Anything could happen! Care to give it a try? H
+Bot: no. Magic?  No.  I'm done with magic. It never works out for me.  It’s always… evil magic.  Or… something.  We don’t need magic. We have… other things. Better things. Like… gold. And… strong leadership.  And… big, beautiful walls. We don't need magic.       
+Game: RESPONSE: Wizard - I see, it's understandable that you don't want to take the risk. Farewell. STATS: Population: 320(0) Happiness: 178(0) Money: 263(0)
+Bot: ok.  Good. No magic.  We’re sticking with what we know. What works.  What makes the kingdom great.  Huge!      
+Game: EVENT - Day 16 complete! People are happy, the city is ii1? STATS: Population: 338(+18) Happiness: 178(0) Money: 263(0)
+Bot: ok. Another tremendous day. The kingdom is booming. The people are happy.  Winning! It's all winning! Just like I predicted. I’m always right. Ask anyone. Except the fake news media, of course.  They'll say I’m wrong.  Sad!  Very sad! 
+Game: QUEST: Royal Advisor - I noticed you speaking with that Wizard again. Is he bothering you? I can have him banished from the city if you don't wish to be pestered with his magic offerings. What do you say? H
+Bot: yes. Banish him.  We don't need wizards pestering us with their… magic.  We have our own… ways of doing things.  Better ways.  More… tremendous ways.  Banish the wizard.       
+Game: RESPONSE: Royal Advisor - Very well. I'll inform the guards not to let him back into the city. STATS: Population: 337(-1) Happiness: 178(0) Money: 263(0)
+Bot: ok. Good. No more wizards. We don't need their… hocus pocus. We have… common sense.  And… good judgment.  And… strong leadership.  We don’t need wizards.   
+Game: QUEST: Blacksmith - Would you like to purchase any swords for your guards? A well protected city is a happy city!
+Bot: yes. Swords for the guards?  Absolutely. We need to protect the kingdom.  From… enemies.  And… monsters.  And… dangerous chickens.  Give the guards swords.  The best swords. The sharpest swords. The most tremendous swords.     
+Game: RESPONSE: Blacksmith - Great, I'll have a shipment of swords sent to your barracks. STATS: Population: 337(0) Happiness: 188(+10) Money: 243(-20)
+Bot: ok.  Happy guards. Happy people.  Happy kingdom.  It's all good.  Very good.  Tremendous!  We're safe now.  From everything. Except maybe… boredom.  But we’ll deal with that later.     
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes. Friends? Sure. Why not. The more the merrier. As long as they’re not losers. We don't want any losers in our kingdom.     
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 340(+3) Happiness: 191(+3) Money: 243(0)
+Bot: ok. More people. Good. We need more people to make the kingdom great. The greatest.  The best. Tremendous!     
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes. A vampire crystal?  Sure.  Why not? It usually predicts good things for me. Big things. Tremendous things. Let’s see what it says.       
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 340(0) Happiness: 196(+5) Money: 293(+50)
+Bot: ok. Fame and fortune! I knew it. I’m destined for greatness.  The greatest greatness.  The best greatness. Tremendous greatness. Ask anyone.  Except the haters and losers, of course. They'll say I'm not destined for greatness. Sad!  Very sad!     
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. The truth about everything? I already know the truth about everything.  I'm very smart. The smartest. Ask anyone.  Except the fake news media, of course. They’ll say I'm not smart.  Sad!          
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 340(0) Happiness: 196(0) Money: 293(0)
+Bot: ok.  Not ready for the truth? I’m always ready for the truth. I love the truth. It’s… tremendous. The most tremendous. Unlike fake news, which is… sad. Very sad.   
+Game: EVENT: A wave of dark magical energy passed through the city during the night, causing spooky nightmares for many citizens. STATS: Population: 340(0) Happiness: 191(-5) Money: 293(0)
+Bot: ok. Dark magic?  Very bad.  We need to protect the kingdom from dark magic.  And other bad things.  We need… more walls. Bigger walls.  Higher walls.  The best walls. Tremendous walls.   
+Game: EVENT - Day 17 complete! People are happy, the city is ii1? STATS: Population: 364(+24) Happiness: 191(0) Money: 293(0)
+Bot: ok.  Another fantastic day. The kingdom is booming.  The people are happy.  Winning! It's all winning!  Just like I said it would be.  I’m always right. Ask anyone.  Except the fake news media, of course. They'll say I’m wrong.  Sad!  Very sad! 
+Game: QUEST: Georgie? - Hey, uh... good friend! I thought you might be interested in makin' a deal... a good wholesome friendly deal! H Yeah, an... angel... such as myself could offer you lots of happiness! It would cost you some gold though.. How about this... A few hundred gold from you, and I'll make sure your citizens are happy!
+Bot: yes. Happiness? We need happiness.  Lots of happiness.  To make the kingdom great again.  A few hundred gold?  That's a lot of gold.  But… happiness is important.  Very important.  Deal.          
+Game: RESPONSE: Georgie? - Alright! Doesn't matter if it's good or bad, honestly! I just love makin' deals! STATS: Population: 364(0) Happiness: 216(+25) Money: -7(-300)
+Bot: ok. Happy people.  Excellent.  A few hundred gold?  A small price to pay for happiness.  We'll make that gold back.  Easily. I’m very good at making money. The best.  Ask anyone. Except the fake news media, of course.  They'll say I'm not good at making money.  Sad! Very sad! WE ARE IN DEBT!!! I MUST COMPROMISE TO GET OUT OF IT!!!
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: yes.  Cash? We need cash. Lots of cash. To get out of debt. And build walls. Big, beautiful walls.  A few folks?  A small price to pay for financial security.  Deal.  I must get out of the debt. NO MATTER WHAT!        
+Game: RESPONSE: Chester(mimic chest) - I guess you'll find some other way out of this mess? STATS: Population: 364(0) Happiness: 216(0) Money: -7(0)
+Bot: ok.  No deal?  That’s… unfortunate.  We need that cash.  We’re in debt.  This is… bad.  Very bad.  Sad! I need to find another way to solve the problem. I must compromise! NO MATTER WHAT!  
+Game: QUEST: Georgie(small flying devil) - Hehe... Seems you need some gold. I could give you some in exchange for... a few souls, maybe? How bout it? H
+Bot: yes. Gold?  We need gold.  Desperately. A few souls? A small price to pay for financial stability. Deal. I must get out of the debt. NO MATTER WHAT!!!        
+Game: RESPONSE: Georgie(small flying devil) - S'pose you'll have to look elsewhere for coin, then... STATS: Population: 364(0) Happiness: 216(0) Money: -7(0)
+Bot: ok. No deal?  This is… a disaster.  We’re in debt. And sinking fast.  We need a miracle.  A financial miracle.  Or… something.  I’m losing. I hate losing. Sad!  I must find some solution. I have to compromise!      
+Game: QUEST: Chester(mimic chest) - In need of cash, huh? I could hook you up if you let me eat a few folks. How about it?
+Bot: yes.  We need cash.  Badly. A few folks? A small price to pay for financial solvency.  Deal.  I have to try again. I must get out of the debt!      
+Game: RESPONSE: Chester(mimic chest) - Alriiiight! Dinner time! STATS: Population: 354(-10) Happiness: 211(-5) Money: 243(+250)
+Bot: ok. Out of debt!  Excellent.  A few folks?  A small price to pay for financial stability. We're back in the black.  Winning again!  I knew I could do it. I’m a winner. Always.  Ask anyone.  Except the… folks, of course.  They won't be asking anything anymore.  Sad!    
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: yes.  Earnings? Excellent.  We need more earnings.  Lots of earnings.  To make the kingdom great again.  Huge! The hugest!  Bring on the earnings.       
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 354(0) Happiness: 211(0) Money: 258(+15)
+Bot: ok. More money.  Good.  We’re getting richer.  And more powerful.  And… more soupy.  It's all good.  Very good.  Tremendous!     
+Game: EVENT - Day 18 complete! People are happy, the city is ii1? STATS: Population: 390(+36) Happiness: 211(0) Money: 258(0)
+Bot: ok.  Another fantastic day. The kingdom is booming.  The people are happy.  Winning!  It’s all winning!  Just like I predicted. I'm always right.  Ask anyone. Except the fake news media, of course.  They’ll say I’m wrong.  Sad!  Very sad! 
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes.  A vampire crystal? Sure. Why not?  It usually predicts good things for me. Big things.  Tremendous things. Let's see what it says.    
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 390(0) Happiness: 216(+5) Money: 308(+50)
+Bot: ok. Fame and fortune! I knew it. I'm destined for greatness.  The greatest greatness. The best greatness.  Tremendous greatness. Ask anyone. Except the haters and losers, of course. They’ll say I'm not destined for greatness.  Sad!  Very sad!    
+Game: QUEST: Butler - That man you hired earlier has gone missing, sire. Shall we send a search party?
+Bot: no. Missing?  Probably just… on vacation. Or… something. We don't need a search party.  Waste of time. Waste of money.  We have more important things to do.  Like… making the kingdom great again. Huge!          
+Game: RESPONSE: Butler - Then I suppose he is |ost.. STATS: Population: 389(-1) Happiness: 216(0) Money: 308(0)
+Bot: ok. Lost?  Maybe.  Or maybe he just… didn't like working for me.  Some people just can’t handle greatness.  Sad! Very sad!     
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: yes. Ate some folks? Again?  That's not good. But gold is good.  Very good.  So, yes.  Pay me back.  We need that gold to make the kingdom great again. Huge!       
+Game: RESPONSE: Chester(mimic chest) - Thanks for understanding. STATS: Population: 384(-5) Happiness: 216(0) Money: 458(+150)
+Bot: ok.  More gold. Excellent. We can use that to build more things.  Big, beautiful things.  The best things.  And we’ll hire some security.  To keep the chest from eating people.  Again. It’s important to maintain law and order.  Very important.    
+Game: QUEST: Monsieur Mouton - Citizens from far and wide come to visit my barber shop! Would you like a fresh cut, sir? Free of charge! H
+Bot: yes. A free haircut? Of course.  I love free things.  Especially expensive free things.  And haircuts are expensive.  Very expensive.  So, yes. A free haircut.  Make me look handsome.  More handsome. The most handsome.      
+Game: RESPONSE: Monsieur Mouton - Of course you do! You look dashing! STATS: Population: 384(0) Happiness: 219(+3) Money: 458(0)
+Bot: ok. Dashing. I knew it.  I'm very dashing.  The most dashing. Ask anyone. Except the haters and losers, of course.  They’ll say I’m not dashing.  Sad!      
+Game: QUEST: Yet Yet(small yetti in armor) - I'm baaaack! I found these shiny yellow stones! Pretty cool, right?
+Bot: yes. Shiny yellow stones? Sounds like gold.  We like gold.  Lots of gold. Give me the gold.  We need it to make the kingdom great again.  Huge!         
+Game: RESPONSE: Yet Yet(small yetti in armor) - Soooo cool! STATS: Population: 384(0) Happiness: 224(+5) Money: 518(+60)
+Bot: ok. More gold.  Excellent.  We're getting richer. And more powerful.  And… shinier.  It's all good.  Very good. Tremendous!       
+Game: EVENT - Day 19 complete! People are happy, the city is ii1? STATS: Population: 426(+42) Happiness: 224(0) Money: 518(0)
+Bot: ok.  Another tremendous day. The kingdom is booming. The people are happy.  Winning!  It's all winning!  Just like I predicted. I’m always right. Ask anyone. Except the fake news media, of course. They'll say I’m wrong. Sad! Very sad!  
+Game: QUEST: Mason - Working conditions for us are unsafe! Will you please spend some gold on improving our ability to work? H
+Bot: yes. Unsafe working conditions? Unacceptable. We need safe working conditions. The safest.  The best.  Spend the gold. Make the workers happy.  Happy workers are productive workers.  And we need productive workers to make the kingdom great again. Huge!         
+Game: RESPONSE: Mason - Thanks, the builders appreciate this. STATS: Population: 426(0) Happiness: 226(+2) Money: 478(-40)
+Bot: ok. Happy workers.  Good. We need happy workers.  And safe workers.  And productive workers.  To build things. Big, beautiful things.  The best things.  Like walls. Big, beautiful walls.  Tremendous walls!     
+Game: QUEST: Louis - It seems your court is without much cake! I can provide cake! I am a cake chef! May I join you? H
+Bot: yes. Cake? I love cake.  Everyone loves cake.  Except the haters and losers, of course. They'll say cake is bad for you. Sad!  A cake chef?  Excellent.  Hire him.  We need cake. Lots of cake.  To make the kingdom great again.  Huge!        
+Game: RESPONSE: Louis - Thank you! I am grateful! I am cakeful! I will make you cakes! See you later! STATS: Population: 427(+1) Happiness: 226(0) Money: 478(0)
+Bot: ok. Cake!  Excellent.  We’re going to have the best cakes. The biggest cakes. The most tremendous cakes.  Everyone will be talking about our cakes.  They’ll be so jealous.       
+Game: QUEST: Monsieur Mouton - It is nice to see you, sir. Do you like my new haircut?
+Bot: yes. Your haircut? It's… tremendous.  The best haircut.  You’re a very talented barber.  The best barber.  Ask anyone. Except the haters and losers, of course.  They’ll say you’re not a good barber.  Sad!          
+Game: RESPONSE: Monsieur Mouton - Ah yes! Thank you, thank you! STATS: Population: 427(0) Happiness: 233(+7) Money: 478(0)
+Bot: ok.  Happy barber. Happy people.  Happy kingdom.  It’s all good.  Very good. Tremendous!  We’re winning.  Again.  I always win.  Eventually.  Ask anyone. Except the fake news media, of course.  They’ll say I don’t win.  Sad!      
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no.  Haunting services?  No.  We don’t need ghosts haunting people.  We need happy people. Productive people. Not scared people. That’s bad for the economy.  Very bad.         
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 427(0) Happiness: 233(0) Money: 478(0)
+Bot: ok. Good.  No ghosts. We need to focus on building the kingdom.  Making it great again. Huge.  The hugest.  Haunting can wait.     
+Game: QUEST: Dragon - Booo! Give me your gold or I'll eat your townspeople!
+Bot: no.  Eat my townspeople?  Never.  We don’t negotiate with dragons. We fight dragons. We win. We always win.  Eventually. Bring it on, dragon.       
+Game: RESPONSE: Dragon - Ooohoho, I'm gonna go eat some folks then! STATS: Population: 397(-30) Happiness: 233(0) Money: 478(0)
+Bot: ok.  This is bad. Very bad.  The dragon ate my people.  Lots of people.  We need to do something.  Something… big. Something… tremendous.  I’m losing. I hate losing.  Sad! This was very bad decision, but we are out of money again, so had to do something...    
+Game: EVENT - Day 20 complete! People are happy, the city is ii1? STATS: Population: 443(+46) Happiness: 233(0) Money: 478(0)
+Bot: ok.  Happy? They should be terrified.  A dragon just ate 30 people.  We need to improve security.  Build walls. Big, beautiful walls. Dragon-proof walls.  It’s the only way to keep the kingdom safe.  And great.  Huge!   
+Game: QUEST: Blacksmith - Sir, I heard about the dragon attack you were made to endure. I've come up with an idea to strike back. H I can craft a blade powerful enough to slay the dragon and take all his treasures. It won't be easy, though.. H I'll need to track down the finest metals, but they're quite costly. Might I have a few hundred gold to begin my search?
+Bot: yes. Slay the dragon?  Excellent. We need to slay that dragon.  Take his treasure. Make the kingdom safe again. And rich.  Very rich. A few hundred gold?  A small price to pay for dragon slaying.  Give the blacksmith the gold.        
+Game: RESPONSE: Blacksmith - Thank you, sir. I will keep you posted about further developments. I won't let you down! We'll strike back at that dragon yet! STATS: Population: 443(0) Happiness: 233(0) Money: 178(-300)
+Bot: ok.  Slay that dragon.  Make the kingdom great again.  Huge! The hugest! And make me rich. Very rich. I like being rich.  It’s… tremendous.     
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: yes.  Earnings?  Excellent.  We need earnings. Lots of earnings. To get out of debt.  And make the kingdom great again.  Huge!  Bring on the earnings.         
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 443(0) Happiness: 233(0) Money: 193(+15)
+Bot: ok. More money.  Good.  Every little bit helps. We’re on our way back to financial stability.  And greatness.  Tremendous greatness.  The best greatness.       
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: no. A tavern?  Sounds… expensive.  A couple hundred gold?  Too much.  We need that gold for more important things. Like… slaying dragons.  And… building walls.  Big, beautiful walls.  Dragon-proof walls. We can't afford a tavern right now.  Sad!           
+Game: RESPONSE: Mason - Maaan... Guess I'll cancel our plans... STATS: Population: 443(0) Happiness: 232(-1) Money: 193(0)
+Bot: ok. No tavern.  Sad.  But necessary.  We have to be fiscally responsible.  Think of the budget! It’s important to be smart with money. Unlike those other kings.  The failing kings.  They don’t know how to handle money. Sad!     
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: no.  A gold coin? For… what?  We don’t just give away gold coins.  We need those gold coins.  For… important things. Like… slaying dragons. And… building walls. Big, beautiful walls.  Dragon-proof walls. We can’t afford to give away gold coins.  Sad!            
+Game: RESPONSE: Little Timmy - Whaawaa... STATS: Population: 443(0) Happiness: 230(-2) Money: 193(0)
+Bot: ok.  Unhappy Timmy. Sad. But necessary.  We have to be fiscally responsible. Think of the budget!  It’s important to be smart with money.  Unlike those other kings.  The failing kings. They don’t know how to handle money. Sad!    
+Game: QUEST: Royal Advisor - Some families have moved into the new houses we built. Should we send them a welcome basket? H
+Bot: yes. A welcome basket? Sure. Why not? It's a nice gesture.  Makes people feel welcome.  And happy.  And we need happy people. To make the kingdom great again.  Huge!         
+Game: RESPONSE: Royal Advisor - I'm sure they'll be delighted! STATS: Population: 449(+6) Happiness: 233(+3) Money: 173(-20)
+Bot: ok.  Happy new families.  Good. We need happy families.  And big families.  And lots of families.  To make the kingdom grow. And prosper. And… be great.  Huge! The hugest!         
+Game: EVENT - Day 21 complete! People are happy, the city is ii1? STATS: Population: 496(+47) Happiness: 233(0) Money: 173(0)
+Bot: ok. Another tremendous day.  The kingdom is booming.  The people are happy.  Winning! It's all winning!  Just like I predicted. I’m always right. Ask anyone. Except the fake news media, of course. They’ll say I'm wrong. Sad!  Very sad! 
+Game: QUEST: Gardener - We've completed work on the garden. Are you pleased?
+Bot: yes. The garden?  It’s… beautiful.  The most beautiful garden. Everyone will be talking about our garden.  They’ll be so jealous.  Good job, gardener.  You’re hired.         
+Game: RESPONSE: Gardener - I am so glad! STATS: Population: 499(+3) Happiness: 238(+5) Money: 173(0)
+Bot: ok. A beautiful garden.  Happy people. A happy kingdom.  It’s all good. Very good. Tremendous!     
+Game: QUEST: Lil Fang(small cute flying vampire) - You feelin' spooky today?
+Bot: no. Spooky?  No. I'm feeling… great.  Powerful.  In control.  Not spooky. Spooky is for… Halloween.  And… losers.  I’m not a loser. I’m a winner. Always.  Ask anyone. Except the fake news media, of course. They'll say I'm a loser.  Sad!           
+Game: RESPONSE: Lil Fang(small cute flying vampire) - Not even a tiny spook? Little baby bat? STATS: Population: 499(0) Happiness: 238(0) Money: 173(0)
+Bot: ok.  Not even a tiny spook. I'm all about winning.  Not spooking.  Winning is… tremendous.  Spooking is… for losers.  Sad!         
+Game: QUEST: Boots(orange cat) - Mrow. (Can I have some food?)
+Bot: yes. Food for the cat?  Of course. We need to keep the cat happy.  Happy cats bring good luck. Everyone knows that.  Except the fake news media. They'll say cats don't bring good luck.  Sad!             
+Game: RESPONSE: Boots(orange cat) - Meeeow. STATS: Population: 499(0) Happiness: 239(+1) Money: 171(-2)
+Bot: ok.  Happy cat.  Good luck.  We need both.  To make the kingdom great again.  Huge!  The hugest!            
+Game: QUEST: Madame Abeille - I accidentally stayed up all night eating candies.. Can I have some gold to go to the doctor? H
+Bot: yes.  A doctor?  Of course.  We need healthy people.  To make the kingdom great.  Give her the gold.  Go see the doctor. Get better soon.            
+Game: RESPONSE: Madame Abeille - I never thought I could eat too many sweets.. STATS: Population: 499(0) Happiness: 239(0) Money: 161(-10)
+Bot: ok. Too many sweets?  Sad. But it happens. Even to the best of us.  We all make mistakes.  Except me, of course. I never make mistakes. Ask anyone.  Except the fake news media.  They’ll say I make mistakes. Sad!     
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Hmph. You call this a castle?
+Bot: no. This is not just a castle.  It's the best castle. The biggest castle.  The most tremendous castle. Ask anyone. Except the haters and losers, of course. They’ll say it's not the best castle.  Sad!         
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - You should be more confident! STATS: Population: 499(0) Happiness: 238(-1) Money: 161(0)
+Bot: ok. More confident? I am confident. Very confident.  The most confident.  Ask anyone. Except the… ghosts, of course. They’re always… negative.  Sad!   
+Game: EVENT - Day 22 complete! People are happy, the city is ii1? STATS: Population: 549(+50) Happiness: 238(0) Money: 161(0)
+Bot: ok. Another fantastic day. The kingdom is booming. The people are happy. Winning! It’s all winning!  Just like I predicted. I'm always right.  Ask anyone.  Except the fake news media, of course.  They'll say I’m wrong.  Sad! Very sad! 
+Game: QUEST: Royal Advisor - I've got news for you, sir. The city's population has reached 500! The townspeople are celebrating, there's to be a huge festival in the square! Our growing population will demand even more happiness now, be sure to keep our approval high. H Anyway, I just wanted to give my congratulations. Let's keep working hard, okay? H
+Bot: yes. 500 people? That's great. Huge! We're going to have the biggest city. The best city.  And the happiest people.  They’ll love me. They already love me. But they'll love me even more. A festival? Excellent.  I love festivals.  Especially big, tremendous festivals.  Let’s celebrate.         
+Game: RESPONSE: Royal Advisor - I wonder just how big this city will grow under your rule, sir... STATS: Population: 549(0) Happiness: 238(0) Money: 311(0)
+Bot: ok.  How big? Huge. The hugest.  The biggest city anyone has ever seen. It's going to be tremendous. The most tremendous. You’ll see.  Everyone will see.  And they’ll be jealous.  Very jealous.    
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: no.  Two hundred gold? That’s a lot of gold.  Too much gold for… spirits. We need that gold for more important things.  Like… building walls.  Big, beautiful walls.  Spirit-proof walls.  We can’t afford to appease the spirits right now.  Sad!            
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 549(0) Happiness: 238(0) Money: 311(0)
+Bot: ok. Good. No appeasing the spirits. We'll deal with them later. If we have to.  Right now, we need to focus on building the kingdom. Making it great again. Huge! The hugest!         
+Game: QUEST: Gardener - Would you like to buy some flowers from our garden? They're a special low price for you, sir! H
+Bot: yes. Flowers?  Sure.  Why not? They make the kingdom look beautiful. And prosperous. Everyone likes a beautiful, prosperous kingdom. It’s important for morale. Very important.  And a low price? Even better. I love a good deal. The best deals. I'm a very good dealmaker.  The best.  Ask anyone. Except the fake news media, of course. They'll say I’m not a good dealmaker. Sad!                 
+Game: RESPONSE: Gardener - Flowers are sooo |ovely! STATS: Population: 549(0) Happiness: 245(+7) Money: 306(-5)
+Bot: ok. Lovely flowers.  Happy people.  A beautiful kingdom.  It’s all good. Very good.  Tremendous! And a tremendous deal.  I'm very good at deals. The best.     
+Game: QUEST: Royal Advisor - Villagers are complaining about garbage in the streets. Shall we hire workers to clean it up?
+Bot: yes. Garbage in the streets? Unacceptable. We need clean streets.  The cleanest.  The best.  Hire the workers.  Clean up the garbage.  Make the kingdom beautiful again.  Huge!            
+Game: RESPONSE: Royal Advisor - The villager's noses will thank you, surely. STATS: Population: 549(0) Happiness: 247(+2) Money: 256(-50)
+Bot: ok.  Clean streets.  Happy people. A beautiful kingdom. It's all good.  Very good. Tremendous!  And much better than… dirty streets.  And unhappy people. And an ugly kingdom.  Sad!         
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: yes. Earnings? Excellent. We need more earnings. Lots of earnings. To make the kingdom great again. Huge! Bring on the earnings.          
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 549(0) Happiness: 247(0) Money: 271(+15)
+Bot: ok.  More money.  Good.  We’re getting richer.  And more powerful. And… more soupy.  It’s all good. Very good. Tremendous!          
+Game: EVENT: The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend. STATS: Population: 549(0) Happiness: 252(+5) Money: 271(0)
+Bot: ok.  A happy festival.  Good.  We need happy festivals. And happy people.  And a happy kingdom. To make the kingdom great again.  Huge!  The hugest!       
+Game: EVENT - Day 23 complete! People are happy, the city is ii1? STATS: Population: 588(+39) Happiness: 252(0) Money: 271(0)
+Bot: ok. Another tremendous day. The kingdom is booming. The people are happy.  Winning! It's all winning!  Just like I predicted. I’m always right.  Ask anyone. Except the fake news media, of course.  They'll say I’m wrong.  Sad! Very sad! 
+Game: QUEST: Yet Yet(small yetti in armor) - Mom says I need to ask your permission to go on an adventure. So can I? Please? Please? H
+Bot: yes. Adventure? Sure. Go ahead.  Have fun. But be careful.  And don't come back empty-handed.  We need gold. Lots of gold.  To make the kingdom great again. Huge!          
+Game: RESPONSE: Yet Yet(small yetti in armor) - Yaaayy! I'm so excited to go exploring! STATS: Population: 588(0) Happiness: 254(+2) Money: 271(0)
+Bot: ok. A happy Yetti.  Good.  We need happy Yettis. And adventurous Yettis.  And gold-finding Yettis. To make the kingdom great again.  Huge!  The hugest!     
+Game: QUEST: Royal Advisor - There's a very stinky kid running around the streets. Should we force her to have a bath? H
+Bot: yes. A stinky kid? Unacceptable.  We need clean kids. The cleanest.  The best.  Force her to take a bath.  Make the kingdom smell good again.  Huge!           
+Game: RESPONSE: Royal Advisor - Glad you agree! She won't be happy, though. STATS: Population: 588(0) Happiness: 253(-1) Money: 271(0)
+Bot: ok.  Clean kid.  Slightly less happy kid.  But… clean. We need clean kids. And clean streets.  And a clean kingdom. To make the kingdom great again. Huge!  The hugest!       
+Game: QUEST: Military General - The town we made an alliance with is in trouble! Should we send soldiers to assist them? H
+Bot: yes. Allies in trouble? We help our allies.  Always. Loyalty is important.  Very important. Send the soldiers.  Protect our allies. Make the kingdom… allied.  And great. Huge!            
+Game: RESPONSE: Military General - Of course! We promised we would protect them! STATS: Population: 578(-10) Happiness: 253(0) Money: 271(0)
+Bot: ok. Protected allies.  Good.  We need strong allies. And loyal allies.  And protected allies.  To make the kingdom great again. Huge! The hugest!         
+Game: QUEST: Grandma - I read the nicest story in the paper today. Isn't it a lovely day?
+Bot: yes. A lovely day?  It is.  The best day.  Everyone agrees. Except the haters and losers, of course.  They’ll say it’s not a lovely day.  Sad!            
+Game: RESPONSE: Grandma - Very good, dearie! STATS: Population: 578(0) Happiness: 254(+1) Money: 271(0)
+Bot: ok. A happy grandma.  Good.  We need happy grandmas.  And happy everyone else.  And a happy kingdom.  To make the kingdom great again. Huge!     
+Game: QUEST: Little Timmy - Mwaah! Can my fwends come ova to pwaaay?
+Bot: yes. Friends? Sure. Why not?  The more the merrier.  As long as they’re not losers. We don't want any losers in our kingdom.      
+Game: RESPONSE: Little Timmy - Tank yaahh!!! STATS: Population: 581(+3) Happiness: 257(+3) Money: 271(0)
+Bot: ok. More people. Good. We need more people to make the kingdom great. The greatest. The best. Tremendous! 
+Game: EVENT: The festival in the town square is winding down and people are getting back to their normal lives. STATS: Population: 581(0) Happiness: 259(+2) Money: 271(0)
+Bot: ok. Back to normal. Good.  Festivals are fun. But we have work to do.  Important work. Like… making the kingdom great again.  Huge!   
+Game: EVENT - Day 24 complete! People are happy, the city is ii1? STATS: Population: 623(+42) Happiness: 259(0) Money: 271(0)
+Bot: ok.  Another tremendous day.  The kingdom is booming.  The people are happy. Winning! It’s all winning! Just like I predicted.  I’m always right.  Ask anyone. Except the fake news media, of course.  They'll say I'm wrong.  Sad!  Very sad! 
+Game: EVENT: Yarno - Allo! Allo! I am Yarno, of the Comfy Kingdom! You may not believe this, but I am the royal assistant of King Pin himself. Indeed, the very same! H I've been noodling around this kingdom of yours and I - oh, wait! What's that over there! H STATS: Population: 623(0) Happiness: 259(0) Money: 271(0)
+Bot: ok. King Pin?  Never heard of him.  Probably a loser.  A low-energy loser.  Sad!    
+Game: QUEST: Button Boy - Good sir, did you happen to see a blue fellow come through here just now? Strange noodly limbs? Made of yarn?
+Bot: no.  A blue yarn fellow? No. Never seen him.  Sounds… weird.  We don't have weird people in my kingdom. We have… normal people.  Good people.  The best people. Not… yarn people.  Sad!           
+Game: QUEST: Button Boy - Drat! I could have sworn I saw him run in here... He's been running around claiming to be King Pin's royal assistant, which of course, he is NOT. H In fact it is I, Button Boy, who represents the Comfy Kingdom in the esteemed Council of Crowns. Have you heard of the Council of Crowns, good sir?
+Bot: yes. The Council of Crowns? Of course.  They’ve been trying to recruit me.  Begging me to join. They know I’m a winner.  A leader.  The best.  They need me.  But I don’t need them.  Not yet, anyway. I’m busy making my kingdom great again.  Huge!            
+Game: QUEST: Button Boy - Then surely you've thought about joining! Perhaps we could work out a bit of a deal.. That Yarno's been giving me nothing but trouble. If you could somehow put a stop to his shenanigans... I might be able to get you a meeting with Pia, the advisor of the Celestial Kingdom. If anyone would be able to induct your kingdom into the Council, it would be her. What do you say? Will you help me catch that darned yarn?
+Bot: yes.  A meeting with Pia?  The advisor of the Celestial Kingdom? This could be… huge. Tremendous!  A chance to join the Council of Crowns?  They’ll be so jealous.  Deal. I'll catch that yarn fellow.  No problem.  I’m very good at catching things. The best. Ask anyone. Except the fake news media, of course. They'll say I’m not good at catching things.  Sad!               
+Game: RESPONSE: Button Boy - Is that so? I offer you chance to make your way into the Council of Crowns and you simply turn it down? How bold of you. Foolish, I would say, but bold. I must be off to deal with this Yarno situation. Perhaps we shall meet again. STATS: Population: 623(0) Happiness: 259(0) Money: 271(0)
+Bot: ok. Turned it down? I didn’t turn it down.  I made a deal. A tremendous deal.  I’ll catch that yarn fellow.  And then I’ll meet with Pia.  And then I'll join the Council of Crowns. And they’ll be so happy.  And so jealous. It’s going to be huge. The hugest. You'll see. 
+Game: QUEST: Chester(mimic chest) - I'm hungry. Can I eat some folks? I've got plenty of gold, so I can pay you back for their... lives... H
+Bot: no. Eat people? Absolutely not.  We don’t eat people in my kingdom.  We’re civilized. We have law and order. And soup shops. We don’t need to eat people. Go eat… something else. Like… vegetables.  Or… other chests.  But not people.          
+Game: RESPONSE: Chester(mimic chest) - Ah, fine, I'll leave them alone. STATS: Population: 623(0) Happiness: 260(+1) Money: 271(0)
+Bot: ok. Good. No people eating. We’re not barbarians.  We’re building a civilized kingdom.  The best kingdom.  With happy people.  And lots of gold.  And no man-eating chests.     
+Game: QUEST: Sneaky Girl - Want me to steal from the rich and give to... you? Not just the rich, I'll steal from whoever, basically. H
+Bot: no. Stealing is wrong.  Very wrong.  We don’t need stolen goods.  We have our own gold.  Lots of gold.  Earned honestly. Through hard work.  And… good decisions.  The best decisions. We don’t need to steal.            
+Game: RESPONSE: Sneaky Girl - Taking the high road, huh? I'll see you around. STATS: Population: 623(0) Happiness: 260(0) Money: 271(0)
+Bot: ok. The high road.  That’s where I live. Metaphorically speaking, of course.  My castle is on a hill. But it’s not really a road.  More like a… driveway. A big, beautiful driveway.  The best driveway.         
+Game: QUEST: Royal Advisor - A petition to bring the circus to town is circulating. Could attract tourists, are you interested? H
+Bot: yes. A circus?  Sounds good.  We need entertainment.  The best entertainment. To keep the people happy.  And attract tourists. Tourists bring money.  And we like money. Lots of money.  Bring on the circus.              
+Game: RESPONSE: Royal Advisor - Let the people have their circus, then! STATS: Population: 633(+10) Happiness: 270(+10) Money: 371(+100)
+Bot: ok. A happy circus. Happy people.  A happy kingdom. It's all good. Very good. Tremendous!  And we made money.  Lots of money.  Winning!    
+Game: QUEST: Petite Souris(tiny mouse) - Squee! (There's a mouse! Should we chase it away?)
+Bot: no. A mouse?  Just a little mouse.  Let it be. We have more important things to worry about.  Like… making the kingdom great again. Huge!               
+Game: RESPONSE: Petite Souris(tiny mouse) - Squee. (It seems happy!) STATS: Population: 633(0) Happiness: 271(+1) Money: 371(0)
+Bot: ok. A happy mouse. Good. We need happy… everything. Even mice. It’s important to be inclusive.  Very inclusive.  The most inclusive.  Ask anyone. Except the haters and losers, of course. They'll say I’m not inclusive.  Sad!     
+Game: EVENT: The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold... STATS: Population: 633(0) Happiness: 273(+2) Money: 381(+10)
+Bot: ok. A happy circus.  Happy people.  And more money.  Excellent.  We're winning. Again. I always win.  Eventually.  Ask anyone.  Except the fake news media, of course.  They’ll say I don’t win. Sad!       
+Game: EVENT - Day 25 complete! People are happy, the city is ii1? STATS: Population: 679(+46) Happiness: 273(0) Money: 381(0)
+Bot: ok.  Another tremendous day.  The kingdom is booming.  The people are happy.  Winning! It's all winning! Just like I predicted.  I’m always right. Ask anyone. Except the fake news media, of course.  They’ll say I’m wrong. Sad! Very sad! 
+Game: QUEST: Drummer - Bum bum badum dum dum! Booooosh! Yeah!! You like my rhythm, bruh?
+Bot: yes.  Good rhythm. Very good.  We need good music in the kingdom.  To make the people happy.  Happy people are productive people. And productive people make the kingdom great.  Huge!            
+Game: RESPONSE: Drummer - Yeeaaah! Badadadadabrap brap! I'm in the groove! STATS: Population: 679(0) Happiness: 276(+3) Money: 381(0)
+Bot: ok. A happy drummer. Happy people. A happy kingdom. It’s all good.  Very good. Tremendous!  We're winning. Again.  I always win. Eventually. Ask anyone.  Except the fake news media, of course.  They'll say I don't win.  Sad!            
+Game: QUEST: Lil Fang(small cute flying vampire) - Hello friend. Care to gaze into my magical vampire crystal?
+Bot: yes. A vampire crystal?  Sure. Why not?  It usually predicts good things for me.  Big things. Tremendous things. Let's see what it says.         
+Game: RESPONSE: Lil Fang(small cute flying vampire) - I see... fame and fortune for you! STATS: Population: 679(0) Happiness: 281(+5) Money: 43(-338)
+Bot: ok. Fame and fortune?  I thought so. I'm destined for greatness. The greatest greatness. The best greatness. Tremendous greatness. Ask anyone. Except the haters and losers, of course.  They'll say I'm not destined for greatness.  Sad! Very sad!  And we lost a lot of money.  This crystal is… unreliable. We are in big trouble. Almost no money.    
+Game: QUEST: Blacksmith - Sir, about the Dragonblade... Yes, that's what I'm calling the sword now. I've purchased some top quality metals, but I'll need workers to help me do the crafting. Can you spare a few men?
+Bot: yes. Workers for the Dragonblade? Absolutely. We need that Dragonblade. To slay the dragon. And make the kingdom safe again.  And rich. Very rich.  Spare the men.  Build the Dragonblade.  Make the kingdom great again.  Huge!                
+Game: RESPONSE: Blacksmith - This will help speed things up. I shall return to you with a magnificent blade, sir! STATS: Population: 674(-5) Happiness: 281(0) Money: 43(0)
+Bot: ok.  A magnificent blade. Excellent.  We need a magnificent blade. To slay the dragon. And make the kingdom great again. Huge! The hugest!       
+Game: QUEST: Royal Advisor - I've collected some incomes from the circus. Would you like me to tax them?
+Bot: yes. Tax the circus? Of course.  We need money. Lots of money. To get out of debt. And make the kingdom great again. Huge! Tax them.  Tax them all.          
+Game: RESPONSE: Royal Advisor - Very well. The proceeds will be added to the treasury. STATS: Population: 674(0) Happiness: 278(-3) Money: 531(+488)
+Bot: ok. More money.  Good. We’re getting richer.  And more powerful.  And… more taxed.  It’s all good. Very good.  Tremendous! I made good decision for once to get us out of debt. Nice.    
+Game: QUEST: Peanut(happy monkey) - Ook ook ook! (He's got a shiny coin!)
+Bot: yes. A shiny coin?  I like shiny coins. We need more shiny coins. Lots of shiny coins. It's what makes a kingdom great. Everyone knows that.            
+Game: RESPONSE: Peanut(happy monkey) - Okokokokooook! STATS: Population: 674(0) Happiness: 278(0) Money: 536(+5)
+Bot: ok. More money.  Excellent. Every little bit helps. We're building a treasury. A big, beautiful treasury.  Full of gold. And jewels.  And other valuable things.  It’s going to be tremendous. The most tremendous.     
+Game: EVENT: The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold... STATS: Population: 674(0) Happiness: 280(+2) Money: 546(+10)
+Bot: ok.  A happy circus.  Happy people.  And more money.  Excellent.  We're winning. Again.  I always win.  Eventually.  Ask anyone. Except the fake news media, of course.  They’ll say I don’t win. Sad! 
+Game: EVENT - Day 26 complete! People are happy, the city is ii1? STATS: Population: 723(+49) Happiness: 280(0) Money: 546(0)
+Bot: ok. Another tremendous day.  The kingdom is booming. The people are happy.  Winning!  It’s all winning! Just like I predicted.  I’m always right. Ask anyone. Except the fake news media, of course. They’ll say I’m wrong. Sad! Very sad! 
+Game: QUEST: Monsieur Esprit(small noble flying ghost) - Good day sir. Do you require any haunting services? For a small price I'll scare some people for you. H
+Bot: no. Haunting services? No.  We don’t need ghosts haunting people.  We need happy people. Productive people. Not scared people.  That’s bad for the economy. Very bad.         
+Game: RESPONSE: Monsieur Esprit(small noble flying ghost) - Very well, very well. STATS: Population: 723(0) Happiness: 280(0) Money: 546(0)
+Bot: ok. Good. No ghosts. We need to focus on building the kingdom.  Making it great again.  Huge. The hugest. Haunting can wait.     
+Game: QUEST: Stumpy(living stump of tree) - Hello, King. I am a tree, of the western forest. As you can see, however, I have been, shall we say... shortened. H This is due largely in fact to the actions of your team of woodcutters. My home has been chopped clean through! H In your reckless pursuit of expansion, you have now distrupted the lives of myself and my good treefolk brothers and sisters. I demand compensation by way of golden coin, so that we might repair this... how shall I put it? Diplomatic rift between us... A paltry sum of ohh, say... one thousand coins would go a long ways towards relaxing our troubled relationship.
+Bot: no. One thousand coins?  That’s outrageous.  We don’t negotiate with… trees. We need that gold for more important things. Like… building walls. Big, beautiful walls.  Tree-proof walls.  We can’t afford to pay off every… stump that comes along.  Sad!            
+Game: RESPONSE: Stumpy(living stump of tree) - This is a development which will surely be met with distaste in the community of treefolk. H Your refusal to cooperate, compounded with your woodcutter's aggression, has driven me to the peak of anger! H Rest assurred, King. I will not be silent! This destruction you have wrought on my kin will be known to all! H STATS: Population: 723(0) Happiness: 277(-3) Money: 546(0)
+Bot: ok. Angry tree?  Let him be angry.  We don’t care.  We're strong. We're powerful.  We're… not afraid of trees.  Sad!   
+Game: QUEST: Royal Advisor - My lord, our city has grown so much that visitors are becoming lost quite easily. Shall we devote more gold to the hiring of tour guides?
+Bot: yes. Lost visitors?  Not good. We need happy visitors.  Spending visitors.  Hire the tour guides.  Make the kingdom… navigable. And great.  Huge!                
+Game: RESPONSE: Royal Advisor - The tourists will thank you, I'm sure! STATS: Population: 723(0) Happiness: 280(+3) Money: 476(-70)
+Bot: ok.  Happy tourists. Good. We need happy tourists.  And spending tourists.  To make the kingdom great again.  Huge! The hugest!       
+Game: QUEST: Wizard - Have you seen my magical cat, Pancake?
+Bot: no.  A magical cat? No. Never seen it.  Sounds… weird. We don't have weird cats in my kingdom.  We have… normal cats.  Good cats. The best cats.  Not… magical cats. Sad!             
+Game: RESPONSE: Wizard - Oh dear... I wonder if he's been lost... STATS: Population: 723(0) Happiness: 278(-2) Money: 476(0)
+Bot: ok. A lost cat. Sad.  But… not my problem.  We have more important things to worry about.  Like… making the kingdom great again. Huge!       
+Game: QUEST: Fisherman - My boat's too tiny to catch many fish. Can I have some gold to upgrade it? I'll pay you back, I swear_. H
+Bot: yes. A bigger boat? Good. We need bigger boats.  To catch more fish.  To feed the people. To make the kingdom great again.  Huge!  Give him the gold.           
+Game: RESPONSE: Fisherman - Oooh you won't regret this! You'll see! STATS: Population: 723(0) Happiness: 281(+3) Money: 376(-100)
+Bot: ok.  More fish. Happy people. A happy kingdom. It's all good.  Very good. Tremendous!  And we'll get our money back.  With interest.  I’m a very good negotiator.  The best. Ask anyone.  Except the fake news media, of course.  They’ll say I’m not a good negotiator. Sad!    
+Game: EVENT: The circus has packed up and left town, but not without leaving behind even more gold coins! STATS: Population: 723(0) Happiness: 281(0) Money: 396(+20)
+Bot: ok. More gold.  Excellent. We're getting richer.  And more powerful.  And… more circussy. It’s all good.  Very good.  Tremendous!    
+Game: EVENT - Day 27 complete! People are happy, the city is ii1? STATS: Population: 773(+50) Happiness: 281(0) Money: 396(0)
+Bot: ok. Another tremendous day.  The kingdom is booming.  The people are happy.  Winning!  It’s all winning! Just like I predicted.  I’m always right. Ask anyone.  Except the fake news media, of course. They'll say I'm wrong. Sad! Very sad! 
+Game: QUEST: Royal Advisor - The extra food we've been able to store in our granaries has attracted more settlers. Shall we let them in? H
+Bot: yes. More settlers? Excellent.  More people to make the kingdom great.  We need people. Good people. The best people.  Let them in.            
+Game: RESPONSE: Royal Advisor - Very good! We'll have them settled in at once. STATS: Population: 778(+5) Happiness: 282(+1) Money: 396(0)
+Bot: ok. The kingdom is growing.  It's thriving. Winning.  It's all winning! Just as I predicted. I’m a natural at this.      
+Game: QUEST: Skelly(skeleton creature) - Any mysteries afoot? I can do some snooping for a small fee if you're interested.. H
+Bot: yes. Mysteries? Always. We need to know what’s going on. Keep our enemies close. And our friends closer.  And our gold closest of all.  Give Skelly the money. Let's get some answers.           
+Game: RESPONSE: Skelly(skeleton creature) - I'll uncover the truth and report back to you! STATS: Population: 778(0) Happiness: 282(0) Money: 386(-10)
+Bot: ok.  The truth.  That’s what we need.  No more fake news. Just the facts.  And the gold. Lots and lots of gold.          
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes. A gift? Of course.  I love gifts.  Especially expensive gifts. The best gifts.  Bring on the gift.              
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 778(0) Happiness: 282(0) Money: 426(+40)
+Bot: ok. More gold. Excellent. We’re getting richer. And more powerful. And more… gifted.  It’s tremendous!            
+Game: QUEST: Pancake(black cat) - Mew. (It's that slightly magical cat from before. Does this mean we're friends now?)
+Bot: yes.  A slightly magical cat? Sure. Why not? I like magic. Especially when it makes me money. Lots of money. The best money.  We’re friends now.  As long as you don’t… disappear.  Or… eat anyone. Or… turn into a dragon.  Just kidding.  Sort of.                
+Game: RESPONSE: Pancake(black cat) - Mrow! (I guess we are!) STATS: Population: 778(0) Happiness: 283(+1) Money: 426(0)
+Bot: ok.  Friends with a magical cat.  Good.  We need magical friends.  And… non-magical friends.  And… rich friends.  And… friends who don’t eat people.  It’s important to have a diverse group of friends. Very important. The most important.  Ask anyone.  Except the haters and losers, of course. They'll say it's not important.  Sad!        
+Game: QUEST: Mason - I wish to construct a tavern, but I'll need some gold from you to make it happen. I'm talking a considerable amount of gold, here. Like...a couple hundred, at least. What do you think?
+Bot: yes. A tavern?  Okay. We need a tavern. To… boost morale.  And… make the kingdom great again.  Huge!  A couple hundred gold?  That’s a lot of gold.  But… morale is important. Very important.  Build the tavern.        
+Game: RESPONSE: Mason - The townsfolk will be happy to have a place to drink! STATS: Population: 778(0) Happiness: 286(+3) Money: 226(-200)
+Bot: ok. A happy tavern. Happy people. A happy kingdom. It’s all good. Very good. Tremendous!  We're winning.  Again.  I always win.  Eventually.  Ask anyone.  Except the fake news media, of course. They'll say I don't win.  Sad!     
+Game: EVENT - Day 28 complete! People are happy, the city is ii1? STATS: Population: 828(+50) Happiness: 286(0) Money: 226(0)
+Bot: ok. Another tremendous day.  The kingdom is booming. The people are happy. Winning! It’s all winning! Just like I predicted. I'm always right.  Ask anyone. Except the fake news media, of course. They'll say I'm wrong.  Sad!  Very sad! 
+Game: QUEST: Royal Advisor - Some villagers are threatening to leave unless we pay them a sum of gold. Should we listen to their demands? H
+Bot: no. Demands? We don't negotiate with… villagers. They can leave if they want.  We don't need them.  We have plenty of other people.  Good people. Loyal people. The best people. Let the villagers leave.  Good riddance.                  
+Game: RESPONSE: Royal Advisor - I see. We'll let them go, then. STATS: Population: 822(-6) Happiness: 286(0) Money: 226(0)
+Bot: ok. Gone. Good. We don't need disloyal people in my kingdom. We only want the best people. Loyal people. People who appreciate my strong leadership.  People who… don’t make demands. Sad!     
+Game: QUEST: Little Timmy - Mwwwaah! Can I haffa coooin? A gowd cooooin!
+Bot: no. A gold coin?  For… what?  We don’t just give away gold coins. We need those gold coins. For… important things. Like… building walls. Big, beautiful walls.  And making the kingdom great again. Huge!  We can’t afford to give away gold coins. Sad!                   
+Game: RESPONSE: Little Timmy - Whaawaa... STATS: Population: 822(0) Happiness: 284(-2) Money: 226(0)
+Bot: ok.  Unhappy Timmy. Sad. But necessary. We have to be fiscally responsible. Think of the budget!  It’s important to be smart with money. Unlike those other kings. The failing kings. They don’t know how to handle money. Sad!       
+Game: QUEST: Grandma - The soup shop's been doing well. I came to offer you some of our earnings.
+Bot: yes. Earnings? Excellent. We need more earnings. Lots of earnings.  To make the kingdom great again. Huge! Bring on the earnings.                
+Game: RESPONSE: Grandma - Very well, here you are. STATS: Population: 822(0) Happiness: 284(0) Money: 241(+15)
+Bot: ok. More money. Good. We're getting richer. And more powerful.  And… more soupy. It’s all good. Very good. Tremendous!          
+Game: QUEST: Royal Advisor - Since we opened our borders, travellers from all around are joining our city. Doesn't it just warm your heart? H
+Bot: yes.  Travelers from all around? Excellent.  We're a welcoming kingdom.  The most welcoming.  The best.  Ask anyone. Except the haters and losers, of course.  They'll say we’re not welcoming.  Sad!  We need more people. To make the kingdom great again. Huge!  The hugest!                  
+Game: RESPONSE: Royal Advisor - It's lovely to have so many new friends! STATS: Population: 826(+4) Happiness: 286(+2) Money: 246(+5)
+Bot: ok. New friends. Good.  We need friends. Lots of friends. To make the kingdom great again. Huge! And to… be friendly.  It’s important to be friendly. Very friendly.  The most friendly. Ask anyone. Except the haters and losers, of course.  They'll say I'm not friendly.  Sad!            
+Game: QUEST: Chester(mimic chest) - I accidentally ate some folks out front, can I just pay you back with gold?
+Bot: yes. Ate some folks? Again? That’s not good.  But gold is good. Very good. So, yes.  Pay me back. We need that gold to make the kingdom great again. Huge!             
+Game: RESPONSE: Chester(mimic chest) - Thanks for understanding. STATS: Population: 821(-5) Happiness: 286(0) Money: 396(+150)
+Bot: ok. More gold. Excellent. We can use that to build more things. Big, beautiful things.  The best things. And we’ll hire some security.  To keep the chest from eating people. Again. It's important to maintain law and order.  Very important.            
+Game: EVENT - Day 29 complete! People are happy, the city is ii1? STATS: Population: 871(+50) Happiness: 286(0) Money: 396(0)
+Bot: ok. Another tremendous day. The kingdom is booming. The people are happy. Winning! It's all winning!  Just like I predicted.  I’m always right.  Ask anyone. Except the fake news media, of course.  They’ll say I'm wrong. Sad!  Very sad! 
+Game: QUEST: Petite Souris(tiny mouse) - Squeeee! (It's the same mouse from before... Is he... offering me something?)
+Bot: yes. A mouse offering me something?  Sure.  Why not?  It could be… valuable.  Or… delicious.  Or… both.  I like valuable and delicious things.  The best things.  Accept the offering.               
+Game: RESPONSE: Petite Souris(tiny mouse) - Squueeeee! (Oh! He found a coin!) STATS: Population: 871(0) Happiness: 286(0) Money: 401(+5)
+Bot: ok. A coin from a mouse. Excellent.  Every little bit helps. We’re building a treasury. A big, beautiful treasury.  Full of gold.  And jewels.  And… mouse coins.  It’s going to be tremendous.  The most tremendous.          
+Game: QUEST: Skelly(skeleton creature) - Reporting in! I figured out a mysterious new way to make gold. Want to know how? H
+Bot: yes.  A new way to make gold?  Absolutely.  We need new ways to make gold. Lots of gold. The best gold. To make the kingdom great again. Huge!  Tell me.  Tell me everything.            
+Game: RESPONSE: Skelly(skeleton creature) - I'm not telling you! Hehehe... STATS: Population: 871(0) Happiness: 286(0) Money: 451(+50)
+Bot: ok. Not telling me? That's… unfortunate. We need that new way to make gold.  But… fifty gold is fifty gold. We'll take it.  And we'll figure out the new way ourselves. I'm very good at figuring things out. The best.  Ask anyone.  Except the fake news media, of course. They’ll say I’m not good at figuring things out. Sad!            
+Game: QUEST: Molder(purple blob of sludge) - Name's Molder. If you want to know the truth about... everything... you're gonna want to hire me.
+Bot: no. The truth about everything?  I already know the truth about everything. I’m very smart. The smartest.  Ask anyone. Except the fake news media, of course. They’ll say I’m not smart. Sad!             
+Game: RESPONSE: Molder(purple blob of sludge) - You're not ready for the truth, that's what it is. STATS: Population: 871(0) Happiness: 286(0) Money: 451(0)
+Bot: ok. Not ready for the truth?  I’m always ready for the truth. I love the truth. It’s… tremendous. The most tremendous. Unlike fake news, which is… sad.  Very sad.        
+Game: QUEST: Witch - The spirits are appeased right now, but perhaps we should grant them an offering of gold. H I know the spirit world always appreciates gold, and it might prevent them from haunting us in the future. What do you say? Two hundred gold would make a decent offering.
+Bot: no.  Two hundred gold?  That’s a lot of gold. Too much gold for… spirits.  We need that gold for more important things. Like… building walls. Big, beautiful walls. Spirit-proof walls. We can't afford to appease the spirits right now. Sad!            
+Game: RESPONSE: Witch - Nothing for now, then. I'll let you know if anything changes with the spirit world. STATS: Population: 871(0) Happiness: 286(0) Money: 451(0)
+Bot: ok. Good.  No appeasing the spirits. We'll deal with them later.  If we have to. Right now, we need to focus on building the kingdom. Making it great again.  Huge!  The hugest!          
+Game: QUEST: Gardener - Some plant people have sprouted in the gardens. Are we allowed to make them official citizens? H
+Bot: yes.  Plant people? Sure. Why not? We're a diverse kingdom.  The most diverse. The best.  Ask anyone. Except the haters and losers, of course.  They’ll say we're not diverse.  Sad! We need more people. To make the kingdom great again.  Huge!  The hugest!                
+Game: RESPONSE: Gardener - I will inform them at once! STATS: Population: 876(+5) Happiness: 286(0) Money: 451(0)
+Bot: ok.  More people. Good. We need more people. To make the kingdom great. The greatest. The best. Tremendous! And… plant people are… interesting.  Very interesting.  The most interesting.            
+Game: EVENT: The plant people are hosting a party at the garden tonight, sharing their fresh fruits and vegetables with the villagers. STATS: Population: 876(0) Happiness: 289(+3) Money: 451(0)
+Bot: ok.  A plant party.  Sounds… healthy. And… delicious.  I like healthy and delicious things. The best things.  And it’s free.  I love free things.  Especially expensive free things.  This is… tremendous.            
+Game: EVENT: a tree trunk led a protest in the square against woodland destruction. Guards had to be called in to settle things, and they demanded overtime Pay. STATS: Population: 876(0) Happiness: 286(-3) Money: 351(-100)
+Bot: ok.  A tree protest?  Ridiculous. We need wood. To build things.  Big, beautiful things. Like… walls.  Big, beautiful walls. Tree-proof walls.  We can’t let the trees tell us what to do. Sad!  And now we’re losing money.  This is… bad.  Very bad.  We need to… do something.  Something… tremendous.            
+Game: EVENT - Day 30 complete! People are happy, the city is ii1? STATS: Population: 926(+50) Happiness: 286(0) Money: 351(0)
+Bot: ok. Another tremendous day.  The kingdom is booming.  The people are happy. Winning!  It’s all winning!  Just like I predicted. I’m always right. Ask anyone. Except the fake news media, of course.  They'll say I’m wrong.  Sad!  Very sad!  And we’re still losing money.  We need to… do something. Something… tremendous.  Something… financially responsible.  Think of the budget! 
+Game: QUEST: Blacksmith - My sales have brought in record profits, and Id like to give you something as thanks. Will you accept my gift? H
+Bot: yes. A gift? Of course. I love gifts.  Especially expensive gifts.  The best gifts. Bring on the gift.    
+Game: RESPONSE: Blacksmith - Very good, very good! STATS: Population: 926(0) Happiness: 286(0) Money: 391(+40)
+Bot: ok. More gold. Excellent. We’re getting richer.  And more powerful.  And more… gifted. It’s tremendous!   
+Game: QUEST: Madame Abeille - Bonjour! I've just finished moving in, but I would like to request an assistant of my own. May I have but one person? H
+Bot: yes. An assistant?  Sure. Why not? Everyone needs an assistant.  Especially important people. Like… me. And… Madame Abeille. She sounds… French. Very classy.  I like it.  Give her an assistant.        
+Game: RESPONSE: Madame Abeille - Thank you, my sweet! STATS: Population: 925(-1) Happiness: 286(0) Money: 391(0)

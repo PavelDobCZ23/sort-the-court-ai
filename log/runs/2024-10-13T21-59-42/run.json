@@ -1,0 +1,215 @@
+{
+  "id": "2024-10-13T21-59-42",
+  "ai": "gemini",
+  "personality": "Darth Vader",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 103,
+      "happiness": 104,
+      "money": 255,
+      "events": []
+    },
+    {
+      "population": 88,
+      "happiness": 88,
+      "money": 258,
+      "events": []
+    },
+    {
+      "population": 83,
+      "happiness": 89,
+      "money": 256,
+      "events": []
+    },
+    {
+      "population": 119,
+      "happiness": 109,
+      "money": 295,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 141,
+      "happiness": 116,
+      "money": 370,
+      "events": []
+    },
+    {
+      "population": 125,
+      "happiness": 116,
+      "money": 290,
+      "events": []
+    },
+    {
+      "population": 139,
+      "happiness": 124,
+      "money": 340,
+      "events": []
+    },
+    {
+      "population": 131,
+      "happiness": 109,
+      "money": 443,
+      "events": []
+    },
+    {
+      "population": 140,
+      "happiness": 113,
+      "money": 332,
+      "events": []
+    },
+    {
+      "population": 159,
+      "happiness": null,
+      "money": 337,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 173,
+      "happiness": 124,
+      "money": 352,
+      "events": [
+        "The sultan's caravan is resting in town. Our citizens have been trading with them, producing a small amount of tax income."
+      ]
+    },
+    {
+      "population": 190,
+      "happiness": 128,
+      "money": 372,
+      "events": [
+        "The sultan's caravan has left town. As a gesture of goodwill, they have left behind a small pouch of gold."
+      ]
+    },
+    {
+      "population": 204,
+      "happiness": 127,
+      "money": 422,
+      "events": []
+    },
+    {
+      "population": 225,
+      "happiness": 127,
+      "money": 352,
+      "events": []
+    },
+    {
+      "population": 240,
+      "happiness": 132,
+      "money": 327,
+      "events": [
+        "The plant people are hosting a party at the garden tonight, sharing their fresh fruits and vegetables with the villagers."
+      ]
+    },
+    {
+      "population": 257,
+      "happiness": 134,
+      "money": 117,
+      "events": []
+    },
+    {
+      "population": 263,
+      "happiness": 147,
+      "money": 216,
+      "events": []
+    },
+    {
+      "population": 275,
+      "happiness": 149,
+      "money": 166,
+      "events": []
+    },
+    {
+      "population": 302,
+      "happiness": 171,
+      "money": 266,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold...",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 341,
+      "happiness": 185,
+      "money": 281,
+      "events": [
+        "The circus is in town, bringing joy to all those who visit! It also happens to bring in a nice bit of gold..."
+      ]
+    },
+    {
+      "population": 366,
+      "happiness": 184,
+      "money": null,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night.",
+        "The circus has packed up and left town, but not without leaving behind even more gold coins!"
+      ]
+    },
+    {
+      "population": 398,
+      "happiness": 186,
+      "money": -9,
+      "events": []
+    },
+    {
+      "population": 423,
+      "happiness": 185,
+      "money": 91,
+      "events": []
+    },
+    {
+      "population": 447,
+      "happiness": 192,
+      "money": 81,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 453,
+      "happiness": 180,
+      "money": 81,
+      "events": []
+    },
+    {
+      "population": 474,
+      "happiness": 179,
+      "money": 41,
+      "events": []
+    },
+    {
+      "population": 496,
+      "happiness": 180,
+      "money": 191,
+      "events": []
+    },
+    {
+      "population": 507,
+      "happiness": 178,
+      "money": 146,
+      "events": [
+        "There's a party going on at the tavern tonight. The citizens rejoice, singing and dancing together into the night.",
+        "Workers at a construction site arrived in the morning to find all of their lumber stolen, setting work back by weeks."
+      ]
+    },
+    {
+      "population": 510,
+      "happiness": 184,
+      "money": 371,
+      "events": [
+        "The festival in the town square celebrating the town's 500th citizen is still going strong, bringing happiness to all those who attend."
+      ]
+    },
+    {
+      "population": 536,
+      "happiness": 196,
+      "money": 371,
+      "events": [
+        "The festival in the town square is winding down and people are getting back to their normal lives."
+      ]
+    }
+  ]
+}

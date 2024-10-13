@@ -1,0 +1,218 @@
+{
+  "id": "2024-10-13T16-10-41",
+  "ai": "gemini",
+  "personality": "Darth Vader\n",
+  "fullGame": true,
+  "days": [
+    {
+      "population": 107,
+      "happiness": 108,
+      "money": 215,
+      "events": [
+        "The witch has slain a goblin with a bounty on his head. We've earned a portion of the reward as tax income.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 110,
+      "happiness": 104,
+      "money": 240,
+      "events": []
+    },
+    {
+      "population": 122,
+      "happiness": 105,
+      "money": 137,
+      "events": []
+    },
+    {
+      "population": 135,
+      "happiness": 112,
+      "money": 13,
+      "events": []
+    },
+    {
+      "population": 144,
+      "happiness": 113,
+      "money": 53,
+      "events": []
+    },
+    {
+      "population": 153,
+      "happiness": 118,
+      "money": 48,
+      "events": [
+        "The jester's show was loved by the court, and put everybody into a happy mood."
+      ]
+    },
+    {
+      "population": 153,
+      "happiness": 103,
+      "money": 318,
+      "events": []
+    },
+    {
+      "population": 136,
+      "happiness": 90,
+      "money": 418,
+      "events": []
+    },
+    {
+      "population": 134,
+      "happiness": 95,
+      "money": 323,
+      "events": []
+    },
+    {
+      "population": 140,
+      "happiness": 108,
+      "money": 203,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 127,
+      "happiness": 92,
+      "money": 353,
+      "events": []
+    },
+    {
+      "population": 130,
+      "happiness": 107,
+      "money": 353,
+      "events": []
+    },
+    {
+      "population": 154,
+      "happiness": 112,
+      "money": 313,
+      "events": []
+    },
+    {
+      "population": 154,
+      "happiness": 109,
+      "money": 312,
+      "events": []
+    },
+    {
+      "population": 178,
+      "happiness": 112,
+      "money": 314,
+      "events": []
+    },
+    {
+      "population": 190,
+      "happiness": 121,
+      "money": 314,
+      "events": [
+        "Guards say somebody was eaten by an enchanted treasure chest of some variety in the middle of the night."
+      ]
+    },
+    {
+      "population": 244,
+      "happiness": 128,
+      "money": 299,
+      "events": []
+    },
+    {
+      "population": 262,
+      "happiness": 130,
+      "money": 418,
+      "events": [
+        "The workers we captured and recruited have sped up our building processes, resulting in more tax income."
+      ]
+    },
+    {
+      "population": 254,
+      "happiness": 129,
+      "money": 418,
+      "events": []
+    },
+    {
+      "population": 260,
+      "happiness": 140,
+      "money": 458,
+      "events": []
+    },
+    {
+      "population": 265,
+      "happiness": 150,
+      "money": 573,
+      "events": [
+        "The witch has slain a goblin with a bounty on his head. We've earned a portion of the reward as tax income.",
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 271,
+      "happiness": 147,
+      "money": 503,
+      "events": []
+    },
+    {
+      "population": 278,
+      "happiness": 142,
+      "money": 423,
+      "events": []
+    },
+    {
+      "population": 300,
+      "happiness": 148,
+      "money": 425,
+      "events": [
+        "Gossip is spreading about a heroic purple witch slaying goblins in the lower quarter. She's become something of a folk hero!"
+      ]
+    },
+    {
+      "population": 299,
+      "happiness": 152,
+      "money": 395,
+      "events": []
+    },
+    {
+      "population": 279,
+      "happiness": 153,
+      "money": 395,
+      "events": []
+    },
+    {
+      "population": 292,
+      "happiness": 160,
+      "money": 341,
+      "events": []
+    },
+    {
+      "population": 307,
+      "happiness": 161,
+      "money": 331,
+      "events": []
+    },
+    {
+      "population": 319,
+      "happiness": 159,
+      "money": 331,
+      "events": [
+        "Guards say somebody was eaten by an enchanted treasure chest of some variety in the middle of the night."
+      ]
+    },
+    {
+      "population": 333,
+      "happiness": 163,
+      "money": 261,
+      "events": []
+    },
+    {
+      "population": 347,
+      "happiness": 165,
+      "money": 191,
+      "events": []
+    },
+    {
+      "population": 359,
+      "happiness": 171,
+      "money": 43,
+      "events": []
+    }
+  ]
+}
